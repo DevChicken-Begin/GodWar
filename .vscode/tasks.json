@@ -1,0 +1,60 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "📦 Build Android APK (1-Click)",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/build_android_apk.sh",
+      "problemMatcher": [],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "reveal": "always",
+        "panel": "new",
+        "focus": true
+      }
+    },
+    {
+      "label": "🚀 Colab: Connect GPU A100 (1-Click)",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/colab_start_a100.sh",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "⚙️ Bootstrap Environment (Cài đặt tự động)",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/bootstrap.sh",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "new"
+      }
+    },
+    {
+      "label": "🛑 Colab: Stop GPU (Tiết kiệm Compute Units)",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/colab_stop.sh",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    },
+    {
+      "label": "🧪 Godot: Kiểm tra dự án (Headless CPU)",
+      "type": "shell",
+      "command": "${workspaceFolder}/.bin/godot --headless --editor --quit",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+# Godot 4 Cache
+.godot/
+
+# Local Engine & SDK Binaries (Automatically downloaded via scripts/bootstrap.sh)
+.bin/
+
+# Generated APK & Export Builds
+build/
+
+# Python & System
+__pycache__/
+*.pyc
+.DS_Store
+
+# Temporary Colab artifacts
+.colab_cache/

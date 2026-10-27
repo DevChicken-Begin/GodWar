@@ -1,0 +1,11 @@
+{
+  "name": "GodWar AI Studio",
+  "postCreateCommand": "bash scripts/bootstrap.sh",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "geequlim.godot-tools"
+      ]
+    }
+  }
+}

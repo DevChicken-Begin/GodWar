@@ -1,0 +1,257 @@
+{
+  "source": "Asset/Character/vfx/crapit.gif",
+  "source_sha256": "58addc8fa67f97c0ce48255e36f38453ef60677af8b44b63320ebccf261a38be",
+  "method": "exact edge-connected background flood fill",
+  "background_rgba": [
+    57,
+    41,
+    70,
+    255
+  ],
+  "frame_count": 24,
+  "removed_pixels": 5767440,
+  "status": "candidate_unreviewed",
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        512,
+        0,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1024,
+        0,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        0,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        512,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1024,
+        512,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        512,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1024,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        512,
+        1024,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1024,
+        1024,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        1024,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1536,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        512,
+        1536,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1024,
+        1536,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        1536,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        512,
+        0,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1024,
+        0,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        0,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        512,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        512,
+        512,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1024,
+        512,
+        512,
+        512
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        512,
+        512,
+        512
+      ],
+      "duration_ms": 20
+    }
+  ],
+  "limitations": "No claim that isolated foreground, character, or VFX is complete; manual review required."
+}

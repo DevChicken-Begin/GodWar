@@ -1,0 +1,278 @@
+{
+  "id": "blacktiger",
+  "source": "Asset/Character/vfx/blacktiger.gif",
+  "source_sha256": "e9abb58a96a7b5424e7539e382fe52d38daedc8ec1de79b914b64072d41bf721",
+  "frame_count": 26,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        830,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 0,
+      "region": [
+        830,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        830,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 1,
+      "region": [
+        830,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 2,
+      "region": [
+        830,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 2,
+      "region": [
+        830,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 3,
+      "region": [
+        830,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 3,
+      "region": [
+        830,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 4,
+      "region": [
+        830,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 4,
+      "region": [
+        830,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 5,
+      "region": [
+        830,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 5,
+      "region": [
+        830,
+        1020,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    },
+    {
+      "atlas": 6,
+      "region": [
+        830,
+        0,
+        830,
+        1020
+      ],
+      "duration_ms": 100
+    }
+  ],
+  "background_rgba": [
+    128,
+    123,
+    117,
+    255
+  ],
+  "method": "global RGB chroma key, maximum per-channel difference 5",
+  "removed_pixels": 19810150,
+  "status": "candidate_unreviewed",
+  "limitations": "Matching or near-background character/VFX pixels may be removed; near-background halos and fixed logos may remain. Requires visual review of every frame."
+}

@@ -1,0 +1,463 @@
+{
+  "version": 1,
+  "results": [
+    {
+      "id": "3 char",
+      "result": "already_exists"
+    },
+    {
+      "id": "agon",
+      "result": "already_exists"
+    },
+    {
+      "id": "aminao",
+      "result": "already_exists"
+    },
+    {
+      "id": "amore",
+      "result": "already_exists"
+    },
+    {
+      "id": "aoda",
+      "result": "already_exists"
+    },
+    {
+      "id": "artemis",
+      "result": "already_exists"
+    },
+    {
+      "id": "assing",
+      "result": "already_exists"
+    },
+    {
+      "id": "astra",
+      "result": "already_exists"
+    },
+    {
+      "id": "aumen",
+      "result": "already_exists"
+    },
+    {
+      "id": "aument",
+      "result": "already_exists"
+    },
+    {
+      "id": "auranient",
+      "result": "already_exists"
+    },
+    {
+      "id": "aurora",
+      "result": "already_exists"
+    },
+    {
+      "id": "authen",
+      "result": "already_exists"
+    },
+    {
+      "id": "azil",
+      "result": "already_exists"
+    },
+    {
+      "id": "azou",
+      "result": "already_exists"
+    },
+    {
+      "id": "bearen",
+      "result": "already_exists"
+    },
+    {
+      "id": "bearfire",
+      "result": "already_exists"
+    },
+    {
+      "id": "blackdog",
+      "result": "already_exists"
+    },
+    {
+      "id": "blacktiger",
+      "result": "already_exists"
+    },
+    {
+      "id": "bomer",
+      "result": "already_exists"
+    },
+    {
+      "id": "botem",
+      "result": "already_exists"
+    },
+    {
+      "id": "botic",
+      "result": "already_exists"
+    },
+    {
+      "id": "camword",
+      "result": "already_exists"
+    },
+    {
+      "id": "comca",
+      "result": "already_exists"
+    },
+    {
+      "id": "conden",
+      "result": "already_exists"
+    },
+    {
+      "id": "corepion",
+      "result": "already_exists"
+    },
+    {
+      "id": "crapit",
+      "result": "already_exists"
+    },
+    {
+      "id": "diana",
+      "result": "already_exists"
+    },
+    {
+      "id": "dong",
+      "result": "already_exists"
+    },
+    {
+      "id": "dragonight",
+      "result": "already_exists"
+    },
+    {
+      "id": "dragonmout",
+      "result": "created",
+      "frames": 21,
+      "removed_pixels": 1124754
+    },
+    {
+      "id": "ethan",
+      "result": "already_exists"
+    },
+    {
+      "id": "fireknight",
+      "result": "already_exists"
+    },
+    {
+      "id": "firemen",
+      "result": "created",
+      "frames": 116,
+      "removed_pixels": 20022352
+    },
+    {
+      "id": "firer",
+      "result": "already_exists"
+    },
+    {
+      "id": "flybird",
+      "result": "already_exists"
+    },
+    {
+      "id": "ghostian",
+      "result": "already_exists"
+    },
+    {
+      "id": "ghostic",
+      "result": "already_exists"
+    },
+    {
+      "id": "gin",
+      "result": "already_exists"
+    },
+    {
+      "id": "guard",
+      "result": "already_exists"
+    },
+    {
+      "id": "haden",
+      "result": "already_exists"
+    },
+    {
+      "id": "hades",
+      "result": "already_exists"
+    },
+    {
+      "id": "hox",
+      "result": "already_exists"
+    },
+    {
+      "id": "hydra",
+      "result": "already_exists"
+    },
+    {
+      "id": "iternal",
+      "result": "already_exists"
+    },
+    {
+      "id": "javis",
+      "result": "already_exists"
+    },
+    {
+      "id": "jaying",
+      "result": "already_exists"
+    },
+    {
+      "id": "Kahn",
+      "result": "already_exists"
+    },
+    {
+      "id": "knel",
+      "result": "already_exists"
+    },
+    {
+      "id": "knight",
+      "result": "already_exists"
+    },
+    {
+      "id": "kong",
+      "result": "already_exists"
+    },
+    {
+      "id": "kukang",
+      "result": "already_exists"
+    },
+    {
+      "id": "kumen",
+      "result": "already_exists"
+    },
+    {
+      "id": "lois",
+      "result": "already_exists"
+    },
+    {
+      "id": "magicleo",
+      "result": "already_exists"
+    },
+    {
+      "id": "mainmout",
+      "result": "already_exists"
+    },
+    {
+      "id": "mainthen",
+      "result": "already_exists"
+    },
+    {
+      "id": "maono",
+      "result": "already_exists"
+    },
+    {
+      "id": "mark",
+      "result": "already_exists"
+    },
+    {
+      "id": "midnight",
+      "result": "already_exists"
+    },
+    {
+      "id": "moca",
+      "result": "already_exists"
+    },
+    {
+      "id": "modfin",
+      "result": "already_exists"
+    },
+    {
+      "id": "monster",
+      "result": "already_exists"
+    },
+    {
+      "id": "monsterdead",
+      "result": "already_exists"
+    },
+    {
+      "id": "monstermap",
+      "result": "already_exists"
+    },
+    {
+      "id": "monterlaze",
+      "result": "already_exists"
+    },
+    {
+      "id": "monterpie",
+      "result": "already_exists"
+    },
+    {
+      "id": "mortafi",
+      "result": "already_exists"
+    },
+    {
+      "id": "moxfi",
+      "result": "already_exists"
+    },
+    {
+      "id": "moxie",
+      "result": "already_exists"
+    },
+    {
+      "id": "newwomen",
+      "result": "already_exists"
+    },
+    {
+      "id": "ninjadead",
+      "result": "already_exists"
+    },
+    {
+      "id": "nox",
+      "result": "already_exists"
+    },
+    {
+      "id": "omra",
+      "result": "already_exists"
+    },
+    {
+      "id": "overmap",
+      "result": "already_exists"
+    },
+    {
+      "id": "oxiu",
+      "result": "already_exists"
+    },
+    {
+      "id": "poppy",
+      "result": "already_exists"
+    },
+    {
+      "id": "powerdame",
+      "result": "created",
+      "frames": 28,
+      "removed_pixels": 1951626
+    },
+    {
+      "id": "pygon",
+      "result": "already_exists"
+    },
+    {
+      "id": "raptor",
+      "result": "already_exists"
+    },
+    {
+      "id": "reptail",
+      "result": "already_exists"
+    },
+    {
+      "id": "reptalian",
+      "result": "already_exists"
+    },
+    {
+      "id": "samurai",
+      "result": "already_exists"
+    },
+    {
+      "id": "scatra",
+      "result": "already_exists"
+    },
+    {
+      "id": "scopion",
+      "result": "already_exists"
+    },
+    {
+      "id": "score",
+      "result": "already_exists"
+    },
+    {
+      "id": "scorpit",
+      "result": "already_exists"
+    },
+    {
+      "id": "scot",
+      "result": "already_exists"
+    },
+    {
+      "id": "shellop",
+      "result": "already_exists"
+    },
+    {
+      "id": "skyles",
+      "result": "already_exists"
+    },
+    {
+      "id": "skylian",
+      "result": "already_exists"
+    },
+    {
+      "id": "slowdame",
+      "result": "already_exists"
+    },
+    {
+      "id": "smaxin",
+      "result": "already_exists"
+    },
+    {
+      "id": "snax",
+      "result": "already_exists"
+    },
+    {
+      "id": "snicore",
+      "result": "already_exists"
+    },
+    {
+      "id": "snowpie",
+      "result": "already_exists"
+    },
+    {
+      "id": "snowtiger",
+      "result": "already_exists"
+    },
+    {
+      "id": "swordame",
+      "result": "already_exists"
+    },
+    {
+      "id": "tailer",
+      "result": "already_exists"
+    },
+    {
+      "id": "trike",
+      "result": "already_exists"
+    },
+    {
+      "id": "vanfox",
+      "result": "already_exists"
+    },
+    {
+      "id": "vemou",
+      "result": "already_exists"
+    },
+    {
+      "id": "vivian",
+      "result": "already_exists"
+    },
+    {
+      "id": "waven",
+      "result": "already_exists"
+    },
+    {
+      "id": "wavinges",
+      "result": "already_exists"
+    },
+    {
+      "id": "wavyin",
+      "result": "already_exists"
+    },
+    {
+      "id": "wordknight",
+      "result": "already_exists"
+    },
+    {
+      "id": "wothem",
+      "result": "already_exists"
+    },
+    {
+      "id": "wuchen",
+      "result": "already_exists"
+    },
+    {
+      "id": "wukongchen",
+      "result": "already_exists"
+    },
+    {
+      "id": "wutan",
+      "result": "already_exists"
+    },
+    {
+      "id": "yoyo",
+      "result": "already_exists"
+    },
+    {
+      "id": "ziggist",
+      "result": "already_exists"
+    }
+  ]
+}

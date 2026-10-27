@@ -1,0 +1,1775 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "solist",
+      "source": "Asset/Character/vfx/3 char.gif",
+      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+      "size": [
+        300,
+        300
+      ],
+      "frame_count": 52,
+      "loop": 0,
+      "atlas_count": 2,
+      "frames": [
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 0
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 1
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 2
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 3
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 4
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 5
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 6
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 7
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 8
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 9
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 10
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 11
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 12
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 13
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 14
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 15
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 16
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 17
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 18
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 19
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 20
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 21
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 22
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 23
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 24
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 25
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 26
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 27
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 28
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 29
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 30
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 31
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 32
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 33
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 34
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 35
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 36
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 37
+        },
+        {
+          "atlas": 1,
+          "region": [
+            600,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 38
+        },
+        {
+          "atlas": 1,
+          "region": [
+            900,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 39
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 40
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1500,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 41
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 42
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 43
+        },
+        {
+          "atlas": 1,
+          "region": [
+            600,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 44
+        },
+        {
+          "atlas": 1,
+          "region": [
+            900,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 45
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 46
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1500,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 47
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 48
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 49
+        },
+        {
+          "atlas": 1,
+          "region": [
+            600,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 50
+        },
+        {
+          "atlas": 1,
+          "region": [
+            900,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 51
+        }
+      ],
+      "sourceStart": 0,
+      "classification": "source_segment_unreviewed",
+      "animations": {},
+      "notes": "User-named character; source segment not yet split into individual animations."
+    },
+    {
+      "id": "namero",
+      "source": "Asset/Character/vfx/3 char.gif",
+      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+      "size": [
+        300,
+        300
+      ],
+      "frame_count": 50,
+      "loop": 0,
+      "atlas_count": 2,
+      "frames": [
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 52
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 53
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 54
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 55
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 56
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 57
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 58
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 59
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 60
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 61
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 62
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 63
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 64
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 65
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 66
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 67
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 68
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 69
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 71
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 72
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 73
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 74
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 75
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 76
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 77
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 78
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 79
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 80
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 81
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 82
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 83
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 84
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 85
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 86
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 87
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 88
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 89
+        },
+        {
+          "atlas": 1,
+          "region": [
+            600,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 90
+        },
+        {
+          "atlas": 1,
+          "region": [
+            900,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 91
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 92
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1500,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 93
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 94
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 95
+        },
+        {
+          "atlas": 1,
+          "region": [
+            600,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 96
+        },
+        {
+          "atlas": 1,
+          "region": [
+            900,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 97
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 98
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1500,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 99
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 100
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 101
+        }
+      ],
+      "sourceStart": 52,
+      "classification": "source_segment_unreviewed",
+      "animations": {},
+      "notes": "User-named character; source segment not yet split into individual animations."
+    },
+    {
+      "id": "kukaomni",
+      "source": "Asset/Character/vfx/3 char.gif",
+      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+      "size": [
+        300,
+        300
+      ],
+      "frame_count": 54,
+      "loop": 0,
+      "atlas_count": 2,
+      "frames": [
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 102
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 103
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 104
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 105
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 106
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 107
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 108
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 109
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 110
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 111
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 112
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 113
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 114
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 115
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 116
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 117
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 118
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 119
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 120
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 121
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 122
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 123
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 124
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            900,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 125
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 126
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 127
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 128
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 129
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 130
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            1200,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 131
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 132
+        },
+        {
+          "atlas": 0,
+          "region": [
+            300,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 133
+        },
+        {
+          "atlas": 0,
+          "region": [
+            600,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 134
+        },
+        {
+          "atlas": 0,
+          "region": [
+            900,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 135
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 136
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1500,
+            1500,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 137
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 138
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 139
+        },
+        {
+          "atlas": 1,
+          "region": [
+            600,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 140
+        },
+        {
+          "atlas": 1,
+          "region": [
+            900,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 141
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 142
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1500,
+            0,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 143
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 144
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 145
+        },
+        {
+          "atlas": 1,
+          "region": [
+            600,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 146
+        },
+        {
+          "atlas": 1,
+          "region": [
+            900,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 147
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 148
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1500,
+            300,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 149
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 150
+        },
+        {
+          "atlas": 1,
+          "region": [
+            300,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 151
+        },
+        {
+          "atlas": 1,
+          "region": [
+            600,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 152
+        },
+        {
+          "atlas": 1,
+          "region": [
+            900,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 153
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 154
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1500,
+            600,
+            300,
+            300
+          ],
+          "duration_ms": 60,
+          "source_frame": 155
+        }
+      ],
+      "sourceStart": 102,
+      "classification": "source_segment_unreviewed",
+      "animations": {},
+      "notes": "User-named character; source segment not yet split into individual animations."
+    }
+  ]
+}

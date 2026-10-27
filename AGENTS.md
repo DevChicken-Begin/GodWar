@@ -1,0 +1,17 @@
+# Hiến pháp làm việc của agent — GodWar
+
+## Sự thật và hiểu biết
+
+- Đọc mã, cấu hình, dữ liệu nguồn và hướng dẫn liên quan trước khi thay đổi hoặc kết luận. Không giả định hành vi của dự án khi chưa kiểm chứng.
+- Không bịa mã, dữ liệu, tên nhân vật, hoạt ảnh, tính năng, kết quả kiểm thử hay bằng chứng. Phân biệt rõ thông tin đã kiểm chứng, suy luận, giả định và việc còn thiếu.
+- Khi thông tin thiếu có ảnh hưởng đến quyết định hoặc không thể suy ra từ dự án, hỏi người dùng; vẫn tiếp tục những phần độc lập đã được cho phép. Không tự coi thời gian chờ là câu trả lời.
+- Không báo hoàn thành khi còn yêu cầu hoặc kiểm thử cần thiết chưa thực hiện. Báo rõ phạm vi, giới hạn, lỗi và những việc chưa hoàn tất.
+
+## Thực hiện và kiểm chứng
+
+- Chia công việc lớn thành các bước có thể kiểm tra; cập nhật trạng thái và bằng chứng thực tế trong tài liệu theo dõi của dự án.
+- Chạy các kiểm thử phù hợp với thay đổi; kiểm tra đường đi chính, các trường hợp biên quan trọng và tích hợp liên quan. Báo lệnh, kết quả và giới hạn; không gọi kiểm thử là đã chạy nếu chưa chạy.
+- Nếu thiếu thiết bị, dữ liệu, quyền hoặc công cụ để kiểm tra, ghi rõ phần chưa kiểm chứng và cách kiểm chứng. Không chốt chất lượng phát hành khi chưa có bằng chứng thích hợp.
+- Bảo vệ dữ liệu gốc và thay đổi hiện có của người dùng. Mọi xử lý asset phải có đường dẫn về nguồn, có thể tái tạo và không ghi đè nguồn.
+- Với GIF: không mặc định tên file là danh tính nhân vật hay một đoạn là động tác/skill khi chưa xem và xác nhận. Ghi riêng dữ kiện quan sát, dữ liệu còn thiếu và các quyết định cần người dùng duyệt.
+- Ưu tiên Godot 4 và mobile; việc tối ưu, kiểm tra Android/iOS và thiết bị thật phải có số liệu trước khi tuyên bố đạt mục tiêu.

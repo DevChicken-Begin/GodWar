@@ -1,0 +1,1047 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "3 char",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "refined_candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "agon",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "aminao",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "refined_candidates",
+        "cleanup_candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "amore",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "animent",
+      "status": "defect_observed",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "variants": [
+        "refined_candidates",
+        "cleanup_candidates",
+        "shared_scene_candidates"
+      ]
+    },
+    {
+      "id": "anomen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": []
+    },
+    {
+      "id": "aoda",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "artemis",
+      "status": "defect_observed",
+      "issue": "Có chữ nhỏ phía dưới trong mẫu kiểm tra; chưa xử lý riêng.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "assing",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "astra",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "athen",
+      "status": "defect_observed",
+      "issue": "Trừ nền cảnh chỉ là bản thử; có nguy cơ mất chi tiết nhân vật tĩnh.",
+      "variants": [
+        "temporal_candidates"
+      ]
+    },
+    {
+      "id": "aumen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "aument",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "auranient",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "auroma",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": []
+    },
+    {
+      "id": "aurora",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "authen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "azil",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "azou",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "azza",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": []
+    },
+    {
+      "id": "bearen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "bearfire",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "blackdog",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "blacktiger",
+      "status": "defect_observed",
+      "issue": "Bản theo màu còn sàn/phản chiếu; bản xử lý riêng cắt tại y=520, có nguy cơ cắt nhân vật hoặc VFX.",
+      "variants": [
+        "batch_candidates",
+        "special_candidates"
+      ]
+    },
+    {
+      "id": "bomer",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "botem",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "botic",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "camword",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "comca",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "conden",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "corepion",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "crapit",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "diana",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "dong",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "dragonight",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "dragonmout",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "ethan",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "fireknight",
+      "status": "defect_observed",
+      "issue": "Họa tiết nền còn sót quanh nhân vật; đã thử làm giảm nhưng chưa sạch.",
+      "variants": [
+        "batch_candidates",
+        "special_candidates"
+      ]
+    },
+    {
+      "id": "firemen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "firer",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "flybird",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "ghostian",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "ghostic",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "gin",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "guard",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "haden",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "hades",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "hox",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "hydra",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "iternal",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "javis",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "jaying",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "Kahn",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "refined_candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "kapicon",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": []
+    },
+    {
+      "id": "knel",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "knight",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "kong",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "kukang",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "refined_candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "kumen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "lois",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "magicer",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": []
+    },
+    {
+      "id": "magicleo",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "mainmout",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "mainthen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "maono",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "mark",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "midnight",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "moca",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "modfin",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "monster",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "monsterdead",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "monstermap",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "monterlaze",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "monterpie",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "morexem",
+      "status": "defect_observed",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "variants": [
+        "temporal_candidates",
+        "shared_scene_candidates"
+      ]
+    },
+    {
+      "id": "mortafi",
+      "status": "defect_observed",
+      "issue": "Chữ đã được giảm nhưng còn nét nhiễu trong mẫu kiểm tra.",
+      "variants": [
+        "batch_candidates",
+        "special_candidates"
+      ]
+    },
+    {
+      "id": "moxfi",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "moxie",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "newwomen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "ninjadead",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "nox",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "omra",
+      "status": "defect_observed",
+      "issue": "Chữ được xử lý trong mẫu; vẫn cần kiểm tra toàn bộ frame.",
+      "variants": [
+        "batch_candidates",
+        "special_candidates"
+      ]
+    },
+    {
+      "id": "overight",
+      "status": "defect_observed",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "variants": [
+        "temporal_candidates",
+        "shared_scene_candidates"
+      ]
+    },
+    {
+      "id": "overmap",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "oxiu",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "poppy",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "powerdame",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "pygon",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "raptor",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "reptail",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "reptalian",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "samurai",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "scatra",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "scopion",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "score",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "scorpit",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "scot",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "shellop",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "skyles",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "skylian",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "skypit",
+      "status": "defect_observed",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "variants": [
+        "temporal_candidates",
+        "shared_scene_candidates"
+      ]
+    },
+    {
+      "id": "slowdame",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "smaxin",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "snax",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "snicore",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "snowpie",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "snowtiger",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "swordame",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "tailer",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "tigerknight",
+      "status": "defect_observed",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "variants": [
+        "temporal_candidates",
+        "shared_scene_candidates"
+      ]
+    },
+    {
+      "id": "trike",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "vanfox",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "vemou",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "vivian",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "waven",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "wavinges",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "wavyin",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "wordknight",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "wothem",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "wuchen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "wukongchen",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "wutan",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "yoyo",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "batch_candidates"
+      ]
+    },
+    {
+      "id": "ziggist",
+      "status": "visual_review_pending",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "variants": [
+        "candidates",
+        "batch_candidates"
+      ]
+    }
+  ]
+}

@@ -34,3 +34,17 @@ Leverage remote GPU (A100 / L4 / T4) for AI asset generation and heavy compute:
 
 ### 4. VS Code One-Click Tasks
 Press **`Ctrl + Shift + B`** (or `Cmd + Shift + B` on macOS) to trigger the primary build action, or open **Terminal > Run Task...** to select from all available automation scripts.
+
+### Kiểm thử GIF và frame nhân vật
+
+Trong thư mục dự án, chạy:
+
+```bash
+npm run dev
+```
+
+Mở `http://localhost:4173` (trong Codespaces, mở cổng 4173 được forward). Dùng ô tìm kiếm để chọn GIF; có thể phát/dừng, xem từng frame, chỉnh tốc độ, phóng to, đổi nền, lật hướng và lặp một khoảng frame. Nếu có bản thử tách nền, trang tự chọn bản thử và ghi rõ là chưa duyệt; dùng mục Phiên bản để so với atlas nguồn. Trang xem toàn bộ GIF/atlas hiện có và có liên kết mở video nguồn `sword.mp4`; đây chưa phải bản gameplay hay danh sách hoạt ảnh đã phân loại. Yêu cầu Node.js 18 trở lên; không cần cài dependency npm. Dừng server bằng `Ctrl+C`. Có thể đặt cổng khác bằng `PORT=5000 npm run dev`; kiểm tra server bằng `npm test`.
+
+Đối với `3 char`, tìm `3 char` để xem GIF chung hoặc tìm riêng `solist`, `namero`, `kukaomni` để xem ba nhân vật. `aminao`, `animent`, `Kahn`, `kukang` và `3 char` có bản tách nền nâng cao **chưa duyệt**; một số có thêm lựa chọn lọc mạnh; dùng mục Phiên bản để đối chiếu atlas nguồn. Vùng tối cùng màu nền hoặc chi tiết ít thay đổi theo thời gian có thể bị mất, cần kiểm tra trước khi dùng trong game.
+
+Các phiên bản tách nền theo màu, xử lý riêng hoặc trừ nền cảnh hiện đều là **bản thử chưa duyệt**. Chọn phiên bản trong trình xem để đối chiếu, và đọc [tình trạng kiểm tra nền](Asset/Character/review/background-review-status.json); một số bản có lỗi đã phát hiện như chữ còn sót, nền loang hoặc ảnh phản chiếu.

@@ -1,0 +1,366 @@
+{
+  "version": 1,
+  "limitation": "Checks exact changed pixel colors, not whether changed pixels belong to a character or VFX; visual review remains required.",
+  "candidates": [
+    {
+      "id": "agon",
+      "source": "Asset/Character/vfx/agon.gif",
+      "frames": 50,
+      "removed_pixels": 8707650,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "aminao",
+      "source": "Asset/Character/vfx/aminao.gif",
+      "frames": 82,
+      "removed_pixels": 22795123,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "amore",
+      "source": "Asset/Character/vfx/amore.gif",
+      "frames": 46,
+      "removed_pixels": 2447888,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "assing",
+      "source": "Asset/Character/vfx/assing.gif",
+      "frames": 55,
+      "removed_pixels": 2890392,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "auranient",
+      "source": "Asset/Character/vfx/auranient.gif",
+      "frames": 77,
+      "removed_pixels": 11003075,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "aurora",
+      "source": "Asset/Character/vfx/aurora.gif",
+      "frames": 36,
+      "removed_pixels": 10782432,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "azil",
+      "source": "Asset/Character/vfx/azil.gif",
+      "frames": 30,
+      "removed_pixels": 2517714,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "azou",
+      "source": "Asset/Character/vfx/azou.gif",
+      "frames": 48,
+      "removed_pixels": 11437975,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "botem",
+      "source": "Asset/Character/vfx/botem.gif",
+      "frames": 75,
+      "removed_pixels": 15365136,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "botic",
+      "source": "Asset/Character/vfx/botic.gif",
+      "frames": 54,
+      "removed_pixels": 16184880,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "conden",
+      "source": "Asset/Character/vfx/conden.gif",
+      "frames": 48,
+      "removed_pixels": 23495508,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "corepion",
+      "source": "Asset/Character/vfx/corepion.gif",
+      "frames": 99,
+      "removed_pixels": 8190897,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "crapit",
+      "source": "Asset/Character/vfx/crapit.gif",
+      "frames": 24,
+      "removed_pixels": 5767440,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "dragonight",
+      "source": "Asset/Character/vfx/dragonight.gif",
+      "frames": 49,
+      "removed_pixels": 6725039,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "ethan",
+      "source": "Asset/Character/vfx/ethan.gif",
+      "frames": 10,
+      "removed_pixels": 804456,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "firer",
+      "source": "Asset/Character/vfx/firer.gif",
+      "frames": 113,
+      "removed_pixels": 61527816,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "haden",
+      "source": "Asset/Character/vfx/haden.gif",
+      "frames": 106,
+      "removed_pixels": 23462525,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "iternal",
+      "source": "Asset/Character/vfx/iternal.gif",
+      "frames": 26,
+      "removed_pixels": 1825316,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "jaying",
+      "source": "Asset/Character/vfx/jaying.gif",
+      "frames": 8,
+      "removed_pixels": 299180,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "knight",
+      "source": "Asset/Character/vfx/knight.gif",
+      "frames": 54,
+      "removed_pixels": 16545168,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "kumen",
+      "source": "Asset/Character/vfx/kumen.gif",
+      "frames": 56,
+      "removed_pixels": 3517164,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "mainmout",
+      "source": "Asset/Character/vfx/mainmout.gif",
+      "frames": 53,
+      "removed_pixels": 18029808,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "mark",
+      "source": "Asset/Character/vfx/mark.gif",
+      "frames": 88,
+      "removed_pixels": 28789452,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "modfin",
+      "source": "Asset/Character/vfx/modfin.gif",
+      "frames": 50,
+      "removed_pixels": 23521860,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "monster",
+      "source": "Asset/Character/vfx/monster.gif",
+      "frames": 58,
+      "removed_pixels": 2464604,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "monsterdead",
+      "source": "Asset/Character/vfx/monsterdead.gif",
+      "frames": 10,
+      "removed_pixels": 320692,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "ninjadead",
+      "source": "Asset/Character/vfx/ninjadead.gif",
+      "frames": 47,
+      "removed_pixels": 13941328,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "overmap",
+      "source": "Asset/Character/vfx/overmap.gif",
+      "frames": 68,
+      "removed_pixels": 2526324,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "oxiu",
+      "source": "Asset/Character/vfx/oxiu.gif",
+      "frames": 48,
+      "removed_pixels": 9624832,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "raptor",
+      "source": "Asset/Character/vfx/raptor.gif",
+      "frames": 86,
+      "removed_pixels": 11998080,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "reptalian",
+      "source": "Asset/Character/vfx/reptalian.gif",
+      "frames": 19,
+      "removed_pixels": 7548288,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "samurai",
+      "source": "Asset/Character/vfx/samurai.gif",
+      "frames": 66,
+      "removed_pixels": 9007435,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "scatra",
+      "source": "Asset/Character/vfx/scatra.gif",
+      "frames": 67,
+      "removed_pixels": 16607621,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "skylian",
+      "source": "Asset/Character/vfx/skylian.gif",
+      "frames": 12,
+      "removed_pixels": 1775032,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "slowdame",
+      "source": "Asset/Character/vfx/slowdame.gif",
+      "frames": 26,
+      "removed_pixels": 1825316,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "snax",
+      "source": "Asset/Character/vfx/snax.gif",
+      "frames": 120,
+      "removed_pixels": 18128592,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "snicore",
+      "source": "Asset/Character/vfx/snicore.gif",
+      "frames": 55,
+      "removed_pixels": 33228278,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "snowpie",
+      "source": "Asset/Character/vfx/snowpie.gif",
+      "frames": 49,
+      "removed_pixels": 2213114,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "snowtiger",
+      "source": "Asset/Character/vfx/snowtiger.gif",
+      "frames": 30,
+      "removed_pixels": 1123868,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "swordame",
+      "source": "Asset/Character/vfx/swordame.gif",
+      "frames": 39,
+      "removed_pixels": 12582612,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "tailer",
+      "source": "Asset/Character/vfx/tailer.gif",
+      "frames": 45,
+      "removed_pixels": 21839400,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "trike",
+      "source": "Asset/Character/vfx/trike.gif",
+      "frames": 8,
+      "removed_pixels": 284844,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "wothem",
+      "source": "Asset/Character/vfx/wothem.gif",
+      "frames": 9,
+      "removed_pixels": 741852,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "wutan",
+      "source": "Asset/Character/vfx/wutan.gif",
+      "frames": 67,
+      "removed_pixels": 16715296,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    },
+    {
+      "id": "ziggist",
+      "source": "Asset/Character/vfx/ziggist.gif",
+      "frames": 32,
+      "removed_pixels": 2630888,
+      "pixel_check": "passed",
+      "visual_status": "unreviewed"
+    }
+  ]
+}

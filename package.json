@@ -1,0 +1,11 @@
+{
+  "name": "godwar-asset-viewer",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Local reviewer for GodWar GIFs and extracted frames",
+  "scripts": {
+    "dev": "node tools/asset-viewer/server.mjs",
+    "test": "node --test tools/asset-viewer/*.test.mjs"
+  },
+  "engines": { "node": ">=18" }
+}

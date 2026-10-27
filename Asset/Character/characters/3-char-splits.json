@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "characters": [
+    {
+      "id": "solist",
+      "display_name": "solist",
+      "source_asset_id": "3 char",
+      "first_source_frame": 0,
+      "last_source_frame": 51,
+      "frame_count": 52
+    },
+    {
+      "id": "namero",
+      "display_name": "namero",
+      "source_asset_id": "3 char",
+      "first_source_frame": 52,
+      "last_source_frame": 101,
+      "frame_count": 50
+    },
+    {
+      "id": "kukaomni",
+      "display_name": "kukaomni",
+      "source_asset_id": "3 char",
+      "first_source_frame": 102,
+      "last_source_frame": 155,
+      "frame_count": 54
+    }
+  ]
+}

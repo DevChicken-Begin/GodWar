@@ -1,0 +1,997 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": "3 char",
+      "mean": 0.9998931623931623,
+      "min": 0.9933333333333333,
+      "below_95": 0,
+      "frames": 156,
+      "transparent_frames": 0
+    },
+    {
+      "id": "agon",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 50,
+      "transparent_frames": 0
+    },
+    {
+      "id": "aminao",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 82,
+      "transparent_frames": 0
+    },
+    {
+      "id": "amore",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 46,
+      "transparent_frames": 0
+    },
+    {
+      "id": "animent",
+      "mean": 0.5903846153846154,
+      "min": 0.5903846153846154,
+      "below_95": 60,
+      "frames": 60,
+      "transparent_frames": 0
+    },
+    {
+      "id": "anomen",
+      "mean": 0.999280427631579,
+      "min": 0.98828125,
+      "below_95": 0,
+      "frames": 19,
+      "transparent_frames": 19
+    },
+    {
+      "id": "aoda",
+      "mean": 0.9998655913978495,
+      "min": 0.9875,
+      "below_95": 0,
+      "frames": 93,
+      "transparent_frames": 0
+    },
+    {
+      "id": "artemis",
+      "mean": 0.9985286458333333,
+      "min": 0.975,
+      "below_95": 0,
+      "frames": 64,
+      "transparent_frames": 0
+    },
+    {
+      "id": "assing",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 55,
+      "transparent_frames": 0
+    },
+    {
+      "id": "astra",
+      "mean": 0.9997448979591836,
+      "min": 0.99,
+      "below_95": 0,
+      "frames": 49,
+      "transparent_frames": 0
+    },
+    {
+      "id": "athen",
+      "mean": 0.09722222222222222,
+      "min": 0.09722222222222222,
+      "below_95": 54,
+      "frames": 54,
+      "transparent_frames": 0
+    },
+    {
+      "id": "aumen",
+      "mean": 0.9946613088404134,
+      "min": 0.9115384615384615,
+      "below_95": 3,
+      "frames": 67,
+      "transparent_frames": 0
+    },
+    {
+      "id": "aument",
+      "mean": 0.9997100122100122,
+      "min": 0.9878205128205129,
+      "below_95": 0,
+      "frames": 42,
+      "transparent_frames": 0
+    },
+    {
+      "id": "auranient",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 77,
+      "transparent_frames": 0
+    },
+    {
+      "id": "auroma",
+      "mean": 0.9959978070175439,
+      "min": 0.921875,
+      "below_95": 2,
+      "frames": 57,
+      "transparent_frames": 57
+    },
+    {
+      "id": "aurora",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 36,
+      "transparent_frames": 0
+    },
+    {
+      "id": "authen",
+      "mean": 0.9997755331088665,
+      "min": 0.9851851851851852,
+      "below_95": 0,
+      "frames": 66,
+      "transparent_frames": 0
+    },
+    {
+      "id": "azil",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 30,
+      "transparent_frames": 0
+    },
+    {
+      "id": "azou",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 48,
+      "transparent_frames": 0
+    },
+    {
+      "id": "azza",
+      "mean": 0.9998670212765958,
+      "min": 0.99375,
+      "below_95": 0,
+      "frames": 47,
+      "transparent_frames": 47
+    },
+    {
+      "id": "bearen",
+      "mean": 0.9978448275862069,
+      "min": 0.9775,
+      "below_95": 0,
+      "frames": 29,
+      "transparent_frames": 0
+    },
+    {
+      "id": "bearfire",
+      "mean": 0.9999242424242425,
+      "min": 0.9975,
+      "below_95": 0,
+      "frames": 66,
+      "transparent_frames": 0
+    },
+    {
+      "id": "blackdog",
+      "mean": 0.9998375568551007,
+      "min": 0.9953703703703703,
+      "below_95": 0,
+      "frames": 57,
+      "transparent_frames": 0
+    },
+    {
+      "id": "blacktiger",
+      "mean": 0.9945945945945946,
+      "min": 0.9945945945945946,
+      "below_95": 0,
+      "frames": 26,
+      "transparent_frames": 0
+    },
+    {
+      "id": "bomer",
+      "mean": 0.9999358974358975,
+      "min": 0.9975,
+      "below_95": 0,
+      "frames": 39,
+      "transparent_frames": 0
+    },
+    {
+      "id": "botem",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 75,
+      "transparent_frames": 0
+    },
+    {
+      "id": "botic",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 54,
+      "transparent_frames": 0
+    },
+    {
+      "id": "camword",
+      "mean": 0.993840579710145,
+      "min": 0.841304347826087,
+      "below_95": 1,
+      "frames": 30,
+      "transparent_frames": 0
+    },
+    {
+      "id": "comca",
+      "mean": 0.9998464912280701,
+      "min": 0.9958333333333333,
+      "below_95": 0,
+      "frames": 95,
+      "transparent_frames": 0
+    },
+    {
+      "id": "conden",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 48,
+      "transparent_frames": 0
+    },
+    {
+      "id": "corepion",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 99,
+      "transparent_frames": 0
+    },
+    {
+      "id": "crapit",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 24,
+      "transparent_frames": 0
+    },
+    {
+      "id": "diana",
+      "mean": 0.9962606837606837,
+      "min": 0.926923076923077,
+      "below_95": 1,
+      "frames": 54,
+      "transparent_frames": 0
+    },
+    {
+      "id": "dong",
+      "mean": 0.9999479166666667,
+      "min": 0.995,
+      "below_95": 0,
+      "frames": 96,
+      "transparent_frames": 0
+    },
+    {
+      "id": "dragonight",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 49,
+      "transparent_frames": 0
+    },
+    {
+      "id": "dragonmout",
+      "mean": 0.9937619047619047,
+      "min": 0.967,
+      "below_95": 0,
+      "frames": 21,
+      "transparent_frames": 1
+    },
+    {
+      "id": "ethan",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 10,
+      "transparent_frames": 0
+    },
+    {
+      "id": "fireknight",
+      "mean": 0.9629611459968603,
+      "min": 0.9214285714285714,
+      "below_95": 7,
+      "frames": 91,
+      "transparent_frames": 0
+    },
+    {
+      "id": "firemen",
+      "mean": 0.9825814832309873,
+      "min": 0.0,
+      "below_95": 2,
+      "frames": 116,
+      "transparent_frames": 0
+    },
+    {
+      "id": "firer",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 113,
+      "transparent_frames": 0
+    },
+    {
+      "id": "flybird",
+      "mean": 0.9996938775510203,
+      "min": 0.985,
+      "below_95": 0,
+      "frames": 49,
+      "transparent_frames": 0
+    },
+    {
+      "id": "ghostian",
+      "mean": 0.9995454545454546,
+      "min": 0.9975,
+      "below_95": 0,
+      "frames": 22,
+      "transparent_frames": 0
+    },
+    {
+      "id": "ghostic",
+      "mean": 0.9980263157894737,
+      "min": 0.9875,
+      "below_95": 0,
+      "frames": 38,
+      "transparent_frames": 0
+    },
+    {
+      "id": "gin",
+      "mean": 0.997883064516129,
+      "min": 0.971875,
+      "below_95": 0,
+      "frames": 31,
+      "transparent_frames": 0
+    },
+    {
+      "id": "guard",
+      "mean": 0.9998728813559322,
+      "min": 0.9925,
+      "below_95": 0,
+      "frames": 118,
+      "transparent_frames": 0
+    },
+    {
+      "id": "haden",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 106,
+      "transparent_frames": 0
+    },
+    {
+      "id": "hades",
+      "mean": 0.9960204081632653,
+      "min": 0.8775,
+      "below_95": 3,
+      "frames": 98,
+      "transparent_frames": 0
+    },
+    {
+      "id": "hox",
+      "mean": 0.9988562091503269,
+      "min": 0.9770833333333333,
+      "below_95": 0,
+      "frames": 51,
+      "transparent_frames": 0
+    },
+    {
+      "id": "hydra",
+      "mean": 0.9992708333333334,
+      "min": 0.9825,
+      "below_95": 0,
+      "frames": 24,
+      "transparent_frames": 0
+    },
+    {
+      "id": "iternal",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 26,
+      "transparent_frames": 0
+    },
+    {
+      "id": "javis",
+      "mean": 0.9998404255319149,
+      "min": 0.9925,
+      "below_95": 0,
+      "frames": 47,
+      "transparent_frames": 0
+    },
+    {
+      "id": "jaying",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 8,
+      "transparent_frames": 0
+    },
+    {
+      "id": "Kahn",
+      "mean": 0.9998648648648648,
+      "min": 0.995,
+      "below_95": 0,
+      "frames": 111,
+      "transparent_frames": 0
+    },
+    {
+      "id": "kapicon",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 47,
+      "transparent_frames": 47
+    },
+    {
+      "id": "knel",
+      "mean": 0.9996186440677965,
+      "min": 0.9775,
+      "below_95": 0,
+      "frames": 59,
+      "transparent_frames": 0
+    },
+    {
+      "id": "knight",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 54,
+      "transparent_frames": 0
+    },
+    {
+      "id": "kong",
+      "mean": 0.9998856209150326,
+      "min": 0.9958333333333333,
+      "below_95": 0,
+      "frames": 51,
+      "transparent_frames": 0
+    },
+    {
+      "id": "kukang",
+      "mean": 0.9995128205128206,
+      "min": 0.9673076923076923,
+      "below_95": 0,
+      "frames": 75,
+      "transparent_frames": 0
+    },
+    {
+      "id": "kumen",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 56,
+      "transparent_frames": 0
+    },
+    {
+      "id": "lois",
+      "mean": 0.9996583099031553,
+      "min": 0.9958333333333333,
+      "below_95": 0,
+      "frames": 194,
+      "transparent_frames": 0
+    },
+    {
+      "id": "magicer",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 11,
+      "transparent_frames": 11
+    },
+    {
+      "id": "magicleo",
+      "mean": 0.9997077922077922,
+      "min": 0.9928571428571429,
+      "below_95": 0,
+      "frames": 55,
+      "transparent_frames": 0
+    },
+    {
+      "id": "mainmout",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 53,
+      "transparent_frames": 0
+    },
+    {
+      "id": "mainthen",
+      "mean": 0.9996998284734134,
+      "min": 0.9954545454545455,
+      "below_95": 0,
+      "frames": 53,
+      "transparent_frames": 0
+    },
+    {
+      "id": "maono",
+      "mean": 0.9981705351386202,
+      "min": 0.9950757575757576,
+      "below_95": 0,
+      "frames": 47,
+      "transparent_frames": 0
+    },
+    {
+      "id": "mark",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 88,
+      "transparent_frames": 0
+    },
+    {
+      "id": "midnight",
+      "mean": 0.9999198717948719,
+      "min": 0.9974358974358974,
+      "below_95": 0,
+      "frames": 64,
+      "transparent_frames": 0
+    },
+    {
+      "id": "moca",
+      "mean": 0.9994999999999999,
+      "min": 0.965,
+      "below_95": 0,
+      "frames": 120,
+      "transparent_frames": 0
+    },
+    {
+      "id": "modfin",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 50,
+      "transparent_frames": 0
+    },
+    {
+      "id": "monster",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 58,
+      "transparent_frames": 0
+    },
+    {
+      "id": "monsterdead",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 10,
+      "transparent_frames": 0
+    },
+    {
+      "id": "monstermap",
+      "mean": 0.9986875,
+      "min": 0.9475,
+      "below_95": 1,
+      "frames": 40,
+      "transparent_frames": 0
+    },
+    {
+      "id": "monterlaze",
+      "mean": 0.9998846153846154,
+      "min": 0.9961538461538462,
+      "below_95": 0,
+      "frames": 50,
+      "transparent_frames": 0
+    },
+    {
+      "id": "monterpie",
+      "mean": 0.9954999999999999,
+      "min": 0.9575,
+      "below_95": 0,
+      "frames": 65,
+      "transparent_frames": 0
+    },
+    {
+      "id": "morexem",
+      "mean": 0.5604700854700855,
+      "min": 0.5548076923076923,
+      "below_95": 90,
+      "frames": 90,
+      "transparent_frames": 0
+    },
+    {
+      "id": "mortafi",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 44,
+      "transparent_frames": 0
+    },
+    {
+      "id": "moxfi",
+      "mean": 0.9988281250000001,
+      "min": 0.990625,
+      "below_95": 0,
+      "frames": 24,
+      "transparent_frames": 0
+    },
+    {
+      "id": "moxie",
+      "mean": 0.9980412371134021,
+      "min": 0.9772727272727273,
+      "below_95": 0,
+      "frames": 97,
+      "transparent_frames": 0
+    },
+    {
+      "id": "newwomen",
+      "mean": 0.9996202256944444,
+      "min": 0.986328125,
+      "below_95": 0,
+      "frames": 72,
+      "transparent_frames": 0
+    },
+    {
+      "id": "ninjadead",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 47,
+      "transparent_frames": 0
+    },
+    {
+      "id": "nox",
+      "mean": 0.9981284475965327,
+      "min": 0.9342592592592592,
+      "below_95": 1,
+      "frames": 47,
+      "transparent_frames": 0
+    },
+    {
+      "id": "omra",
+      "mean": 0.999802371541502,
+      "min": 0.9954545454545455,
+      "below_95": 0,
+      "frames": 46,
+      "transparent_frames": 0
+    },
+    {
+      "id": "overight",
+      "mean": 0.5903846153846154,
+      "min": 0.5903846153846154,
+      "below_95": 48,
+      "frames": 48,
+      "transparent_frames": 0
+    },
+    {
+      "id": "overmap",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 68,
+      "transparent_frames": 0
+    },
+    {
+      "id": "oxiu",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 48,
+      "transparent_frames": 0
+    },
+    {
+      "id": "poppy",
+      "mean": 0.9998611111111111,
+      "min": 0.9975,
+      "below_95": 0,
+      "frames": 36,
+      "transparent_frames": 0
+    },
+    {
+      "id": "powerdame",
+      "mean": 0.9879761904761905,
+      "min": 0.7483333333333333,
+      "below_95": 1,
+      "frames": 28,
+      "transparent_frames": 0
+    },
+    {
+      "id": "pygon",
+      "mean": 0.9993230174081238,
+      "min": 0.9954545454545455,
+      "below_95": 0,
+      "frames": 47,
+      "transparent_frames": 0
+    },
+    {
+      "id": "raptor",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 86,
+      "transparent_frames": 0
+    },
+    {
+      "id": "reptail",
+      "mean": 0.9998947368421053,
+      "min": 0.994,
+      "below_95": 0,
+      "frames": 57,
+      "transparent_frames": 0
+    },
+    {
+      "id": "reptalian",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 19,
+      "transparent_frames": 0
+    },
+    {
+      "id": "samurai",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 66,
+      "transparent_frames": 0
+    },
+    {
+      "id": "scatra",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 67,
+      "transparent_frames": 0
+    },
+    {
+      "id": "scopion",
+      "mean": 0.9999213836477987,
+      "min": 0.9979166666666667,
+      "below_95": 0,
+      "frames": 53,
+      "transparent_frames": 0
+    },
+    {
+      "id": "score",
+      "mean": 0.999609375,
+      "min": 0.9925,
+      "below_95": 0,
+      "frames": 32,
+      "transparent_frames": 0
+    },
+    {
+      "id": "scorpit",
+      "mean": 0.9996875,
+      "min": 0.995,
+      "below_95": 0,
+      "frames": 40,
+      "transparent_frames": 0
+    },
+    {
+      "id": "scot",
+      "mean": 0.9971128608923884,
+      "min": 0.9711286089238845,
+      "below_95": 0,
+      "frames": 10,
+      "transparent_frames": 0
+    },
+    {
+      "id": "shellop",
+      "mean": 0.9983620689655173,
+      "min": 0.98,
+      "below_95": 0,
+      "frames": 29,
+      "transparent_frames": 0
+    },
+    {
+      "id": "skyles",
+      "mean": 0.9996354166666667,
+      "min": 0.9925,
+      "below_95": 0,
+      "frames": 96,
+      "transparent_frames": 0
+    },
+    {
+      "id": "skylian",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 12,
+      "transparent_frames": 0
+    },
+    {
+      "id": "skypit",
+      "mean": 0.563125,
+      "min": 0.563125,
+      "below_95": 65,
+      "frames": 65,
+      "transparent_frames": 0
+    },
+    {
+      "id": "slowdame",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 26,
+      "transparent_frames": 0
+    },
+    {
+      "id": "smaxin",
+      "mean": 0.9998774509803922,
+      "min": 0.9958333333333333,
+      "below_95": 0,
+      "frames": 51,
+      "transparent_frames": 0
+    },
+    {
+      "id": "snax",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 120,
+      "transparent_frames": 0
+    },
+    {
+      "id": "snicore",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 55,
+      "transparent_frames": 0
+    },
+    {
+      "id": "snowpie",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 49,
+      "transparent_frames": 0
+    },
+    {
+      "id": "snowtiger",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 30,
+      "transparent_frames": 0
+    },
+    {
+      "id": "swordame",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 39,
+      "transparent_frames": 0
+    },
+    {
+      "id": "tailer",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 45,
+      "transparent_frames": 0
+    },
+    {
+      "id": "tigerknight",
+      "mean": 0.5903846153846154,
+      "min": 0.5903846153846154,
+      "below_95": 66,
+      "frames": 66,
+      "transparent_frames": 0
+    },
+    {
+      "id": "trike",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 8,
+      "transparent_frames": 0
+    },
+    {
+      "id": "vanfox",
+      "mean": 0.9981605351170569,
+      "min": 0.9730769230769231,
+      "below_95": 0,
+      "frames": 46,
+      "transparent_frames": 0
+    },
+    {
+      "id": "vemou",
+      "mean": 0.9999519230769232,
+      "min": 0.9975,
+      "below_95": 0,
+      "frames": 52,
+      "transparent_frames": 0
+    },
+    {
+      "id": "vivian",
+      "mean": 0.9952083333333334,
+      "min": 0.965,
+      "below_95": 0,
+      "frames": 60,
+      "transparent_frames": 0
+    },
+    {
+      "id": "waven",
+      "mean": 0.9994148936170212,
+      "min": 0.985,
+      "below_95": 0,
+      "frames": 47,
+      "transparent_frames": 0
+    },
+    {
+      "id": "wavinges",
+      "mean": 0.9996875,
+      "min": 0.9975,
+      "below_95": 0,
+      "frames": 24,
+      "transparent_frames": 0
+    },
+    {
+      "id": "wavyin",
+      "mean": 0.9996875,
+      "min": 0.995,
+      "below_95": 0,
+      "frames": 40,
+      "transparent_frames": 0
+    },
+    {
+      "id": "wordknight",
+      "mean": 0.9983627858627859,
+      "min": 0.9519230769230769,
+      "below_95": 0,
+      "frames": 74,
+      "transparent_frames": 0
+    },
+    {
+      "id": "wothem",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 9,
+      "transparent_frames": 0
+    },
+    {
+      "id": "wuchen",
+      "mean": 0.9999468085106383,
+      "min": 0.9975,
+      "below_95": 0,
+      "frames": 47,
+      "transparent_frames": 0
+    },
+    {
+      "id": "wukongchen",
+      "mean": 0.997578125,
+      "min": 0.965,
+      "below_95": 0,
+      "frames": 32,
+      "transparent_frames": 0
+    },
+    {
+      "id": "wutan",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 67,
+      "transparent_frames": 0
+    },
+    {
+      "id": "yoyo",
+      "mean": 0.9995,
+      "min": 0.9916666666666667,
+      "below_95": 0,
+      "frames": 50,
+      "transparent_frames": 0
+    },
+    {
+      "id": "ziggist",
+      "mean": 1.0,
+      "min": 1.0,
+      "below_95": 0,
+      "frames": 32,
+      "transparent_frames": 0
+    }
+  ]
+}

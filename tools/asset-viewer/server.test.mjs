@@ -1,0 +1,36 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import { createAssetServer } from './server.mjs';
+
+await test('local viewer serves source data, candidates, and handles missing routes', async (t) => {
+  const server = createAssetServer();
+  await new Promise(resolve => server.listen(0, '127.0.0.1', resolve));
+  t.after(() => new Promise(resolve => server.close(resolve)));
+  const origin = `http://127.0.0.1:${server.address().port}`;
+  const page = await fetch(origin); assert.equal(page.status, 200); assert.match(await page.text(), /Kiểm thử hoạt ảnh/);
+  const catalog = await fetch(`${origin}/Asset/Character/extracted/catalog.json`);
+  assert.equal(catalog.status, 200);
+  const data = await catalog.json(); assert.ok(data.assets.length > 0);
+  const asset = data.assets[0];
+  const gif = await fetch(`${origin}/${asset.source.split('/').map(encodeURIComponent).join('/')}`);
+  assert.equal(gif.status, 200); assert.equal(gif.headers.get('content-type'), 'image/gif');
+  const atlas = await fetch(`${origin}/Asset/Character/extracted/${encodeURIComponent(asset.id)}/atlas_000.png`, { method: 'HEAD' });
+  assert.equal(atlas.status, 200); assert.equal(atlas.headers.get('content-type'), 'image/png');
+  assert.ok(Array.isArray(await (await fetch(`${origin}/api/candidates`)).json()));
+  const refined = await (await fetch(`${origin}/api/refined-candidates`)).json();
+  assert.ok(refined.includes('3 char'));
+  assert.ok(refined.includes('Kahn'));
+  assert.ok((await (await fetch(`${origin}/api/cleanup-candidates`)).json()).includes('aminao'));
+  assert.ok((await (await fetch(`${origin}/api/batch-candidates`)).json()).includes('firemen'));
+  assert.ok((await (await fetch(`${origin}/api/special-candidates`)).json()).includes('omra'));
+  assert.ok((await (await fetch(`${origin}/api/temporal-candidates`)).json()).includes('athen'));
+  assert.equal((await fetch(`${origin}/Asset/Character/review/background-review-status.json`)).status, 200);
+  assert.equal((await fetch(`${origin}/Asset/Character/refined_candidates/3%20char/atlas_000.png`, { method: 'HEAD' })).status, 200);
+  const splits = await (await fetch(`${origin}/Asset/Character/characters/3-char-splits.json`)).json();
+  assert.deepEqual(splits.characters.map(item => [item.id, item.first_source_frame, item.last_source_frame]), [['solist', 0, 51], ['namero', 52, 101], ['kukaomni', 102, 155]]);
+  const splitCatalog = await (await fetch(`${origin}/Asset/Character/extracted/split-catalog.json`)).json();
+  assert.deepEqual(splitCatalog.assets.map(item => item.frame_count), [52, 50, 54]);
+  assert.equal((await fetch(`${origin}/Asset/Character/extracted/missing.png`)).status, 404);
+  assert.equal((await fetch(`${origin}/package.json`)).status, 404);
+  assert.equal((await fetch(origin, { method: 'POST' })).status, 405);
+});

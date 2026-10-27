@@ -1,0 +1,20 @@
+{
+  "id": "kukaomni",
+  "display_name": "kukaomni",
+  "source": "Asset/Character/vfx/3 char.gif",
+  "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+  "source_asset_id": "3 char",
+  "first_source_frame": 102,
+  "last_source_frame": 155,
+  "frame_count": 54,
+  "atlas_roots": {
+    "source": "Asset/Character/extracted/kukaomni",
+    "candidate": "Asset/Character/refined_candidates/kukaomni"
+  },
+  "status": "source_segment_unreviewed",
+  "animations": {},
+  "skill": {
+    "status": "unreviewed",
+    "name": null
+  }
+}

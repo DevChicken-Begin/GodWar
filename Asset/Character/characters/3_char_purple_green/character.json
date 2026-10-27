@@ -1,0 +1,19 @@
+{
+  "id": "3_char_purple_green",
+  "display_name": "3 char · tím xanh",
+  "status": "superseded",
+  "source": "Asset/Character/vfx/3 char.gif",
+  "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+  "source_asset_id": "3 char",
+  "first_source_frame": 102,
+  "last_source_frame": 155,
+  "frame_count": 54,
+  "atlas_root": "Asset/Character/refined_candidates/3 char",
+  "animations": {},
+  "skill": {
+    "status": "unreviewed",
+    "name": null
+  },
+  "note": "Hồ sơ cũ theo màu, đã thay bằng tên do người dùng đặt; xem replaced_by.",
+  "replaced_by": "kukaomni"
+}

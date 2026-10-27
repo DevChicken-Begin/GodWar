@@ -1,0 +1,318 @@
+{
+  "id": "camword",
+  "source": "Asset/Character/vfx/camword.gif",
+  "source_sha256": "9353b79f3bde1a6051f71faa1d9412c1aec9a6152343b466e83296aaa045e2c3",
+  "frame_count": 30,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        230,
+        230
+      ],
+      "duration_ms": 350
+    },
+    {
+      "atlas": 0,
+      "region": [
+        230,
+        0,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        460,
+        0,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        690,
+        0,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        920,
+        0,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1150,
+        0,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1380,
+        0,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1610,
+        0,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        230,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        230,
+        230,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        460,
+        230,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        690,
+        230,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        920,
+        230,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1150,
+        230,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1380,
+        230,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1610,
+        230,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        460,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        230,
+        460,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        460,
+        460,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        690,
+        460,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        920,
+        460,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1150,
+        460,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1380,
+        460,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1610,
+        460,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        690,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        230,
+        690,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        460,
+        690,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        690,
+        690,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        920,
+        690,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1150,
+        690,
+        230,
+        230
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "background_rgba": [
+    4,
+    50,
+    71,
+    255
+  ],
+  "method": "global RGB chroma key, maximum per-channel difference 5",
+  "removed_pixels": 1382364,
+  "status": "candidate_unreviewed",
+  "limitations": "Matching or near-background character/VFX pixels may be removed; near-background halos and fixed logos may remain. Requires visual review of every frame."
+}

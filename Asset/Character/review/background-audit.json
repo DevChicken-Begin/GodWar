@@ -1,0 +1,2268 @@
+{
+  "version": 1,
+  "description": "Edge measurements only; no guarantee about interior pixels or masks.",
+  "sources": [
+    {
+      "id": "3 char",
+      "source": "Asset/Character/vfx/3 char.gif",
+      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+      "frames": 156,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 152,
+      "corner_colors": [
+        [
+          110,
+          123,
+          132,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "agon",
+      "source": "Asset/Character/vfx/agon.gif",
+      "source_sha256": "0866aea90709fe4f5aadcfbd8ace87cc0ee58a808a75dba9cfeefc9957704011",
+      "frames": 50,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 50,
+      "corner_colors": [
+        [
+          227,
+          227,
+          227,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "aminao",
+      "source": "Asset/Character/vfx/aminao.gif",
+      "source_sha256": "8cfca846be8baefbbcf75074716b11b227494b75fbf1bfd6b3dc59ca83359659",
+      "frames": 82,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 82,
+      "corner_colors": [
+        [
+          3,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "amore",
+      "source": "Asset/Character/vfx/amore.gif",
+      "source_sha256": "68eafd0ef7bc7aa5d67bbc7bed841337a839132a1fe09a5a694c893d4e580604",
+      "frames": 46,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 46,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "animent",
+      "source": "Asset/Character/vfx/animent.gif",
+      "source_sha256": "9e103898ec9f0aba0e38a97d97d5505e075ca2d2cffadf668b496feeb7b12576",
+      "frames": 60,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          5,
+          24,
+          38,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "anomen",
+      "source": "Asset/Character/vfx/anomen.gif",
+      "source_sha256": "89684fc48499542ab5697f2115c23acde1964b213eea66ecea9d8d0c3c794d60",
+      "frames": 19,
+      "frames_with_transparency": 19,
+      "frames_with_uniform_border": 17,
+      "corner_colors": [
+        [
+          255,
+          255,
+          255,
+          0
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "category": "transparent_all_frames",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "aoda",
+      "source": "Asset/Character/vfx/aoda.gif",
+      "source_sha256": "475ef078e2939897ba4fd745e14be05cc032faaf79c44fa9e16e441d3241990a",
+      "frames": 93,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 92,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "artemis",
+      "source": "Asset/Character/vfx/artemis.gif",
+      "source_sha256": "1f9dcaa35af1f22661c41f4b7f2aba7523b7c3c5e85f50f361268d48c978db24",
+      "frames": 64,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 59,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "assing",
+      "source": "Asset/Character/vfx/assing.gif",
+      "source_sha256": "97062525c22bd7e1f0ba7ce8814b1ec32575c7f38a2a67817907a37636575710",
+      "frames": 55,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 55,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "astra",
+      "source": "Asset/Character/vfx/astra.gif",
+      "source_sha256": "219aa3e9d56a3017017f703e966097a811ed977b11e984cd20b9cebb8a9e7527",
+      "frames": 49,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 47,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "athen",
+      "source": "Asset/Character/vfx/athen.gif",
+      "source_sha256": "e0cc8dd6c44766a74300f1a99bf385494e4d9f8ef2607fa4b9126cc7d0501f26",
+      "frames": 54,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          28,
+          32,
+          52,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "aumen",
+      "source": "Asset/Character/vfx/aumen.gif",
+      "source_sha256": "a04e3df7081b1d6881eadcac8ad059ac0bed9cc6675d2da36925281302c5ee75",
+      "frames": 67,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 60,
+      "corner_colors": [
+        [
+          38,
+          34,
+          63,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "aument",
+      "source": "Asset/Character/vfx/aument.gif",
+      "source_sha256": "d9b5ced419eb1d8cd9aebbfab828e057e16f3363b88ab8b64c042c095b259598",
+      "frames": 42,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 38,
+      "corner_colors": [
+        [
+          2,
+          48,
+          70,
+          255
+        ],
+        [
+          2,
+          48,
+          72,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "auranient",
+      "source": "Asset/Character/vfx/auranient.gif",
+      "source_sha256": "74beeead145968b93a6c41525a1f28c48c53bf8792d1f4163fd56dc0ac822b3a",
+      "frames": 77,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 77,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "auroma",
+      "source": "Asset/Character/vfx/auroma.gif",
+      "source_sha256": "f29b974f1858b556a777be971967cb930f2191cbff44e71e2358ff69a01889ad",
+      "frames": 57,
+      "frames_with_transparency": 57,
+      "frames_with_uniform_border": 51,
+      "corner_colors": [
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "category": "transparent_all_frames",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "aurora",
+      "source": "Asset/Character/vfx/aurora.gif",
+      "source_sha256": "504aa5cab8abe36a62da747c7f34878715e087184687d656d10fa003ad12736d",
+      "frames": 36,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 36,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "authen",
+      "source": "Asset/Character/vfx/authen.gif",
+      "source_sha256": "8c871c47aa71218b728968e27c0ea70b69191f15d263765e45a991322e09e1a7",
+      "frames": 66,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 65,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "azil",
+      "source": "Asset/Character/vfx/azil.gif",
+      "source_sha256": "028446d88ee1eb7816f6be7d5b43b870485f4e08030dd2d9a10451deb84e8d6c",
+      "frames": 30,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 30,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "azou",
+      "source": "Asset/Character/vfx/azou.gif",
+      "source_sha256": "44fe5c01ba53bca48d7adfca837e5b17c3bbafbe247b9a1c69f8af0f013db35b",
+      "frames": 48,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 48,
+      "corner_colors": [
+        [
+          17,
+          39,
+          49,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "azza",
+      "source": "Asset/Character/vfx/azza.gif",
+      "source_sha256": "8fc3d162149a9713db3753f796733bc1ab613386d43e9a19395d81b36db24127",
+      "frames": 47,
+      "frames_with_transparency": 47,
+      "frames_with_uniform_border": 46,
+      "corner_colors": [
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "category": "transparent_all_frames",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "bearen",
+      "source": "Asset/Character/vfx/bearen.gif",
+      "source_sha256": "eb85eb953c76b7f2eaa6116758cff60f0441f5a0afe19cc6400c5aca40060929",
+      "frames": 29,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 24,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "bearfire",
+      "source": "Asset/Character/vfx/bearfire.gif",
+      "source_sha256": "7d0da1f61dfbb56cdef67d3d545db4dbd7364bf27f209debdfee35fd07130687",
+      "frames": 66,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 64,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "blackdog",
+      "source": "Asset/Character/vfx/blackdog.gif",
+      "source_sha256": "fdc7ffb16396d67c7be6a86faee1b4e4611887676e49b35b265946032482bc5c",
+      "frames": 57,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 54,
+      "corner_colors": [
+        [
+          59,
+          103,
+          123,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "blacktiger",
+      "source": "Asset/Character/vfx/blacktiger.gif",
+      "source_sha256": "e9abb58a96a7b5424e7539e382fe52d38daedc8ec1de79b914b64072d41bf721",
+      "frames": 26,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          128,
+          123,
+          117,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "bomer",
+      "source": "Asset/Character/vfx/bomer.gif",
+      "source_sha256": "5a1e33c90df63dd42cc17ea10252a21f34193dbb1306793c7238cac5b42b8bad",
+      "frames": 39,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 38,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "botem",
+      "source": "Asset/Character/vfx/botem.gif",
+      "source_sha256": "989671a6e4a5cc17033f3e72b19259c7e4599aa34fc3ada301a2592036c6558f",
+      "frames": 75,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 75,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "botic",
+      "source": "Asset/Character/vfx/botic.gif",
+      "source_sha256": "8c2ecc877875d9b907086d9766b9ace7729ed409dd6c828a652557800fb20e9c",
+      "frames": 54,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 54,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "camword",
+      "source": "Asset/Character/vfx/camword.gif",
+      "source_sha256": "9353b79f3bde1a6051f71faa1d9412c1aec9a6152343b466e83296aaa045e2c3",
+      "frames": 30,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 25,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "comca",
+      "source": "Asset/Character/vfx/comca.gif",
+      "source_sha256": "41133cf3de908dd0447d94d745bbe58301cb53578aa1339dd91b4df4cb74c1f4",
+      "frames": 95,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 89,
+      "corner_colors": [
+        [
+          4,
+          51,
+          70,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "conden",
+      "source": "Asset/Character/vfx/conden.gif",
+      "source_sha256": "c7c362e786fbda78570307d20b25a557aa506d693d2e886a99ea60024f443124",
+      "frames": 48,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 48,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "corepion",
+      "source": "Asset/Character/vfx/corepion.gif",
+      "source_sha256": "94fcb85cb64d3ef65234ddc5b13ea85559ee5ade28994eef7a00e7191e31c470",
+      "frames": 99,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 99,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "crapit",
+      "source": "Asset/Character/vfx/crapit.gif",
+      "source_sha256": "58addc8fa67f97c0ce48255e36f38453ef60677af8b44b63320ebccf261a38be",
+      "frames": 24,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 24,
+      "corner_colors": [
+        [
+          57,
+          41,
+          70,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "diana",
+      "source": "Asset/Character/vfx/diana.gif",
+      "source_sha256": "ae7766342e98164291c761719db235c7e7d355cd61e71505cee3f60edcd1644f",
+      "frames": 54,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 49,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "dong",
+      "source": "Asset/Character/vfx/dong.gif",
+      "source_sha256": "f3fed47a56c0e1e48cf9b6ab4b4a75d7a6f712606c935b60b7503805ba00a47e",
+      "frames": 96,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 95,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "dragonight",
+      "source": "Asset/Character/vfx/dragonight.gif",
+      "source_sha256": "aad09044d2aa7cfea84de39c8477db200fef9b525de804d7fcb9056fcb9bd2a5",
+      "frames": 49,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 49,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "dragonmout",
+      "source": "Asset/Character/vfx/dragonmout.gif",
+      "source_sha256": "9228b22d2339477c62ffba8817bcb1f1b8e554b05357b044d2d24b47374224d4",
+      "frames": 21,
+      "frames_with_transparency": 1,
+      "frames_with_uniform_border": 15,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "mixed_transparency",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "ethan",
+      "source": "Asset/Character/vfx/ethan.gif",
+      "source_sha256": "93d7c58358725854b344f0beee784e224eec1394338acd78ebae655cb79691aa",
+      "frames": 10,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 10,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "fireknight",
+      "source": "Asset/Character/vfx/fireknight.gif",
+      "source_sha256": "aa7a4fd83de465241726c826bd436f0fa146a92b59af8a6c19d733c787e2650a",
+      "frames": 91,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          0,
+          48,
+          66,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "firemen",
+      "source": "Asset/Character/vfx/firemen.gif",
+      "source_sha256": "32e2122a61819819396e61d8e5c4401f199f7f17766ba1f9b961c36241bad371",
+      "frames": 116,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 113,
+      "corner_colors": [
+        [
+          0,
+          0,
+          0,
+          255
+        ],
+        [
+          4,
+          50,
+          71,
+          255
+        ],
+        [
+          255,
+          255,
+          255,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "firer",
+      "source": "Asset/Character/vfx/firer.gif",
+      "source_sha256": "3a79411f9c2f0580b354e55d55c315e64b7ba0c467d8cfb961457496be1c58e5",
+      "frames": 113,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 113,
+      "corner_colors": [
+        [
+          20,
+          23,
+          25,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "flybird",
+      "source": "Asset/Character/vfx/flybird.gif",
+      "source_sha256": "96bcdd1f60a7b3ec634f9ba3a88dddbc788238919428616682e6ae7daad5f3b0",
+      "frames": 49,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 48,
+      "corner_colors": [
+        [
+          4,
+          51,
+          70,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "ghostian",
+      "source": "Asset/Character/vfx/ghostian.gif",
+      "source_sha256": "6a04347b136bfe9cd1112e0127e261104e7351b286d601ba9dd03a5c6e0936f7",
+      "frames": 22,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 18,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "ghostic",
+      "source": "Asset/Character/vfx/ghostic.gif",
+      "source_sha256": "70995956ebe209a9d4f64fa6624f253a14ef13ef36c5dd075b3b330c91fc79f5",
+      "frames": 38,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 29,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "gin",
+      "source": "Asset/Character/vfx/gin.gif",
+      "source_sha256": "39a91b1cde905ed6e7f5c67dfd9210e40c50217a4b7b289fa6f57fb98d9e884d",
+      "frames": 31,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 27,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "guard",
+      "source": "Asset/Character/vfx/guard.gif",
+      "source_sha256": "20f8e6a22b50847ba8eb68fb28340034898da626ca30d95b797568dcb0278d0f",
+      "frames": 118,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 114,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "haden",
+      "source": "Asset/Character/vfx/haden.gif",
+      "source_sha256": "2aa6a828be3e9fd52c148d5c7ad9370a61fc5a71ff8af4f2ace0bd73e81d0799",
+      "frames": 106,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 106,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "hades",
+      "source": "Asset/Character/vfx/hades.gif",
+      "source_sha256": "2c805ffa719889eaad6ca8bf08fdef64b0761d54e17af2b7c3db090ef17656a8",
+      "frames": 98,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 86,
+      "corner_colors": [
+        [
+          4,
+          51,
+          70,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "hox",
+      "source": "Asset/Character/vfx/hox.gif",
+      "source_sha256": "82249e3537877d49bed8bd06e0ad303cf07d7967e3f86396ecb6be305584c5b5",
+      "frames": 51,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 45,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "hydra",
+      "source": "Asset/Character/vfx/hydra.gif",
+      "source_sha256": "9b9dc3294b23a59139a833bbcf50e44ab4cde1dffd1327ca843d59f4cac22469",
+      "frames": 24,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 23,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "iternal",
+      "source": "Asset/Character/vfx/iternal.gif",
+      "source_sha256": "da75d83e78ffcc3253ca8739586c8b9799fa0b0171db51632d0ce300e01d27f4",
+      "frames": 26,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 26,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "javis",
+      "source": "Asset/Character/vfx/javis.gif",
+      "source_sha256": "fce59f327413545839519186d443121c4883b7c734a407a5585f299edf9cda6f",
+      "frames": 47,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 46,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "jaying",
+      "source": "Asset/Character/vfx/jaying.gif",
+      "source_sha256": "bd1274c4870ee0eab0adce091374d8814f81c9c6cd8b337999e4c28183af5504",
+      "frames": 8,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 8,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "Kahn",
+      "source": "Asset/Character/vfx/Kahn.gif",
+      "source_sha256": "4911bbdbaabc843923ac391b521281192fd8c39511e5d629a6bd20badcc8b133",
+      "frames": 111,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 106,
+      "corner_colors": [
+        [
+          0,
+          0,
+          0,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "kapicon",
+      "source": "Asset/Character/vfx/kapicon.gif",
+      "source_sha256": "bfad98746af6c9903e3ed6b4db238961f776a2817f01e9bb48ca61026e16ed09",
+      "frames": 47,
+      "frames_with_transparency": 47,
+      "frames_with_uniform_border": 47,
+      "corner_colors": [
+        [
+          255,
+          0,
+          255,
+          0
+        ]
+      ],
+      "category": "transparent_all_frames",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "knel",
+      "source": "Asset/Character/vfx/knel.gif",
+      "source_sha256": "d1dd440f3fc35e95b2d70aa7543c48a0aeffa535ce8ec74b73ff0dcef9125c49",
+      "frames": 59,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 58,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "knight",
+      "source": "Asset/Character/vfx/knight.gif",
+      "source_sha256": "d714c193c9fec6032dfd44272ca02ac5271e8a5ea48245561babdb3e6dd37db3",
+      "frames": 54,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 54,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "kong",
+      "source": "Asset/Character/vfx/kong.gif",
+      "source_sha256": "efc1a53addcfb6132fdad70fff8b63cf5ece65997d68ffd800acee90520d1efa",
+      "frames": 51,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 49,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "kukang",
+      "source": "Asset/Character/vfx/kukang.gif",
+      "source_sha256": "492cb1699734f30781046a6084668bcf14529aa5e3eac8e0a25ba4a1d4d86f5a",
+      "frames": 75,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 72,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "kumen",
+      "source": "Asset/Character/vfx/kumen.gif",
+      "source_sha256": "5f7c871ec065fb8d732ddffa0980f927c61d6ab60bd80a73e095ad81a6ecae40",
+      "frames": 56,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 56,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "lois",
+      "source": "Asset/Character/vfx/lois.gif",
+      "source_sha256": "201044ced37ef7085e0dec12982eea4c298ce02dbccd8416034264c66b99dee0",
+      "frames": 194,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          73,
+          73,
+          73,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "magicer",
+      "source": "Asset/Character/vfx/magicer.gif",
+      "source_sha256": "7c275be5d2579b6549c0ac1a6a38d78ad7d37aff28135be6f747844064f1f3fd",
+      "frames": 11,
+      "frames_with_transparency": 11,
+      "frames_with_uniform_border": 11,
+      "corner_colors": [
+        [
+          0,
+          0,
+          0,
+          0
+        ]
+      ],
+      "category": "transparent_all_frames",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "magicleo",
+      "source": "Asset/Character/vfx/magicleo.gif",
+      "source_sha256": "1cf09a550170746b3bed643c06cf1efeefb972331a4352c84a080c72ed0240a6",
+      "frames": 55,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 51,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "mainmout",
+      "source": "Asset/Character/vfx/mainmout.gif",
+      "source_sha256": "719d1b7dcf065a25c60e205f336c3ec262f76163a564c6c8d35899216f91ef10",
+      "frames": 53,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 53,
+      "corner_colors": [
+        [
+          0,
+          46,
+          70,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "mainthen",
+      "source": "Asset/Character/vfx/mainthen.gif",
+      "source_sha256": "36722ce0b35fa0b7f8a622be1d12e4133be9c4f0fd97125656224abf2c4e9700",
+      "frames": 53,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 49,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "maono",
+      "source": "Asset/Character/vfx/maono.gif",
+      "source_sha256": "09e62a9e285b158a367698fca86e36e50d5921d172e1dfd03713d3285d7a57a9",
+      "frames": 47,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          11,
+          66,
+          95,
+          255
+        ],
+        [
+          12,
+          66,
+          95,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "mark",
+      "source": "Asset/Character/vfx/mark.gif",
+      "source_sha256": "5c4c2fa230ceb07259b18dc6c4e5b7ca7b6492f3a8a4095196dc51f1d1c1d0d5",
+      "frames": 88,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 88,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "midnight",
+      "source": "Asset/Character/vfx/midnight.gif",
+      "source_sha256": "0facc47237510916894709a048db38ae9cd5b49fd9b8529e52d01774317c3d60",
+      "frames": 64,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 62,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "moca",
+      "source": "Asset/Character/vfx/moca.gif",
+      "source_sha256": "ad4c83a881d4257a2fa4e8812664dd2d6592e10a4190dc70db297322a9afa1bb",
+      "frames": 120,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 116,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "modfin",
+      "source": "Asset/Character/vfx/modfin.gif",
+      "source_sha256": "20e9fd224c168ff91e596f117ec4e71c79603095de29ca73f72205c6180686b5",
+      "frames": 50,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 50,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "monster",
+      "source": "Asset/Character/vfx/monster.gif",
+      "source_sha256": "cb2b33c892225276e92be6728ccecfaf5e1d71949ef1ba7fbf6c2d0c3d062128",
+      "frames": 58,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 58,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "monsterdead",
+      "source": "Asset/Character/vfx/monsterdead.gif",
+      "source_sha256": "5c78f8b25073eda1f0fb05e89fe240d93b94bc2ba7d1f599b2fd36dc77ece393",
+      "frames": 10,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 10,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "monstermap",
+      "source": "Asset/Character/vfx/monstermap.gif",
+      "source_sha256": "3ba8217b8ca41f13d1b87206add03ea65269d6c24475b7184e8cc3ee6554a01d",
+      "frames": 40,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 39,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "monterlaze",
+      "source": "Asset/Character/vfx/monterlaze.gif",
+      "source_sha256": "496d5239aeffa7232595759d42bc0f2db53d3a4a22cdab42983409f797d36e04",
+      "frames": 50,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 48,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "monterpie",
+      "source": "Asset/Character/vfx/monterpie.gif",
+      "source_sha256": "1d344d38adfa08fdbfc3df5206c86dcdd676a0bc0b85a22d08447b52dc624447",
+      "frames": 65,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 48,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "morexem",
+      "source": "Asset/Character/vfx/morexem.gif",
+      "source_sha256": "c5fb507b386568e39445fe6827a688e1b2748777cb531bf8223e41d6c1eaaea9",
+      "frames": 90,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          4,
+          24,
+          38,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "mortafi",
+      "source": "Asset/Character/vfx/mortafi.gif",
+      "source_sha256": "1152258709991c2ab2cc1ecbf7c286b08062763d84c5c2cabf7519c441871ffa",
+      "frames": 44,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 1,
+      "corner_colors": [
+        [
+          3,
+          40,
+          74,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "moxfi",
+      "source": "Asset/Character/vfx/moxfi.gif",
+      "source_sha256": "82cf70b83d26613f699a46a40ecfd587b6bba4928418fc47cb4636d71d0c09bf",
+      "frames": 24,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 20,
+      "corner_colors": [
+        [
+          4,
+          50,
+          68,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "moxie",
+      "source": "Asset/Character/vfx/moxie.gif",
+      "source_sha256": "c58cf94bfe13df81a523f5ad975c84e97579e00061c704bae844ede2435d471e",
+      "frames": 97,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 86,
+      "corner_colors": [
+        [
+          80,
+          80,
+          64,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "newwomen",
+      "source": "Asset/Character/vfx/newwomen.gif",
+      "source_sha256": "dedff11dfd65ec1704919f0e69eecc451c419a1d806734f0d94cf5ed5a145ec9",
+      "frames": 72,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 67,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "ninjadead",
+      "source": "Asset/Character/vfx/ninjadead.gif",
+      "source_sha256": "2ae432f0274e34ace7834d905913956a9faf72eedab0f0d8698e9aeea906f968",
+      "frames": 47,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 47,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "nox",
+      "source": "Asset/Character/vfx/nox.gif",
+      "source_sha256": "a8c66d01969f3dff2bc1174dff41f343d2b91e74c1d79948a242db0b67e47270",
+      "frames": 47,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 43,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "omra",
+      "source": "Asset/Character/vfx/omra.gif",
+      "source_sha256": "2649a6dbcfb5ee30a723efdc4a797eb39938f4221f94742d00e523604f399370",
+      "frames": 46,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 44,
+      "corner_colors": [
+        [
+          46,
+          54,
+          54,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "overight",
+      "source": "Asset/Character/vfx/overight.gif",
+      "source_sha256": "95468ca0e3755de220040d894e29d48d827c8c3a278d4d04e8426c9c47e64cbe",
+      "frames": 48,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          5,
+          24,
+          38,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "overmap",
+      "source": "Asset/Character/vfx/overmap.gif",
+      "source_sha256": "b778603fb369427314b7aedd099b4e2a73d063c880ecb837d1222d2e0b4fc21c",
+      "frames": 68,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 68,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "oxiu",
+      "source": "Asset/Character/vfx/oxiu.gif",
+      "source_sha256": "686901448097f63ddfbee05df8377ed54d8dfe82ca1af3db1a3caa09757cd52c",
+      "frames": 48,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 48,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "poppy",
+      "source": "Asset/Character/vfx/poppy.gif",
+      "source_sha256": "0d5254b35bec1d988866337ad7a50ab42715518826452ef602f0d85ad742d92b",
+      "frames": 36,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 34,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "powerdame",
+      "source": "Asset/Character/vfx/powerdame.gif",
+      "source_sha256": "ddb920bf194d268df2abbed5230ad11f197b7becb9d6fd0cef13972df73b8b6c",
+      "frames": 28,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 21,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "pygon",
+      "source": "Asset/Character/vfx/pygon.gif",
+      "source_sha256": "ed94b28c8591862caa8ed790af503b8b2b1c7e5f4a6b9be9da0f1986192533b1",
+      "frames": 47,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 37,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "raptor",
+      "source": "Asset/Character/vfx/raptor.gif",
+      "source_sha256": "28ad05e0cff40baa685d103637b4779ac995d3f57b9fb66813bf0271f454c616",
+      "frames": 86,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 86,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "reptail",
+      "source": "Asset/Character/vfx/reptail.gif",
+      "source_sha256": "719bd533e1f3c70df4686fb7f8e085f9988d32db15ced338a9ff6ccfbc770dc8",
+      "frames": 57,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 56,
+      "corner_colors": [
+        [
+          6,
+          76,
+          108,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "reptalian",
+      "source": "Asset/Character/vfx/reptalian.gif",
+      "source_sha256": "985e82795c32c44e076e8ec3bbdd420a883fd1599f0ebe9d7dfec7ae4037c9a8",
+      "frames": 19,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 19,
+      "corner_colors": [
+        [
+          225,
+          225,
+          225,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "samurai",
+      "source": "Asset/Character/vfx/samurai.gif",
+      "source_sha256": "208e72c622849a97e34e5f9b067cf2f2d889da5a80a8dc7528c14d1127ce3c92",
+      "frames": 66,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 66,
+      "corner_colors": [
+        [
+          3,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "scatra",
+      "source": "Asset/Character/vfx/scatra.gif",
+      "source_sha256": "3aa519d494d43568b338da21979238b6d1fee87b102778cc4145d4035b0fb929",
+      "frames": 67,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 67,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "scopion",
+      "source": "Asset/Character/vfx/scopion.gif",
+      "source_sha256": "f86e735e5330d65c61bf10047ede28c5e674c26c6695ddbe70779cfd841ec1bc",
+      "frames": 53,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 51,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "score",
+      "source": "Asset/Character/vfx/score.gif",
+      "source_sha256": "156ccf50306654a9b6c7035ad401a613e05e9479df5e2fe68e18ff88634fb379",
+      "frames": 32,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 30,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "scorpit",
+      "source": "Asset/Character/vfx/scorpit.gif",
+      "source_sha256": "e71168056dce8539ca817e33d02d5c51da18d08d115fcb31b8216dc3e1a62272",
+      "frames": 40,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 36,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "scot",
+      "source": "Asset/Character/vfx/scot.gif",
+      "source_sha256": "92a9a90620e676296fc4da2ac4a7c2019c337d17a98024e13ada5be1259f14f5",
+      "frames": 10,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 9,
+      "corner_colors": [
+        [
+          189,
+          132,
+          106,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "shellop",
+      "source": "Asset/Character/vfx/shellop.gif",
+      "source_sha256": "87cf42cff9231e6709ddd5f8e787cf75be9b819a0d7f2f89bd9a87ac82c9c836",
+      "frames": 29,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 23,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "skyles",
+      "source": "Asset/Character/vfx/skyles.gif",
+      "source_sha256": "fe41141ae042fbc3e96a6f9f597ece0fee210c756d564e18a029ffa6d7343bbd",
+      "frames": 96,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 90,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "skylian",
+      "source": "Asset/Character/vfx/skylian.gif",
+      "source_sha256": "a63b5697dc0cb2ee829620e13a43401e7227c29300805f93f2be1ad611f19aa4",
+      "frames": 12,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 12,
+      "corner_colors": [
+        [
+          31,
+          55,
+          85,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "skypit",
+      "source": "Asset/Character/vfx/skypit.gif",
+      "source_sha256": "e273211ede18e3da9257b162e8863bde8e8f919d12e5092212e9dfe5037223bb",
+      "frames": 65,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          4,
+          24,
+          38,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "slowdame",
+      "source": "Asset/Character/vfx/slowdame.gif",
+      "source_sha256": "da75d83e78ffcc3253ca8739586c8b9799fa0b0171db51632d0ce300e01d27f4",
+      "frames": 26,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 26,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "smaxin",
+      "source": "Asset/Character/vfx/smaxin.gif",
+      "source_sha256": "b698903eb411144524ae3bfeae5cda1729eb61295c803f97f219973ea7444acf",
+      "frames": 51,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 49,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "snax",
+      "source": "Asset/Character/vfx/snax.gif",
+      "source_sha256": "aff0937a72c65202dc774981e1532a8e37a566cce428e979dae3e05b423ee4b3",
+      "frames": 120,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 120,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "snicore",
+      "source": "Asset/Character/vfx/snicore.gif",
+      "source_sha256": "ac42c2b21e4b33e088b70a1d0c204aa69f700b2b56872773aa162e381de6da1b",
+      "frames": 55,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 55,
+      "corner_colors": [
+        [
+          51,
+          51,
+          51,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "snowpie",
+      "source": "Asset/Character/vfx/snowpie.gif",
+      "source_sha256": "2bb818caba8429c3eeddf3ea66aa18c8f834567557a52c3e5146108bf03451d2",
+      "frames": 49,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 49,
+      "corner_colors": [
+        [
+          0,
+          48,
+          66,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "snowtiger",
+      "source": "Asset/Character/vfx/snowtiger.gif",
+      "source_sha256": "9458a7c59fa28777167d4a4249e212467803d814d503856ee2c5161bcf08cf68",
+      "frames": 30,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 30,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "swordame",
+      "source": "Asset/Character/vfx/swordame.gif",
+      "source_sha256": "81e7d655eeab958b0177d4ca2681b1fabb797a320917ca50e98e125222dfe142",
+      "frames": 39,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 39,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "tailer",
+      "source": "Asset/Character/vfx/tailer.gif",
+      "source_sha256": "1d8d5ea70178e2239843189ed4b3c2009e36cbb04719280e95abcffa03f5c2b7",
+      "frames": 45,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 45,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "tigerknight",
+      "source": "Asset/Character/vfx/tigerknight.gif",
+      "source_sha256": "e5e5f1e28ab0a71deb074d6605071b34ba0110e4ce9c4c6abe85a3edf4206cb5",
+      "frames": 66,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 0,
+      "corner_colors": [
+        [
+          5,
+          24,
+          38,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "trike",
+      "source": "Asset/Character/vfx/trike.gif",
+      "source_sha256": "d4122d6064fad16c676ba132e6ebbfcc7e2547c8469bc6ba32c684545f262b12",
+      "frames": 8,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 8,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "vanfox",
+      "source": "Asset/Character/vfx/vanfox.gif",
+      "source_sha256": "cecdeb760bde8246300bb1bc1347c12f5131a27f90270ed6d05b9d1b00f2e25e",
+      "frames": 46,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 41,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "vemou",
+      "source": "Asset/Character/vfx/vemou.gif",
+      "source_sha256": "681e1b02bab6ce313cb309da7ac4fce1dd3339985d6df416d0a0dd87ff9eb263",
+      "frames": 52,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 51,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "vivian",
+      "source": "Asset/Character/vfx/vivian.gif",
+      "source_sha256": "4f4367a74f444111539cc3730299aa02adadf97574a1b859e7815a212caeed2c",
+      "frames": 60,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 46,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "waven",
+      "source": "Asset/Character/vfx/waven.gif",
+      "source_sha256": "87403e923838401a42d3446e8f1636472d84c0dbd98fd87651cc073857f8703d",
+      "frames": 47,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 44,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "wavinges",
+      "source": "Asset/Character/vfx/wavinges.gif",
+      "source_sha256": "5f8c8276931f9812974224c9a3e19dfc631ace4d13196897136e3d736684f926",
+      "frames": 24,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 21,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "wavyin",
+      "source": "Asset/Character/vfx/wavyin.gif",
+      "source_sha256": "e71168056dce8539ca817e33d02d5c51da18d08d115fcb31b8216dc3e1a62272",
+      "frames": 40,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 36,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "wordknight",
+      "source": "Asset/Character/vfx/wordknight.gif",
+      "source_sha256": "8a25ac384bdb311eefb99ef0777f1cc6632a26f1ea3409bc45e33af24cd26dae",
+      "frames": 74,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 71,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "wothem",
+      "source": "Asset/Character/vfx/wothem.gif",
+      "source_sha256": "10074896d7154d84a1146cd81b66889435362c7718645fe835a0ede3579f12bc",
+      "frames": 9,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 9,
+      "corner_colors": [
+        [
+          127,
+          127,
+          127,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "wuchen",
+      "source": "Asset/Character/vfx/wuchen.gif",
+      "source_sha256": "88c1a9c837b29ad4506715d3ea87a45e458a21ab2b2d002bd07f9758e0b11e42",
+      "frames": 47,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 46,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "wukongchen",
+      "source": "Asset/Character/vfx/wukongchen.gif",
+      "source_sha256": "5acf677538cfb1c30eb084cbcf9b7c6ad8516f597650fe80b68c164633a2fa5b",
+      "frames": 32,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 29,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "wutan",
+      "source": "Asset/Character/vfx/wutan.gif",
+      "source_sha256": "a81ad7273c8d99ae96d5bedc9253089fa5e032ce7adba62efce44e1be1205d66",
+      "frames": 67,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 67,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "yoyo",
+      "source": "Asset/Character/vfx/yoyo.gif",
+      "source_sha256": "ed71a9dc6bb7793477c4c39f79b78486a82c2ccb94b3a10c2a258d3ab8944c9c",
+      "frames": 50,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 46,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "complex_or_varying_border",
+      "status": "automatic_measurement_unreviewed"
+    },
+    {
+      "id": "ziggist",
+      "source": "Asset/Character/vfx/ziggist.gif",
+      "source_sha256": "38eaa37fa4508e2844800f448a45e1dbd1ad9687fcaf5bf50129e39ed6bd81d8",
+      "frames": 32,
+      "frames_with_transparency": 0,
+      "frames_with_uniform_border": 32,
+      "corner_colors": [
+        [
+          4,
+          50,
+          71,
+          255
+        ]
+      ],
+      "category": "solid_border_candidate",
+      "status": "automatic_measurement_unreviewed"
+    }
+  ]
+}

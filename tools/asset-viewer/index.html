@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>GodWar · Kiểm thử hoạt ảnh</title><link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <header><div><span class="eyebrow">GODWAR / ASSET LAB</span><h1>Kiểm thử hoạt ảnh</h1></div><span class="badge">Công cụ xem nguồn</span></header>
+  <main>
+    <aside>
+      <div class="aside-head"><h2>Danh sách GIF</h2><span id="count">Đang tải…</span></div>
+      <label class="search-label" for="search">Tìm theo tên</label><input id="search" type="search" placeholder="Ví dụ: amore, Kahn…" autocomplete="off">
+      <div id="asset-list" class="asset-list" aria-label="Danh sách GIF"></div>
+      <a class="video-link" href="/Asset/Character/vfx/sword.mp4" target="_blank" rel="noopener">Mở video nguồn: sword.mp4 ↗</a>
+    </aside>
+    <section class="viewer" aria-label="Trình xem hoạt ảnh">
+      <div class="viewer-head"><div><span class="eyebrow">ĐANG XEM</span><h2 id="asset-name">Chọn một GIF</h2><p id="asset-info">Các frame giữ nguyên thời gian từ nguồn.</p></div><a id="source-link" target="_blank" rel="noopener" hidden>Xem GIF gốc ↗</a></div>
+      <div id="stage" class="stage checker"><canvas id="canvas" aria-label="Frame hoạt ảnh"></canvas><p id="stage-message">Đang tải dữ liệu…</p></div>
+      <div class="timeline"><div class="timeline-label"><span id="frame-label">Frame —</span><span id="duration-label">— ms</span></div><input id="frame" type="range" min="0" max="0" value="0" aria-label="Chọn frame"></div>
+      <div class="segment"><span>Lặp đoạn (chỉ số frame, bắt đầu từ 0)</span><label>Từ <input id="segment-start" type="number" min="0" value="0"></label><label>Đến <input id="segment-end" type="number" min="0" value="0"></label><button id="apply-segment">Áp dụng</button><button id="reset-segment">Toàn bộ</button><span id="segment-message" role="status"></span></div>
+      <div class="controls">
+        <button id="previous" title="Frame trước">Trước</button><button id="play" class="primary">Tạm dừng</button><button id="next" title="Frame tiếp">Tiếp</button>
+        <label>Tốc độ <select id="speed"><option value="0.25">0.25×</option><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="2">2×</option><option value="4">4×</option></select></label>
+        <label>Phóng to <select id="zoom"><option value="fit">Vừa khung</option><option value="1">1×</option><option value="2">2×</option><option value="4">4×</option></select></label>
+        <label>Nền <select id="background"><option value="checker">Ô vuông</option><option value="dark">Tối</option><option value="light">Sáng</option><option value="green">Xanh lá</option></select></label>
+        <label>Phiên bản <select id="variant"><option value="extracted">Atlas nguồn</option></select></label>
+        <label class="check"><input id="flip" type="checkbox"> Lật trái / phải</label>
+      </div>
+      <p id="note" class="note">Atlas nguồn có thể bao gồm nền, nhân vật và VFX trong cùng một ảnh. Vòng lặp tại đây dùng để xem liên tục.</p>
+      <div id="observations" class="observations"></div>
+    </section>
+  </main>
+  <script type="module" src="/app.js"></script>
+</body></html>

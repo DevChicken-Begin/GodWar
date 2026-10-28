@@ -1,0 +1,1564 @@
+{
+  "version": 1,
+  "method": "Exact aligned per-frame source-grid validation; no source modification; only complete candidate directories published.",
+  "results": [
+    {
+      "id": "agon",
+      "status": "excluded_already_requested"
+    },
+    {
+      "id": "airpot",
+      "status": "excluded_already_requested"
+    },
+    {
+      "id": "aminao",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "amore",
+      "status": "excluded_already_requested"
+    },
+    {
+      "id": "animent",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "anomen",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 19,
+      "logical_canvas": [
+        128,
+        128
+      ],
+      "refined_canvas": [
+        256,
+        256
+      ],
+      "changed_subpixels": 6901
+    },
+    {
+      "id": "aoda",
+      "status": "excluded_already_requested"
+    },
+    {
+      "id": "aonoma",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "artemis",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "assing",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 55,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 25955
+    },
+    {
+      "id": "astra",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 49,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 26761
+    },
+    {
+      "id": "aumen",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 67,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 42060
+    },
+    {
+      "id": "aument",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "auranient",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "auroma",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 57,
+      "logical_canvas": [
+        80,
+        80
+      ],
+      "refined_canvas": [
+        160,
+        160
+      ],
+      "changed_subpixels": 17053
+    },
+    {
+      "id": "aurora",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 36,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 22290
+    },
+    {
+      "id": "authen",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "azil",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 30,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 10865
+    },
+    {
+      "id": "azou",
+      "status": "created_unreviewed",
+      "period": 5,
+      "frames": 48,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 10075
+    },
+    {
+      "id": "azza",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 47,
+      "logical_canvas": [
+        80,
+        80
+      ],
+      "refined_canvas": [
+        160,
+        160
+      ],
+      "changed_subpixels": 11572
+    },
+    {
+      "id": "bearen",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "bearfire",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 66,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 40116
+    },
+    {
+      "id": "biden",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "black",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "blackdog",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "blacktiger",
+      "status": "created_unreviewed",
+      "period": 5,
+      "frames": 26,
+      "logical_canvas": [
+        166,
+        204
+      ],
+      "refined_canvas": [
+        332,
+        408
+      ],
+      "changed_subpixels": 13472
+    },
+    {
+      "id": "bomer",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 39,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 9457
+    },
+    {
+      "id": "botem",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "botic",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 54,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 38025
+    },
+    {
+      "id": "camword",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 30,
+      "logical_canvas": [
+        115,
+        115
+      ],
+      "refined_canvas": [
+        230,
+        230
+      ],
+      "changed_subpixels": 23303
+    },
+    {
+      "id": "changlie",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 43,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 31425
+    },
+    {
+      "id": "choptian",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 48,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 33464
+    },
+    {
+      "id": "comca",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 95,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 76031
+    },
+    {
+      "id": "conden",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 48,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 20317
+    },
+    {
+      "id": "corepion",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "costmic",
+      "status": "created_unreviewed",
+      "period": 5,
+      "frames": 92,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 41350
+    },
+    {
+      "id": "crapit",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 24,
+      "logical_canvas": [
+        128,
+        128
+      ],
+      "refined_canvas": [
+        256,
+        256
+      ],
+      "changed_subpixels": 15047
+    },
+    {
+      "id": "diana",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 54,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 26252
+    },
+    {
+      "id": "dong",
+      "status": "created_unreviewed",
+      "period": 5,
+      "frames": 96,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 68274
+    },
+    {
+      "id": "dracian",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "dragonight",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "dragonmout",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "ethan",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 10,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 4664
+    },
+    {
+      "id": "fireknight",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "firemen",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 116,
+      "logical_canvas": [
+        129,
+        90
+      ],
+      "refined_canvas": [
+        258,
+        180
+      ],
+      "changed_subpixels": 32513
+    },
+    {
+      "id": "firer",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 113,
+      "logical_canvas": [
+        128,
+        128
+      ],
+      "refined_canvas": [
+        256,
+        256
+      ],
+      "changed_subpixels": 52414
+    },
+    {
+      "id": "flybird",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 49,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 19143
+    },
+    {
+      "id": "ghostian",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 22,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 12437
+    },
+    {
+      "id": "ghostic",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 38,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 28042
+    },
+    {
+      "id": "gin",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 31,
+      "logical_canvas": [
+        80,
+        80
+      ],
+      "refined_canvas": [
+        160,
+        160
+      ],
+      "changed_subpixels": 11165
+    },
+    {
+      "id": "guard",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 118,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 46746
+    },
+    {
+      "id": "haden",
+      "status": "created_unreviewed",
+      "period": 5,
+      "frames": 106,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 52114
+    },
+    {
+      "id": "hades",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 98,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 76973
+    },
+    {
+      "id": "hox",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 51,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 31041
+    },
+    {
+      "id": "hydra",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 24,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 14270
+    },
+    {
+      "id": "iternal",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 26,
+      "logical_canvas": [
+        140,
+        140
+      ],
+      "refined_canvas": [
+        280,
+        280
+      ],
+      "changed_subpixels": 23516
+    },
+    {
+      "id": "jaik",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "javis",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 47,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 16269
+    },
+    {
+      "id": "jaying",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 8,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 2689
+    },
+    {
+      "id": "Kahn",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 111,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 57569
+    },
+    {
+      "id": "kapicon",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 47,
+      "logical_canvas": [
+        80,
+        80
+      ],
+      "refined_canvas": [
+        160,
+        160
+      ],
+      "changed_subpixels": 18343
+    },
+    {
+      "id": "knel",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 59,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 23259
+    },
+    {
+      "id": "knigblack",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "knight",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 54,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 37200
+    },
+    {
+      "id": "kukang",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 75,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 56737
+    },
+    {
+      "id": "kumen",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 56,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 33207
+    },
+    {
+      "id": "kungchang",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 61,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 24482
+    },
+    {
+      "id": "lois",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "magicer",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 11,
+      "logical_canvas": [
+        80,
+        80
+      ],
+      "refined_canvas": [
+        160,
+        160
+      ],
+      "changed_subpixels": 4860
+    },
+    {
+      "id": "magicleo",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 55,
+      "logical_canvas": [
+        140,
+        140
+      ],
+      "refined_canvas": [
+        280,
+        280
+      ],
+      "changed_subpixels": 39632
+    },
+    {
+      "id": "mainmout",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 53,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 17355
+    },
+    {
+      "id": "mainthen",
+      "status": "no_exact_grid_all_frames",
+      "first_nonuniform_frame": 42
+    },
+    {
+      "id": "maono",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "mark",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 88,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 28263
+    },
+    {
+      "id": "midnight",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "moca",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 120,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 55921
+    },
+    {
+      "id": "modfin",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 50,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 27454
+    },
+    {
+      "id": "monster",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 58,
+      "logical_canvas": [
+        110,
+        110
+      ],
+      "refined_canvas": [
+        220,
+        220
+      ],
+      "changed_subpixels": 35367
+    },
+    {
+      "id": "monsterdead",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 10,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 8297
+    },
+    {
+      "id": "monstermap",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 40,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 21529
+    },
+    {
+      "id": "monterlaze",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 50,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 30484
+    },
+    {
+      "id": "monterpie",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 65,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 42359
+    },
+    {
+      "id": "mortafi",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "moxfi",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 24,
+      "logical_canvas": [
+        80,
+        80
+      ],
+      "refined_canvas": [
+        160,
+        160
+      ],
+      "changed_subpixels": 11740
+    },
+    {
+      "id": "moxie",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "newwomen",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 72,
+      "logical_canvas": [
+        128,
+        128
+      ],
+      "refined_canvas": [
+        256,
+        256
+      ],
+      "changed_subpixels": 18705
+    },
+    {
+      "id": "ninjadead",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 47,
+      "logical_canvas": [
+        140,
+        140
+      ],
+      "refined_canvas": [
+        280,
+        280
+      ],
+      "changed_subpixels": 23911
+    },
+    {
+      "id": "nox",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "omra",
+      "status": "created_unreviewed",
+      "period": 5,
+      "frames": 46,
+      "logical_canvas": [
+        120,
+        100
+      ],
+      "refined_canvas": [
+        240,
+        200
+      ],
+      "changed_subpixels": 25437
+    },
+    {
+      "id": "overight",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "overmap",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 68,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 29702
+    },
+    {
+      "id": "oxiu",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 48,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 34504
+    },
+    {
+      "id": "pigpor",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 44,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 21771
+    },
+    {
+      "id": "poppy",
+      "status": "created_unreviewed",
+      "period": 5,
+      "frames": 36,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 8364
+    },
+    {
+      "id": "powerdame",
+      "status": "no_exact_grid_all_frames",
+      "first_nonuniform_frame": 7
+    },
+    {
+      "id": "pygon",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 47,
+      "logical_canvas": [
+        110,
+        110
+      ],
+      "refined_canvas": [
+        220,
+        220
+      ],
+      "changed_subpixels": 19861
+    },
+    {
+      "id": "ractalo",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 64,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 41193
+    },
+    {
+      "id": "raptilian",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 47,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 35872
+    },
+    {
+      "id": "raptor",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 86,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 55158
+    },
+    {
+      "id": "rep",
+      "status": "created_unreviewed",
+      "period": 5,
+      "frames": 25,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 10071
+    },
+    {
+      "id": "reptail",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 57,
+      "logical_canvas": [
+        125,
+        125
+      ],
+      "refined_canvas": [
+        250,
+        250
+      ],
+      "changed_subpixels": 37130
+    },
+    {
+      "id": "reptalian",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 48,
+      "logical_canvas": [
+        115,
+        115
+      ],
+      "refined_canvas": [
+        230,
+        230
+      ],
+      "changed_subpixels": 36847
+    },
+    {
+      "id": "samurai",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "scatra",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 67,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 43028
+    },
+    {
+      "id": "scopion",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 53,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 27927
+    },
+    {
+      "id": "score",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 32,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 17679
+    },
+    {
+      "id": "scorpit",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "shellop",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 29,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 16207
+    },
+    {
+      "id": "skyles",
+      "status": "no_exact_grid_all_frames",
+      "first_nonuniform_frame": 12
+    },
+    {
+      "id": "skypit",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "smaxin",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 51,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 37772
+    },
+    {
+      "id": "snax",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 120,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 36009
+    },
+    {
+      "id": "snowpie",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "snowtiger",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 30,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 8335
+    },
+    {
+      "id": "swordame",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 39,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 19816
+    },
+    {
+      "id": "tailer",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 45,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 17520
+    },
+    {
+      "id": "tigerknight",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "vanfox",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 46,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 41878
+    },
+    {
+      "id": "vargost",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 83,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 46217
+    },
+    {
+      "id": "vemou",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "vivian",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 60,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 40796
+    },
+    {
+      "id": "waven",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 47,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 27122
+    },
+    {
+      "id": "wavinges",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 24,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 8153
+    },
+    {
+      "id": "wordknight",
+      "status": "created_unreviewed",
+      "period": 6,
+      "frames": 74,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 48723
+    },
+    {
+      "id": "wuchen",
+      "status": "no_exact_grid_in_samples"
+    },
+    {
+      "id": "wukongchen",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 32,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 18090
+    },
+    {
+      "id": "wutan",
+      "status": "created_unreviewed",
+      "period": 4,
+      "frames": 67,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 34218
+    },
+    {
+      "id": "xinchan",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 96,
+      "logical_canvas": [
+        130,
+        130
+      ],
+      "refined_canvas": [
+        260,
+        260
+      ],
+      "changed_subpixels": 45165
+    },
+    {
+      "id": "yoyo",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 50,
+      "logical_canvas": [
+        120,
+        120
+      ],
+      "refined_canvas": [
+        240,
+        240
+      ],
+      "changed_subpixels": 35341
+    },
+    {
+      "id": "ziggist",
+      "status": "created_unreviewed",
+      "period": 3,
+      "frames": 32,
+      "logical_canvas": [
+        100,
+        100
+      ],
+      "refined_canvas": [
+        200,
+        200
+      ],
+      "changed_subpixels": 13446
+    },
+    {
+      "id": "solist",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 52,
+      "logical_canvas": [
+        150,
+        150
+      ],
+      "refined_canvas": [
+        300,
+        300
+      ],
+      "changed_subpixels": 35244
+    },
+    {
+      "id": "namero",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 50,
+      "logical_canvas": [
+        150,
+        150
+      ],
+      "refined_canvas": [
+        300,
+        300
+      ],
+      "changed_subpixels": 23912
+    },
+    {
+      "id": "kukaomni",
+      "status": "created_unreviewed",
+      "period": 2,
+      "frames": 54,
+      "logical_canvas": [
+        150,
+        150
+      ],
+      "refined_canvas": [
+        300,
+        300
+      ],
+      "changed_subpixels": 27715
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "generate2dsprite.palette.v1",
+  "colors": [
+    {
+      "hex": "#000000"
+    },
+    {
+      "hex": "#332c34"
+    },
+    {
+      "hex": "#413942"
+    },
+    {
+      "hex": "#5b4c57"
+    },
+    {
+      "hex": "#665761"
+    },
+    {
+      "hex": "#196778"
+    },
+    {
+      "hex": "#776d74"
+    },
+    {
+      "hex": "#847981"
+    },
+    {
+      "hex": "#3a8d9f"
+    },
+    {
+      "hex": "#5baeab"
+    },
+    {
+      "hex": "#79c7b7"
+    }
+  ],
+  "transparent_index": 255,
+  "locked": false,
+  "source": "pixel_reduce: OKLab k-means++ of 1 image(s), 11 colours, seed 0"
+}

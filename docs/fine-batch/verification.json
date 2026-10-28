@@ -1,0 +1,564 @@
+{
+  "version": 1,
+  "method": "Validate input hashes, exact per-frame grid, RGBA palette, timings, logical frames and reconstructed preview atlas; does not approve aesthetics or VFX.",
+  "results": [
+    {
+      "id": "anomen",
+      "frames": 19,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "assing",
+      "frames": 55,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "astra",
+      "frames": 49,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "aumen",
+      "frames": 67,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "auroma",
+      "frames": 57,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "aurora",
+      "frames": 36,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "azil",
+      "frames": 30,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "azou",
+      "frames": 48,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "azza",
+      "frames": 47,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "bearfire",
+      "frames": 66,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "blacktiger",
+      "frames": 26,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "bomer",
+      "frames": 39,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "botic",
+      "frames": 54,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "camword",
+      "frames": 30,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "changlie",
+      "frames": 43,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "choptian",
+      "frames": 48,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "comca",
+      "frames": 95,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "conden",
+      "frames": 48,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "costmic",
+      "frames": 92,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "crapit",
+      "frames": 24,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "diana",
+      "frames": 54,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "dong",
+      "frames": 96,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "ethan",
+      "frames": 10,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "firemen",
+      "frames": 116,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "firer",
+      "frames": 113,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "flybird",
+      "frames": 49,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "ghostian",
+      "frames": 22,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "ghostic",
+      "frames": 38,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "gin",
+      "frames": 31,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "guard",
+      "frames": 118,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "haden",
+      "frames": 106,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "hades",
+      "frames": 98,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "hox",
+      "frames": 51,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "hydra",
+      "frames": 24,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "iternal",
+      "frames": 26,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "javis",
+      "frames": 47,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "jaying",
+      "frames": 8,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "Kahn",
+      "frames": 111,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "kapicon",
+      "frames": 47,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "knel",
+      "frames": 59,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "knight",
+      "frames": 54,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "kukang",
+      "frames": 75,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "kumen",
+      "frames": 56,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "kungchang",
+      "frames": 61,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "magicer",
+      "frames": 11,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "magicleo",
+      "frames": 55,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "mainmout",
+      "frames": 53,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "mark",
+      "frames": 88,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "moca",
+      "frames": 120,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "modfin",
+      "frames": 50,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "monster",
+      "frames": 58,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "monsterdead",
+      "frames": 10,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "monstermap",
+      "frames": 40,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "monterlaze",
+      "frames": 50,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "monterpie",
+      "frames": 65,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "moxfi",
+      "frames": 24,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "newwomen",
+      "frames": 72,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "ninjadead",
+      "frames": 47,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "omra",
+      "frames": 46,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "overmap",
+      "frames": 68,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "oxiu",
+      "frames": 48,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "pigpor",
+      "frames": 44,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "poppy",
+      "frames": 36,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "pygon",
+      "frames": 47,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "ractalo",
+      "frames": 64,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "raptilian",
+      "frames": 47,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "raptor",
+      "frames": 86,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "rep",
+      "frames": 25,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "reptail",
+      "frames": 57,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "reptalian",
+      "frames": 48,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "scatra",
+      "frames": 67,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "scopion",
+      "frames": 53,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "score",
+      "frames": 32,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "shellop",
+      "frames": 29,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "smaxin",
+      "frames": 51,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "snax",
+      "frames": 120,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "snowtiger",
+      "frames": 30,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "swordame",
+      "frames": 39,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "tailer",
+      "frames": 45,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "vanfox",
+      "frames": 46,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "vargost",
+      "frames": 83,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "vivian",
+      "frames": 60,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "waven",
+      "frames": 47,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "wavinges",
+      "frames": 24,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "wordknight",
+      "frames": 74,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "wukongchen",
+      "frames": 32,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "wutan",
+      "frames": 67,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "xinchan",
+      "frames": 96,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "yoyo",
+      "frames": 50,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "ziggist",
+      "frames": 32,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "solist",
+      "frames": 52,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "namero",
+      "frames": 50,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    },
+    {
+      "id": "kukaomni",
+      "frames": 54,
+      "pixel_check": "passed",
+      "visual_review": "pending"
+    }
+  ]
+}

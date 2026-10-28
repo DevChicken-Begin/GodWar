@@ -6,7 +6,7 @@ from pathlib import Path
 import numpy as np
 from PIL import Image
 ROOT=Path(__file__).resolve().parents[1]; ASSETS=ROOT/'Asset/Character'
-NAMES=('athen','morexem','overight','skypit','tigerknight')
+NAMES=('overight','skypit','tigerknight')
 
 
 def create(entry):

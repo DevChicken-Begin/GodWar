@@ -1,0 +1,980 @@
+{
+  "id": "artemis",
+  "source": "Asset/Character/vfx/artemis.gif",
+  "source_sha256": "1f9dcaa35af1f22661c41f4b7f2aba7523b7c3c5e85f50f361268d48c978db24",
+  "base_candidate": "detail_130_candidates",
+  "base_input_sha256": {
+    "Asset/Character/review/artemis/detail_130_frames/frame_000.png": "0fb79c8b38f411ae2a890007e521328ec1b2944d3200a643d1eae6521e3a2223",
+    "Asset/Character/review/artemis/detail_130_frames/frame_001.png": "172de46b8f5a7080aa82f5494d9d1adf35b075c945e4dce628ba6470d37ea3a7",
+    "Asset/Character/review/artemis/detail_130_frames/frame_002.png": "31ff9efc2dc4aa0b70b5f371ced38bbfb5f64a2d2b8a865c8a2002b54a381bcb",
+    "Asset/Character/review/artemis/detail_130_frames/frame_003.png": "2203bfed364b0a716d1f75808d49fd76a0f2f3a3eaf82f6607e2c5f01eab4427",
+    "Asset/Character/review/artemis/detail_130_frames/frame_004.png": "95d752027b30e1b77627f9848661320499c3efa9f728f9b5ef719beb75205029",
+    "Asset/Character/review/artemis/detail_130_frames/frame_005.png": "23e8fa1c0043b409447ccb681a7d354000532aaeb2319732697f4beb01c8aa6d",
+    "Asset/Character/review/artemis/detail_130_frames/frame_006.png": "f84f57f641ebbb81967ef690fb587cfaa25a7d7d62dd0e62f37842be21766198",
+    "Asset/Character/review/artemis/detail_130_frames/frame_007.png": "59415a6b96c0bc488545ff2a4263f425e46b82588a5c70340ce5af44c9212167",
+    "Asset/Character/review/artemis/detail_130_frames/frame_008.png": "d664f375d19f71b1a5421f90b3fb78c3f65f97890b48e0c039da130ec19ac6d1",
+    "Asset/Character/review/artemis/detail_130_frames/frame_009.png": "280121c0453b64abc7b5c9550aa5a310b365ad8baf879b107b5f0cfc95196e28",
+    "Asset/Character/review/artemis/detail_130_frames/frame_010.png": "9b44661adfd8abea6a8cbca31571e3596de2fd85acf92d05dd5f095f6b6e9133",
+    "Asset/Character/review/artemis/detail_130_frames/frame_011.png": "74ca61407233819980025cc867943a5abb17ffa4defff9803e48ec9c24359e4b",
+    "Asset/Character/review/artemis/detail_130_frames/frame_012.png": "82a0eec163173488b53431372430407ca5dcbfe10e8a5172d6eaa35e52d1294a",
+    "Asset/Character/review/artemis/detail_130_frames/frame_013.png": "76e921eb8dcb08cbc8c9290b0094d92ffa3dd0377a73c08c06d29a1068d28bd5",
+    "Asset/Character/review/artemis/detail_130_frames/frame_014.png": "3a30a5e2d4ee4adfbbe0ff01267c85dc0b78efe99766ef7ff1878a4bf6cb809c",
+    "Asset/Character/review/artemis/detail_130_frames/frame_015.png": "99e0d307a45016306686e163d7ea7fc87aeafcc31929ce7680c347c4a2b6e1b4",
+    "Asset/Character/review/artemis/detail_130_frames/frame_016.png": "0fb79c8b38f411ae2a890007e521328ec1b2944d3200a643d1eae6521e3a2223",
+    "Asset/Character/review/artemis/detail_130_frames/frame_017.png": "172de46b8f5a7080aa82f5494d9d1adf35b075c945e4dce628ba6470d37ea3a7",
+    "Asset/Character/review/artemis/detail_130_frames/frame_018.png": "31ff9efc2dc4aa0b70b5f371ced38bbfb5f64a2d2b8a865c8a2002b54a381bcb",
+    "Asset/Character/review/artemis/detail_130_frames/frame_019.png": "2203bfed364b0a716d1f75808d49fd76a0f2f3a3eaf82f6607e2c5f01eab4427",
+    "Asset/Character/review/artemis/detail_130_frames/frame_020.png": "95d752027b30e1b77627f9848661320499c3efa9f728f9b5ef719beb75205029",
+    "Asset/Character/review/artemis/detail_130_frames/frame_021.png": "23e8fa1c0043b409447ccb681a7d354000532aaeb2319732697f4beb01c8aa6d",
+    "Asset/Character/review/artemis/detail_130_frames/frame_022.png": "f84f57f641ebbb81967ef690fb587cfaa25a7d7d62dd0e62f37842be21766198",
+    "Asset/Character/review/artemis/detail_130_frames/frame_023.png": "59415a6b96c0bc488545ff2a4263f425e46b82588a5c70340ce5af44c9212167",
+    "Asset/Character/review/artemis/detail_130_frames/frame_024.png": "d664f375d19f71b1a5421f90b3fb78c3f65f97890b48e0c039da130ec19ac6d1",
+    "Asset/Character/review/artemis/detail_130_frames/frame_025.png": "280121c0453b64abc7b5c9550aa5a310b365ad8baf879b107b5f0cfc95196e28",
+    "Asset/Character/review/artemis/detail_130_frames/frame_026.png": "9b44661adfd8abea6a8cbca31571e3596de2fd85acf92d05dd5f095f6b6e9133",
+    "Asset/Character/review/artemis/detail_130_frames/frame_027.png": "74ca61407233819980025cc867943a5abb17ffa4defff9803e48ec9c24359e4b",
+    "Asset/Character/review/artemis/detail_130_frames/frame_028.png": "82a0eec163173488b53431372430407ca5dcbfe10e8a5172d6eaa35e52d1294a",
+    "Asset/Character/review/artemis/detail_130_frames/frame_029.png": "76e921eb8dcb08cbc8c9290b0094d92ffa3dd0377a73c08c06d29a1068d28bd5",
+    "Asset/Character/review/artemis/detail_130_frames/frame_030.png": "3a30a5e2d4ee4adfbbe0ff01267c85dc0b78efe99766ef7ff1878a4bf6cb809c",
+    "Asset/Character/review/artemis/detail_130_frames/frame_031.png": "99e0d307a45016306686e163d7ea7fc87aeafcc31929ce7680c347c4a2b6e1b4",
+    "Asset/Character/review/artemis/detail_130_frames/frame_032.png": "7159c220e61133da08a228dc3e909f0ba14b48a3e0695f8d172beab408b1fe77",
+    "Asset/Character/review/artemis/detail_130_frames/frame_033.png": "12f18bc4e3702990c04307df91888676c7f10dc488f2836b9767397f1824211d",
+    "Asset/Character/review/artemis/detail_130_frames/frame_034.png": "30323523eaab41fbde82ae77444f6655c098f943d974fb4d98953aa95af7f76e",
+    "Asset/Character/review/artemis/detail_130_frames/frame_035.png": "2113e7fa52a3de9b5db3137eecb6a7ea31121013dec2c5149565ac8c15a3199d",
+    "Asset/Character/review/artemis/detail_130_frames/frame_036.png": "56996a1a0ea0d022f0acccc4a06a68b30630da8f1b42807897282ed362da8281",
+    "Asset/Character/review/artemis/detail_130_frames/frame_037.png": "861f8a688927ed9e2bd654cdeff8e5e168b856fc775ee6ffdcebd007ddca351c",
+    "Asset/Character/review/artemis/detail_130_frames/frame_038.png": "564bd9db8bee649a800f15f8e43505595d2f6386e0e50dd160cf9406919790fc",
+    "Asset/Character/review/artemis/detail_130_frames/frame_039.png": "e03470856f2f27132828579aa5dfde57fb1c7f52c8b1c01dd159e108456ad30f",
+    "Asset/Character/review/artemis/detail_130_frames/frame_040.png": "9c27efaf81c3bb980afbdb75af7b00d0b0905dd29237dfcc7d96516efafd70d3",
+    "Asset/Character/review/artemis/detail_130_frames/frame_041.png": "76290eb167ba82ee452ad3d3e704473e7d38cd6a7bbba24b9f4cd50cf753f009",
+    "Asset/Character/review/artemis/detail_130_frames/frame_042.png": "4ddc32e8d29d2d979d25c96ab15ec4f790b18869c15fb4ad35c6b7fb576bc509",
+    "Asset/Character/review/artemis/detail_130_frames/frame_043.png": "aafadce0275643be2826c251ace0c9edadead31377dc498340b37fb35f90ef51",
+    "Asset/Character/review/artemis/detail_130_frames/frame_044.png": "9065ab52e3df20a7f4d16a850d61d9941239324ba8c5649361d84026831bee64",
+    "Asset/Character/review/artemis/detail_130_frames/frame_045.png": "290d6970bf4bdf69fafaf4a1521cbe25cdaefddea49d37e1ad63f552ea7bdd0e",
+    "Asset/Character/review/artemis/detail_130_frames/frame_046.png": "54c23dd74e22ef87977d71be5aef6db5ff201e074f32cdfb810be28f982ab5da",
+    "Asset/Character/review/artemis/detail_130_frames/frame_047.png": "df388ee9562fad45a83241f575ed2fefe907845459d246829b1ca1892bd020a6",
+    "Asset/Character/review/artemis/detail_130_frames/frame_048.png": "5a8cd97caf7afa1c627dcb84f5c894f3ba45035494f21677f44793864f3f98f5",
+    "Asset/Character/review/artemis/detail_130_frames/frame_049.png": "bcd1a4c7505339e7ac1430cdee41027d8c704e1419dbf99231fa63cba86f6cb6",
+    "Asset/Character/review/artemis/detail_130_frames/frame_050.png": "9855c44657288266704894b144b5c51ae7001cb99a5ecb4e25d9f57bfe7f8be3",
+    "Asset/Character/review/artemis/detail_130_frames/frame_051.png": "befcdb73f8b40ab5fbe2709d7da9140a53117fb164fec757eeb8bc5d9c865cdb",
+    "Asset/Character/review/artemis/detail_130_frames/frame_052.png": "df4111231160da332c03425446b7f93bff76048e1aa4e9d01549669e5b4a13a7",
+    "Asset/Character/review/artemis/detail_130_frames/frame_053.png": "050c57534cae873ad3e4b09e4a1c5c323cb5384c44e6301ac04ffee65a9e385e",
+    "Asset/Character/review/artemis/detail_130_frames/frame_054.png": "7fe422923a01fa39a93d122d7c877208666764bf4eccc9f6445f8293f5b53aa0",
+    "Asset/Character/review/artemis/detail_130_frames/frame_055.png": "ed10904e19efc24d647f9f384b20fa211caea165245bb533932dc0cd761e74ad",
+    "Asset/Character/review/artemis/detail_130_frames/frame_056.png": "509d99411c117f724cde35e881b11bd4f5df765b9e728645b5a4f97b88dac396",
+    "Asset/Character/review/artemis/detail_130_frames/frame_057.png": "bcce262ebfd3455bdbcbad74455b2658079b76fa391cc21c51c600b53a27a86e",
+    "Asset/Character/review/artemis/detail_130_frames/frame_058.png": "a31f0cb5fe443513a4235c1cc8191fb7111a327abacc966d32db3d8f5b640c13",
+    "Asset/Character/review/artemis/detail_130_frames/frame_059.png": "14aab5e200b5de67617e0ad007dfd75aeabffdf207dc42f4215b2eaa4a1b839e",
+    "Asset/Character/review/artemis/detail_130_frames/frame_060.png": "fbfc424a2ecd9ba0f873456be0eaee476635f589c3caf8aff28ec0582e49b314",
+    "Asset/Character/review/artemis/detail_130_frames/frame_061.png": "b396efc07716d1a45cd1ca9cd1907ab43a7b261afd45574b6707be44b6f09371",
+    "Asset/Character/review/artemis/detail_130_frames/frame_062.png": "ffad8ede072705a90c42fa719b7a0767c3594c73800a520d359ede4c6dbbf774",
+    "Asset/Character/review/artemis/detail_130_frames/frame_063.png": "0e51d06c23b7cb411122f8b4e06293603792879fe5405691a9bfd3d32b3fad3a"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 64,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        468,
+        468
+      ]
+    }
+  ],
+  "display_size": [
+    300,
+    300
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

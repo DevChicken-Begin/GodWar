@@ -1,0 +1,462 @@
+{
+  "source": "Asset/Character/vfx/powerdame.gif",
+  "source_sha256": "ddb920bf194d268df2abbed5230ad11f197b7becb9d6fd0cef13972df73b8b6c",
+  "base_candidate": "batch_candidates",
+  "sample": null,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        300,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        900,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        300,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        300,
+        300,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        300,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        900,
+        300,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        300,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        300,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        600,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        300,
+        600,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        600,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        900,
+        600,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        600,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        600,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        900,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        300,
+        900,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        900,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        900,
+        900,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        900,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        900,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1200,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        300,
+        1200,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        1200,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        900,
+        1200,
+        300,
+        300
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_count": 28,
+  "removed_per_frame": [
+    {
+      "frame": 0,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 1,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 2,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 3,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 4,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 5,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 6,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 7,
+      "logo": 280,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 8,
+      "logo": 349,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 9,
+      "logo": 240,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 10,
+      "logo": 317,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 11,
+      "logo": 397,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 12,
+      "logo": 413,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 13,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 14,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 15,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 16,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 17,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 18,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 19,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 20,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 21,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 22,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 23,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 24,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 25,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 26,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    },
+    {
+      "frame": 27,
+      "logo": 426,
+      "blue": 0,
+      "noise": 0
+    }
+  ],
+  "method": "Stable source pixels in observed logo region; sample-blue components touching transparency; fireknight detached dark specks far from bright pixels, as applicable.",
+  "status": "candidate_unreviewed",
+  "limitations": "Possible loss of similarly colored outlines, text-overlapping foreground, dark details or particles. Base candidate may already have removed details. Inspect every frame against the source."
+}

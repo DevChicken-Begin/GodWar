@@ -93,30 +93,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "anomen",
-      "source": "Asset/Character/vfx/anomen.gif",
-      "source_sha256": "89684fc48499542ab5697f2115c23acde1964b213eea66ecea9d8d0c3c794d60",
-      "frames": 19,
-      "frames_with_transparency": 19,
-      "frames_with_uniform_border": 17,
-      "corner_colors": [
-        [
-          255,
-          255,
-          255,
-          0
-        ],
-        [
-          255,
-          255,
-          255,
-          255
-        ]
-      ],
-      "category": "transparent_all_frames",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "aoda",
       "source": "Asset/Character/vfx/aoda.gif",
       "source_sha256": "475ef078e2939897ba4fd745e14be05cc032faaf79c44fa9e16e441d3241990a",
@@ -182,24 +158,6 @@
           4,
           50,
           71,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "athen",
-      "source": "Asset/Character/vfx/athen.gif",
-      "source_sha256": "e0cc8dd6c44766a74300f1a99bf385494e4d9f8ef2607fa4b9126cc7d0501f26",
-      "frames": 54,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 0,
-      "corner_colors": [
-        [
-          28,
-          32,
-          52,
           255
         ]
       ],
@@ -819,24 +777,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "guard",
-      "source": "Asset/Character/vfx/guard.gif",
-      "source_sha256": "20f8e6a22b50847ba8eb68fb28340034898da626ca30d95b797568dcb0278d0f",
-      "frames": 118,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 114,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "haden",
       "source": "Asset/Character/vfx/haden.gif",
       "source_sha256": "2aa6a828be3e9fd52c148d5c7ad9370a61fc5a71ff8af4f2ace0bd73e81d0799",
@@ -1035,24 +975,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "kong",
-      "source": "Asset/Character/vfx/kong.gif",
-      "source_sha256": "efc1a53addcfb6132fdad70fff8b63cf5ece65997d68ffd800acee90520d1efa",
-      "frames": 51,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 49,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "kukang",
       "source": "Asset/Character/vfx/kukang.gif",
       "source_sha256": "492cb1699734f30781046a6084668bcf14529aa5e3eac8e0a25ba4a1d4d86f5a",
@@ -1086,24 +1008,6 @@
         ]
       ],
       "category": "solid_border_candidate",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "lois",
-      "source": "Asset/Character/vfx/lois.gif",
-      "source_sha256": "201044ced37ef7085e0dec12982eea4c298ce02dbccd8416034264c66b99dee0",
-      "frames": 194,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 0,
-      "corner_colors": [
-        [
-          73,
-          73,
-          73,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
       "status": "automatic_measurement_unreviewed"
     },
     {
@@ -1172,30 +1076,6 @@
           4,
           50,
           71,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "maono",
-      "source": "Asset/Character/vfx/maono.gif",
-      "source_sha256": "09e62a9e285b158a367698fca86e36e50d5921d172e1dfd03713d3285d7a57a9",
-      "frames": 47,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 0,
-      "corner_colors": [
-        [
-          11,
-          66,
-          95,
-          255
-        ],
-        [
-          12,
-          66,
-          95,
           255
         ]
       ],
@@ -1358,24 +1238,6 @@
           4,
           50,
           71,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "morexem",
-      "source": "Asset/Character/vfx/morexem.gif",
-      "source_sha256": "c5fb507b386568e39445fe6827a688e1b2748777cb531bf8223e41d6c1eaaea9",
-      "frames": 90,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 0,
-      "corner_colors": [
-        [
-          4,
-          24,
-          38,
           255
         ]
       ],
@@ -1653,24 +1515,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "reptalian",
-      "source": "Asset/Character/vfx/reptalian.gif",
-      "source_sha256": "985e82795c32c44e076e8ec3bbdd420a883fd1599f0ebe9d7dfec7ae4037c9a8",
-      "frames": 19,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 19,
-      "corner_colors": [
-        [
-          225,
-          225,
-          225,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "samurai",
       "source": "Asset/Character/vfx/samurai.gif",
       "source_sha256": "208e72c622849a97e34e5f9b067cf2f2d889da5a80a8dc7528c14d1127ce3c92",
@@ -1761,24 +1605,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "scot",
-      "source": "Asset/Character/vfx/scot.gif",
-      "source_sha256": "92a9a90620e676296fc4da2ac4a7c2019c337d17a98024e13ada5be1259f14f5",
-      "frames": 10,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 9,
-      "corner_colors": [
-        [
-          189,
-          132,
-          106,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "shellop",
       "source": "Asset/Character/vfx/shellop.gif",
       "source_sha256": "87cf42cff9231e6709ddd5f8e787cf75be9b819a0d7f2f89bd9a87ac82c9c836",
@@ -1815,24 +1641,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "skylian",
-      "source": "Asset/Character/vfx/skylian.gif",
-      "source_sha256": "a63b5697dc0cb2ee829620e13a43401e7227c29300805f93f2be1ad611f19aa4",
-      "frames": 12,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 12,
-      "corner_colors": [
-        [
-          31,
-          55,
-          85,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "skypit",
       "source": "Asset/Character/vfx/skypit.gif",
       "source_sha256": "e273211ede18e3da9257b162e8863bde8e8f919d12e5092212e9dfe5037223bb",
@@ -1848,24 +1656,6 @@
         ]
       ],
       "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "slowdame",
-      "source": "Asset/Character/vfx/slowdame.gif",
-      "source_sha256": "da75d83e78ffcc3253ca8739586c8b9799fa0b0171db51632d0ce300e01d27f4",
-      "frames": 26,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 26,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
       "status": "automatic_measurement_unreviewed"
     },
     {
@@ -1905,24 +1695,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "snicore",
-      "source": "Asset/Character/vfx/snicore.gif",
-      "source_sha256": "ac42c2b21e4b33e088b70a1d0c204aa69f700b2b56872773aa162e381de6da1b",
-      "frames": 55,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 55,
-      "corner_colors": [
-        [
-          51,
-          51,
-          51,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "snowpie",
       "source": "Asset/Character/vfx/snowpie.gif",
       "source_sha256": "2bb818caba8429c3eeddf3ea66aa18c8f834567557a52c3e5146108bf03451d2",
@@ -1934,24 +1706,6 @@
           0,
           48,
           66,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "snowtiger",
-      "source": "Asset/Character/vfx/snowtiger.gif",
-      "source_sha256": "9458a7c59fa28777167d4a4249e212467803d814d503856ee2c5161bcf08cf68",
-      "frames": 30,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 30,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
           255
         ]
       ],
@@ -2010,24 +1764,6 @@
         ]
       ],
       "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "trike",
-      "source": "Asset/Character/vfx/trike.gif",
-      "source_sha256": "d4122d6064fad16c676ba132e6ebbfcc7e2547c8469bc6ba32c684545f262b12",
-      "frames": 8,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 8,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
       "status": "automatic_measurement_unreviewed"
     },
     {
@@ -2121,24 +1857,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "wavyin",
-      "source": "Asset/Character/vfx/wavyin.gif",
-      "source_sha256": "e71168056dce8539ca817e33d02d5c51da18d08d115fcb31b8216dc3e1a62272",
-      "frames": 40,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 36,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "wordknight",
       "source": "Asset/Character/vfx/wordknight.gif",
       "source_sha256": "8a25ac384bdb311eefb99ef0777f1cc6632a26f1ea3409bc45e33af24cd26dae",
@@ -2154,24 +1872,6 @@
         ]
       ],
       "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "wothem",
-      "source": "Asset/Character/vfx/wothem.gif",
-      "source_sha256": "10074896d7154d84a1146cd81b66889435362c7718645fe835a0ede3579f12bc",
-      "frames": 9,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 9,
-      "corner_colors": [
-        [
-          127,
-          127,
-          127,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
       "status": "automatic_measurement_unreviewed"
     },
     {

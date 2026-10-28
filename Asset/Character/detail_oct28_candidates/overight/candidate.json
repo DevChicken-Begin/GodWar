@@ -1,0 +1,740 @@
+{
+  "id": "overight",
+  "source": "Asset/Character/vfx/overight.gif",
+  "source_sha256": "95468ca0e3755de220040d894e29d48d827c8c3a278d4d04e8426c9c47e64cbe",
+  "base_candidate": "detail_130_candidates",
+  "base_input_sha256": {
+    "Asset/Character/review/overight/detail_130_frames/frame_000.png": "0dfe9de8812c1482710b30b393aeb1cd68e66c98ebceef0067717ad7589f5bb6",
+    "Asset/Character/review/overight/detail_130_frames/frame_001.png": "caa94e036148751e518724452bece658e99eefc6ab53505e3bdf7b15cfa61b7e",
+    "Asset/Character/review/overight/detail_130_frames/frame_002.png": "daf4f1505a8273b5610488b6505ae8b77de6538995dd8b92d6e76f95291fd17c",
+    "Asset/Character/review/overight/detail_130_frames/frame_003.png": "1a09935fb5a983a2e1ed033ff2b4bf6396ea3c7bea5f9b358c0518184ebb7b33",
+    "Asset/Character/review/overight/detail_130_frames/frame_004.png": "cb119a481758fc708d5565f556759b9f5e49fdf3cb07dbbb2350d02102501320",
+    "Asset/Character/review/overight/detail_130_frames/frame_005.png": "2387c96c4d0506a691df47be4420ebfbdffc6f99c36f8c3c6726055aaa79cae3",
+    "Asset/Character/review/overight/detail_130_frames/frame_006.png": "b5e734673e107d6334f4511d1c8c9a82dd28e906ea323f6cbba8617abe686ceb",
+    "Asset/Character/review/overight/detail_130_frames/frame_007.png": "546b63405ef951a17d268d43ab0b434c515705e60341a7b22ede03e0e2b0072d",
+    "Asset/Character/review/overight/detail_130_frames/frame_008.png": "08fa5de090a35c93e0dab73d515b1b6d6884e52000effaf6357f4f331ed707a4",
+    "Asset/Character/review/overight/detail_130_frames/frame_009.png": "dfd2d65692f5fb80a927d12dad6ae072da8b73bc56e405a0c3cc111f4ebc2510",
+    "Asset/Character/review/overight/detail_130_frames/frame_010.png": "766a148b17a35edd5fd5adcc91a29f2c65b77286a233c4423bdb76809ecfa8f1",
+    "Asset/Character/review/overight/detail_130_frames/frame_011.png": "8fa398394bac8a6a8171739d316567791fd9a213bea344d37bab7f8977b49f37",
+    "Asset/Character/review/overight/detail_130_frames/frame_012.png": "51b6a3c6fab04a146bcfa2b5447e557960a01b9e18e7d48b5fac949646f4be17",
+    "Asset/Character/review/overight/detail_130_frames/frame_013.png": "7cede89723c878babb3f2e2b626906ab73b9e2ff372ca9f9dae8f47cda7281e1",
+    "Asset/Character/review/overight/detail_130_frames/frame_014.png": "0dfe9de8812c1482710b30b393aeb1cd68e66c98ebceef0067717ad7589f5bb6",
+    "Asset/Character/review/overight/detail_130_frames/frame_015.png": "caa94e036148751e518724452bece658e99eefc6ab53505e3bdf7b15cfa61b7e",
+    "Asset/Character/review/overight/detail_130_frames/frame_016.png": "daf4f1505a8273b5610488b6505ae8b77de6538995dd8b92d6e76f95291fd17c",
+    "Asset/Character/review/overight/detail_130_frames/frame_017.png": "1a09935fb5a983a2e1ed033ff2b4bf6396ea3c7bea5f9b358c0518184ebb7b33",
+    "Asset/Character/review/overight/detail_130_frames/frame_018.png": "cb119a481758fc708d5565f556759b9f5e49fdf3cb07dbbb2350d02102501320",
+    "Asset/Character/review/overight/detail_130_frames/frame_019.png": "2387c96c4d0506a691df47be4420ebfbdffc6f99c36f8c3c6726055aaa79cae3",
+    "Asset/Character/review/overight/detail_130_frames/frame_020.png": "b5e734673e107d6334f4511d1c8c9a82dd28e906ea323f6cbba8617abe686ceb",
+    "Asset/Character/review/overight/detail_130_frames/frame_021.png": "546b63405ef951a17d268d43ab0b434c515705e60341a7b22ede03e0e2b0072d",
+    "Asset/Character/review/overight/detail_130_frames/frame_022.png": "08fa5de090a35c93e0dab73d515b1b6d6884e52000effaf6357f4f331ed707a4",
+    "Asset/Character/review/overight/detail_130_frames/frame_023.png": "dfd2d65692f5fb80a927d12dad6ae072da8b73bc56e405a0c3cc111f4ebc2510",
+    "Asset/Character/review/overight/detail_130_frames/frame_024.png": "766a148b17a35edd5fd5adcc91a29f2c65b77286a233c4423bdb76809ecfa8f1",
+    "Asset/Character/review/overight/detail_130_frames/frame_025.png": "8fa398394bac8a6a8171739d316567791fd9a213bea344d37bab7f8977b49f37",
+    "Asset/Character/review/overight/detail_130_frames/frame_026.png": "51b6a3c6fab04a146bcfa2b5447e557960a01b9e18e7d48b5fac949646f4be17",
+    "Asset/Character/review/overight/detail_130_frames/frame_027.png": "7cede89723c878babb3f2e2b626906ab73b9e2ff372ca9f9dae8f47cda7281e1",
+    "Asset/Character/review/overight/detail_130_frames/frame_028.png": "a5206ca635bd62e7d6aac31fa8278abb18e1af6320ae3f371960aa307283789f",
+    "Asset/Character/review/overight/detail_130_frames/frame_029.png": "211ab2d410b110a744696d74fece8360bf3e055f58e00372ed50b6794878c091",
+    "Asset/Character/review/overight/detail_130_frames/frame_030.png": "23318c4d91d0977fab5742cd4e78bd3ae4efadf598b8e7318cab89bcc1d8871c",
+    "Asset/Character/review/overight/detail_130_frames/frame_031.png": "9f4a57a5949899f4f07025f8bdf892c7715195cd8343bd844ba44d818e14a7e4",
+    "Asset/Character/review/overight/detail_130_frames/frame_032.png": "88bdae7126e6d7f607fcd6f863b4d259ddafef67c73dc0ac48f23e4e5fb7b1d6",
+    "Asset/Character/review/overight/detail_130_frames/frame_033.png": "09224ec130c9511e96f76926cd2faae617a642598c22fe904701a1dfa4a1856e",
+    "Asset/Character/review/overight/detail_130_frames/frame_034.png": "81111bfef4256b2ca56a817f934d5fb0f2d5ecf22ae2bdabacdf28ca6466320e",
+    "Asset/Character/review/overight/detail_130_frames/frame_035.png": "6e4a4c64221e55c6ea246debb8d46bfdcdd8e9130ae890960405bf0db8c85729",
+    "Asset/Character/review/overight/detail_130_frames/frame_036.png": "708e03d673cd7d10428c5bf420044400878066b828faa0f0f274ea2ffdf30c3c",
+    "Asset/Character/review/overight/detail_130_frames/frame_037.png": "d75126684dc8d9e5270d7320e208b8c1986528cbe39b8b560ccdb8f90871f359",
+    "Asset/Character/review/overight/detail_130_frames/frame_038.png": "683470ee905615d9f961f440c2a412cc0b5df3d8d4fb0d22603fa963c9eebff8",
+    "Asset/Character/review/overight/detail_130_frames/frame_039.png": "58ee00c10425815350a9cfff52e3148cb4e4fe47f729383bacb6b6e58d4ac61d",
+    "Asset/Character/review/overight/detail_130_frames/frame_040.png": "a8ffe0e320b00ebd843e3c4487a4d2561d6ba676ee9c1f307cd61a36876cef64",
+    "Asset/Character/review/overight/detail_130_frames/frame_041.png": "1899cac214608de3b2ed6f5984e015015414a83653cc24adc7b8079d4db45e4f",
+    "Asset/Character/review/overight/detail_130_frames/frame_042.png": "a043dc5e2be22c83ab736ba995ac170d7446333fea510e0c5dd15c5e7220f434",
+    "Asset/Character/review/overight/detail_130_frames/frame_043.png": "2515fa7cfb73e1cb84211637874e5857ab9c17e684add795d05933a7b14903df",
+    "Asset/Character/review/overight/detail_130_frames/frame_044.png": "49527b5770090c880002d9bf2c824c938758b8a0eda210008108e7f607ae7e1f",
+    "Asset/Character/review/overight/detail_130_frames/frame_045.png": "41e342cd38cf751a219f4c2a8f401dfdfecca6415d7c18cf274e2dc46db77d59",
+    "Asset/Character/review/overight/detail_130_frames/frame_046.png": "427662337d0623d4d7fde0f5c5df0c7cde68c8186f1fc9ac27633fc45c62b8f8",
+    "Asset/Character/review/overight/detail_130_frames/frame_047.png": "a916728b0b73b2f84897ece2f549a5da46db0b87a947eb641093494ea41e1130"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 48,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        811,
+        811
+      ]
+    }
+  ],
+  "display_size": [
+    520,
+    520
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

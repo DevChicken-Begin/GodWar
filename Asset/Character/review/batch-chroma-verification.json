@@ -303,12 +303,6 @@
       "visual_review": "pending"
     },
     {
-      "id": "kong",
-      "frames": 51,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
       "id": "kukang",
       "frames": 75,
       "pixel_check": "passed",
@@ -317,12 +311,6 @@
     {
       "id": "kumen",
       "frames": 56,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
-      "id": "lois",
-      "frames": 194,
       "pixel_check": "passed",
       "visual_review": "pending"
     },
@@ -341,12 +329,6 @@
     {
       "id": "mainthen",
       "frames": 53,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
-      "id": "maono",
-      "frames": 47,
       "pixel_check": "passed",
       "visual_review": "pending"
     },
@@ -489,12 +471,6 @@
       "visual_review": "pending"
     },
     {
-      "id": "reptalian",
-      "frames": 19,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
       "id": "samurai",
       "frames": 66,
       "pixel_check": "passed",
@@ -525,12 +501,6 @@
       "visual_review": "pending"
     },
     {
-      "id": "scot",
-      "frames": 10,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
       "id": "shellop",
       "frames": 29,
       "pixel_check": "passed",
@@ -543,18 +513,6 @@
       "visual_review": "pending"
     },
     {
-      "id": "skylian",
-      "frames": 12,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
-      "id": "slowdame",
-      "frames": 26,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
       "id": "smaxin",
       "frames": 51,
       "pixel_check": "passed",
@@ -563,12 +521,6 @@
     {
       "id": "snax",
       "frames": 120,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
-      "id": "snicore",
-      "frames": 55,
       "pixel_check": "passed",
       "visual_review": "pending"
     },
@@ -593,12 +545,6 @@
     {
       "id": "tailer",
       "frames": 45,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
-      "id": "trike",
-      "frames": 8,
       "pixel_check": "passed",
       "visual_review": "pending"
     },
@@ -633,20 +579,8 @@
       "visual_review": "pending"
     },
     {
-      "id": "wavyin",
-      "frames": 40,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
       "id": "wordknight",
       "frames": 74,
-      "pixel_check": "passed",
-      "visual_review": "pending"
-    },
-    {
-      "id": "wothem",
-      "frames": 9,
       "pixel_check": "passed",
       "visual_review": "pending"
     },

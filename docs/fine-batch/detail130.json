@@ -1,0 +1,243 @@
+{
+  "version": 1,
+  "results": [
+    {
+      "id": "artemis",
+      "status": "candidate_unreviewed",
+      "base_candidate": "detailed_candidates",
+      "frames": 64,
+      "detail": {
+        "old": [
+          300,
+          300
+        ],
+        "new": [
+          390,
+          390
+        ]
+      },
+      "changed_preview_pixels": 21359
+    },
+    {
+      "id": "nox",
+      "status": "candidate_unreviewed",
+      "base_candidate": "batch_candidates",
+      "frames": 47,
+      "detail": {
+        "old": [
+          540,
+          540
+        ],
+        "new": [
+          702,
+          702
+        ]
+      },
+      "changed_preview_pixels": 16462
+    },
+    {
+      "id": "overight",
+      "status": "candidate_unreviewed",
+      "base_candidate": "spot_candidates",
+      "frames": 48,
+      "detail": {
+        "old": [
+          520,
+          520
+        ],
+        "new": [
+          676,
+          676
+        ]
+      },
+      "changed_preview_pixels": 7217
+    },
+    {
+      "id": "powerdame",
+      "status": "candidate_unreviewed",
+      "base_candidate": "detailed_candidates",
+      "frames": 28,
+      "detail": {
+        "old": [
+          300,
+          300
+        ],
+        "new": [
+          390,
+          390
+        ]
+      },
+      "changed_preview_pixels": 11688
+    },
+    {
+      "id": "wuchen",
+      "status": "candidate_unreviewed",
+      "base_candidate": "detailed_candidates",
+      "frames": 47,
+      "detail": {
+        "old": [
+          300,
+          300
+        ],
+        "new": [
+          390,
+          390
+        ]
+      },
+      "changed_preview_pixels": 8069
+    },
+    {
+      "id": "ziggist",
+      "status": "candidate_unreviewed",
+      "base_candidate": "fine_candidates",
+      "frames": 32,
+      "detail": {
+        "old": [
+          200,
+          200
+        ],
+        "new": [
+          260,
+          260
+        ]
+      },
+      "changed_preview_pixels": 23560
+    },
+    {
+      "id": "scorpit",
+      "status": "candidate_unreviewed",
+      "base_candidate": "scorpit_repair18_candidates",
+      "frames": 40,
+      "detail": {
+        "old": [
+          300,
+          300
+        ],
+        "new": [
+          390,
+          390
+        ]
+      },
+      "changed_preview_pixels": 13476
+    },
+    {
+      "id": "skyles",
+      "status": "candidate_unreviewed",
+      "base_candidate": "batch_candidates",
+      "frames": 96,
+      "detail": {
+        "old": [
+          500,
+          500
+        ],
+        "new": [
+          650,
+          650
+        ]
+      },
+      "changed_preview_pixels": 11355
+    },
+    {
+      "id": "snowpie",
+      "status": "candidate_unreviewed",
+      "base_candidate": "batch_candidates",
+      "frames": 49,
+      "detail": {
+        "old": [
+          220,
+          220
+        ],
+        "new": [
+          286,
+          286
+        ]
+      },
+      "changed_preview_pixels": 5582
+    },
+    {
+      "id": "tigerknight",
+      "status": "candidate_unreviewed",
+      "base_candidate": "shared_scene_candidates",
+      "frames": 66,
+      "detail": {
+        "old": [
+          520,
+          520
+        ],
+        "new": [
+          676,
+          676
+        ]
+      },
+      "changed_preview_pixels": 16439
+    },
+    {
+      "id": "azza",
+      "status": "candidate_unreviewed",
+      "base_candidate": "fine_candidates",
+      "frames": 47,
+      "detail": {
+        "old": [
+          160,
+          160
+        ],
+        "new": [
+          208,
+          208
+        ]
+      },
+      "changed_preview_pixels": 21739
+    },
+    {
+      "id": "dracian",
+      "status": "candidate_unreviewed",
+      "base_candidate": "native_candidates",
+      "frames": 40,
+      "detail": {
+        "old": [
+          268,
+          268
+        ],
+        "new": [
+          348,
+          348
+        ]
+      },
+      "changed_preview_pixels": 12478
+    },
+    {
+      "id": "dragonmout",
+      "status": "candidate_unreviewed",
+      "base_candidate": "sharp_candidates",
+      "frames": 21,
+      "detail": {
+        "old": [
+          250,
+          250
+        ],
+        "new": [
+          325,
+          325
+        ]
+      },
+      "changed_preview_pixels": 8180
+    },
+    {
+      "id": "mortafi",
+      "status": "candidate_unreviewed",
+      "base_candidate": "detailed_candidates",
+      "frames": 44,
+      "detail": {
+        "old": [
+          520,
+          520
+        ],
+        "new": [
+          676,
+          676
+        ]
+      },
+      "changed_preview_pixels": 5405
+    }
+  ]
+}

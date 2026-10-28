@@ -82,14 +82,6 @@
       "transparent_frames": 0
     },
     {
-      "id": "athen",
-      "mean": 0.09722222222222222,
-      "min": 0.09722222222222222,
-      "below_95": 54,
-      "frames": 54,
-      "transparent_frames": 0
-    },
-    {
       "id": "aumen",
       "mean": 0.9946613088404134,
       "min": 0.9115384615384615,
@@ -450,14 +442,6 @@
       "transparent_frames": 0
     },
     {
-      "id": "kong",
-      "mean": 0.9998856209150326,
-      "min": 0.9958333333333333,
-      "below_95": 0,
-      "frames": 51,
-      "transparent_frames": 0
-    },
-    {
       "id": "kukang",
       "mean": 0.9995128205128206,
       "min": 0.9673076923076923,
@@ -471,14 +455,6 @@
       "min": 1.0,
       "below_95": 0,
       "frames": 56,
-      "transparent_frames": 0
-    },
-    {
-      "id": "lois",
-      "mean": 0.9996583099031553,
-      "min": 0.9958333333333333,
-      "below_95": 0,
-      "frames": 194,
       "transparent_frames": 0
     },
     {
@@ -511,14 +487,6 @@
       "min": 0.9954545454545455,
       "below_95": 0,
       "frames": 53,
-      "transparent_frames": 0
-    },
-    {
-      "id": "maono",
-      "mean": 0.9981705351386202,
-      "min": 0.9950757575757576,
-      "below_95": 0,
-      "frames": 47,
       "transparent_frames": 0
     },
     {
@@ -591,14 +559,6 @@
       "min": 0.9575,
       "below_95": 0,
       "frames": 65,
-      "transparent_frames": 0
-    },
-    {
-      "id": "morexem",
-      "mean": 0.5604700854700855,
-      "min": 0.5548076923076923,
-      "below_95": 90,
-      "frames": 90,
       "transparent_frames": 0
     },
     {
@@ -722,14 +682,6 @@
       "transparent_frames": 0
     },
     {
-      "id": "reptalian",
-      "mean": 1.0,
-      "min": 1.0,
-      "below_95": 0,
-      "frames": 19,
-      "transparent_frames": 0
-    },
-    {
       "id": "samurai",
       "mean": 1.0,
       "min": 1.0,
@@ -770,14 +722,6 @@
       "transparent_frames": 0
     },
     {
-      "id": "scot",
-      "mean": 0.9971128608923884,
-      "min": 0.9711286089238845,
-      "below_95": 0,
-      "frames": 10,
-      "transparent_frames": 0
-    },
-    {
       "id": "shellop",
       "mean": 0.9983620689655173,
       "min": 0.98,
@@ -794,27 +738,11 @@
       "transparent_frames": 0
     },
     {
-      "id": "skylian",
-      "mean": 1.0,
-      "min": 1.0,
-      "below_95": 0,
-      "frames": 12,
-      "transparent_frames": 0
-    },
-    {
       "id": "skypit",
       "mean": 0.563125,
       "min": 0.563125,
       "below_95": 65,
       "frames": 65,
-      "transparent_frames": 0
-    },
-    {
-      "id": "slowdame",
-      "mean": 1.0,
-      "min": 1.0,
-      "below_95": 0,
-      "frames": 26,
       "transparent_frames": 0
     },
     {
@@ -831,14 +759,6 @@
       "min": 1.0,
       "below_95": 0,
       "frames": 120,
-      "transparent_frames": 0
-    },
-    {
-      "id": "snicore",
-      "mean": 1.0,
-      "min": 1.0,
-      "below_95": 0,
-      "frames": 55,
       "transparent_frames": 0
     },
     {
@@ -882,14 +802,6 @@
       "transparent_frames": 0
     },
     {
-      "id": "trike",
-      "mean": 1.0,
-      "min": 1.0,
-      "below_95": 0,
-      "frames": 8,
-      "transparent_frames": 0
-    },
-    {
       "id": "vanfox",
       "mean": 0.9981605351170569,
       "min": 0.9730769230769231,
@@ -930,27 +842,11 @@
       "transparent_frames": 0
     },
     {
-      "id": "wavyin",
-      "mean": 0.9996875,
-      "min": 0.995,
-      "below_95": 0,
-      "frames": 40,
-      "transparent_frames": 0
-    },
-    {
       "id": "wordknight",
       "mean": 0.9983627858627859,
       "min": 0.9519230769230769,
       "below_95": 0,
       "frames": 74,
-      "transparent_frames": 0
-    },
-    {
-      "id": "wothem",
-      "mean": 1.0,
-      "min": 1.0,
-      "below_95": 0,
-      "frames": 9,
       "transparent_frames": 0
     },
     {

@@ -1,0 +1,725 @@
+{
+  "id": "nox",
+  "source": "Asset/Character/vfx/nox.gif",
+  "source_sha256": "a8c66d01969f3dff2bc1174dff41f343d2b91e74c1d79948a242db0b67e47270",
+  "base_candidate": "detail_130_candidates",
+  "base_input_sha256": {
+    "Asset/Character/review/nox/detail_130_frames/frame_000.png": "e9169d6f0fd15d4ddb245353ff292a5fa8768b8c6375aab6ff364574acf38c02",
+    "Asset/Character/review/nox/detail_130_frames/frame_001.png": "9a00322d9dc53a07868959d2073122b141f05ebb84eb350cbe198c012b2348ff",
+    "Asset/Character/review/nox/detail_130_frames/frame_002.png": "6362f6baf5912a69df59fa05920581619b1b5154baa4cbf6f574ef36152f5e64",
+    "Asset/Character/review/nox/detail_130_frames/frame_003.png": "a6002b6e3504a524cb9ab17dd2f063225f8042146e7b7b2b52e036802ae35cb6",
+    "Asset/Character/review/nox/detail_130_frames/frame_004.png": "b3801bcfd16624c566872d7bf49c21e04ee7bba668d4556d0cfb6e49b07be6cf",
+    "Asset/Character/review/nox/detail_130_frames/frame_005.png": "7b8423ec8b82f60284220f8906e6ebdba8e0fde05e4f39a2e45dc4348f372788",
+    "Asset/Character/review/nox/detail_130_frames/frame_006.png": "fbb81254ad2a6d73cf617d1f85ea55c92b951f74aba35dc4f1932bbe4b00c647",
+    "Asset/Character/review/nox/detail_130_frames/frame_007.png": "44997c24919ffd8e554a9efd97098ba7b52b9d18950099e687139048cba6bba1",
+    "Asset/Character/review/nox/detail_130_frames/frame_008.png": "8e742adbc2cb406e23cce176f798f71d8deb787d9785531ccea686b9399769f2",
+    "Asset/Character/review/nox/detail_130_frames/frame_009.png": "bc360572d51a9f0466753deea27bea04bffeb88b38ed81d6e41dc04a601b7f60",
+    "Asset/Character/review/nox/detail_130_frames/frame_010.png": "7d29653b913268bb73eb211d1bb29800544e95b3e8f1ee462fbeed8d268ce342",
+    "Asset/Character/review/nox/detail_130_frames/frame_011.png": "a6996c6240a13227917b1a580f625a38a2f56071b162a5de780f0ad716677d30",
+    "Asset/Character/review/nox/detail_130_frames/frame_012.png": "698c6f9ca6ec88c785fe805497b47e4ced52dd9869ef76af943580be06d3f932",
+    "Asset/Character/review/nox/detail_130_frames/frame_013.png": "e9169d6f0fd15d4ddb245353ff292a5fa8768b8c6375aab6ff364574acf38c02",
+    "Asset/Character/review/nox/detail_130_frames/frame_014.png": "9a00322d9dc53a07868959d2073122b141f05ebb84eb350cbe198c012b2348ff",
+    "Asset/Character/review/nox/detail_130_frames/frame_015.png": "6362f6baf5912a69df59fa05920581619b1b5154baa4cbf6f574ef36152f5e64",
+    "Asset/Character/review/nox/detail_130_frames/frame_016.png": "a6002b6e3504a524cb9ab17dd2f063225f8042146e7b7b2b52e036802ae35cb6",
+    "Asset/Character/review/nox/detail_130_frames/frame_017.png": "b3801bcfd16624c566872d7bf49c21e04ee7bba668d4556d0cfb6e49b07be6cf",
+    "Asset/Character/review/nox/detail_130_frames/frame_018.png": "7b8423ec8b82f60284220f8906e6ebdba8e0fde05e4f39a2e45dc4348f372788",
+    "Asset/Character/review/nox/detail_130_frames/frame_019.png": "fbb81254ad2a6d73cf617d1f85ea55c92b951f74aba35dc4f1932bbe4b00c647",
+    "Asset/Character/review/nox/detail_130_frames/frame_020.png": "44997c24919ffd8e554a9efd97098ba7b52b9d18950099e687139048cba6bba1",
+    "Asset/Character/review/nox/detail_130_frames/frame_021.png": "8e742adbc2cb406e23cce176f798f71d8deb787d9785531ccea686b9399769f2",
+    "Asset/Character/review/nox/detail_130_frames/frame_022.png": "bc360572d51a9f0466753deea27bea04bffeb88b38ed81d6e41dc04a601b7f60",
+    "Asset/Character/review/nox/detail_130_frames/frame_023.png": "7d29653b913268bb73eb211d1bb29800544e95b3e8f1ee462fbeed8d268ce342",
+    "Asset/Character/review/nox/detail_130_frames/frame_024.png": "a6996c6240a13227917b1a580f625a38a2f56071b162a5de780f0ad716677d30",
+    "Asset/Character/review/nox/detail_130_frames/frame_025.png": "698c6f9ca6ec88c785fe805497b47e4ced52dd9869ef76af943580be06d3f932",
+    "Asset/Character/review/nox/detail_130_frames/frame_026.png": "ec08babbda659929abc8237d1f661d0997271b44b4b09b14ab21710ee6b65da2",
+    "Asset/Character/review/nox/detail_130_frames/frame_027.png": "7aabfe2f6d7846d6b5b94f46c22be6e9778442c564c207ea7e25e61cfaee2df0",
+    "Asset/Character/review/nox/detail_130_frames/frame_028.png": "dd851bcc66cfe90cff314542ddfc1b5296ba89e9d14a332ecdc07b697194bcc6",
+    "Asset/Character/review/nox/detail_130_frames/frame_029.png": "200612d7f51c11ef84e1009c580da2f7f551054dbf2f2653589c46e4b7db8769",
+    "Asset/Character/review/nox/detail_130_frames/frame_030.png": "df9eff2556698cf1260e36c4e00ab28cf929f2478cb699ed5138e6c17aa2ce4d",
+    "Asset/Character/review/nox/detail_130_frames/frame_031.png": "f8401828f3dd7b81b7a1013c209efd0c16ae4ba14da26284b80a5491f22a1ccc",
+    "Asset/Character/review/nox/detail_130_frames/frame_032.png": "feab7a04cd91dfc4a54f1870e5efd87bd7e7af7b30ca8c875ce492dbd33196a6",
+    "Asset/Character/review/nox/detail_130_frames/frame_033.png": "93095d22126eb9e2f508f06de03216f8d7db80c68d6bfb96e9663bad0e76439a",
+    "Asset/Character/review/nox/detail_130_frames/frame_034.png": "8cf7ba85843a47e5a8451bef062e0eb9a91782780cb328d434a3481e1200bf0f",
+    "Asset/Character/review/nox/detail_130_frames/frame_035.png": "95386b5f7f59c8a0020c1a8af3b47253fdb2cf072c559645c91d6b60bcd3a88b",
+    "Asset/Character/review/nox/detail_130_frames/frame_036.png": "243907216931831f9237e3ebedac405c931238be0f3555c8e49b4c987b0a1e9c",
+    "Asset/Character/review/nox/detail_130_frames/frame_037.png": "3ae2737d522733dff7587ce5b8a553eba983de0ad211c0442a6fd8cfcd5b0460",
+    "Asset/Character/review/nox/detail_130_frames/frame_038.png": "7b172b844407b837f70f7ecf961ec1bf2be0b0b8d270abd8d4ef69e5db1608b3",
+    "Asset/Character/review/nox/detail_130_frames/frame_039.png": "f2e0b4905236e7a45c9517b0c9036833a44b6593b0087f97feb68c13b1f29133",
+    "Asset/Character/review/nox/detail_130_frames/frame_040.png": "8507d7fc9353898dcf415a4fad2b77875509acaeef0a67e0893bf5ab86b6c1c6",
+    "Asset/Character/review/nox/detail_130_frames/frame_041.png": "b831317dd166bb6045c8d182b45cb3b213b19de320b14e1fbb2d6f2dc388e8ec",
+    "Asset/Character/review/nox/detail_130_frames/frame_042.png": "9a5407d065e618fa9c3dcdd7a116e33645cefa939bf466c27ab61d48018e29c4",
+    "Asset/Character/review/nox/detail_130_frames/frame_043.png": "57f6c0be46ad71ade82b7c6a32a33d4cccf32ec8922053b3ced9889e83cfd0b5",
+    "Asset/Character/review/nox/detail_130_frames/frame_044.png": "6a53e2d19d47b86640785a566f318d70191a8df81b2e7a68a4a7cd47621590cc",
+    "Asset/Character/review/nox/detail_130_frames/frame_045.png": "5d4fddfd8b55a23bcb04df7eb21e49855af788b26f76749fe7ab27cb40cca0e3",
+    "Asset/Character/review/nox/detail_130_frames/frame_046.png": "235a782929f5f34108f109554ef9012da95e380daf882d7c1fc6a5a6e9012b33"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        842,
+        842
+      ]
+    }
+  ],
+  "display_size": [
+    540,
+    540
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

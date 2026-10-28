@@ -132,19 +132,6 @@
       "category": "complex_or_varying_border"
     },
     {
-      "id": "athen",
-      "corners_rgba": [
-        28,
-        32,
-        52,
-        255
-      ],
-      "mismatch_frames": 54,
-      "n_frames": 54,
-      "uniform_border_frames": 0,
-      "category": "complex_or_varying_border"
-    },
-    {
       "id": "aumen",
       "corners_rgba": [
         38,
@@ -730,19 +717,6 @@
       "category": "solid_border_candidate"
     },
     {
-      "id": "kong",
-      "corners_rgba": [
-        4,
-        50,
-        71,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 51,
-      "uniform_border_frames": 49,
-      "category": "complex_or_varying_border"
-    },
-    {
       "id": "kukang",
       "corners_rgba": [
         4,
@@ -767,19 +741,6 @@
       "n_frames": 56,
       "uniform_border_frames": 56,
       "category": "solid_border_candidate"
-    },
-    {
-      "id": "lois",
-      "corners_rgba": [
-        73,
-        73,
-        73,
-        255
-      ],
-      "mismatch_frames": 7,
-      "n_frames": 194,
-      "uniform_border_frames": 0,
-      "category": "complex_or_varying_border"
     },
     {
       "id": "magicer",
@@ -831,19 +792,6 @@
       "mismatch_frames": 0,
       "n_frames": 53,
       "uniform_border_frames": 49,
-      "category": "complex_or_varying_border"
-    },
-    {
-      "id": "maono",
-      "corners_rgba": [
-        11,
-        66,
-        95,
-        255
-      ],
-      "mismatch_frames": 7,
-      "n_frames": 47,
-      "uniform_border_frames": 0,
       "category": "complex_or_varying_border"
     },
     {
@@ -961,19 +909,6 @@
       "mismatch_frames": 0,
       "n_frames": 65,
       "uniform_border_frames": 48,
-      "category": "complex_or_varying_border"
-    },
-    {
-      "id": "morexem",
-      "corners_rgba": [
-        4,
-        24,
-        38,
-        255
-      ],
-      "mismatch_frames": 90,
-      "n_frames": 90,
-      "uniform_border_frames": 0,
       "category": "complex_or_varying_border"
     },
     {
@@ -1172,19 +1107,6 @@
       "category": "complex_or_varying_border"
     },
     {
-      "id": "reptalian",
-      "corners_rgba": [
-        225,
-        225,
-        225,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 19,
-      "uniform_border_frames": 19,
-      "category": "solid_border_candidate"
-    },
-    {
       "id": "samurai",
       "corners_rgba": [
         3,
@@ -1250,19 +1172,6 @@
       "category": "complex_or_varying_border"
     },
     {
-      "id": "scot",
-      "corners_rgba": [
-        189,
-        132,
-        106,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 10,
-      "uniform_border_frames": 9,
-      "category": "complex_or_varying_border"
-    },
-    {
       "id": "shellop",
       "corners_rgba": [
         4,
@@ -1289,19 +1198,6 @@
       "category": "complex_or_varying_border"
     },
     {
-      "id": "skylian",
-      "corners_rgba": [
-        31,
-        55,
-        85,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 12,
-      "uniform_border_frames": 12,
-      "category": "solid_border_candidate"
-    },
-    {
       "id": "skypit",
       "corners_rgba": [
         4,
@@ -1313,19 +1209,6 @@
       "n_frames": 65,
       "uniform_border_frames": 0,
       "category": "complex_or_varying_border"
-    },
-    {
-      "id": "slowdame",
-      "corners_rgba": [
-        4,
-        50,
-        71,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 26,
-      "uniform_border_frames": 26,
-      "category": "solid_border_candidate"
     },
     {
       "id": "smaxin",
@@ -1351,19 +1234,6 @@
       "mismatch_frames": 0,
       "n_frames": 120,
       "uniform_border_frames": 120,
-      "category": "solid_border_candidate"
-    },
-    {
-      "id": "snicore",
-      "corners_rgba": [
-        51,
-        51,
-        51,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 55,
-      "uniform_border_frames": 55,
       "category": "solid_border_candidate"
     },
     {
@@ -1432,19 +1302,6 @@
       "category": "complex_or_varying_border"
     },
     {
-      "id": "trike",
-      "corners_rgba": [
-        4,
-        50,
-        71,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 8,
-      "uniform_border_frames": 8,
-      "category": "solid_border_candidate"
-    },
-    {
       "id": "vanfox",
       "corners_rgba": [
         4,
@@ -1510,19 +1367,6 @@
       "category": "complex_or_varying_border"
     },
     {
-      "id": "wavyin",
-      "corners_rgba": [
-        4,
-        50,
-        71,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 40,
-      "uniform_border_frames": 36,
-      "category": "complex_or_varying_border"
-    },
-    {
       "id": "wordknight",
       "corners_rgba": [
         4,
@@ -1534,19 +1378,6 @@
       "n_frames": 74,
       "uniform_border_frames": 71,
       "category": "complex_or_varying_border"
-    },
-    {
-      "id": "wothem",
-      "corners_rgba": [
-        127,
-        127,
-        127,
-        255
-      ],
-      "mismatch_frames": 0,
-      "n_frames": 9,
-      "uniform_border_frames": 9,
-      "category": "solid_border_candidate"
     },
     {
       "id": "wuchen",

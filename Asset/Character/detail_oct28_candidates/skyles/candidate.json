@@ -1,0 +1,1460 @@
+{
+  "id": "skyles",
+  "source": "Asset/Character/vfx/skyles.gif",
+  "source_sha256": "fe41141ae042fbc3e96a6f9f597ece0fee210c756d564e18a029ffa6d7343bbd",
+  "base_candidate": "detail_130_candidates",
+  "base_input_sha256": {
+    "Asset/Character/review/skyles/detail_130_frames/frame_000.png": "b1e1d1148172882e56881dafb55f5f3f10770f340bc37c3520f8e99575d4ee88",
+    "Asset/Character/review/skyles/detail_130_frames/frame_001.png": "a7c6b7d773bd82c26fc614a65e11c0c8f376aa9530d93e98ea0bfb8bf2f01ce2",
+    "Asset/Character/review/skyles/detail_130_frames/frame_002.png": "085a298ce16aa896470472c0e79e958a13f33d13ffd3ab072acc794856ecbb6d",
+    "Asset/Character/review/skyles/detail_130_frames/frame_003.png": "a80ec0ee08a61e1e6efc2d13340ea5c1cb7e95457789a8dd96e05bd2e382aa7f",
+    "Asset/Character/review/skyles/detail_130_frames/frame_004.png": "d1f50a3ce388da98ae87b6f979e08c2ce47d27c2d496feaf286a2b0aa3f351db",
+    "Asset/Character/review/skyles/detail_130_frames/frame_005.png": "14663a806efc420def5b7d266ca6d9d6ddadd7fd233c9125221068c71d7af944",
+    "Asset/Character/review/skyles/detail_130_frames/frame_006.png": "b1e1d1148172882e56881dafb55f5f3f10770f340bc37c3520f8e99575d4ee88",
+    "Asset/Character/review/skyles/detail_130_frames/frame_007.png": "a7c6b7d773bd82c26fc614a65e11c0c8f376aa9530d93e98ea0bfb8bf2f01ce2",
+    "Asset/Character/review/skyles/detail_130_frames/frame_008.png": "085a298ce16aa896470472c0e79e958a13f33d13ffd3ab072acc794856ecbb6d",
+    "Asset/Character/review/skyles/detail_130_frames/frame_009.png": "a80ec0ee08a61e1e6efc2d13340ea5c1cb7e95457789a8dd96e05bd2e382aa7f",
+    "Asset/Character/review/skyles/detail_130_frames/frame_010.png": "d1f50a3ce388da98ae87b6f979e08c2ce47d27c2d496feaf286a2b0aa3f351db",
+    "Asset/Character/review/skyles/detail_130_frames/frame_011.png": "14663a806efc420def5b7d266ca6d9d6ddadd7fd233c9125221068c71d7af944",
+    "Asset/Character/review/skyles/detail_130_frames/frame_012.png": "d741c8a7770a8ec00507156cb911f5a5ac35a9703b515226178634eb69223542",
+    "Asset/Character/review/skyles/detail_130_frames/frame_013.png": "e5a378133f1b0bc3ac5f07d2fa23d6a4618f71136b8be8c4242c991649f0306a",
+    "Asset/Character/review/skyles/detail_130_frames/frame_014.png": "34b45e467df9fc27c848cc37c0e4823c00bedb6937ecbdedaa1c1fda410f13c9",
+    "Asset/Character/review/skyles/detail_130_frames/frame_015.png": "c4c6e8ff013af253448972baceeb700797c12d8c874a247699c89fa02e84ac69",
+    "Asset/Character/review/skyles/detail_130_frames/frame_016.png": "0a452f2238c958effaff7f11930d4def76ee14074fb23cab2821b8fdbf3e15d6",
+    "Asset/Character/review/skyles/detail_130_frames/frame_017.png": "f6e9726b36693775434196e4ad77441ed8b5464a6b44136e141e336b795ce7ba",
+    "Asset/Character/review/skyles/detail_130_frames/frame_018.png": "d0f1cbd486a32644883a4bc5de74f7b7be2530f63e18334492990353e15b407c",
+    "Asset/Character/review/skyles/detail_130_frames/frame_019.png": "ecc8e3e0bcf1859a478a38d7e1b53effa569df131421dcafa39100494ebce1a0",
+    "Asset/Character/review/skyles/detail_130_frames/frame_020.png": "5024c37a6c5f9a96f2b868d6a61cfa11b1516edfd40a7c49412d4a8647dee8d7",
+    "Asset/Character/review/skyles/detail_130_frames/frame_021.png": "292a37d43d0d39954418f8c519b1310b9552383326353c71ac0f2267be117903",
+    "Asset/Character/review/skyles/detail_130_frames/frame_022.png": "28dde9476aa7146869af29e49d65be78558810b1e4f87b6c9564ae8444a37c8a",
+    "Asset/Character/review/skyles/detail_130_frames/frame_023.png": "b532877f18ebdc404c2be3fa7e8d5ac8005b2f4f87618bf276c190d0b7028c53",
+    "Asset/Character/review/skyles/detail_130_frames/frame_024.png": "d741c8a7770a8ec00507156cb911f5a5ac35a9703b515226178634eb69223542",
+    "Asset/Character/review/skyles/detail_130_frames/frame_025.png": "e5a378133f1b0bc3ac5f07d2fa23d6a4618f71136b8be8c4242c991649f0306a",
+    "Asset/Character/review/skyles/detail_130_frames/frame_026.png": "34b45e467df9fc27c848cc37c0e4823c00bedb6937ecbdedaa1c1fda410f13c9",
+    "Asset/Character/review/skyles/detail_130_frames/frame_027.png": "c4c6e8ff013af253448972baceeb700797c12d8c874a247699c89fa02e84ac69",
+    "Asset/Character/review/skyles/detail_130_frames/frame_028.png": "0a452f2238c958effaff7f11930d4def76ee14074fb23cab2821b8fdbf3e15d6",
+    "Asset/Character/review/skyles/detail_130_frames/frame_029.png": "f6e9726b36693775434196e4ad77441ed8b5464a6b44136e141e336b795ce7ba",
+    "Asset/Character/review/skyles/detail_130_frames/frame_030.png": "d0f1cbd486a32644883a4bc5de74f7b7be2530f63e18334492990353e15b407c",
+    "Asset/Character/review/skyles/detail_130_frames/frame_031.png": "ecc8e3e0bcf1859a478a38d7e1b53effa569df131421dcafa39100494ebce1a0",
+    "Asset/Character/review/skyles/detail_130_frames/frame_032.png": "5024c37a6c5f9a96f2b868d6a61cfa11b1516edfd40a7c49412d4a8647dee8d7",
+    "Asset/Character/review/skyles/detail_130_frames/frame_033.png": "292a37d43d0d39954418f8c519b1310b9552383326353c71ac0f2267be117903",
+    "Asset/Character/review/skyles/detail_130_frames/frame_034.png": "28dde9476aa7146869af29e49d65be78558810b1e4f87b6c9564ae8444a37c8a",
+    "Asset/Character/review/skyles/detail_130_frames/frame_035.png": "b532877f18ebdc404c2be3fa7e8d5ac8005b2f4f87618bf276c190d0b7028c53",
+    "Asset/Character/review/skyles/detail_130_frames/frame_036.png": "68946c918fb19158c6b94ff5234489ea20b68528d8c89d0380a80b3528afc4bf",
+    "Asset/Character/review/skyles/detail_130_frames/frame_037.png": "6267047fc32f1217218dcee2a1b28b4b6f3fd5f43b5a48c3dae36bcd9bfd511c",
+    "Asset/Character/review/skyles/detail_130_frames/frame_038.png": "aabafda331ec5bf1b7e718dc03f6c5a55cf41eb3f403b0d1987fe24e7af58e6a",
+    "Asset/Character/review/skyles/detail_130_frames/frame_039.png": "05c6894014172f6a2ccd180eda50ac4994581f9b000cc9f7751b46fbeb7d9fc1",
+    "Asset/Character/review/skyles/detail_130_frames/frame_040.png": "f43d36df0993e453c74324658c3fb1f17830e36bc939b12edbce3aeb716e73de",
+    "Asset/Character/review/skyles/detail_130_frames/frame_041.png": "9cec94c394cc1f8696024a6d1d457b259a4785a87ec77e72c2dcd5e713e1c122",
+    "Asset/Character/review/skyles/detail_130_frames/frame_042.png": "cc1f774d4eeb86c6af32722c768e1b81a6062479dcf7c60f6f99238b5cb0c708",
+    "Asset/Character/review/skyles/detail_130_frames/frame_043.png": "edfa6bb4a08d1bf7ca5107b7c0ae737ddd6c68cf4012dfbb60d520c6dc8abaef",
+    "Asset/Character/review/skyles/detail_130_frames/frame_044.png": "62b072ab9d9f1b6cac935cad6e0de4e95fcb36929ddc3fc35a39c305e010d638",
+    "Asset/Character/review/skyles/detail_130_frames/frame_045.png": "f9bfeb46430f09d34a6343c1785109aadac8e03a0d4c10da0cc6c6ab5045cf26",
+    "Asset/Character/review/skyles/detail_130_frames/frame_046.png": "0763c556becaf28dc18e55e306570d971cf2b0a25dca763d47ba5b89f44224b4",
+    "Asset/Character/review/skyles/detail_130_frames/frame_047.png": "8141f57fe2407b84eec638f32ad646d6add6c87e8eee3e21fadae14f5709535b",
+    "Asset/Character/review/skyles/detail_130_frames/frame_048.png": "4d5c3a4fb524730f497abf17448a1f43545d2e51a00b3f96522b5b61a52971bf",
+    "Asset/Character/review/skyles/detail_130_frames/frame_049.png": "b352425787bbb2d3945dc2025083d6ff3af400e71db96a942814d5b5a991d102",
+    "Asset/Character/review/skyles/detail_130_frames/frame_050.png": "0695f3b03721c61f81cd0dae27c05c019a68c4dbba5b175d6f7c1a79a2ead674",
+    "Asset/Character/review/skyles/detail_130_frames/frame_051.png": "e49f51c8e2558ae387313d4ad7abb1e8cd1cb459c1662780ae52038f51eae326",
+    "Asset/Character/review/skyles/detail_130_frames/frame_052.png": "6dd50241011981e17c29518ce3ebb5da868fa6acbdbc59bd1bf79209d8598ffd",
+    "Asset/Character/review/skyles/detail_130_frames/frame_053.png": "185198b7c7a6d2559b9e6480cc391f4635f3dc0ec7b89552223513e6132fbbae",
+    "Asset/Character/review/skyles/detail_130_frames/frame_054.png": "1889bcd1492e50519ff8d03a442bad9543d59686cac1d65d8fdd1c203c7d60dc",
+    "Asset/Character/review/skyles/detail_130_frames/frame_055.png": "f7d5607912b0e0fbde55012cbd8de5d20a66e902f635b0835fe02c402a98c206",
+    "Asset/Character/review/skyles/detail_130_frames/frame_056.png": "d70762c619fe561a034cf5c4ce08b721ed663b7597aa09b62e6a872ad59e7d3e",
+    "Asset/Character/review/skyles/detail_130_frames/frame_057.png": "4bd35b3e5ab5482ec24e8743b8b1301ed6273a0e5601afcb6b88adccea999545",
+    "Asset/Character/review/skyles/detail_130_frames/frame_058.png": "8aeb58024088807ccbe17a21c43e0e813b24fd3f8a7cb3848dad263e933de536",
+    "Asset/Character/review/skyles/detail_130_frames/frame_059.png": "767ab4660bd173dc7b8c38593ea6545fb614c3e173a0a40633e7893641fddfdf",
+    "Asset/Character/review/skyles/detail_130_frames/frame_060.png": "d43e1be7f308b686948ced7dfa50ffde5cf1c442167b52e1f19605cd659b7e10",
+    "Asset/Character/review/skyles/detail_130_frames/frame_061.png": "f6599fe14748b7558637409aa59b32391caa3223d4bea12c730d362f739583a7",
+    "Asset/Character/review/skyles/detail_130_frames/frame_062.png": "46ee3d20dcbe013a2b1a679f8710a517bfb0dfb542f52728d9464d447e436186",
+    "Asset/Character/review/skyles/detail_130_frames/frame_063.png": "d82f681d52be7fded320a6d5e1f5caf353d2e02b469d04fd8e45ff92fc7864a6",
+    "Asset/Character/review/skyles/detail_130_frames/frame_064.png": "22fb0fa9c2fb426afb25fca828293e800727d7bad5462a2bd39013fb560c8cf9",
+    "Asset/Character/review/skyles/detail_130_frames/frame_065.png": "87daa1d329f1185fdad67722e0d081597adfa69847de085e45682367863384f9",
+    "Asset/Character/review/skyles/detail_130_frames/frame_066.png": "d5009e988e16ffd316f47776f81b3f778b28a559224e82373a6225aeefd3fc11",
+    "Asset/Character/review/skyles/detail_130_frames/frame_067.png": "022668486f809f192f6f51f045fc979f54933f846f836b090151d45a897904c3",
+    "Asset/Character/review/skyles/detail_130_frames/frame_068.png": "984d62ec87a6872877c56a3d008f381a204e2a880de3eac95944b6e24fd6ae90",
+    "Asset/Character/review/skyles/detail_130_frames/frame_069.png": "b2e7d6c6fc699fc696060981934af35f63a3f6d77fb42393f9ec607939baa53a",
+    "Asset/Character/review/skyles/detail_130_frames/frame_070.png": "71169f469dc4fd0a01fadef1a6a1fac8a5b056eff6fe8420731a19044777ebbc",
+    "Asset/Character/review/skyles/detail_130_frames/frame_071.png": "0d4e229eacff64b8a69baec44d78441e1c688653d78bf2f7d04c86251b6f3d5b",
+    "Asset/Character/review/skyles/detail_130_frames/frame_072.png": "fc22acfa8cbeae3e1ad1eb02cf82ea00963dc1e2dff13b06899056c5bcf5e682",
+    "Asset/Character/review/skyles/detail_130_frames/frame_073.png": "560d49a57952329427cb81faf757d2435e66a70c290cf475900a935a2f6e78fd",
+    "Asset/Character/review/skyles/detail_130_frames/frame_074.png": "9f235b8b11da4eda623083b09a5b38b68aad75ddf79a8d9fcdfb14832ebb60f7",
+    "Asset/Character/review/skyles/detail_130_frames/frame_075.png": "01350678187b8609a6c3eb627ebb8e2cc40a2dcbc8c74f7d363e27f12bf6ea7b",
+    "Asset/Character/review/skyles/detail_130_frames/frame_076.png": "1724fc4fc215730183900f937f6c96e246b6e7810b3f253fe30185b708053af2",
+    "Asset/Character/review/skyles/detail_130_frames/frame_077.png": "06afa3b47ea9c4fb9d8808bc733a34accd0f49b28255861d4f77a45e49297c49",
+    "Asset/Character/review/skyles/detail_130_frames/frame_078.png": "4d1861e2120ce8337d8295d3729a6ec23188cbf96e9140e7a5ed61b8ca8ce376",
+    "Asset/Character/review/skyles/detail_130_frames/frame_079.png": "b42c7f2aa162e67d0623b0102f4af82080bdd5bf378362f50688a239c0070544",
+    "Asset/Character/review/skyles/detail_130_frames/frame_080.png": "afc7e18718641f012fb3617cfef7adbdf4b4048d696ad330f8b60cb369aca728",
+    "Asset/Character/review/skyles/detail_130_frames/frame_081.png": "c37e33fec676fc7bfe10b37f5c5823286a38e66e90ff9d17956f9d1be9af72a3",
+    "Asset/Character/review/skyles/detail_130_frames/frame_082.png": "f002aa09347a15f0e4dba348cfbd035d4850acbc80747652a75af55fce83510d",
+    "Asset/Character/review/skyles/detail_130_frames/frame_083.png": "384c670ffd0ab5a3e0de38b14eda833565c9193b4c7d709ba2b178fff156d1cb",
+    "Asset/Character/review/skyles/detail_130_frames/frame_084.png": "afa9427513d1cb8b481deef793a9893536e77578ee7691129892a30f4a636770",
+    "Asset/Character/review/skyles/detail_130_frames/frame_085.png": "cf05454c25506d4cb63be454916302c40173c22eb615b6bf1252d6ef42e41c74",
+    "Asset/Character/review/skyles/detail_130_frames/frame_086.png": "d6dc8cb268dbec5be06cb8cca82a18db167a5f3b5c8f7029cced934f53201ee4",
+    "Asset/Character/review/skyles/detail_130_frames/frame_087.png": "4d9a6f8d2b33d070bd783a04cee60d5bdadd84affc6d55eff9c66b606d8cb128",
+    "Asset/Character/review/skyles/detail_130_frames/frame_088.png": "633d298a129a6342ae3eec0c52403191d75b7bd05af7264bb96de2ff6fd9c615",
+    "Asset/Character/review/skyles/detail_130_frames/frame_089.png": "97fafe1829f477d7a316ef6d79ed5d1c898a372d7ace5412f97122cb489687cb",
+    "Asset/Character/review/skyles/detail_130_frames/frame_090.png": "5153daa0c1b5381e2ac1f5b22d4d673f12cc1ab0cd2a3d76bf4551337b6f0b75",
+    "Asset/Character/review/skyles/detail_130_frames/frame_091.png": "cc05c18bad2c4c3a43450a78fa8aa22a536a8dd5a6abb42a6e7387332cc9c44b",
+    "Asset/Character/review/skyles/detail_130_frames/frame_092.png": "47fd3cf8471d75485acbfad050a637ea08f595cadce450a955ce605805d5196f",
+    "Asset/Character/review/skyles/detail_130_frames/frame_093.png": "aea8ab6f6558bab3dd3463b7eccd0dad7775d5d03b679450fb2dbda05c0e6263",
+    "Asset/Character/review/skyles/detail_130_frames/frame_094.png": "c841a1bfe9ff7052b62bd3e2bf4976d816577d998ab7832934304d0ea827c40e",
+    "Asset/Character/review/skyles/detail_130_frames/frame_095.png": "02c6b23561514d9ea12ace4241e518188f3c296a474d073819111422ec6b2140"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 96,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        780,
+        780
+      ]
+    }
+  ],
+  "display_size": [
+    500,
+    500
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

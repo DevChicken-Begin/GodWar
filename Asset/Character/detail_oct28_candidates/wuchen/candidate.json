@@ -1,0 +1,725 @@
+{
+  "id": "wuchen",
+  "source": "Asset/Character/vfx/wuchen.gif",
+  "source_sha256": "88c1a9c837b29ad4506715d3ea87a45e458a21ab2b2d002bd07f9758e0b11e42",
+  "base_candidate": "detail_130_candidates",
+  "base_input_sha256": {
+    "Asset/Character/review/wuchen/detail_130_frames/frame_000.png": "066b7fb369f1e12c17df7128a568909d9c54126b2818859822690a113eb9e4f6",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_001.png": "fe59fe3d2e448e50d8f708c0a943797709797b233a1144721c23db8890136ec9",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_002.png": "2eddf48ac228953f405204063baa2e56591a9569c81569bbed9ff1dea4f33569",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_003.png": "bc08027ee08ee4263e645aca8d5566613108e700b8730e1a28b488863c8c42da",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_004.png": "98dc8f647ad1078c2bbe0d252d6971a76197c8ab6d85a786a305fd4e5b540153",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_005.png": "cf6a73de166c1852d34da500f49b05ce5378021db58883a763014624538a31c0",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_006.png": "de012421890d41c6e99e712db7dcabe12aa0d14653d985de328268975dd2efde",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_007.png": "b8dedc36343889c9eefeab0b07796b791f68a152b657e2c33b903f799f5a1dc8",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_008.png": "1ca8bb3d462d2583fee12e563af11262e51ed634b7907dbb106bbeac11b5d724",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_009.png": "63362f8daff81f6094b5bcaf79f68d3b6e04bc2a76ab87ea59f6b17bb9ef165f",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_010.png": "0c2971960e44d2b6061807a4968cbbd048d9cb9755dbb40f2d8f8e8e37907916",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_011.png": "0a43bb27016d70bc1c8d4a0dadd73c8802163109fc642e10135bb55590711a50",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_012.png": "1836150d3b7228dcce8241e8f11537659ff1954bb0776a7103252dc88b90e828",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_013.png": "a929f548110cfe620f85eb00f55bf9d071d565d8adad66db9563c0b16b1ddeb6",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_014.png": "ebee6e3598bb9ef0f2ae2e751fb9028acaa087820d2a10512f35d8a3d4cddf03",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_015.png": "fe59fe3d2e448e50d8f708c0a943797709797b233a1144721c23db8890136ec9",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_016.png": "2eddf48ac228953f405204063baa2e56591a9569c81569bbed9ff1dea4f33569",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_017.png": "bc08027ee08ee4263e645aca8d5566613108e700b8730e1a28b488863c8c42da",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_018.png": "98dc8f647ad1078c2bbe0d252d6971a76197c8ab6d85a786a305fd4e5b540153",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_019.png": "cf6a73de166c1852d34da500f49b05ce5378021db58883a763014624538a31c0",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_020.png": "de012421890d41c6e99e712db7dcabe12aa0d14653d985de328268975dd2efde",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_021.png": "b8dedc36343889c9eefeab0b07796b791f68a152b657e2c33b903f799f5a1dc8",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_022.png": "1ca8bb3d462d2583fee12e563af11262e51ed634b7907dbb106bbeac11b5d724",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_023.png": "63362f8daff81f6094b5bcaf79f68d3b6e04bc2a76ab87ea59f6b17bb9ef165f",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_024.png": "0c2971960e44d2b6061807a4968cbbd048d9cb9755dbb40f2d8f8e8e37907916",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_025.png": "0a43bb27016d70bc1c8d4a0dadd73c8802163109fc642e10135bb55590711a50",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_026.png": "1836150d3b7228dcce8241e8f11537659ff1954bb0776a7103252dc88b90e828",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_027.png": "d46367bca148ff3761b0ce2fb6e7529b77d4dfaade49961d1c57498a00c08ecf",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_028.png": "88743a24dc0ee5e01e5755aa3b628dea8d7dec8f4b4635dbdea60922b18d2351",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_029.png": "5875983960b4e52953550d028899cb11013cd74b1eabe727fe13b3af7f8d7ae2",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_030.png": "0425cc30ec0f97e3232f0664cd657132238efe816279168bda6df0d8a0a85763",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_031.png": "4d17eca8106de3361731826db53565cfb792fcf884be67ddbbcba440beae36a2",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_032.png": "1f49a730b3908c615de8d4e9282129b40d886381fe7002c5f09e3fd5656265e6",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_033.png": "9e247e527125f59866e9d71483b973d33ebddc3df4adba988160b4bb2ce4bf0b",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_034.png": "1cc9d0e49aecc9f022b9e47be3a115e54a9ddff61a50a5f97b9dbda127983ef1",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_035.png": "e5cace0ec9aebc249ff83ebda9b00e366560e2f4df13de0def332e70f071d43d",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_036.png": "379b20253bb35c16c984b24304b8cc5c239f91a817476799f599ae28b9106fe2",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_037.png": "361cfb5c96d0bf1f1aca90ee334e7243b1de41a258890fd585e55260c979b7f3",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_038.png": "f78b74d888bbf52552840382d3956ff4ba84059964c7ed67492cb44795a30e40",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_039.png": "8f01da1974ee64d1f58b72c979a44b1fc74742cbbfbacd79a2b1d9cfe1697915",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_040.png": "87013ce7bd0d593a4d29b633d1a9e3d6f2389538e687e1b7d682eacfc73694a2",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_041.png": "85a8ad225cde89bebf5aecbe76e7cfee4a56bf9f52873d352cbacf01165aca32",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_042.png": "1075b56515d2f43b6f5c151d8588d67fe4e9f2fafa6a0201f7399a7383763600",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_043.png": "15933e9eece780009188929aec4e3a2e1b8c2e835a78c22964ec40f3516f2529",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_044.png": "26bfc4fe805b0455db1334b892f4e6e2b7c40224bc92731c751b7a6a0160f097",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_045.png": "afea24a9392bdfc97d1397d537f4a12fe066610b782faa4cf7967396f5d70a20",
+    "Asset/Character/review/wuchen/detail_130_frames/frame_046.png": "569280a10babe2d4d4739a9f92c45bfff9027f79ec65424ce67f583d35d45515"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    }
+  ],
+  "display_size": [
+    300,
+    300
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

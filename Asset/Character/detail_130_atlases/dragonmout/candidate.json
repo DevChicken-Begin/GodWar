@@ -1,0 +1,231 @@
+{
+  "id": "dragonmout",
+  "source": "Asset/Character/vfx/dragonmout.gif",
+  "source_sha256": "9228b22d2339477c62ffba8817bcb1f1b8e554b05357b044d2d24b47374224d4",
+  "base_candidate": "sharp_candidates",
+  "frame_count": 21,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        325,
+        0,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        650,
+        0,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        975,
+        0,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1300,
+        0,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1625,
+        0,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        325,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        325,
+        325,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        650,
+        325,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        975,
+        325,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1300,
+        325,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1625,
+        325,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        650,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        325,
+        650,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        650,
+        650,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        975,
+        650,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1300,
+        650,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1625,
+        650,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        975,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        325,
+        975,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        650,
+        975,
+        325,
+        325
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "display_size": [
+    250,
+    250
+  ],
+  "frame_size": [
+    325,
+    325
+  ],
+  "loop": 0,
+  "status": "candidate_unreviewed",
+  "method": "Pack existing 130% interpolated review frames; display scale is display_size / frame_size.",
+  "limitations": "An interpolated variant does not create missing source detail; can alter edges or VFX, introduce flicker or uneven widths and cannot guarantee improvement. Earlier background defects are inherited. Compare each frame."
+}

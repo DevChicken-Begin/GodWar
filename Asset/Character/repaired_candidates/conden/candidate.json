@@ -1,0 +1,654 @@
+{
+  "id": "conden",
+  "source": "Asset/Character/vfx/conden.gif",
+  "source_sha256": "c7c362e786fbda78570307d20b25a557aa506d693d2e886a99ea60024f443124",
+  "base_candidate": "batch_candidates",
+  "frame_count": 52,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 0,
+      "synthetic": false
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 1,
+      "synthetic": false
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 2,
+      "synthetic": false
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 3,
+      "synthetic": false
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 4,
+      "synthetic": false
+    },
+    {
+      "atlas": 1,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 5,
+      "synthetic": false
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 6,
+      "synthetic": false
+    },
+    {
+      "atlas": 1,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 7,
+      "synthetic": false
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 8,
+      "synthetic": false
+    },
+    {
+      "atlas": 2,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 9,
+      "synthetic": false
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 10,
+      "synthetic": false
+    },
+    {
+      "atlas": 2,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 11,
+      "synthetic": false
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 12,
+      "synthetic": false
+    },
+    {
+      "atlas": 3,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 13,
+      "synthetic": false
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 14,
+      "synthetic": false
+    },
+    {
+      "atlas": 3,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 15,
+      "synthetic": false
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 16,
+      "synthetic": false
+    },
+    {
+      "atlas": 4,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 17,
+      "synthetic": false
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 18,
+      "synthetic": false
+    },
+    {
+      "atlas": 4,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 19,
+      "synthetic": false
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 20,
+      "synthetic": false
+    },
+    {
+      "atlas": 5,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 21,
+      "synthetic": false
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 22,
+      "synthetic": false
+    },
+    {
+      "atlas": 5,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 23,
+      "synthetic": false
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 24,
+      "synthetic": false
+    },
+    {
+      "atlas": 6,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 25,
+      "synthetic": false
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 26,
+      "synthetic": false
+    },
+    {
+      "atlas": 6,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 27,
+      "synthetic": false
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 28,
+      "synthetic": false
+    },
+    {
+      "atlas": 7,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 29,
+      "synthetic": false
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 30,
+      "synthetic": false
+    },
+    {
+      "atlas": 7,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 31,
+      "synthetic": false
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 32,
+      "synthetic": false
+    },
+    {
+      "atlas": 8,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 33,
+      "synthetic": false
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 34,
+      "synthetic": false
+    },
+    {
+      "atlas": 8,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 35,
+      "synthetic": false
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 36,
+      "synthetic": false
+    },
+    {
+      "atlas": 9,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 37,
+      "synthetic": false
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 38,
+      "synthetic": false
+    },
+    {
+      "atlas": 9,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 39,
+      "synthetic": false
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 40,
+      "synthetic": false
+    },
+    {
+      "atlas": 10,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 41,
+      "synthetic": false
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 42,
+      "synthetic": false
+    },
+    {
+      "atlas": 10,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 43,
+      "synthetic": false
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 35,
+      "source_index": 44,
+      "synthetic": true
+    },
+    {
+      "atlas": 11,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 35,
+      "source_index": 44,
+      "synthetic": true
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 35,
+      "source_index": 45,
+      "synthetic": true
+    },
+    {
+      "atlas": 11,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 35,
+      "source_index": 45,
+      "synthetic": true
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 35,
+      "source_index": 46,
+      "synthetic": true
+    },
+    {
+      "atlas": 12,
+      "region": [
+        960,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 35,
+      "source_index": 46,
+      "synthetic": true
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 35,
+      "source_index": 47,
+      "synthetic": true
+    },
+    {
+      "atlas": 12,
+      "region": [
+        960,
+        720,
+        960,
+        720
+      ],
+      "duration_ms": 35,
+      "source_index": 47,
+      "synthetic": true
+    }
+  ],
+  "loop": 0,
+  "display_size": [
+    960,
+    720
+  ],
+  "template_source_index": 43,
+  "template_region_xyxy": [
+    575,
+    390,
+    715,
+    465
+  ],
+  "modified_source_indices": [
+    44,
+    45,
+    46,
+    47
+  ],
+  "method": "Overlay a crop of the existing arrow-like effect at successive positions, split selected frame durations and extend the right canvas.",
+  "status": "candidate_unreviewed",
+  "limitations": "Projectile travel and inserted frames are synthetic; the original art and timing remain available. Check for effects overlapping or abrupt exits."
+}

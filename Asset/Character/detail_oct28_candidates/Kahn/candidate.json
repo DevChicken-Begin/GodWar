@@ -1,0 +1,1578 @@
+{
+  "id": "Kahn",
+  "source": "Asset/Character/vfx/Kahn.gif",
+  "source_sha256": "4911bbdbaabc843923ac391b521281192fd8c39511e5d629a6bd20badcc8b133",
+  "base_candidate": "fine_candidates",
+  "base_input_sha256": {
+    "Asset/Character/fine_candidates/Kahn/atlas_000.png": "a2d03dd78144a02d06c8c5c8d27067481daf47760c94b9539e376de4b45c9244",
+    "Asset/Character/fine_candidates/Kahn/atlas_001.png": "90e773b722905b3260f4db86ccf0afd6b2ca7a90fd3e13289c4d0a72c9c039fb",
+    "Asset/Character/fine_candidates/Kahn/atlas_002.png": "ea197904c8c956c8327b35942d8bc36eb28b9def51f2e2638a2646efda09b2ca",
+    "Asset/Character/fine_candidates/Kahn/atlas_003.png": "b5bf986baca8e2895bf730621c2c12c6c92eb3f2c732082910966720e51a4ebd"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 111,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    }
+  ],
+  "display_size": [
+    300,
+    300
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

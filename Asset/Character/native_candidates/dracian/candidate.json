@@ -1,0 +1,458 @@
+{
+  "source": "Asset/Character/vfx/dracian.gif",
+  "source_sha256": "843fe18eee342ae6d656a4df533130a3823141e87a9f41f80af2dda3808e6cbd",
+  "art_source": "existing",
+  "method": "Original-resolution RGBA; clear pixels within RGB max 5 of the measured flat corner color, no resizing or palette reduction",
+  "background_rgb": [
+    0,
+    48,
+    66
+  ],
+  "frame_count": 40,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        268,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        268,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        268,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        268,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        268,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        268,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        268,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        536,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        536,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        536,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        536,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        536,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        536,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        536,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        804,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        804,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        804,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        804,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        804,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        804,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        804,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1072,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        1072,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        1072,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        1072,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        1072,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        1072,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        1072,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1340,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        1340,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        1340,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        1340,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        1340,
+        268,
+        268
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "removed_per_frame": [
+    65887,
+    65848,
+    66040,
+    66402,
+    66189,
+    66440,
+    66547,
+    66972,
+    66934,
+    66949,
+    67127,
+    67160,
+    66811,
+    66910,
+    63212,
+    65482,
+    66063,
+    66385,
+    66124,
+    66484,
+    66830,
+    66994,
+    66937,
+    65750,
+    62599,
+    65697,
+    63044,
+    64265,
+    63543,
+    63870,
+    63197,
+    64916,
+    64048,
+    63739,
+    66599,
+    66640,
+    67108,
+    66863,
+    66802,
+    66812
+  ],
+  "status": "candidate_unreviewed",
+  "limitations": "Colors close to background may occur on character or effects and be removed; disconnected background, lettering or edge artifacts can remain. Compare every frame with original."
+}

@@ -1,0 +1,620 @@
+{
+  "id": "dracian",
+  "source": "Asset/Character/vfx/dracian.gif",
+  "source_sha256": "843fe18eee342ae6d656a4df533130a3823141e87a9f41f80af2dda3808e6cbd",
+  "base_candidate": "detail_130_candidates",
+  "base_input_sha256": {
+    "Asset/Character/review/dracian/detail_130_frames/frame_000.png": "de2cbe4fbbeafced9df2ea4f491ccf1476b821bb782081762c7d7315ad1e99d5",
+    "Asset/Character/review/dracian/detail_130_frames/frame_001.png": "1b071dccba33262f4e59116b41e07505341de43b743bd159510cfa4d61a6a613",
+    "Asset/Character/review/dracian/detail_130_frames/frame_002.png": "a8918fa13d19f52ecbaaaebca4f2140b4aa95a3aee7c54a59b3e6212ff31d24c",
+    "Asset/Character/review/dracian/detail_130_frames/frame_003.png": "aafd024784800a81034d8f7fbbba5bfea4df645430b1e9d239611c1a95919fbd",
+    "Asset/Character/review/dracian/detail_130_frames/frame_004.png": "56742cc33a2355028dd86b5532a76c6cc2504882ab1b1006262e1a2ee8259cac",
+    "Asset/Character/review/dracian/detail_130_frames/frame_005.png": "039f4264d9107ce30278dc5b5456100dad6d484312c52f86a584e6d9bc6f6751",
+    "Asset/Character/review/dracian/detail_130_frames/frame_006.png": "5bfa4b8f6841b692eedd3579f3bce5283958e821ebb2dcb7d5aa6840134ce059",
+    "Asset/Character/review/dracian/detail_130_frames/frame_007.png": "248d69d133fa2ebbd9818750012ea4968de923100d985eb8cf9041bb6f26f415",
+    "Asset/Character/review/dracian/detail_130_frames/frame_008.png": "d777b37e7c84743d72683414e016c3df0b6c579b43f447b21b39687f8ca7a59b",
+    "Asset/Character/review/dracian/detail_130_frames/frame_009.png": "04daa39223401add15874c837daca887ca84e5597f1b307fc32f0796eb25d7ec",
+    "Asset/Character/review/dracian/detail_130_frames/frame_010.png": "a5706b987bd8a1e4ef97d8ba3f122f0c72e9ce5ed5cef4766affd503fcda4914",
+    "Asset/Character/review/dracian/detail_130_frames/frame_011.png": "537e975042dc67b277e9021881a193a13d3928537cce4b47f473bc009280b1a2",
+    "Asset/Character/review/dracian/detail_130_frames/frame_012.png": "f9c17f5770735b2b618d40b82b267f6b19bc88a497a65b589c25cf331e38718d",
+    "Asset/Character/review/dracian/detail_130_frames/frame_013.png": "d051e5777b8520441f01d08466fd27ff13664947b4903ca6ebeef9da4ffda150",
+    "Asset/Character/review/dracian/detail_130_frames/frame_014.png": "d8f679af19eff99dcadda2519f6c04c77e1d6f5487158e80d318c536cd7e877c",
+    "Asset/Character/review/dracian/detail_130_frames/frame_015.png": "9f491af167cd6d6e7b0f3f3cf0d4c4251a762a1c3dd12ce507304bdb8c467078",
+    "Asset/Character/review/dracian/detail_130_frames/frame_016.png": "64e272c7a3b76dbed768ac303c8b2913d0946d31fedc72ebe0d3a8e38b30061c",
+    "Asset/Character/review/dracian/detail_130_frames/frame_017.png": "f2491637fc6b13678a287d8201a8622e362b9b7b6e72d65a764b244665044516",
+    "Asset/Character/review/dracian/detail_130_frames/frame_018.png": "fdb22feb4aaf49f57c28ecca3a32f242fba5ff6aac4582e094be729059e623d0",
+    "Asset/Character/review/dracian/detail_130_frames/frame_019.png": "beaaaa6f62a99c6c2a62475f1b336563018c78a51c2be8862dfc2375a8c77fdf",
+    "Asset/Character/review/dracian/detail_130_frames/frame_020.png": "cbfbf710b00ab06a7ac0e021fb7135fffb0e870a76375ee0282a14aa9fdd6b5c",
+    "Asset/Character/review/dracian/detail_130_frames/frame_021.png": "20351739a19a9736d31d11f23f53ce5050a94e9deb3a42a04add5a1b0454d3de",
+    "Asset/Character/review/dracian/detail_130_frames/frame_022.png": "db9a39e45cde366b0294ce60db554c41add35e8debd850a2820a0ad2d77b786a",
+    "Asset/Character/review/dracian/detail_130_frames/frame_023.png": "5993e3f52940d1e4677c0e8e983b827e0926d83a49b1639fe213c5a53455e300",
+    "Asset/Character/review/dracian/detail_130_frames/frame_024.png": "2e2fd5a86a99477c630e903706dd23a251ac006399a5f04e52e3e0c45652ce92",
+    "Asset/Character/review/dracian/detail_130_frames/frame_025.png": "ac7cbddc0bdacfc13e94feb076e5a45aae094b63a3c0e08c4c770ada03421afd",
+    "Asset/Character/review/dracian/detail_130_frames/frame_026.png": "1efc0e3d28168fb8f2ec02124ed45702ac9de9cf72c431d03ae2b1e92b09073f",
+    "Asset/Character/review/dracian/detail_130_frames/frame_027.png": "0a259fae814bcda0a1e10e8aa9431e6b2e96f2c88a0794b4dfe0950b4c5559f5",
+    "Asset/Character/review/dracian/detail_130_frames/frame_028.png": "43f51c1e60a5e7b69446d5c1907617179fb0b3cde3207268405c772740426326",
+    "Asset/Character/review/dracian/detail_130_frames/frame_029.png": "573a268e836c814ccc06c00073c1c47cb403cfed8461f8897716655b29bb9738",
+    "Asset/Character/review/dracian/detail_130_frames/frame_030.png": "a24dc25c6cbb0eb0f71dcb1477e14aefac8e9acfb5ebefac475d4f8b51e69ad8",
+    "Asset/Character/review/dracian/detail_130_frames/frame_031.png": "c8ad7d0a24ec8e260a328af7dbabe810488b9cf8e953faf716a93b5959acbec4",
+    "Asset/Character/review/dracian/detail_130_frames/frame_032.png": "1d9588c046f5be97b9a22f9089219bad08c95997befd23707f19d28c945173b8",
+    "Asset/Character/review/dracian/detail_130_frames/frame_033.png": "e2c1efd34a6623047a814bf7ecc8d31cca4d6941e1e515b016255089a7fc8628",
+    "Asset/Character/review/dracian/detail_130_frames/frame_034.png": "81df3f8c4ac1cdb23b27eb7cfedf7d120829cc370b5a58115990fed235e3bd18",
+    "Asset/Character/review/dracian/detail_130_frames/frame_035.png": "21b957bd0d9657af87737799c6caaf3529bd21c365ea632f1e8698adb43ac7aa",
+    "Asset/Character/review/dracian/detail_130_frames/frame_036.png": "8b3458007a783e362161a481482e2c23a79f85d9499074513c171911c6553b85",
+    "Asset/Character/review/dracian/detail_130_frames/frame_037.png": "a6d41915e73d5d60e5cea465708bb1da13ec7b6d4497e4e42bf38b040a28a39f",
+    "Asset/Character/review/dracian/detail_130_frames/frame_038.png": "e15d3c481d4760dfc55e7223e01225880ef0bc73846ae9dd24fa4313fa37c18c",
+    "Asset/Character/review/dracian/detail_130_frames/frame_039.png": "dad1b7197baba14a23185edf1b62e4bdd00b9dd31a705d661da4505cf3c3b6fc"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 40,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        268
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        418,
+        418
+      ]
+    }
+  ],
+  "display_size": [
+    268,
+    268
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

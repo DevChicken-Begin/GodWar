@@ -1,0 +1,145 @@
+{
+  "source": "Asset/Character/vfx/knigblack.gif",
+  "source_sha256": "243484289b25cfb2290bc337077654cd0893a97f778132f6b1e2e194707181dd",
+  "base_candidate": "scene_model_strong_candidates",
+  "frame_count": 12,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        480,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        480,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        480,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 110
+    }
+  ],
+  "restored_per_frame": [
+    12260,
+    11681,
+    11880,
+    12177,
+    12923,
+    13366,
+    12657,
+    13091,
+    13319,
+    13795,
+    14408,
+    13577
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Restore source pixels within 7 px of strong foreground above y=420 to preserve details, without recropping frames.",
+  "limitations": "Background halos remain around silhouette and shadows remain; some gray foreground can still be missing. Requires manual refinement of every frame."
+}

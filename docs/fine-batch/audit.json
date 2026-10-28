@@ -1,0 +1,2630 @@
+{
+  "version": 1,
+  "method": "Match selected viewer baseline; exact uniform square cells on first, middle and last frames; complete frame check required before publication.",
+  "excluded": [
+    "agon",
+    "airpot",
+    "amore",
+    "aoda"
+  ],
+  "results": [
+    {
+      "id": "agon",
+      "source": "Asset/Character/vfx/agon.gif",
+      "source_sha256": "0866aea90709fe4f5aadcfbd8ace87cc0ee58a808a75dba9cfeefc9957704011",
+      "frame_count": 50,
+      "size": [
+        475,
+        400
+      ],
+      "status": "excluded_already_requested"
+    },
+    {
+      "id": "airpot",
+      "source": "Asset/Character/vfx/airpot.gif",
+      "source_sha256": "0d09956f6048d3fce18d67dd047bcf39b5bcda1ac31dac57c24c84cd8564e3b2",
+      "frame_count": 67,
+      "size": [
+        300,
+        300
+      ],
+      "status": "excluded_already_requested"
+    },
+    {
+      "id": "aminao",
+      "source": "Asset/Character/vfx/aminao.gif",
+      "source_sha256": "8cfca846be8baefbbcf75074716b11b227494b75fbf1bfd6b3dc59ca83359659",
+      "frame_count": 82,
+      "size": [
+        560,
+        560
+      ],
+      "base_candidate": "cleanup_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        41,
+        81
+      ]
+    },
+    {
+      "id": "amore",
+      "source": "Asset/Character/vfx/amore.gif",
+      "source_sha256": "68eafd0ef7bc7aa5d67bbc7bed841337a839132a1fe09a5a694c893d4e580604",
+      "frame_count": 46,
+      "size": [
+        240,
+        240
+      ],
+      "status": "excluded_already_requested"
+    },
+    {
+      "id": "animent",
+      "source": "Asset/Character/vfx/animent.gif",
+      "source_sha256": "9e103898ec9f0aba0e38a97d97d5505e075ca2d2cffadf668b496feeb7b12576",
+      "frame_count": 60,
+      "size": [
+        520,
+        520
+      ],
+      "base_candidate": "oct28_fix_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        30,
+        59
+      ]
+    },
+    {
+      "id": "anomen",
+      "source": "Asset/Character/vfx/anomen.gif",
+      "source_sha256": "89684fc48499542ab5697f2115c23acde1964b213eea66ecea9d8d0c3c794d60",
+      "frame_count": 19,
+      "size": [
+        256,
+        256
+      ],
+      "base_candidate": "extracted",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        9,
+        18
+      ]
+    },
+    {
+      "id": "aoda",
+      "source": "Asset/Character/vfx/aoda.gif",
+      "source_sha256": "475ef078e2939897ba4fd745e14be05cc032faaf79c44fa9e16e441d3241990a",
+      "frame_count": 93,
+      "size": [
+        600,
+        600
+      ],
+      "status": "excluded_already_requested"
+    },
+    {
+      "id": "aonoma",
+      "source": "Asset/Character/vfx/aonoma.gif",
+      "source_sha256": "2bcefa6bd3257fac09b7f16329d15ede1e0f9eadf102b382516e52fa8a590bdb",
+      "frame_count": 14,
+      "size": [
+        268,
+        214
+      ],
+      "base_candidate": "pixel_220_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        7,
+        13
+      ]
+    },
+    {
+      "id": "artemis",
+      "source": "Asset/Character/vfx/artemis.gif",
+      "source_sha256": "1f9dcaa35af1f22661c41f4b7f2aba7523b7c3c5e85f50f361268d48c978db24",
+      "frame_count": 64,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        32,
+        63
+      ]
+    },
+    {
+      "id": "assing",
+      "source": "Asset/Character/vfx/assing.gif",
+      "source_sha256": "97062525c22bd7e1f0ba7ce8814b1ec32575c7f38a2a67817907a37636575710",
+      "frame_count": 55,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        27,
+        54
+      ]
+    },
+    {
+      "id": "astra",
+      "source": "Asset/Character/vfx/astra.gif",
+      "source_sha256": "219aa3e9d56a3017017f703e966097a811ed977b11e984cd20b9cebb8a9e7527",
+      "frame_count": 49,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        24,
+        48
+      ]
+    },
+    {
+      "id": "aumen",
+      "source": "Asset/Character/vfx/aumen.gif",
+      "source_sha256": "a04e3df7081b1d6881eadcac8ad059ac0bed9cc6675d2da36925281302c5ee75",
+      "frame_count": 67,
+      "size": [
+        260,
+        260
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        33,
+        66
+      ]
+    },
+    {
+      "id": "aument",
+      "source": "Asset/Character/vfx/aument.gif",
+      "source_sha256": "d9b5ced419eb1d8cd9aebbfab828e057e16f3363b88ab8b64c042c095b259598",
+      "frame_count": 42,
+      "size": [
+        390,
+        390
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        21,
+        41
+      ]
+    },
+    {
+      "id": "auranient",
+      "source": "Asset/Character/vfx/auranient.gif",
+      "source_sha256": "74beeead145968b93a6c41525a1f28c48c53bf8792d1f4163fd56dc0ac822b3a",
+      "frame_count": 77,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        38,
+        76
+      ]
+    },
+    {
+      "id": "auroma",
+      "source": "Asset/Character/vfx/auroma.gif",
+      "source_sha256": "f29b974f1858b556a777be971967cb930f2191cbff44e71e2358ff69a01889ad",
+      "frame_count": 57,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "extracted",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        28,
+        56
+      ]
+    },
+    {
+      "id": "aurora",
+      "source": "Asset/Character/vfx/aurora.gif",
+      "source_sha256": "504aa5cab8abe36a62da747c7f34878715e087184687d656d10fa003ad12736d",
+      "frame_count": 36,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        18,
+        35
+      ]
+    },
+    {
+      "id": "authen",
+      "source": "Asset/Character/vfx/authen.gif",
+      "source_sha256": "8c871c47aa71218b728968e27c0ea70b69191f15d263765e45a991322e09e1a7",
+      "frame_count": 66,
+      "size": [
+        540,
+        540
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        33,
+        65
+      ]
+    },
+    {
+      "id": "azil",
+      "source": "Asset/Character/vfx/azil.gif",
+      "source_sha256": "028446d88ee1eb7816f6be7d5b43b870485f4e08030dd2d9a10451deb84e8d6c",
+      "frame_count": 30,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        15,
+        29
+      ]
+    },
+    {
+      "id": "azou",
+      "source": "Asset/Character/vfx/azou.gif",
+      "source_sha256": "44fe5c01ba53bca48d7adfca837e5b17c3bbafbe247b9a1c69f8af0f013db35b",
+      "frame_count": 48,
+      "size": [
+        500,
+        500
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        24,
+        47
+      ]
+    },
+    {
+      "id": "azza",
+      "source": "Asset/Character/vfx/azza.gif",
+      "source_sha256": "8fc3d162149a9713db3753f796733bc1ab613386d43e9a19395d81b36db24127",
+      "frame_count": 47,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "extracted",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "bearen",
+      "source": "Asset/Character/vfx/bearen.gif",
+      "source_sha256": "eb85eb953c76b7f2eaa6116758cff60f0441f5a0afe19cc6400c5aca40060929",
+      "frame_count": 29,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        14,
+        28
+      ]
+    },
+    {
+      "id": "bearfire",
+      "source": "Asset/Character/vfx/bearfire.gif",
+      "source_sha256": "7d0da1f61dfbb56cdef67d3d545db4dbd7364bf27f209debdfee35fd07130687",
+      "frame_count": 66,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        33,
+        65
+      ]
+    },
+    {
+      "id": "biden",
+      "source": "Asset/Character/vfx/biden.gif",
+      "source_sha256": "ed83327fb803d1abf94fdf7797eff253e01b06aadefea228f01c0d652b45a113",
+      "frame_count": 67,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "native_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        33,
+        66
+      ]
+    },
+    {
+      "id": "black",
+      "source": "Asset/Character/vfx/black.gif",
+      "source_sha256": "817c9ec1e784ca93dbfc72c796cb53f2b352ff79e3ca6cb811e16c9b550f9360",
+      "frame_count": 27,
+      "size": [
+        315,
+        250
+      ],
+      "base_candidate": "native_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        13,
+        26
+      ]
+    },
+    {
+      "id": "blackdog",
+      "source": "Asset/Character/vfx/blackdog.gif",
+      "source_sha256": "fdc7ffb16396d67c7be6a86faee1b4e4611887676e49b35b265946032482bc5c",
+      "frame_count": 57,
+      "size": [
+        216,
+        216
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        28,
+        56
+      ]
+    },
+    {
+      "id": "blacktiger",
+      "source": "Asset/Character/vfx/blacktiger.gif",
+      "source_sha256": "e9abb58a96a7b5424e7539e382fe52d38daedc8ec1de79b914b64072d41bf721",
+      "frame_count": 26,
+      "size": [
+        830,
+        1020
+      ],
+      "base_candidate": "special_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        13,
+        25
+      ]
+    },
+    {
+      "id": "bomer",
+      "source": "Asset/Character/vfx/bomer.gif",
+      "source_sha256": "5a1e33c90df63dd42cc17ea10252a21f34193dbb1306793c7238cac5b42b8bad",
+      "frame_count": 39,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        19,
+        38
+      ]
+    },
+    {
+      "id": "botem",
+      "source": "Asset/Character/vfx/botem.gif",
+      "source_sha256": "989671a6e4a5cc17033f3e72b19259c7e4599aa34fc3ada301a2592036c6558f",
+      "frame_count": 75,
+      "size": [
+        500,
+        500
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        37,
+        74
+      ]
+    },
+    {
+      "id": "botic",
+      "source": "Asset/Character/vfx/botic.gif",
+      "source_sha256": "8c2ecc877875d9b907086d9766b9ace7729ed409dd6c828a652557800fb20e9c",
+      "frame_count": 54,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        27,
+        53
+      ]
+    },
+    {
+      "id": "camword",
+      "source": "Asset/Character/vfx/camword.gif",
+      "source_sha256": "9353b79f3bde1a6051f71faa1d9412c1aec9a6152343b466e83296aaa045e2c3",
+      "frame_count": 30,
+      "size": [
+        230,
+        230
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        15,
+        29
+      ]
+    },
+    {
+      "id": "changlie",
+      "source": "Asset/Character/vfx/changlie.gif",
+      "source_sha256": "621d18c29aeefb380c2d9695554e55599b6440d9683f7f41eddeadc27ffbb05e",
+      "frame_count": 43,
+      "size": [
+        720,
+        720
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        21,
+        42
+      ]
+    },
+    {
+      "id": "choptian",
+      "source": "Asset/Character/vfx/choptian.gif",
+      "source_sha256": "6915cf0876e063ae49754339d691ef2ec17dd2d4fec0c3b3fbaded4c337c7f4e",
+      "frame_count": 48,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        24,
+        47
+      ]
+    },
+    {
+      "id": "comca",
+      "source": "Asset/Character/vfx/comca.gif",
+      "source_sha256": "41133cf3de908dd0447d94d745bbe58301cb53578aa1339dd91b4df4cb74c1f4",
+      "frame_count": 95,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        47,
+        94
+      ]
+    },
+    {
+      "id": "conden",
+      "source": "Asset/Character/vfx/conden.gif",
+      "source_sha256": "c7c362e786fbda78570307d20b25a557aa506d693d2e886a99ea60024f443124",
+      "frame_count": 48,
+      "size": [
+        720,
+        720
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        24,
+        47
+      ]
+    },
+    {
+      "id": "corepion",
+      "source": "Asset/Character/vfx/corepion.gif",
+      "source_sha256": "94fcb85cb64d3ef65234ddc5b13ea85559ee5ade28994eef7a00e7191e31c470",
+      "frame_count": 99,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        49,
+        98
+      ]
+    },
+    {
+      "id": "costmic",
+      "source": "Asset/Character/vfx/costmic.gif",
+      "source_sha256": "bd991689aa2ca585a823e96fef96775eded7deae12d644d948ef7abde439dd8c",
+      "frame_count": 92,
+      "size": [
+        500,
+        500
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        46,
+        91
+      ]
+    },
+    {
+      "id": "crapit",
+      "source": "Asset/Character/vfx/crapit.gif",
+      "source_sha256": "58addc8fa67f97c0ce48255e36f38453ef60677af8b44b63320ebccf261a38be",
+      "frame_count": 24,
+      "size": [
+        512,
+        512
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        12,
+        23
+      ]
+    },
+    {
+      "id": "diana",
+      "source": "Asset/Character/vfx/diana.gif",
+      "source_sha256": "ae7766342e98164291c761719db235c7e7d355cd61e71505cee3f60edcd1644f",
+      "frame_count": 54,
+      "size": [
+        780,
+        780
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        27,
+        53
+      ]
+    },
+    {
+      "id": "dong",
+      "source": "Asset/Character/vfx/dong.gif",
+      "source_sha256": "f3fed47a56c0e1e48cf9b6ab4b4a75d7a6f712606c935b60b7503805ba00a47e",
+      "frame_count": 96,
+      "size": [
+        500,
+        500
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        48,
+        95
+      ]
+    },
+    {
+      "id": "dracian",
+      "source": "Asset/Character/vfx/dracian.gif",
+      "source_sha256": "843fe18eee342ae6d656a4df533130a3823141e87a9f41f80af2dda3808e6cbd",
+      "frame_count": 40,
+      "size": [
+        268,
+        268
+      ],
+      "base_candidate": "native_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        20,
+        39
+      ]
+    },
+    {
+      "id": "dragonight",
+      "source": "Asset/Character/vfx/dragonight.gif",
+      "source_sha256": "aad09044d2aa7cfea84de39c8477db200fef9b525de804d7fcb9056fcb9bd2a5",
+      "frame_count": 49,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        24,
+        48
+      ]
+    },
+    {
+      "id": "dragonmout",
+      "source": "Asset/Character/vfx/dragonmout.gif",
+      "source_sha256": "9228b22d2339477c62ffba8817bcb1f1b8e554b05357b044d2d24b47374224d4",
+      "frame_count": 21,
+      "size": [
+        250,
+        250
+      ],
+      "base_candidate": "sharp_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        10,
+        20
+      ]
+    },
+    {
+      "id": "ethan",
+      "source": "Asset/Character/vfx/ethan.gif",
+      "source_sha256": "93d7c58358725854b344f0beee784e224eec1394338acd78ebae655cb79691aa",
+      "frame_count": 10,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        5,
+        9
+      ]
+    },
+    {
+      "id": "fireknight",
+      "source": "Asset/Character/vfx/fireknight.gif",
+      "source_sha256": "aa7a4fd83de465241726c826bd436f0fa146a92b59af8a6c19d733c787e2650a",
+      "frame_count": 91,
+      "size": [
+        280,
+        280
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        45,
+        90
+      ]
+    },
+    {
+      "id": "firemen",
+      "source": "Asset/Character/vfx/firemen.gif",
+      "source_sha256": "32e2122a61819819396e61d8e5c4401f199f7f17766ba1f9b961c36241bad371",
+      "frame_count": 116,
+      "size": [
+        516,
+        360
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        58,
+        115
+      ]
+    },
+    {
+      "id": "firer",
+      "source": "Asset/Character/vfx/firer.gif",
+      "source_sha256": "3a79411f9c2f0580b354e55d55c315e64b7ba0c467d8cfb961457496be1c58e5",
+      "frame_count": 113,
+      "size": [
+        768,
+        768
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        56,
+        112
+      ]
+    },
+    {
+      "id": "flybird",
+      "source": "Asset/Character/vfx/flybird.gif",
+      "source_sha256": "96bcdd1f60a7b3ec634f9ba3a88dddbc788238919428616682e6ae7daad5f3b0",
+      "frame_count": 49,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        24,
+        48
+      ]
+    },
+    {
+      "id": "ghostian",
+      "source": "Asset/Character/vfx/ghostian.gif",
+      "source_sha256": "6a04347b136bfe9cd1112e0127e261104e7351b286d601ba9dd03a5c6e0936f7",
+      "frame_count": 22,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        11,
+        21
+      ]
+    },
+    {
+      "id": "ghostic",
+      "source": "Asset/Character/vfx/ghostic.gif",
+      "source_sha256": "70995956ebe209a9d4f64fa6624f253a14ef13ef36c5dd075b3b330c91fc79f5",
+      "frame_count": 38,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        19,
+        37
+      ]
+    },
+    {
+      "id": "gin",
+      "source": "Asset/Character/vfx/gin.gif",
+      "source_sha256": "39a91b1cde905ed6e7f5c67dfd9210e40c50217a4b7b289fa6f57fb98d9e884d",
+      "frame_count": 31,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        15,
+        30
+      ]
+    },
+    {
+      "id": "guard",
+      "source": "Asset/Character/vfx/guard.gif",
+      "source_sha256": "20f8e6a22b50847ba8eb68fb28340034898da626ca30d95b797568dcb0278d0f",
+      "frame_count": 118,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        59,
+        117
+      ]
+    },
+    {
+      "id": "haden",
+      "source": "Asset/Character/vfx/haden.gif",
+      "source_sha256": "2aa6a828be3e9fd52c148d5c7ad9370a61fc5a71ff8af4f2ace0bd73e81d0799",
+      "frame_count": 106,
+      "size": [
+        500,
+        500
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        53,
+        105
+      ]
+    },
+    {
+      "id": "hades",
+      "source": "Asset/Character/vfx/hades.gif",
+      "source_sha256": "2c805ffa719889eaad6ca8bf08fdef64b0761d54e17af2b7c3db090ef17656a8",
+      "frame_count": 98,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        49,
+        97
+      ]
+    },
+    {
+      "id": "hox",
+      "source": "Asset/Character/vfx/hox.gif",
+      "source_sha256": "82249e3537877d49bed8bd06e0ad303cf07d7967e3f86396ecb6be305584c5b5",
+      "frame_count": 51,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        25,
+        50
+      ]
+    },
+    {
+      "id": "hydra",
+      "source": "Asset/Character/vfx/hydra.gif",
+      "source_sha256": "9b9dc3294b23a59139a833bbcf50e44ab4cde1dffd1327ca843d59f4cac22469",
+      "frame_count": 24,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        12,
+        23
+      ]
+    },
+    {
+      "id": "iternal",
+      "source": "Asset/Character/vfx/iternal.gif",
+      "source_sha256": "da75d83e78ffcc3253ca8739586c8b9799fa0b0171db51632d0ce300e01d27f4",
+      "frame_count": 26,
+      "size": [
+        280,
+        280
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        13,
+        25
+      ]
+    },
+    {
+      "id": "jaik",
+      "source": "Asset/Character/vfx/jaik.gif",
+      "source_sha256": "b25e093e64953aea941e9d065a961eed81c6f7d5aaa849d6c631050bf2c246d6",
+      "frame_count": 53,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "native_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        26,
+        52
+      ]
+    },
+    {
+      "id": "javis",
+      "source": "Asset/Character/vfx/javis.gif",
+      "source_sha256": "fce59f327413545839519186d443121c4883b7c734a407a5585f299edf9cda6f",
+      "frame_count": 47,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "jaying",
+      "source": "Asset/Character/vfx/jaying.gif",
+      "source_sha256": "bd1274c4870ee0eab0adce091374d8814f81c9c6cd8b337999e4c28183af5504",
+      "frame_count": 8,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        4,
+        7
+      ]
+    },
+    {
+      "id": "Kahn",
+      "source": "Asset/Character/vfx/Kahn.gif",
+      "source_sha256": "4911bbdbaabc843923ac391b521281192fd8c39511e5d629a6bd20badcc8b133",
+      "frame_count": 111,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        55,
+        110
+      ]
+    },
+    {
+      "id": "kapicon",
+      "source": "Asset/Character/vfx/kapicon.gif",
+      "source_sha256": "bfad98746af6c9903e3ed6b4db238961f776a2817f01e9bb48ca61026e16ed09",
+      "frame_count": 47,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "extracted",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "knel",
+      "source": "Asset/Character/vfx/knel.gif",
+      "source_sha256": "d1dd440f3fc35e95b2d70aa7543c48a0aeffa535ce8ec74b73ff0dcef9125c49",
+      "frame_count": 59,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        29,
+        58
+      ]
+    },
+    {
+      "id": "knigblack",
+      "source": "Asset/Character/vfx/knigblack.gif",
+      "source_sha256": "243484289b25cfb2290bc337077654cd0893a97f778132f6b1e2e194707181dd",
+      "frame_count": 12,
+      "size": [
+        480,
+        480
+      ],
+      "base_candidate": "scene_protected_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        6,
+        11
+      ]
+    },
+    {
+      "id": "knight",
+      "source": "Asset/Character/vfx/knight.gif",
+      "source_sha256": "d714c193c9fec6032dfd44272ca02ac5271e8a5ea48245561babdb3e6dd37db3",
+      "frame_count": 54,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        27,
+        53
+      ]
+    },
+    {
+      "id": "kukang",
+      "source": "Asset/Character/vfx/kukang.gif",
+      "source_sha256": "492cb1699734f30781046a6084668bcf14529aa5e3eac8e0a25ba4a1d4d86f5a",
+      "frame_count": 75,
+      "size": [
+        780,
+        780
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        37,
+        74
+      ]
+    },
+    {
+      "id": "kumen",
+      "source": "Asset/Character/vfx/kumen.gif",
+      "source_sha256": "5f7c871ec065fb8d732ddffa0980f927c61d6ab60bd80a73e095ad81a6ecae40",
+      "frame_count": 56,
+      "size": [
+        260,
+        260
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        28,
+        55
+      ]
+    },
+    {
+      "id": "kungchang",
+      "source": "Asset/Character/vfx/kungchang.gif",
+      "source_sha256": "1145aba9420d52fb08eaa9d0a03033fa8319e0763208aac0d8a8c7d0e7dcc14b",
+      "frame_count": 61,
+      "size": [
+        260,
+        260
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        30,
+        60
+      ]
+    },
+    {
+      "id": "lois",
+      "source": "Asset/Character/vfx/lois.gif",
+      "source_sha256": "201044ced37ef7085e0dec12982eea4c298ce02dbccd8416034264c66b99dee0",
+      "frame_count": 194,
+      "size": [
+        720,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        97,
+        193
+      ]
+    },
+    {
+      "id": "magicer",
+      "source": "Asset/Character/vfx/magicer.gif",
+      "source_sha256": "7c275be5d2579b6549c0ac1a6a38d78ad7d37aff28135be6f747844064f1f3fd",
+      "frame_count": 11,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "extracted",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        5,
+        10
+      ]
+    },
+    {
+      "id": "magicleo",
+      "source": "Asset/Character/vfx/magicleo.gif",
+      "source_sha256": "1cf09a550170746b3bed643c06cf1efeefb972331a4352c84a080c72ed0240a6",
+      "frame_count": 55,
+      "size": [
+        420,
+        420
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        27,
+        54
+      ]
+    },
+    {
+      "id": "mainmout",
+      "source": "Asset/Character/vfx/mainmout.gif",
+      "source_sha256": "719d1b7dcf065a25c60e205f336c3ec262f76163a564c6c8d35899216f91ef10",
+      "frame_count": 53,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        26,
+        52
+      ]
+    },
+    {
+      "id": "mainthen",
+      "source": "Asset/Character/vfx/mainthen.gif",
+      "source_sha256": "36722ce0b35fa0b7f8a622be1d12e4133be9c4f0fd97125656224abf2c4e9700",
+      "frame_count": 53,
+      "size": [
+        220,
+        220
+      ],
+      "base_candidate": "foot_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        26,
+        52
+      ]
+    },
+    {
+      "id": "maono",
+      "source": "Asset/Character/vfx/maono.gif",
+      "source_sha256": "09e62a9e285b158a367698fca86e36e50d5921d172e1dfd03713d3285d7a57a9",
+      "frame_count": 47,
+      "size": [
+        720,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "mark",
+      "source": "Asset/Character/vfx/mark.gif",
+      "source_sha256": "5c4c2fa230ceb07259b18dc6c4e5b7ca7b6492f3a8a4095196dc51f1d1c1d0d5",
+      "frame_count": 88,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        44,
+        87
+      ]
+    },
+    {
+      "id": "midnight",
+      "source": "Asset/Character/vfx/midnight.gif",
+      "source_sha256": "0facc47237510916894709a048db38ae9cd5b49fd9b8529e52d01774317c3d60",
+      "frame_count": 64,
+      "size": [
+        780,
+        780
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        32,
+        63
+      ]
+    },
+    {
+      "id": "moca",
+      "source": "Asset/Character/vfx/moca.gif",
+      "source_sha256": "ad4c83a881d4257a2fa4e8812664dd2d6592e10a4190dc70db297322a9afa1bb",
+      "frame_count": 120,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        60,
+        119
+      ]
+    },
+    {
+      "id": "modfin",
+      "source": "Asset/Character/vfx/modfin.gif",
+      "source_sha256": "20e9fd224c168ff91e596f117ec4e71c79603095de29ca73f72205c6180686b5",
+      "frame_count": 50,
+      "size": [
+        720,
+        720
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        25,
+        49
+      ]
+    },
+    {
+      "id": "monster",
+      "source": "Asset/Character/vfx/monster.gif",
+      "source_sha256": "cb2b33c892225276e92be6728ccecfaf5e1d71949ef1ba7fbf6c2d0c3d062128",
+      "frame_count": 58,
+      "size": [
+        220,
+        220
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        29,
+        57
+      ]
+    },
+    {
+      "id": "monsterdead",
+      "source": "Asset/Character/vfx/monsterdead.gif",
+      "source_sha256": "5c78f8b25073eda1f0fb05e89fe240d93b94bc2ba7d1f599b2fd36dc77ece393",
+      "frame_count": 10,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        5,
+        9
+      ]
+    },
+    {
+      "id": "monstermap",
+      "source": "Asset/Character/vfx/monstermap.gif",
+      "source_sha256": "3ba8217b8ca41f13d1b87206add03ea65269d6c24475b7184e8cc3ee6554a01d",
+      "frame_count": 40,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        20,
+        39
+      ]
+    },
+    {
+      "id": "monterlaze",
+      "source": "Asset/Character/vfx/monterlaze.gif",
+      "source_sha256": "496d5239aeffa7232595759d42bc0f2db53d3a4a22cdab42983409f797d36e04",
+      "frame_count": 50,
+      "size": [
+        260,
+        260
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        25,
+        49
+      ]
+    },
+    {
+      "id": "monterpie",
+      "source": "Asset/Character/vfx/monterpie.gif",
+      "source_sha256": "1d344d38adfa08fdbfc3df5206c86dcdd676a0bc0b85a22d08447b52dc624447",
+      "frame_count": 65,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        32,
+        64
+      ]
+    },
+    {
+      "id": "mortafi",
+      "source": "Asset/Character/vfx/mortafi.gif",
+      "source_sha256": "1152258709991c2ab2cc1ecbf7c286b08062763d84c5c2cabf7519c441871ffa",
+      "frame_count": 44,
+      "size": [
+        520,
+        520
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        22,
+        43
+      ]
+    },
+    {
+      "id": "moxfi",
+      "source": "Asset/Character/vfx/moxfi.gif",
+      "source_sha256": "82cf70b83d26613f699a46a40ecfd587b6bba4928418fc47cb4636d71d0c09bf",
+      "frame_count": 24,
+      "size": [
+        320,
+        320
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        12,
+        23
+      ]
+    },
+    {
+      "id": "moxie",
+      "source": "Asset/Character/vfx/moxie.gif",
+      "source_sha256": "c58cf94bfe13df81a523f5ad975c84e97579e00061c704bae844ede2435d471e",
+      "frame_count": 97,
+      "size": [
+        300,
+        250
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        48,
+        96
+      ]
+    },
+    {
+      "id": "newwomen",
+      "source": "Asset/Character/vfx/newwomen.gif",
+      "source_sha256": "dedff11dfd65ec1704919f0e69eecc451c419a1d806734f0d94cf5ed5a145ec9",
+      "frame_count": 72,
+      "size": [
+        256,
+        256
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        36,
+        71
+      ]
+    },
+    {
+      "id": "ninjadead",
+      "source": "Asset/Character/vfx/ninjadead.gif",
+      "source_sha256": "2ae432f0274e34ace7834d905913956a9faf72eedab0f0d8698e9aeea906f968",
+      "frame_count": 47,
+      "size": [
+        560,
+        560
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "nox",
+      "source": "Asset/Character/vfx/nox.gif",
+      "source_sha256": "a8c66d01969f3dff2bc1174dff41f343d2b91e74c1d79948a242db0b67e47270",
+      "frame_count": 47,
+      "size": [
+        540,
+        540
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "omra",
+      "source": "Asset/Character/vfx/omra.gif",
+      "source_sha256": "2649a6dbcfb5ee30a723efdc4a797eb39938f4221f94742d00e523604f399370",
+      "frame_count": 46,
+      "size": [
+        600,
+        500
+      ],
+      "base_candidate": "special_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        23,
+        45
+      ]
+    },
+    {
+      "id": "overight",
+      "source": "Asset/Character/vfx/overight.gif",
+      "source_sha256": "95468ca0e3755de220040d894e29d48d827c8c3a278d4d04e8426c9c47e64cbe",
+      "frame_count": 48,
+      "size": [
+        520,
+        520
+      ],
+      "base_candidate": "spot_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        24,
+        47
+      ]
+    },
+    {
+      "id": "overmap",
+      "source": "Asset/Character/vfx/overmap.gif",
+      "source_sha256": "b778603fb369427314b7aedd099b4e2a73d063c880ecb837d1222d2e0b4fc21c",
+      "frame_count": 68,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        34,
+        67
+      ]
+    },
+    {
+      "id": "oxiu",
+      "source": "Asset/Character/vfx/oxiu.gif",
+      "source_sha256": "686901448097f63ddfbee05df8377ed54d8dfe82ca1af3db1a3caa09757cd52c",
+      "frame_count": 48,
+      "size": [
+        480,
+        480
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        24,
+        47
+      ]
+    },
+    {
+      "id": "pigpor",
+      "source": "Asset/Character/vfx/pigpor.gif",
+      "source_sha256": "b19fd558441321233dde03b82c4767377d7b1fbf4c1a85ac14208dbe777d859c",
+      "frame_count": 44,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        22,
+        43
+      ]
+    },
+    {
+      "id": "poppy",
+      "source": "Asset/Character/vfx/poppy.gif",
+      "source_sha256": "0d5254b35bec1d988866337ad7a50ab42715518826452ef602f0d85ad742d92b",
+      "frame_count": 36,
+      "size": [
+        500,
+        500
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        18,
+        35
+      ]
+    },
+    {
+      "id": "powerdame",
+      "source": "Asset/Character/vfx/powerdame.gif",
+      "source_sha256": "ddb920bf194d268df2abbed5230ad11f197b7becb9d6fd0cef13972df73b8b6c",
+      "frame_count": 28,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        14,
+        27
+      ]
+    },
+    {
+      "id": "pygon",
+      "source": "Asset/Character/vfx/pygon.gif",
+      "source_sha256": "ed94b28c8591862caa8ed790af503b8b2b1c7e5f4a6b9be9da0f1986192533b1",
+      "frame_count": 47,
+      "size": [
+        660,
+        660
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "ractalo",
+      "source": "Asset/Character/vfx/ractalo.gif",
+      "source_sha256": "eddb8a8b1e4c4aa838ecbeeff3b6127c80962c140a9f93e8883cedc9b9e1b24b",
+      "frame_count": 64,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        32,
+        63
+      ]
+    },
+    {
+      "id": "raptilian",
+      "source": "Asset/Character/vfx/raptilian.gif",
+      "source_sha256": "7b392e4d1454eba604a53ea94154bc577cf8ae2f164022f9331f277d550daac7",
+      "frame_count": 47,
+      "size": [
+        720,
+        720
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "raptor",
+      "source": "Asset/Character/vfx/raptor.gif",
+      "source_sha256": "28ad05e0cff40baa685d103637b4779ac995d3f57b9fb66813bf0271f454c616",
+      "frame_count": 86,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        43,
+        85
+      ]
+    },
+    {
+      "id": "rep",
+      "source": "Asset/Character/vfx/rep.gif",
+      "source_sha256": "7effd89923f4661f2163c55da0c2c5dbc0df97f404ce47428e8ca55038945722",
+      "frame_count": 25,
+      "size": [
+        500,
+        500
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        12,
+        24
+      ]
+    },
+    {
+      "id": "reptail",
+      "source": "Asset/Character/vfx/reptail.gif",
+      "source_sha256": "719bd533e1f3c70df4686fb7f8e085f9988d32db15ced338a9ff6ccfbc770dc8",
+      "frame_count": 57,
+      "size": [
+        250,
+        250
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        28,
+        56
+      ]
+    },
+    {
+      "id": "reptalian",
+      "source": "Asset/Character/vfx/reptalian.gif",
+      "source_sha256": "7f807bebbc7100f3ceb708d0379047364e8782de92018ae27df139a333c101d9",
+      "frame_count": 48,
+      "size": [
+        690,
+        690
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        24,
+        47
+      ]
+    },
+    {
+      "id": "samurai",
+      "source": "Asset/Character/vfx/samurai.gif",
+      "source_sha256": "208e72c622849a97e34e5f9b067cf2f2d889da5a80a8dc7528c14d1127ce3c92",
+      "frame_count": 66,
+      "size": [
+        390,
+        390
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        33,
+        65
+      ]
+    },
+    {
+      "id": "scatra",
+      "source": "Asset/Character/vfx/scatra.gif",
+      "source_sha256": "3aa519d494d43568b338da21979238b6d1fee87b102778cc4145d4035b0fb929",
+      "frame_count": 67,
+      "size": [
+        520,
+        520
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        33,
+        66
+      ]
+    },
+    {
+      "id": "scopion",
+      "source": "Asset/Character/vfx/scopion.gif",
+      "source_sha256": "f86e735e5330d65c61bf10047ede28c5e674c26c6695ddbe70779cfd841ec1bc",
+      "frame_count": 53,
+      "size": [
+        720,
+        720
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        26,
+        52
+      ]
+    },
+    {
+      "id": "score",
+      "source": "Asset/Character/vfx/score.gif",
+      "source_sha256": "156ccf50306654a9b6c7035ad401a613e05e9479df5e2fe68e18ff88634fb379",
+      "frame_count": 32,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        16,
+        31
+      ]
+    },
+    {
+      "id": "scorpit",
+      "source": "Asset/Character/vfx/scorpit.gif",
+      "source_sha256": "e71168056dce8539ca817e33d02d5c51da18d08d115fcb31b8216dc3e1a62272",
+      "frame_count": 40,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "scorpit_repair18_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        20,
+        39
+      ]
+    },
+    {
+      "id": "shellop",
+      "source": "Asset/Character/vfx/shellop.gif",
+      "source_sha256": "87cf42cff9231e6709ddd5f8e787cf75be9b819a0d7f2f89bd9a87ac82c9c836",
+      "frame_count": 29,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        14,
+        28
+      ]
+    },
+    {
+      "id": "skyles",
+      "source": "Asset/Character/vfx/skyles.gif",
+      "source_sha256": "fe41141ae042fbc3e96a6f9f597ece0fee210c756d564e18a029ffa6d7343bbd",
+      "frame_count": 96,
+      "size": [
+        500,
+        500
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        5
+      ],
+      "sample_frames": [
+        0,
+        48,
+        95
+      ]
+    },
+    {
+      "id": "skypit",
+      "source": "Asset/Character/vfx/skypit.gif",
+      "source_sha256": "e273211ede18e3da9257b162e8863bde8e8f919d12e5092212e9dfe5037223bb",
+      "frame_count": 65,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "spot_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        32,
+        64
+      ]
+    },
+    {
+      "id": "smaxin",
+      "source": "Asset/Character/vfx/smaxin.gif",
+      "source_sha256": "b698903eb411144524ae3bfeae5cda1729eb61295c803f97f219973ea7444acf",
+      "frame_count": 51,
+      "size": [
+        720,
+        720
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        25,
+        50
+      ]
+    },
+    {
+      "id": "snax",
+      "source": "Asset/Character/vfx/snax.gif",
+      "source_sha256": "aff0937a72c65202dc774981e1532a8e37a566cce428e979dae3e05b423ee4b3",
+      "frame_count": 120,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        60,
+        119
+      ]
+    },
+    {
+      "id": "snowpie",
+      "source": "Asset/Character/vfx/snowpie.gif",
+      "source_sha256": "2bb818caba8429c3eeddf3ea66aa18c8f834567557a52c3e5146108bf03451d2",
+      "frame_count": 49,
+      "size": [
+        220,
+        220
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        24,
+        48
+      ]
+    },
+    {
+      "id": "snowtiger",
+      "source": "Asset/Character/vfx/snowtiger.gif",
+      "source_sha256": "9458a7c59fa28777167d4a4249e212467803d814d503856ee2c5161bcf08cf68",
+      "frame_count": 30,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        15,
+        29
+      ]
+    },
+    {
+      "id": "swordame",
+      "source": "Asset/Character/vfx/swordame.gif",
+      "source_sha256": "81e7d655eeab958b0177d4ca2681b1fabb797a320917ca50e98e125222dfe142",
+      "frame_count": 39,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        19,
+        38
+      ]
+    },
+    {
+      "id": "tailer",
+      "source": "Asset/Character/vfx/tailer.gif",
+      "source_sha256": "1d8d5ea70178e2239843189ed4b3c2009e36cbb04719280e95abcffa03f5c2b7",
+      "frame_count": 45,
+      "size": [
+        720,
+        720
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        22,
+        44
+      ]
+    },
+    {
+      "id": "tigerknight",
+      "source": "Asset/Character/vfx/tigerknight.gif",
+      "source_sha256": "e5e5f1e28ab0a71deb074d6605071b34ba0110e4ce9c4c6abe85a3edf4206cb5",
+      "frame_count": 66,
+      "size": [
+        520,
+        520
+      ],
+      "base_candidate": "shared_scene_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        33,
+        65
+      ]
+    },
+    {
+      "id": "vanfox",
+      "source": "Asset/Character/vfx/vanfox.gif",
+      "source_sha256": "cecdeb760bde8246300bb1bc1347c12f5131a27f90270ed6d05b9d1b00f2e25e",
+      "frame_count": 46,
+      "size": [
+        780,
+        780
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        23,
+        45
+      ]
+    },
+    {
+      "id": "vargost",
+      "source": "Asset/Character/vfx/vargost.gif",
+      "source_sha256": "fbd1eec8544ab241c9d5bede17d181f5f458da5495907815b692f87cab81b62e",
+      "frame_count": 83,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        41,
+        82
+      ]
+    },
+    {
+      "id": "vemou",
+      "source": "Asset/Character/vfx/vemou.gif",
+      "source_sha256": "681e1b02bab6ce313cb309da7ac4fce1dd3339985d6df416d0a0dd87ff9eb263",
+      "frame_count": 52,
+      "size": [
+        400,
+        400
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        26,
+        51
+      ]
+    },
+    {
+      "id": "vivian",
+      "source": "Asset/Character/vfx/vivian.gif",
+      "source_sha256": "4f4367a74f444111539cc3730299aa02adadf97574a1b859e7815a212caeed2c",
+      "frame_count": 60,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        30,
+        59
+      ]
+    },
+    {
+      "id": "waven",
+      "source": "Asset/Character/vfx/waven.gif",
+      "source_sha256": "87403e923838401a42d3446e8f1636472d84c0dbd98fd87651cc073857f8703d",
+      "frame_count": 47,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "wavinges",
+      "source": "Asset/Character/vfx/wavinges.gif",
+      "source_sha256": "5f8c8276931f9812974224c9a3e19dfc631ace4d13196897136e3d736684f926",
+      "frame_count": 24,
+      "size": [
+        600,
+        600
+      ],
+      "base_candidate": "logo_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        12,
+        23
+      ]
+    },
+    {
+      "id": "wordknight",
+      "source": "Asset/Character/vfx/wordknight.gif",
+      "source_sha256": "8a25ac384bdb311eefb99ef0777f1cc6632a26f1ea3409bc45e33af24cd26dae",
+      "frame_count": 74,
+      "size": [
+        780,
+        780
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        6,
+        3,
+        2
+      ],
+      "sample_frames": [
+        0,
+        37,
+        73
+      ]
+    },
+    {
+      "id": "wuchen",
+      "source": "Asset/Character/vfx/wuchen.gif",
+      "source_sha256": "88c1a9c837b29ad4506715d3ea87a45e458a21ab2b2d002bd07f9758e0b11e42",
+      "frame_count": 47,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "no_exact_grid_in_samples",
+      "periods": [],
+      "sample_frames": [
+        0,
+        23,
+        46
+      ]
+    },
+    {
+      "id": "wukongchen",
+      "source": "Asset/Character/vfx/wukongchen.gif",
+      "source_sha256": "5acf677538cfb1c30eb084cbcf9b7c6ad8516f597650fe80b68c164633a2fa5b",
+      "frame_count": 32,
+      "size": [
+        200,
+        200
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        16,
+        31
+      ]
+    },
+    {
+      "id": "wutan",
+      "source": "Asset/Character/vfx/wutan.gif",
+      "source_sha256": "a81ad7273c8d99ae96d5bedc9253089fa5e032ce7adba62efce44e1be1205d66",
+      "frame_count": 67,
+      "size": [
+        520,
+        520
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        4,
+        2
+      ],
+      "sample_frames": [
+        0,
+        33,
+        66
+      ]
+    },
+    {
+      "id": "xinchan",
+      "source": "Asset/Character/vfx/xinchan.gif",
+      "source_sha256": "f9d61ec7738b0fe257976a34ca37c72dcecee9428b4c0505af40a25bf240b0ea",
+      "frame_count": 96,
+      "size": [
+        390,
+        390
+      ],
+      "base_candidate": "native_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        48,
+        95
+      ]
+    },
+    {
+      "id": "yoyo",
+      "source": "Asset/Character/vfx/yoyo.gif",
+      "source_sha256": "ed71a9dc6bb7793477c4c39f79b78486a82c2ccb94b3a10c2a258d3ab8944c9c",
+      "frame_count": 50,
+      "size": [
+        240,
+        240
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        25,
+        49
+      ]
+    },
+    {
+      "id": "ziggist",
+      "source": "Asset/Character/vfx/ziggist.gif",
+      "source_sha256": "38eaa37fa4508e2844800f448a45e1dbd1ad9687fcaf5bf50129e39ed6bd81d8",
+      "frame_count": 32,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "detailed_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        3
+      ],
+      "sample_frames": [
+        0,
+        16,
+        31
+      ]
+    },
+    {
+      "id": "solist",
+      "source": "Asset/Character/vfx/3 char.gif",
+      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+      "frame_count": 52,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        26,
+        51
+      ]
+    },
+    {
+      "id": "namero",
+      "source": "Asset/Character/vfx/3 char.gif",
+      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+      "frame_count": 50,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        25,
+        49
+      ]
+    },
+    {
+      "id": "kukaomni",
+      "source": "Asset/Character/vfx/3 char.gif",
+      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
+      "frame_count": 54,
+      "size": [
+        300,
+        300
+      ],
+      "base_candidate": "batch_candidates",
+      "status": "sampled_grid",
+      "periods": [
+        2
+      ],
+      "sample_frames": [
+        0,
+        27,
+        53
+      ]
+    }
+  ]
+}

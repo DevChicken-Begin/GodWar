@@ -1,0 +1,440 @@
+{
+  "id": "powerdame",
+  "source": "Asset/Character/vfx/powerdame.gif",
+  "source_sha256": "ddb920bf194d268df2abbed5230ad11f197b7becb9d6fd0cef13972df73b8b6c",
+  "base_candidate": "detail_130_candidates",
+  "base_input_sha256": {
+    "Asset/Character/review/powerdame/detail_130_frames/frame_000.png": "2ecb4ee34af7d2149955af70509374c984d3684f0b2f93c2ccbd990f23995e34",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_001.png": "51d01542db899a5aff17ad45e66b35e31824850fa91b8097ede2a479cc617cb0",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_002.png": "90b3b9e0b7a1bef09bfd8a713d23d8f1e75c4aef1e68ebf92a99ba94bfe437e2",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_003.png": "902841d51b59df373271e51940149764bafd52c472293723e7dfd1c0d056665f",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_004.png": "5335ace853a197cc5440c6e65122eda248c6cdcdaf50825a1ec3941830fd6b20",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_005.png": "34cf25b71899f355384324211cc0f6c6a0225dc608e44ad03f54fa638260a2bf",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_006.png": "44b22f1fafddadd4c76e5eaacca570ed6e0add395f836de095ce27e7baf75bc0",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_007.png": "e59f8302c645a5ed75c7f844b98725e9ab980149bd9944fcbc9987bb3457eb0c",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_008.png": "806fcd4e1ad7fa6f376964a2fe07d0ccb303b011320205c3a7c3664cf473c467",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_009.png": "51f7a3e8720b86d7366b31dc3da7c6b537848e6a5f1b15f931cea303cab89cb8",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_010.png": "a57ac1b9785330a611173f93b940e96d359f36f61618ba76d08e180cd84d8da6",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_011.png": "8af16f90797ee8e56e3ccd63086c0fe452a93f3e8430677a313edf0bc1392d0b",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_012.png": "2465eb11b87ff797b8288eed4405e6eca8bc3b301d2797ff531cd60661a73ff9",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_013.png": "91d2be17adb1e0cbc80d0455b9f84ae66bcf2f3211320a5adb96e002450669da",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_014.png": "55332769c81b3c996fefcf3550aae31a11200311adaad459d72eff1258c4582f",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_015.png": "9e1507a2156580a0b28ac90450264627ebafae12f7e66b8a47d414e99653d785",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_016.png": "925aae8d4ab9da4897074953e3846e7cac5d664e329d5c122cf9568e9550a5cf",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_017.png": "9ca4a11fdd2997d65ec36b8683bb19ed742eb515377d68a7b9668b98eda5b01c",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_018.png": "bd1f1c46364b329b4a7dbd648cbf45d8922b11cc4945b71ff7c890d4f65fe6c1",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_019.png": "56d84a7ffc81217e79735c99b477e9656a6db41fcd8da8b0555c34f463e51dc0",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_020.png": "98fe11c557ebbce4e6110c407082cbf32b509f8b692c65e82a0302e553f2255b",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_021.png": "415c927ffacea011e6182dd3281d5807a6a8b33c7696a49a9cafdf2cf181c761",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_022.png": "0c78d9372aa6775c331e29996fcb795eb85afa661771cccc604378bd85ffd04a",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_023.png": "1015393ebbff79ddf22bf1bfab573561b6115786256ca29c1142c837cc686ce1",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_024.png": "e6ff44c0f47e3090efbc74c491d83136bd1ddd9f3703f6557ad2cae36c5bd6aa",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_025.png": "0b5895d4c3380050f24f300c749e4a5bb74b39a770743133f273fb5fd95da90b",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_026.png": "9ca4a11fdd2997d65ec36b8683bb19ed742eb515377d68a7b9668b98eda5b01c",
+    "Asset/Character/review/powerdame/detail_130_frames/frame_027.png": "bd1f1c46364b329b4a7dbd648cbf45d8922b11cc4945b71ff7c890d4f65fe6c1"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 28,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        468,
+        468
+      ]
+    }
+  ],
+  "display_size": [
+    300,
+    300
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

@@ -1,0 +1,951 @@
+{
+  "source": "Asset/Character/vfx/mortafi.gif",
+  "source_sha256": "1152258709991c2ab2cc1ecbf7c286b08062763d84c5c2cabf7519c441871ffa",
+  "base_candidate": "detailed_candidates",
+  "base_atlas_sha256": {
+    "atlas_000.png": "2df1f1ecdce0fcc81c86057245e9a4495cb5bf8e88d0d9f4bb65b3ba16243d04",
+    "atlas_001.png": "978430414b7f9d78fb42cec00061868c871a47821cd364e6c5f4457371310f98",
+    "atlas_002.png": "2276f88f5b7bd9768b4b83ea6180d55a6507eeb917b4b507a90611f4fa668818",
+    "atlas_003.png": "3bf9a459faff3d3a5b9bf4e6b2b9bd05f89a78067fb688e16c7043645cf653b2",
+    "atlas_004.png": "47629e1b57e7240c4d6b3aabd1381cac120618b8922b5665a54ed27a4f44ba66"
+  },
+  "art_source": "existing",
+  "frame_count": 44,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "detail_sizes": [
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    },
+    {
+      "old": [
+        520,
+        520
+      ],
+      "new": [
+        676,
+        676
+      ]
+    }
+  ],
+  "viewer_canvas": [
+    520,
+    520
+  ],
+  "changed_pixels_per_frame": [
+    114,
+    112,
+    116,
+    126,
+    127,
+    118,
+    122,
+    124,
+    122,
+    119,
+    116,
+    131,
+    115,
+    112,
+    116,
+    126,
+    127,
+    118,
+    122,
+    124,
+    122,
+    119,
+    116,
+    131,
+    127,
+    112,
+    88,
+    82,
+    101,
+    147,
+    164,
+    178,
+    172,
+    125,
+    70,
+    51,
+    57,
+    184,
+    207,
+    167,
+    156,
+    118,
+    97,
+    107
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Scale2x on current detail grid then nearest-resample to 130% per axis; nearest preview at original canvas. When a prior fine candidate exists its logical frames are used, otherwise current canvas pixels are the starting grid.",
+  "limitations": "An interpolated variant does not create missing source detail; can alter edges or VFX, introduce flicker or uneven widths and cannot guarantee improvement. Earlier background defects are inherited. Compare each frame."
+}

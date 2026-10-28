@@ -1,0 +1,421 @@
+{
+  "id": "dracian",
+  "source": "Asset/Character/vfx/dracian.gif",
+  "source_sha256": "843fe18eee342ae6d656a4df533130a3823141e87a9f41f80af2dda3808e6cbd",
+  "base_candidate": "native_candidates",
+  "frame_count": 40,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        348,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        696,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1044,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1392,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        348,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        696,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1044,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1392,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        348,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        696,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1044,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1392,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1044,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        348,
+        1044,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        696,
+        1044,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1044,
+        1044,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1392,
+        1044,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1392,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        348,
+        1392,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        696,
+        1392,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1044,
+        1392,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1392,
+        1392,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        348,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        696,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1044,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1392,
+        0,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        348,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        696,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1044,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1392,
+        348,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        348,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        696,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1044,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1392,
+        696,
+        348,
+        348
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "display_size": [
+    268,
+    268
+  ],
+  "frame_size": [
+    348,
+    348
+  ],
+  "loop": 0,
+  "status": "candidate_unreviewed",
+  "method": "Pack existing 130% interpolated review frames; display scale is display_size / frame_size.",
+  "limitations": "An interpolated variant does not create missing source detail; can alter edges or VFX, introduce flicker or uneven widths and cannot guarantee improvement. Earlier background defects are inherited. Compare each frame."
+}

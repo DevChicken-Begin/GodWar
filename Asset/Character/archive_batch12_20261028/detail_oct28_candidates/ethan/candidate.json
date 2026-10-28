@@ -1,0 +1,161 @@
+{
+  "id": "ethan",
+  "source": "Asset/Character/vfx/ethan.gif",
+  "source_sha256": "93d7c58358725854b344f0beee784e224eec1394338acd78ebae655cb79691aa",
+  "base_candidate": "fine_candidates",
+  "base_input_sha256": {
+    "Asset/Character/fine_candidates/ethan/atlas_000.png": "123727a9fef72f4e7246baadd505029c748a5e2fb0bed6bd39bd7f58ea68eb54"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 10,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        300,
+        300
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        360,
+        360
+      ]
+    }
+  ],
+  "display_size": [
+    300,
+    300
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

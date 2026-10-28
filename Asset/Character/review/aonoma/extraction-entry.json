@@ -1,0 +1,157 @@
+{
+  "id": "aonoma",
+  "source": "Asset/Character/vfx/aonoma.gif",
+  "source_sha256": "2bcefa6bd3257fac09b7f16329d15ede1e0f9eadf102b382516e52fa8a590bdb",
+  "size": [
+    268,
+    214
+  ],
+  "frame_count": 14,
+  "loop": 0,
+  "atlas_count": 1,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    }
+  ],
+  "classification": "unreviewed",
+  "animations": {},
+  "notes": "GIF gốc có thể gộp nhân vật, hiệu ứng và nền; cần kiểm duyệt trước khi phân loại."
+}

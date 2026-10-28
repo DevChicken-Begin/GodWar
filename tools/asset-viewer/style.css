@@ -3,3 +3,5 @@
 .video-link{border-top:1px solid #2b3343;padding-top:13px;margin-top:12px;color:#a5c5ff;font-size:12px}
 
 .segment{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:8px 0 16px;color:#b9c5d5;font-size:12px}.segment input{width:70px;background:#202a39;border:1px solid #3a4659;color:#f1f4fa;border-radius:6px;padding:7px}.segment button{cursor:pointer;background:#273246;color:#e9eef7;border:1px solid #3b4a60;border-radius:6px;padding:7px 10px}#segment-message{color:#ffb9aa}
+
+.controls label[hidden]{display:none}

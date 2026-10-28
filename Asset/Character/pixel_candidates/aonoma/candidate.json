@@ -1,0 +1,163 @@
+{
+  "source": "Asset/Character/vfx/aonoma.gif",
+  "source_sha256": "2bcefa6bd3257fac09b7f16329d15ede1e0f9eadf102b382516e52fa8a590bdb",
+  "art_source": "existing",
+  "frame_count": 14,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        0,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        268,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        536,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        804,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1072,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1340,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1608,
+        214,
+        268,
+        214
+      ],
+      "duration_ms": 90
+    }
+  ],
+  "grid_scale": 3,
+  "logical_canvas": [
+    90,
+    72
+  ],
+  "preview_canvas": [
+    268,
+    214
+  ],
+  "palette_colors": 32,
+  "palette": "Asset/Character/review/aonoma/forge_quantized/palette.json",
+  "qa": "Asset/Character/review/aonoma/forge_quantized/quantize-qa.json",
+  "status": "candidate_unreviewed",
+  "method": "estimated matte from near-gray 242 background; padded fixed canvas; alpha-aware BOX downscale to 90x72; Forge palette_tool quantize-seq; nearest 3x display, cropped to original frame canvas",
+  "limitations": "Matte and color quantization are lossy; pale detail, purple/red glows and VFX can be lost or saturated; source includes multiple poses/effects that are not classified. Needs visual review."
+}

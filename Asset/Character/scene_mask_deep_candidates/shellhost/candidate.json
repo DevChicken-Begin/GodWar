@@ -1,0 +1,797 @@
+{
+  "id": "shellhost",
+  "source": "Asset/Character/vfx/shellhost.gif",
+  "source_sha256": "7e05e635e835ba5e17252b77de0ca194079db8eb65231ef232f94c7ffb2ce0d4",
+  "base_candidate": "scene_mask_candidates",
+  "base_atlas_sha256": {
+    "atlas_000.png": "6ae867d0ceda276d92525c3850d7af00a592da8e71fd07672b7f3beecc58a897",
+    "atlas_001.png": "1810750b7a1a6fa50eb492602936e7a59846375aa319249dd8d8feac6020bc11",
+    "atlas_002.png": "d394535848b14be4a7ff96012ea3d7baa82b1c7c97528483ab959794d2622cd9",
+    "atlas_003.png": "8d1b91a5a6884a6f4c7c15812ea4e8c96f1c304d16c96a6b3ed7d87700279171",
+    "atlas_004.png": "e720192383e2e97a7813e86278e7179ae8adc6f4e2cb7ee168e015d6499cf54b"
+  },
+  "model_sources": [
+    {
+      "source": "Asset/Character/vfx/skypit.gif",
+      "sha256": "e273211ede18e3da9257b162e8863bde8e8f919d12e5092212e9dfe5037223bb",
+      "sample_indices": [
+        0,
+        3,
+        6,
+        10,
+        13,
+        16,
+        20,
+        23,
+        26,
+        30,
+        33,
+        37,
+        40,
+        43,
+        47,
+        50,
+        53,
+        57,
+        60,
+        64
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/animent.gif",
+      "sha256": "9e103898ec9f0aba0e38a97d97d5505e075ca2d2cffadf668b496feeb7b12576",
+      "sample_indices": [
+        0,
+        3,
+        6,
+        9,
+        12,
+        15,
+        18,
+        21,
+        24,
+        27,
+        31,
+        34,
+        37,
+        40,
+        43,
+        46,
+        49,
+        52,
+        55,
+        59
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/overight.gif",
+      "sha256": "95468ca0e3755de220040d894e29d48d827c8c3a278d4d04e8426c9c47e64cbe",
+      "sample_indices": [
+        0,
+        2,
+        4,
+        7,
+        9,
+        12,
+        14,
+        17,
+        19,
+        22,
+        24,
+        27,
+        29,
+        32,
+        34,
+        37,
+        39,
+        42,
+        44,
+        47
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/tigerknight.gif",
+      "sha256": "e5e5f1e28ab0a71deb074d6605071b34ba0110e4ce9c4c6abe85a3edf4206cb5",
+      "sample_indices": [
+        0,
+        3,
+        6,
+        10,
+        13,
+        17,
+        20,
+        23,
+        27,
+        30,
+        34,
+        37,
+        41,
+        44,
+        47,
+        51,
+        54,
+        58,
+        61,
+        65
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "path": "Asset/Character/review/shellhost/scene_mask_review/image copy 3.png",
+      "sha256": "9a464df7beeb3a628ace275394a60a94fb40bc29ca45f095b6e03db547b32452"
+    }
+  ],
+  "frame_count": 41,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "display_size": [
+    520,
+    520
+  ],
+  "scale_factor": 1.2,
+  "removed_per_frame": [
+    507,
+    432,
+    282,
+    130,
+    81,
+    101,
+    41,
+    262,
+    432,
+    432,
+    507,
+    507,
+    432,
+    282,
+    130,
+    81,
+    101,
+    41,
+    262,
+    432,
+    432,
+    507,
+    507,
+    382,
+    86,
+    200,
+    91,
+    1386,
+    1208,
+    1208,
+    1208,
+    3178,
+    4718,
+    4457,
+    4457,
+    4457,
+    4457,
+    3128,
+    2526,
+    371,
+    507
+  ],
+  "analysis_per_frame": [
+    {
+      "blue_tested": 536,
+      "matched_at_least_two": 507,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 461,
+      "matched_at_least_two": 432,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 286,
+      "matched_at_least_two": 282,
+      "retained_unconfirmed": 4
+    },
+    {
+      "blue_tested": 130,
+      "matched_at_least_two": 130,
+      "retained_unconfirmed": 0
+    },
+    {
+      "blue_tested": 81,
+      "matched_at_least_two": 81,
+      "retained_unconfirmed": 0
+    },
+    {
+      "blue_tested": 105,
+      "matched_at_least_two": 101,
+      "retained_unconfirmed": 4
+    },
+    {
+      "blue_tested": 66,
+      "matched_at_least_two": 41,
+      "retained_unconfirmed": 25
+    },
+    {
+      "blue_tested": 311,
+      "matched_at_least_two": 262,
+      "retained_unconfirmed": 49
+    },
+    {
+      "blue_tested": 436,
+      "matched_at_least_two": 432,
+      "retained_unconfirmed": 4
+    },
+    {
+      "blue_tested": 461,
+      "matched_at_least_two": 432,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 536,
+      "matched_at_least_two": 507,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 536,
+      "matched_at_least_two": 507,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 461,
+      "matched_at_least_two": 432,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 286,
+      "matched_at_least_two": 282,
+      "retained_unconfirmed": 4
+    },
+    {
+      "blue_tested": 130,
+      "matched_at_least_two": 130,
+      "retained_unconfirmed": 0
+    },
+    {
+      "blue_tested": 81,
+      "matched_at_least_two": 81,
+      "retained_unconfirmed": 0
+    },
+    {
+      "blue_tested": 105,
+      "matched_at_least_two": 101,
+      "retained_unconfirmed": 4
+    },
+    {
+      "blue_tested": 66,
+      "matched_at_least_two": 41,
+      "retained_unconfirmed": 25
+    },
+    {
+      "blue_tested": 311,
+      "matched_at_least_two": 262,
+      "retained_unconfirmed": 49
+    },
+    {
+      "blue_tested": 436,
+      "matched_at_least_two": 432,
+      "retained_unconfirmed": 4
+    },
+    {
+      "blue_tested": 461,
+      "matched_at_least_two": 432,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 536,
+      "matched_at_least_two": 507,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 536,
+      "matched_at_least_two": 507,
+      "retained_unconfirmed": 29
+    },
+    {
+      "blue_tested": 386,
+      "matched_at_least_two": 382,
+      "retained_unconfirmed": 4
+    },
+    {
+      "blue_tested": 86,
+      "matched_at_least_two": 86,
+      "retained_unconfirmed": 0
+    },
+    {
+      "blue_tested": 210,
+      "matched_at_least_two": 200,
+      "retained_unconfirmed": 10
+    },
+    {
+      "blue_tested": 91,
+      "matched_at_least_two": 91,
+      "retained_unconfirmed": 0
+    },
+    {
+      "blue_tested": 1603,
+      "matched_at_least_two": 1386,
+      "retained_unconfirmed": 217
+    },
+    {
+      "blue_tested": 1318,
+      "matched_at_least_two": 1208,
+      "retained_unconfirmed": 110
+    },
+    {
+      "blue_tested": 1318,
+      "matched_at_least_two": 1208,
+      "retained_unconfirmed": 110
+    },
+    {
+      "blue_tested": 1318,
+      "matched_at_least_two": 1208,
+      "retained_unconfirmed": 110
+    },
+    {
+      "blue_tested": 3467,
+      "matched_at_least_two": 3178,
+      "retained_unconfirmed": 289
+    },
+    {
+      "blue_tested": 6149,
+      "matched_at_least_two": 4718,
+      "retained_unconfirmed": 1431
+    },
+    {
+      "blue_tested": 5749,
+      "matched_at_least_two": 4457,
+      "retained_unconfirmed": 1292
+    },
+    {
+      "blue_tested": 5749,
+      "matched_at_least_two": 4457,
+      "retained_unconfirmed": 1292
+    },
+    {
+      "blue_tested": 5749,
+      "matched_at_least_two": 4457,
+      "retained_unconfirmed": 1292
+    },
+    {
+      "blue_tested": 5749,
+      "matched_at_least_two": 4457,
+      "retained_unconfirmed": 1292
+    },
+    {
+      "blue_tested": 3417,
+      "matched_at_least_two": 3128,
+      "retained_unconfirmed": 289
+    },
+    {
+      "blue_tested": 2600,
+      "matched_at_least_two": 2526,
+      "retained_unconfirmed": 74
+    },
+    {
+      "blue_tested": 371,
+      "matched_at_least_two": 371,
+      "retained_unconfirmed": 0
+    },
+    {
+      "blue_tested": 536,
+      "matched_at_least_two": 507,
+      "retained_unconfirmed": 29
+    }
+  ],
+  "art_source": "existing",
+  "status": "candidate_unreviewed",
+  "method": "For surviving dark blue pixels, require same-position RGB max difference <=8 against one sample each from at least two independent reference GIFs (20 sampled frames per GIF). Original-resolution atlas pixels either kept exactly or cleared; premultiplied Lanczos 120% frame preview.",
+  "limitations": "Background-colored character or effect can coincidentally match two references, especially at overlap. Unconfirmed residue remains intentionally. Alpha and interpolation may affect edges. Check all frames in motion on light/dark backgrounds; cannot guarantee zero foreground loss."
+}

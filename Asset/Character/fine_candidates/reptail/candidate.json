@@ -1,0 +1,658 @@
+{
+  "source": "Asset/Character/vfx/reptail.gif",
+  "source_sha256": "719bd533e1f3c70df4686fb7f8e085f9988d32db15ced338a9ff6ccfbc770dc8",
+  "source_start": 0,
+  "base_candidate": "batch_candidates",
+  "base_atlas_sha256": {
+    "atlas_000.png": "54aa4e78ccbf41d850859255157a528baf0e8e20489c112b645b67919ad36b2d"
+  },
+  "art_source": "existing",
+  "frame_count": 57,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        250,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        500,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        750,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1250,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1750,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        250,
+        250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        500,
+        250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        750,
+        250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1250,
+        250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1750,
+        250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        250,
+        500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        500,
+        500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        750,
+        500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1250,
+        500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1750,
+        500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        250,
+        750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        500,
+        750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        750,
+        750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1250,
+        750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1750,
+        750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1000,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        250,
+        1000,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        500,
+        1000,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        750,
+        1000,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        1000,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1250,
+        1000,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        1000,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1750,
+        1000,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        250,
+        1250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        500,
+        1250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        750,
+        1250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        1250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1250,
+        1250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        1250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1750,
+        1250,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        250,
+        1500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        500,
+        1500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        750,
+        1500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        1500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1250,
+        1500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1500,
+        1500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1750,
+        1500,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1750,
+        250,
+        250
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "grid_period": 2,
+  "logical_canvas": [
+    125,
+    125
+  ],
+  "refined_canvas": [
+    250,
+    250
+  ],
+  "viewer_canvas": [
+    250,
+    250
+  ],
+  "changed_subpixels_per_frame": [
+    585,
+    611,
+    582,
+    574,
+    575,
+    591,
+    577,
+    605,
+    585,
+    571,
+    600,
+    594,
+    602,
+    589,
+    589,
+    600,
+    585,
+    611,
+    582,
+    574,
+    575,
+    591,
+    577,
+    605,
+    585,
+    571,
+    600,
+    594,
+    602,
+    589,
+    589,
+    600,
+    582,
+    564,
+    495,
+    539,
+    590,
+    587,
+    580,
+    605,
+    553,
+    537,
+    534,
+    581,
+    551,
+    911,
+    1394,
+    1364,
+    1238,
+    946,
+    914,
+    879,
+    770,
+    652,
+    659,
+    644,
+    601
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Every frame has exact aligned source cells; Scale2x edge rules preserve source RGBA palette; nearest resize to existing viewer canvas.",
+  "limitations": "Cannot recover absent detail. Edge/VFX silhouettes can change or flicker; non-integer display scale can yield uneven widths. Source and prior unreviewed background candidate preserved."
+}

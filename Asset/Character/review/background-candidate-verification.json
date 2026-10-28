@@ -243,14 +243,6 @@
       "visual_status": "unreviewed"
     },
     {
-      "id": "reptalian",
-      "source": "Asset/Character/vfx/reptalian.gif",
-      "frames": 19,
-      "removed_pixels": 7548288,
-      "pixel_check": "passed",
-      "visual_status": "unreviewed"
-    },
-    {
       "id": "samurai",
       "source": "Asset/Character/vfx/samurai.gif",
       "frames": 66,
@@ -267,34 +259,10 @@
       "visual_status": "unreviewed"
     },
     {
-      "id": "skylian",
-      "source": "Asset/Character/vfx/skylian.gif",
-      "frames": 12,
-      "removed_pixels": 1775032,
-      "pixel_check": "passed",
-      "visual_status": "unreviewed"
-    },
-    {
-      "id": "slowdame",
-      "source": "Asset/Character/vfx/slowdame.gif",
-      "frames": 26,
-      "removed_pixels": 1825316,
-      "pixel_check": "passed",
-      "visual_status": "unreviewed"
-    },
-    {
       "id": "snax",
       "source": "Asset/Character/vfx/snax.gif",
       "frames": 120,
       "removed_pixels": 18128592,
-      "pixel_check": "passed",
-      "visual_status": "unreviewed"
-    },
-    {
-      "id": "snicore",
-      "source": "Asset/Character/vfx/snicore.gif",
-      "frames": 55,
-      "removed_pixels": 33228278,
       "pixel_check": "passed",
       "visual_status": "unreviewed"
     },
@@ -327,22 +295,6 @@
       "source": "Asset/Character/vfx/tailer.gif",
       "frames": 45,
       "removed_pixels": 21839400,
-      "pixel_check": "passed",
-      "visual_status": "unreviewed"
-    },
-    {
-      "id": "trike",
-      "source": "Asset/Character/vfx/trike.gif",
-      "frames": 8,
-      "removed_pixels": 284844,
-      "pixel_check": "passed",
-      "visual_status": "unreviewed"
-    },
-    {
-      "id": "wothem",
-      "source": "Asset/Character/vfx/wothem.gif",
-      "frames": 9,
-      "removed_pixels": 741852,
       "pixel_check": "passed",
       "visual_status": "unreviewed"
     },

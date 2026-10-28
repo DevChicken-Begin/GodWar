@@ -20,7 +20,8 @@
       <div class="segment"><span>Lặp đoạn (chỉ số frame, bắt đầu từ 0)</span><label>Từ <input id="segment-start" type="number" min="0" value="0"></label><label>Đến <input id="segment-end" type="number" min="0" value="0"></label><button id="apply-segment">Áp dụng</button><button id="reset-segment">Toàn bộ</button><span id="segment-message" role="status"></span></div>
       <div class="controls">
         <button id="previous" title="Frame trước">Trước</button><button id="play" class="primary">Tạm dừng</button><button id="next" title="Frame tiếp">Tiếp</button>
-        <label>Tốc độ <select id="speed"><option value="0.25">0.25×</option><option value="0.5">0.5×</option><option value="1" selected>1×</option><option value="2">2×</option><option value="4">4×</option></select></label>
+        <label>Tốc độ <select id="speed"><option value="0.25">0.25×</option><option value="0.5">0.5×</option><option value="0.75">0.75×</option><option value="1" selected>1×</option><option value="2">2×</option><option value="4">4×</option></select></label>
+        <label id="timing-control">Thời gian frame <select id="timing"><option value="source">Theo nguồn</option><option value="60">60 ms · thử</option><option value="70">70 ms · thử</option><option value="130">130 ms · thử</option></select></label>
         <label>Phóng to <select id="zoom"><option value="fit">Vừa khung</option><option value="1">1×</option><option value="2">2×</option><option value="4">4×</option></select></label>
         <label>Nền <select id="background"><option value="checker">Ô vuông</option><option value="dark">Tối</option><option value="light">Sáng</option><option value="green">Xanh lá</option></select></label>
         <label>Phiên bản <select id="variant"><option value="extracted">Atlas nguồn</option></select></label>

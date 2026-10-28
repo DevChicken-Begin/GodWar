@@ -1,0 +1,1302 @@
+{
+  "source": "Asset/Character/vfx/firer.gif",
+  "source_sha256": "3a79411f9c2f0580b354e55d55c315e64b7ba0c467d8cfb961457496be1c58e5",
+  "source_start": 0,
+  "base_candidate": "batch_candidates",
+  "base_atlas_sha256": {
+    "atlas_000.png": "f790b36325de889eb53c7cef40edc953dec13fc42809c863344fee1339092b17",
+    "atlas_001.png": "a11eb4a3eea81dac9f567af45dab05e34bef52bdcedbd1dd7a5c034220f1e2eb",
+    "atlas_002.png": "f790b36325de889eb53c7cef40edc953dec13fc42809c863344fee1339092b17",
+    "atlas_003.png": "a11eb4a3eea81dac9f567af45dab05e34bef52bdcedbd1dd7a5c034220f1e2eb",
+    "atlas_004.png": "4c5fceef48b84085d671039d94a1ad7e33db2d3490d8d2eda142a7a18d6bc01f",
+    "atlas_005.png": "21249fd0ba16e79700076bb51eb33209b9319c8510c98fe79ac53eeccd9cc5c4",
+    "atlas_006.png": "4c5fceef48b84085d671039d94a1ad7e33db2d3490d8d2eda142a7a18d6bc01f",
+    "atlas_007.png": "21249fd0ba16e79700076bb51eb33209b9319c8510c98fe79ac53eeccd9cc5c4",
+    "atlas_008.png": "4c5fceef48b84085d671039d94a1ad7e33db2d3490d8d2eda142a7a18d6bc01f",
+    "atlas_009.png": "21249fd0ba16e79700076bb51eb33209b9319c8510c98fe79ac53eeccd9cc5c4",
+    "atlas_010.png": "b71dd0bab024a17266ac6f73bbca0c91bbe11c6cae353520c0f161a411e48fd8",
+    "atlas_011.png": "5d11bfff6671b158b8bda06f7180c82aba2445767aa6ff430e87aab031f54cce",
+    "atlas_012.png": "eb2ec738e48175f93d02a7ea3f349545e823ad9d869833f6b0b912d5b98587d1",
+    "atlas_013.png": "cf538a7bc8728cb23993cde7c6df5ec5e1caf01622905b8cc3975cba33d0f930",
+    "atlas_014.png": "7c690af49d242343f6bf7a25afc4f1795bf210770bf0038ad4f9bab81caab3b1",
+    "atlas_015.png": "dc4aade2046bf8a722e6bfc9684c136aa07d379eab63e9ff40e5e7ac370b46e0",
+    "atlas_016.png": "ce33ad494001fa6171ecfd1417e9e24bd54e96f2c0e4eb8ce30453006dd638e8",
+    "atlas_017.png": "3bc2a2c326d0009fd3b4a9b59b93e711121be9bc709d8aaa4ce10591e64c64b7",
+    "atlas_018.png": "a5e384226ea8f4733c3f1da9f300c39d70c18e776da7ed6b75d73b4c68d72280",
+    "atlas_019.png": "65d8602ef28280b0871bcdb89294f329ec75b3d2bfe5b356b2112220ef06be77",
+    "atlas_020.png": "b540563669d3a581b91ca72392f9f43e1561a803d8f3fd4d27228882196ad964",
+    "atlas_021.png": "c8a3d16e15ff4b20c3d720ec0a7949403b02845d1642edffbff3c53a10ca6feb",
+    "atlas_022.png": "8e9c1f7166369eae3a9ebe0fe8ea8a6ef6152cd616f29a93f344f6ba5eb7e13c",
+    "atlas_023.png": "65d8602ef28280b0871bcdb89294f329ec75b3d2bfe5b356b2112220ef06be77",
+    "atlas_024.png": "adba703fcd763b16b8b134468c7d28163e55df466aa656123ed86bcd8c241ac5",
+    "atlas_025.png": "aba4ec5dad2458084955d196d38a685997134554b2d1a4d19c79fb39e4fcac94",
+    "atlas_026.png": "91047d02f3e1c0bc36eef37f42c713f3c34fdf90d6f4638597eb4a581406a233",
+    "atlas_027.png": "6e548838c2d45f1c7672bc83bfdf293c0b1a7424d98d96191f22a1b12988c667",
+    "atlas_028.png": "ddd01a9c37a630b58299ff09063d89f759fe046fa8eeb3dd85ee7d6c57bc5f13"
+  },
+  "art_source": "existing",
+  "frame_count": 113,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 2,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 2,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 3,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 3,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 4,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 4,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 5,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 5,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 6,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 6,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 7,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 7,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 8,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 8,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 9,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 9,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 10,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 10,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 11,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 11,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 12,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 12,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 13,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 13,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 14,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 14,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 15,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 15,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 150
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 16,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 16,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 17,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 17,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 18,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 18,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 18,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 18,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 19,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 19,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 19,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 19,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 20,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 20,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 20,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 20,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 21,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 21,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 21,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 21,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 22,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 22,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 22,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 22,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 23,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 23,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 23,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 23,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 24,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 24,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 24,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 24,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 25,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 25,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 25,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 25,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 26,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 130
+    },
+    {
+      "atlas": 26,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 200
+    },
+    {
+      "atlas": 26,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 200
+    },
+    {
+      "atlas": 26,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 200
+    },
+    {
+      "atlas": 27,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 200
+    },
+    {
+      "atlas": 27,
+      "region": [
+        768,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 200
+    },
+    {
+      "atlas": 27,
+      "region": [
+        0,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 200
+    },
+    {
+      "atlas": 27,
+      "region": [
+        768,
+        768,
+        768,
+        768
+      ],
+      "duration_ms": 200
+    },
+    {
+      "atlas": 28,
+      "region": [
+        0,
+        0,
+        768,
+        768
+      ],
+      "duration_ms": 200
+    }
+  ],
+  "grid_period": 6,
+  "logical_canvas": [
+    128,
+    128
+  ],
+  "refined_canvas": [
+    256,
+    256
+  ],
+  "viewer_canvas": [
+    768,
+    768
+  ],
+  "changed_subpixels_per_frame": [
+    525,
+    470,
+    495,
+    517,
+    507,
+    477,
+    468,
+    470,
+    525,
+    470,
+    495,
+    517,
+    507,
+    477,
+    468,
+    470,
+    471,
+    465,
+    517,
+    482,
+    457,
+    426,
+    425,
+    425,
+    471,
+    465,
+    517,
+    482,
+    457,
+    426,
+    425,
+    425,
+    471,
+    465,
+    517,
+    482,
+    457,
+    426,
+    425,
+    425,
+    520,
+    465,
+    493,
+    507,
+    495,
+    463,
+    440,
+    441,
+    527,
+    473,
+    498,
+    520,
+    510,
+    481,
+    470,
+    469,
+    553,
+    543,
+    603,
+    628,
+    580,
+    527,
+    470,
+    469,
+    368,
+    423,
+    463,
+    527,
+    534,
+    512,
+    540,
+    481,
+    493,
+    527,
+    473,
+    493,
+    520,
+    510,
+    481,
+    470,
+    469,
+    471,
+    465,
+    517,
+    481,
+    457,
+    426,
+    425,
+    425,
+    527,
+    473,
+    498,
+    520,
+    510,
+    481,
+    470,
+    469,
+    526,
+    628,
+    388,
+    484,
+    490,
+    386,
+    323,
+    291,
+    249,
+    249,
+    249,
+    249,
+    249,
+    249,
+    249,
+    249
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Every frame has exact aligned source cells; Scale2x edge rules preserve source RGBA palette; nearest resize to existing viewer canvas.",
+  "limitations": "Cannot recover absent detail. Edge/VFX silhouettes can change or flicker; non-integer display scale can yield uneven widths. Source and prior unreviewed background candidate preserved."
+}

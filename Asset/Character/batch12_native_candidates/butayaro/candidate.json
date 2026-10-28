@@ -1,0 +1,665 @@
+{
+  "id": "butayaro",
+  "source": "Asset/Character/vfx/butayaro.gif",
+  "source_sha256": "82666cd6265e434456ec1b048bf9ffa608621d99851f9f6593af2ab49cf31f6d",
+  "art_source": "existing",
+  "frame_count": 43,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        720,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        720,
+        0,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        720,
+        720,
+        720
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        864,
+        864
+      ]
+    }
+  ],
+  "display_size": [
+    720,
+    720
+  ],
+  "scale_factor": 1.2,
+  "removed_per_frame": [
+    426672,
+    428076,
+    429012,
+    431172,
+    429984,
+    430560,
+    430848,
+    428796,
+    425664,
+    424800,
+    425160,
+    426384,
+    425772,
+    425484,
+    426672,
+    428076,
+    429012,
+    431172,
+    429984,
+    430560,
+    430848,
+    428796,
+    425664,
+    424800,
+    425160,
+    426384,
+    425772,
+    425484,
+    427320,
+    435816,
+    430848,
+    431316,
+    419148,
+    419292,
+    419580,
+    422964,
+    334368,
+    423360,
+    425088,
+    415080,
+    423648,
+    437544,
+    435312
+  ],
+  "model_sources": [],
+  "status": "candidate_unreviewed",
+  "method": "Flat corner color RGB distance <=5; premultiplied Lanczos resize 120% per axis for viewer",
+  "limitations": "Background or text may remain; similar foreground/FX can be removed; interpolation does not restore missing detail. Review every frame on light/dark backgrounds and in motion."
+}

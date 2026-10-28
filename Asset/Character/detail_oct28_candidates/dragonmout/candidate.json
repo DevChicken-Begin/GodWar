@@ -1,0 +1,335 @@
+{
+  "id": "dragonmout",
+  "source": "Asset/Character/vfx/dragonmout.gif",
+  "source_sha256": "9228b22d2339477c62ffba8817bcb1f1b8e554b05357b044d2d24b47374224d4",
+  "base_candidate": "detail_130_candidates",
+  "base_input_sha256": {
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_000.png": "1dff5d7544f6e97adf5c5cc776fa3805762d4b94bd6407adc3243f7f8d9c4656",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_001.png": "9ae0c9fce9e79753701d2863b3564e9a50ca0d8033ffac59e2d12a5af42298e2",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_002.png": "6f15cc677bb5a1b48b2cfc58cdac125efcfe3c68919042fdee138fcd4f57db20",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_003.png": "c222eb1ea3d414eef3983e9d920a665101ca590bce1e8a0b621efed38abdbc66",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_004.png": "f9b2185b0ac4969a886f5bc0c67c9810eee633e783f9e26a5b246d9181e44eb6",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_005.png": "3ef6cafaab8d6d7114137e611db061e0ba687bb55f5999d293c7cebef22b20cd",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_006.png": "4ec9da7ab911255413b3454726d077633c9e78f5751b51eb749af0dbfb653f5f",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_007.png": "ec99d65bac8b4aa796a10f669040b1189683204ba4ab2c5487001cc58329627d",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_008.png": "9ed1f044371b0f0d6c4e066ed78ad789fc86f855eff1d53dc0d0ceeda00af951",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_009.png": "c4e6354affb35aa06b53c2fedcbd43573a2fc05034ee416b3425efb5f86fef93",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_010.png": "e3124292e19e22f589ff82b61c1eceb484ed820fd6d58227ee031e35cc80e75e",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_011.png": "7538eb076a61390704ee47544bf86a888469c1ca7d209b20fdab477d050b487f",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_012.png": "397257fcdb0930af15e61349a1b731466da606f4ee3fb0dbf51a05f257596eb1",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_013.png": "828f7827677b1ee28f75de40fec4e822ad04ec6eec450de730c2296788570ad6",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_014.png": "26e0bfaa64f565ef705c11ce266fb6f29c8e6c84b6bdc28cb0bd914057e9c011",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_015.png": "d3afd94dee73b9691c0f345be1df989f5a52c77f851e64e090b28f2ecae6c412",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_016.png": "7a95969aa45b6a28b790718cb9304e96b1ce3c4a2a75779d8cfc048c361f5f2f",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_017.png": "18a4e662a0b0933ea7097216d552a44ce5e3b0338a9ea31a16efe4aa05d28c46",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_018.png": "7e87b5b55d66bb9ff8f2cc077d1a49e976954cee8e605135a69ecef566f21915",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_019.png": "a22d63ac5688a146966ec8023724a62e0bdfa9bf2e4ff17c9115560391fba1a0",
+    "Asset/Character/review/dragonmout/detail_130_frames/frame_020.png": "38ee4fa626a678d227803fced317f72c1947857197d788c42f1ca62ca921b304"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.4,
+  "frame_count": 21,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        250,
+        250
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        455,
+        455
+      ]
+    }
+  ],
+  "display_size": [
+    250,
+    250
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review."
+}

@@ -37,6 +37,8 @@ Press **`Ctrl + Shift + B`** (or `Cmd + Shift + B` on macOS) to trigger the prim
 
 ### Kiểm thử GIF và frame nhân vật
 
+Quy trình sử dụng Agent Sprite Forge cho nhân vật được ghi tại [docs/sprite-forge.md](docs/sprite-forge.md).
+
 Trong thư mục dự án, chạy:
 
 ```bash
@@ -48,3 +50,11 @@ Mở `http://localhost:4173` (trong Codespaces, mở cổng 4173 được forwar
 Đối với `3 char`, tìm `3 char` để xem GIF chung hoặc tìm riêng `solist`, `namero`, `kukaomni` để xem ba nhân vật. `aminao`, `animent`, `Kahn`, `kukang` và `3 char` có bản tách nền nâng cao **chưa duyệt**; một số có thêm lựa chọn lọc mạnh; dùng mục Phiên bản để đối chiếu atlas nguồn. Vùng tối cùng màu nền hoặc chi tiết ít thay đổi theo thời gian có thể bị mất, cần kiểm tra trước khi dùng trong game.
 
 Các phiên bản tách nền theo màu, xử lý riêng hoặc trừ nền cảnh hiện đều là **bản thử chưa duyệt**. Chọn phiên bản trong trình xem để đối chiếu, và đọc [tình trạng kiểm tra nền](Asset/Character/review/background-review-status.json); một số bản có lỗi đã phát hiện như chữ còn sót, nền loang hoặc ảnh phản chiếu.
+
+Với các nhân vật có bản sửa chi tiết, viewer chọn mặc định bản thử mới nhất; đổi mục Phiên bản để so với atlas nguồn và bản trước. Các bản này có thể xóa nhầm viền hoặc hiệu ứng, cần kiểm tra từng frame.
+
+Với mainthen, animent, overight và skypit, viewer chọn bản thử mới nhất. Morexem đã được xóa theo yêu cầu; các bản shared-scene cũ có thể ghi morexem là nguồn tham chiếu đã xóa và không còn tái tạo được chính xác từ repo hiện tại.
+
+Tìm `aonoma` trong viewer để so GIF nguồn và các bản pixel hóa, gồm bản mới 198×158 pixel; các bản giữ số frame và thời lượng, nhưng phép tách nền và giảm màu có thể làm mất chi tiết hoặc thay đổi hiệu ứng. Các GIF mới có lựa chọn tách nền nguyên kích thước, vẫn cần duyệt từng frame.
+
+Tình trạng làm mịn pixel hàng loạt, gồm danh sách nguồn chưa áp dụng được, nằm tại [docs/fine-batch/README.md](docs/fine-batch/README.md).

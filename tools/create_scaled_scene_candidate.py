@@ -4,7 +4,7 @@ import hashlib,json
 from pathlib import Path
 import numpy as np
 from PIL import Image
-ROOT=Path(__file__).resolve().parents[1];A=ROOT/'Asset/Character';NAMES=('animent','morexem','overight','tigerknight')
+ROOT=Path(__file__).resolve().parents[1];A=ROOT/'Asset/Character';NAMES=('animent','overight','tigerknight')
 
 def main():
  entries={e['id']:e for e in json.loads((A/'extracted/catalog.json').read_text())['assets']};samples=[]
@@ -30,6 +30,6 @@ def main():
     with Image.open(A/'extracted/skypit'/f'atlas_{page:03d}.png') as old:atlas=Image.new('RGBA',old.size)
    x,y,_,_=f['region'];atlas.paste(Image.fromarray(p),(x,y))
   if atlas is not None:atlas.save(out/f'atlas_{page:03d}.png',compress_level=1)
- meta={'source':e['source'],'source_sha256':e['source_sha256'],'frame_count':e['frame_count'],'frames':e['frames'],'method':'resized median of four shared-scene sources plus stable logo region mask','model_sources':[{'id':n,'sha256':entries[n]['source_sha256']} for n in NAMES], 'status':'candidate_unreviewed','limitations':'Logo-region character/effect pixels or dark details may be removed; residual logos/background may remain.'}
+ meta={'source':e['source'],'source_sha256':e['source_sha256'],'frame_count':e['frame_count'],'frames':e['frames'],'method':'resized median of surviving shared-scene sources plus stable logo region mask','model_sources':[{'id':n,'sha256':entries[n]['source_sha256']} for n in NAMES], 'status':'candidate_unreviewed','limitations':'Logo-region character/effect pixels or dark details may be removed; residual logos/background may remain.'}
  (out/'candidate.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n');print('skypit:',e['frame_count'],'frames; visual review required')
 if __name__=='__main__':main()

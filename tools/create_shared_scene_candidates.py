@@ -4,7 +4,7 @@ import hashlib,json
 from pathlib import Path
 import numpy as np
 from PIL import Image
-ROOT=Path(__file__).resolve().parents[1];ASSETS=ROOT/'Asset/Character';NAMES=('animent','morexem','overight','tigerknight')
+ROOT=Path(__file__).resolve().parents[1];ASSETS=ROOT/'Asset/Character';NAMES=('animent','overight','tigerknight')
 
 
 def main():
@@ -31,7 +31,7 @@ def main():
                 x,y,_,_=frame['region'];atlas.paste(Image.fromarray(pixels),(x,y))
         if atlas is not None:atlas.save(out/f'atlas_{page:03d}.png',compress_level=1)
         metadata={'source':e['source'],'source_sha256':e['source_sha256'],'frame_count':e['frame_count'],'frames':e['frames'],
-                  'method':'median of 16 samples from four same-sized sources; RGB max distance >16',
+                  'method':'median of four samples from each surviving same-sized source; RGB max distance >16',
                   'model_sources':[{'id':n,'sha256':entries[n]['source_sha256']} for n in NAMES],
                   'status':'candidate_unreviewed','limitations':'Model may include characters or erase static/dark foreground; background/letter artifacts may remain.'}
         (out/'candidate.json').write_text(json.dumps(metadata,ensure_ascii=False,indent=2)+'\n',encoding='utf-8')

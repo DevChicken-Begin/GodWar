@@ -1,0 +1,540 @@
+{
+  "source": "Asset/Character/vfx/omra.gif",
+  "source_sha256": "2649a6dbcfb5ee30a723efdc4a797eb39938f4221f94742d00e523604f399370",
+  "source_start": 0,
+  "base_candidate": "special_candidates",
+  "base_atlas_sha256": {
+    "atlas_000.png": "1a61dfe5ab6ffa24bd25f44abe2d897952cd1863978a16f59f1ddfb6906e5b42",
+    "atlas_001.png": "cc08a2020bbb078c6c9a683515af8979cf50603d4800ba1be62b8bfbf0174dc1",
+    "atlas_002.png": "fd0699d8f30607161d1005b5a680720f44b0bcee4a2f3082d284ec96a42c00ab",
+    "atlas_003.png": "91d98b788e3bd2baf3b831e198bacb2e6c17446c75f057e02240cc8a360bb548"
+  },
+  "art_source": "existing",
+  "frame_count": 46,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        600,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1200,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        600,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1200,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        600,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1200,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        600,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1200,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        600,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1200,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        600,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1200,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        600,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1200,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        600,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1200,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        600,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1200,
+        0,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        600,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1200,
+        500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        600,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1200,
+        1000,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1500,
+        600,
+        500
+      ],
+      "duration_ms": 80
+    }
+  ],
+  "grid_period": 5,
+  "logical_canvas": [
+    120,
+    100
+  ],
+  "refined_canvas": [
+    240,
+    200
+  ],
+  "viewer_canvas": [
+    600,
+    500
+  ],
+  "changed_subpixels_per_frame": [
+    579,
+    544,
+    533,
+    523,
+    475,
+    500,
+    495,
+    508,
+    558,
+    579,
+    544,
+    533,
+    523,
+    475,
+    500,
+    495,
+    508,
+    558,
+    529,
+    576,
+    1091,
+    986,
+    836,
+    683,
+    513,
+    416,
+    479,
+    468,
+    579,
+    544,
+    533,
+    523,
+    475,
+    500,
+    495,
+    508,
+    558,
+    579,
+    544,
+    533,
+    523,
+    475,
+    500,
+    495,
+    508,
+    558
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Every frame has exact aligned source cells; Scale2x edge rules preserve source RGBA palette; nearest resize to existing viewer canvas.",
+  "limitations": "Cannot recover absent detail. Edge/VFX silhouettes can change or flicker; non-integer display scale can yield uneven widths. Source and prior unreviewed background candidate preserved."
+}

@@ -4,7 +4,7 @@
     {
       "id": "3 char",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Các bản tách solist, namero, kukaomni có phiên bản làm mịn cạnh chưa duyệt.",
       "variants": [
         "refined_candidates",
         "batch_candidates"
@@ -13,10 +13,11 @@
     {
       "id": "agon",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh từ lưới gốc; chưa duyệt chuyển động, có thể thay đổi nét viền hoặc VFX.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -33,75 +34,74 @@
     {
       "id": "amore",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh Scale2x chưa duyệt; cần so từng frame, VFX và viền.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "animent",
       "status": "defect_observed",
-      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản xử lý vùng chân chưa duyệt; cần đối chiếu chuyển động, viền xanh và VFX từng frame. Có bản nền xanh chi tiết mới chưa duyệt; màu nền có thể trùng chi tiết nhân vật, nhất là animent và chân skypit. Có bản sửa điểm xanh bổ sung chưa duyệt; kiểm tra mất chi tiết ở chân và phần thân xanh. Có bản sửa điểm nền cục bộ chưa duyệt; kiểm tra màu nhân vật hoặc VFX trùng vùng và màu đã xóa. Có bản sửa cục bộ; so vùng đỉnh lưng và tránh mất chi tiết trùng màu.",
       "variants": [
         "refined_candidates",
         "cleanup_candidates",
-        "shared_scene_candidates"
+        "shared_scene_candidates",
+        "detailed_candidates",
+        "foot_candidates",
+        "scene_detail_v3_candidates",
+        "remaining_scene_candidates",
+        "spot_candidates",
+        "oct28_fix_candidates"
       ]
-    },
-    {
-      "id": "anomen",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": []
     },
     {
       "id": "aoda",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh Scale2x chưa duyệt; cần so từng frame, VFX và viền.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "artemis",
       "status": "defect_observed",
-      "issue": "Có chữ nhỏ phía dưới trong mẫu kiểm tra; chưa xử lý riêng.",
+      "issue": "Có chữ nhỏ phía dưới trong mẫu kiểm tra; chưa xử lý riêng. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "assing",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "astra",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "athen",
-      "status": "defect_observed",
-      "issue": "Trừ nền cảnh chỉ là bản thử; có nguy cơ mất chi tiết nhân vật tĩnh.",
-      "variants": [
-        "temporal_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "aumen",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -124,16 +124,19 @@
     {
       "id": "auroma",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": []
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "fine_candidates"
+      ]
     },
     {
       "id": "aurora",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -147,26 +150,31 @@
     {
       "id": "azil",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "azou",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "azza",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": []
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
+      "variants": [
+        "fine_candidates",
+        "detail_130_candidates"
+      ]
     },
     {
       "id": "bearen",
@@ -179,9 +187,10 @@
     {
       "id": "bearfire",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -195,18 +204,20 @@
     {
       "id": "blacktiger",
       "status": "defect_observed",
-      "issue": "Bản theo màu còn sàn/phản chiếu; bản xử lý riêng cắt tại y=520, có nguy cơ cắt nhân vật hoặc VFX.",
+      "issue": "Bản theo màu còn sàn/phản chiếu; bản xử lý riêng cắt tại y=520, có nguy cơ cắt nhân vật hoặc VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "batch_candidates",
-        "special_candidates"
+        "special_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "bomer",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -221,35 +232,39 @@
     {
       "id": "botic",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "camword",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "comca",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "conden",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -264,26 +279,29 @@
     {
       "id": "crapit",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "diana",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "dong",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -298,257 +316,237 @@
     {
       "id": "dragonmout",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản thử unsharp 20%, có thể đổi màu hoặc viền. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "ethan",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "sharp_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "fireknight",
       "status": "defect_observed",
-      "issue": "Họa tiết nền còn sót quanh nhân vật; đã thử làm giảm nhưng chưa sạch.",
+      "issue": "Họa tiết nền còn sót quanh nhân vật; đã thử làm giảm nhưng chưa sạch. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX.",
       "variants": [
         "batch_candidates",
-        "special_candidates"
+        "special_candidates",
+        "detailed_candidates"
       ]
     },
     {
       "id": "firemen",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "firer",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "flybird",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "ghostian",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "ghostic",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "gin",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "guard",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "haden",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "hades",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "hox",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "hydra",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "iternal",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "javis",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "jaying",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "Kahn",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "refined_candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "kapicon",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": []
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "fine_candidates"
+      ]
     },
     {
       "id": "knel",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "knight",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "kong",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "kukang",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "refined_candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "kumen",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "lois",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "magicer",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": []
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "fine_candidates"
+      ]
     },
     {
       "id": "magicleo",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "mainmout",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "mainthen",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản xử lý vùng chân chưa duyệt; cần đối chiếu chuyển động, viền xanh và VFX từng frame.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "maono",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "foot_candidates"
       ]
     },
     {
       "id": "mark",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -562,86 +560,87 @@
     {
       "id": "moca",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "modfin",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "monster",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "monsterdead",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "monstermap",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "monterlaze",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "monterpie",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "morexem",
-      "status": "defect_observed",
-      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
-      "variants": [
-        "temporal_candidates",
-        "shared_scene_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "mortafi",
       "status": "defect_observed",
-      "issue": "Chữ đã được giảm nhưng còn nét nhiễu trong mẫu kiểm tra.",
+      "issue": "Chữ đã được giảm nhưng còn nét nhiễu trong mẫu kiểm tra. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
         "batch_candidates",
-        "special_candidates"
+        "special_candidates",
+        "detailed_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "moxfi",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -655,112 +654,121 @@
     {
       "id": "newwomen",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "ninjadead",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "nox",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "omra",
       "status": "defect_observed",
-      "issue": "Chữ được xử lý trong mẫu; vẫn cần kiểm tra toàn bộ frame.",
+      "issue": "Chữ được xử lý trong mẫu; vẫn cần kiểm tra toàn bộ frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "batch_candidates",
-        "special_candidates"
+        "special_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "overight",
       "status": "defect_observed",
-      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản xử lý vùng chân chưa duyệt; cần đối chiếu chuyển động, viền xanh và VFX từng frame. Có bản nền xanh chi tiết mới chưa duyệt; màu nền có thể trùng chi tiết nhân vật, nhất là animent và chân skypit. Có bản sửa điểm xanh bổ sung chưa duyệt; kiểm tra mất chi tiết ở chân và phần thân xanh. Có bản sửa điểm nền cục bộ chưa duyệt; kiểm tra màu nhân vật hoặc VFX trùng vùng và màu đã xóa. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
         "temporal_candidates",
-        "shared_scene_candidates"
+        "shared_scene_candidates",
+        "detailed_candidates",
+        "foot_candidates",
+        "scene_detail_v3_candidates",
+        "remaining_scene_candidates",
+        "spot_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "overmap",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "oxiu",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "poppy",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "powerdame",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "pygon",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "raptor",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "reptail",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "reptalian",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -775,173 +783,143 @@
     {
       "id": "scatra",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "scopion",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "score",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "scorpit",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản sửa cục bộ; scorpit vùng chữ có thể thủng VFX và còn sót chữ khi hiệu ứng phủ lên. Có bản thử phục hồi chữ bằng pixel lân cận cho chỉ số 18/19; phần bên dưới là ước lượng, cần xem chuyển động và frame lân cận. Có bản phục hồi chữ tại chỉ số 17–19; vùng che được ước lượng, cần duyệt chuyển động. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "scot",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "oct28_fix_candidates",
+        "scorpit_repair_candidates",
+        "scorpit_repair18_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "shellop",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "skyles",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "skylian",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "skypit",
       "status": "defect_observed",
-      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản xử lý vùng chân chưa duyệt; cần đối chiếu chuyển động, viền xanh và VFX từng frame. Có bản nền xanh chi tiết mới chưa duyệt; màu nền có thể trùng chi tiết nhân vật, nhất là animent và chân skypit. Có bản sửa điểm xanh bổ sung chưa duyệt; kiểm tra mất chi tiết ở chân và phần thân xanh. Có bản sửa điểm nền cục bộ chưa duyệt; kiểm tra màu nhân vật hoặc VFX trùng vùng và màu đã xóa.",
       "variants": [
         "temporal_candidates",
-        "shared_scene_candidates"
-      ]
-    },
-    {
-      "id": "slowdame",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "shared_scene_candidates",
+        "detailed_candidates",
+        "foot_candidates",
+        "scene_detail_v3_candidates",
+        "remaining_scene_candidates",
+        "spot_candidates"
       ]
     },
     {
       "id": "smaxin",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "snax",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "snicore",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "snowpie",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
         "candidates",
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "snowtiger",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "swordame",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "tailer",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "tigerknight",
       "status": "defect_observed",
-      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame.",
+      "issue": "Bản trừ nền theo thời gian còn nền; bản đối chiếu nền chung có thể còn nhiễu hoặc mất chi tiết, chưa duyệt toàn bộ frame. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
         "temporal_candidates",
-        "shared_scene_candidates"
-      ]
-    },
-    {
-      "id": "trike",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "shared_scene_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "vanfox",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
@@ -955,92 +933,334 @@
     {
       "id": "vivian",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "waven",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "wavinges",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Đã tạo bản loại chữ cố định; vùng góc phải không còn pixel đục trong kiểm tra tự động, vẫn chờ duyệt trực quan. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "wavyin",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "logo_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "wordknight",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
-      "id": "wothem",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "wuchen",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "detail_130_candidates"
       ]
     },
     {
       "id": "wukongchen",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "wutan",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "yoyo",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
       "variants": [
-        "batch_candidates"
+        "batch_candidates",
+        "fine_candidates"
       ]
     },
     {
       "id": "ziggist",
       "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
+      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
       "variants": [
         "candidates",
-        "batch_candidates"
+        "batch_candidates",
+        "detailed_candidates",
+        "fine_candidates",
+        "detail_130_candidates"
+      ]
+    },
+    {
+      "id": "aonoma",
+      "status": "visual_review_pending",
+      "issue": "Bản pixel và tách nền là bản thử mất mát; kiểm tra viền, hiệu ứng, độ nhấp nháy và so với GIF nguồn. Có bản 108×86, 64 màu; so nét và hiệu ứng với bản 90×72. Có bản 162×129, 128 màu; cần so với nguồn và bản cũ về hiệu ứng. Có bản thử tăng mẫu chi tiết, hiển thị cùng kích thước; cần duyệt nguồn và VFX.",
+      "variants": [
+        "pixel_candidates",
+        "pixel_120_candidates",
+        "pixel_180_candidates",
+        "pixel_220_candidates"
+      ]
+    },
+    {
+      "id": "reptalian",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "dracian",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
+      "variants": [
+        "native_candidates",
+        "detail_130_candidates"
+      ]
+    },
+    {
+      "id": "vargost",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "xinchan",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "raptilian",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "changlie",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "choptian",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "costmic",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "ractalo",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "kungchang",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "rep",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "biden",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "airpot",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Đã tạo bản loại chữ cố định; vùng góc phải không còn pixel đục trong kiểm tra tự động, vẫn chờ duyệt trực quan. Có bản làm mịn cạnh Scale2x chưa duyệt; cần so từng frame, VFX và viền.",
+      "variants": [
+        "native_candidates",
+        "logo_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "black",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "knigblack",
+      "status": "defect_observed",
+      "issue": "Bản tách nền cảnh còn viền tối quanh nhân vật và bóng dưới chân; có nguy cơ mất chi tiết giáp, chưa duyệt.",
+      "variants": [
+        "native_candidates",
+        "scene_model_candidates",
+        "scene_model_strong_candidates",
+        "scene_protected_candidates"
+      ]
+    },
+    {
+      "id": "pigpor",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
+      "variants": [
+        "native_candidates",
+        "fine_candidates"
+      ]
+    },
+    {
+      "id": "jaik",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "Trex",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "butayaro",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "comic",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "ethan",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "jaying",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "momo",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "odin",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "panfire",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "shellhost",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
+      "variants": [
+        "batch12_native_candidates",
+        "batch12_detail_candidates"
       ]
     }
   ]

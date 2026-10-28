@@ -1,0 +1,958 @@
+{
+  "id": "conden",
+  "source": "Asset/Character/vfx/conden.gif",
+  "source_sha256": "c7c362e786fbda78570307d20b25a557aa506d693d2e886a99ea60024f443124",
+  "base_candidate": "repaired_v5_candidates",
+  "base_input_sha256": {
+    "Asset/Character/repaired_v5_candidates/conden/projectile_template.png": "e6bc072f60f35ef1355eb507c4fa94d9beb4d7ffdbcf06613f8ed00f35850c7a",
+    "Asset/Character/batch_candidates/conden/atlas_000.png": "84774fe6d8c545c36bad4a5ae10b71a81f1688abf6edf296510b2c594a416e05",
+    "Asset/Character/batch_candidates/conden/atlas_001.png": "c0eb961e3ee39fe20443b9c3c9853e01e9454c3af3d9002632bd0a458f0aec98",
+    "Asset/Character/batch_candidates/conden/atlas_002.png": "56d275e689d7ad945eaba20ab0644dd21778741450fa7f81c7f2a6bb0eadbf0a",
+    "Asset/Character/batch_candidates/conden/atlas_003.png": "84774fe6d8c545c36bad4a5ae10b71a81f1688abf6edf296510b2c594a416e05",
+    "Asset/Character/batch_candidates/conden/atlas_004.png": "c0eb961e3ee39fe20443b9c3c9853e01e9454c3af3d9002632bd0a458f0aec98",
+    "Asset/Character/batch_candidates/conden/atlas_005.png": "56d275e689d7ad945eaba20ab0644dd21778741450fa7f81c7f2a6bb0eadbf0a",
+    "Asset/Character/batch_candidates/conden/atlas_006.png": "19838dd264f83b8f59c555d22387a914ce9c9954e8ddfeb57c69f9010e5d7af0",
+    "Asset/Character/batch_candidates/conden/atlas_007.png": "b64f194d4ef58da80002a3d0220d098fbcfe6b34c7fdedafb736e4486d88b243",
+    "Asset/Character/batch_candidates/conden/atlas_008.png": "ca24c3af37af9a432b857695ddab56816226041bb30b725f8465caf79b972443",
+    "Asset/Character/batch_candidates/conden/atlas_009.png": "e593f88e140876d391c1b4cbd7e4fa0c5acafe14eb742def1ac4ccb1658980c4",
+    "Asset/Character/batch_candidates/conden/atlas_010.png": "3e33cee9cfc75940bf71f8cd1615d799b103cb0dad8bea25363cdd38d1e595de",
+    "Asset/Character/batch_candidates/conden/atlas_011.png": "6b49b46462b365ec595f347b148ee3a02f13f16f8529934f94ae57cc162fcc8d"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.2,
+  "frame_count": 53,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 0,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 1,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 2,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 3,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 4,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 5,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 6,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 7,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 8,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 9,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 10,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 11,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 12,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 13,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 14,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 15,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 16,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 17,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 18,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 19,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 20,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 21,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 22,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 23,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 24,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 25,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 26,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 27,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 28,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 29,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 30,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 31,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 32,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 33,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 34,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 35,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 36,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 37,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 38,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 39,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 40,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 41,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 42,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 43,
+      "synthetic": false,
+      "projectile_x": null,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 44,
+      "synthetic": true,
+      "projectile_x": 455,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 44,
+      "synthetic": true,
+      "projectile_x": 510,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 45,
+      "synthetic": true,
+      "projectile_x": 569,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 45,
+      "synthetic": true,
+      "projectile_x": 632,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 46,
+      "synthetic": true,
+      "projectile_x": 699,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 46,
+      "synthetic": true,
+      "projectile_x": 770,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 47,
+      "synthetic": true,
+      "projectile_x": 845,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 47,
+      "synthetic": true,
+      "projectile_x": 924,
+      "detail_size": [
+        1152,
+        864
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        960,
+        720
+      ],
+      "duration_ms": 70,
+      "source_index": 47,
+      "synthetic": true,
+      "projectile_x": 1007,
+      "detail_size": [
+        1152,
+        864
+      ]
+    }
+  ],
+  "display_size": [
+    960,
+    720
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos resize of current viewer frame; preserve display dimensions and timing. No new source detail is created.",
+  "limitations": "Upsampling alone does not restore missing detail; edges and VFX need visual review.",
+  "arrow_base": "repaired_v5_candidates/conden/projectile_template.png",
+  "reference_step_per_70ms": 55,
+  "steps_per_70ms": [
+    55,
+    59,
+    63,
+    67,
+    71,
+    75,
+    79,
+    83
+  ],
+  "projectile_positions": [
+    455,
+    510,
+    569,
+    632,
+    699,
+    770,
+    845,
+    924,
+    1007
+  ],
+  "arrow_note": "Synthetic reconstructed arrow; accelerate from 100% to approximately 151% of prior 55 px/70 ms reference; final left edge beyond canvas."
+}

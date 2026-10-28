@@ -3,26 +3,6 @@
   "status": "in_progress",
   "entries": [
     {
-      "source_id": "3 char",
-      "provisional_character_name": null,
-      "source": "Asset/Character/vfx/3 char.gif",
-      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
-      "identity_status": "split_into_named_characters",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "GIF nguồn chứa 3 nhân vật: solist, namero, kukaomni; xem hồ sơ từng nhân vật.",
-      "character_ids": [
-        "solist",
-        "namero",
-        "kukaomni"
-      ]
-    },
-    {
       "source_id": "agon",
       "provisional_character_name": "agon",
       "source": "Asset/Character/vfx/agon.gif",
@@ -83,21 +63,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "anomen",
-      "provisional_character_name": "anomen",
-      "source": "Asset/Character/vfx/anomen.gif",
-      "source_sha256": "89684fc48499542ab5697f2115c23acde1964b213eea66ecea9d8d0c3c794d60",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "aoda",
       "provisional_character_name": "aoda",
       "source": "Asset/Character/vfx/aoda.gif",
@@ -147,21 +112,6 @@
       "provisional_character_name": "astra",
       "source": "Asset/Character/vfx/astra.gif",
       "source_sha256": "219aa3e9d56a3017017f703e966097a811ed977b11e984cd20b9cebb8a9e7527",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "athen",
-      "provisional_character_name": "athen",
-      "source": "Asset/Character/vfx/athen.gif",
-      "source_sha256": "e0cc8dd6c44766a74300f1a99bf385494e4d9f8ef2607fa4b9126cc7d0501f26",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -548,21 +498,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "ethan",
-      "provisional_character_name": "ethan",
-      "source": "Asset/Character/vfx/ethan.gif",
-      "source_sha256": "93d7c58358725854b344f0beee784e224eec1394338acd78ebae655cb79691aa",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "fireknight",
       "provisional_character_name": "fireknight",
       "source": "Asset/Character/vfx/fireknight.gif",
@@ -668,21 +603,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "guard",
-      "provisional_character_name": "guard",
-      "source": "Asset/Character/vfx/guard.gif",
-      "source_sha256": "20f8e6a22b50847ba8eb68fb28340034898da626ca30d95b797568dcb0278d0f",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "haden",
       "provisional_character_name": "haden",
       "source": "Asset/Character/vfx/haden.gif",
@@ -773,21 +693,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "jaying",
-      "provisional_character_name": "jaying",
-      "source": "Asset/Character/vfx/jaying.gif",
-      "source_sha256": "bd1274c4870ee0eab0adce091374d8814f81c9c6cd8b337999e4c28183af5504",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "Kahn",
       "provisional_character_name": "Kahn",
       "source": "Asset/Character/vfx/Kahn.gif",
@@ -848,21 +753,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "kong",
-      "provisional_character_name": "kong",
-      "source": "Asset/Character/vfx/kong.gif",
-      "source_sha256": "efc1a53addcfb6132fdad70fff8b63cf5ece65997d68ffd800acee90520d1efa",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "kukang",
       "provisional_character_name": "kukang",
       "source": "Asset/Character/vfx/kukang.gif",
@@ -882,21 +772,6 @@
       "provisional_character_name": "kumen",
       "source": "Asset/Character/vfx/kumen.gif",
       "source_sha256": "5f7c871ec065fb8d732ddffa0980f927c61d6ab60bd80a73e095ad81a6ecae40",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "lois",
-      "provisional_character_name": "lois",
-      "source": "Asset/Character/vfx/lois.gif",
-      "source_sha256": "201044ced37ef7085e0dec12982eea4c298ce02dbccd8416034264c66b99dee0",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -957,21 +832,6 @@
       "provisional_character_name": "mainthen",
       "source": "Asset/Character/vfx/mainthen.gif",
       "source_sha256": "36722ce0b35fa0b7f8a622be1d12e4133be9c4f0fd97125656224abf2c4e9700",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "maono",
-      "provisional_character_name": "maono",
-      "source": "Asset/Character/vfx/maono.gif",
-      "source_sha256": "09e62a9e285b158a367698fca86e36e50d5921d172e1dfd03713d3285d7a57a9",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -1107,21 +967,6 @@
       "provisional_character_name": "monterpie",
       "source": "Asset/Character/vfx/monterpie.gif",
       "source_sha256": "1d344d38adfa08fdbfc3df5206c86dcdd676a0bc0b85a22d08447b52dc624447",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "morexem",
-      "provisional_character_name": "morexem",
-      "source": "Asset/Character/vfx/morexem.gif",
-      "source_sha256": "c5fb507b386568e39445fe6827a688e1b2748777cb531bf8223e41d6c1eaaea9",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -1358,21 +1203,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "reptalian",
-      "provisional_character_name": "reptalian",
-      "source": "Asset/Character/vfx/reptalian.gif",
-      "source_sha256": "985e82795c32c44e076e8ec3bbdd420a883fd1599f0ebe9d7dfec7ae4037c9a8",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "samurai",
       "provisional_character_name": "samurai",
       "source": "Asset/Character/vfx/samurai.gif",
@@ -1448,21 +1278,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "scot",
-      "provisional_character_name": "scot",
-      "source": "Asset/Character/vfx/scot.gif",
-      "source_sha256": "92a9a90620e676296fc4da2ac4a7c2019c337d17a98024e13ada5be1259f14f5",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "shellop",
       "provisional_character_name": "shellop",
       "source": "Asset/Character/vfx/shellop.gif",
@@ -1493,40 +1308,10 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "skylian",
-      "provisional_character_name": "skylian",
-      "source": "Asset/Character/vfx/skylian.gif",
-      "source_sha256": "a63b5697dc0cb2ee829620e13a43401e7227c29300805f93f2be1ad611f19aa4",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "skypit",
       "provisional_character_name": "skypit",
       "source": "Asset/Character/vfx/skypit.gif",
       "source_sha256": "e273211ede18e3da9257b162e8863bde8e8f919d12e5092212e9dfe5037223bb",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "slowdame",
-      "provisional_character_name": "slowdame",
-      "source": "Asset/Character/vfx/slowdame.gif",
-      "source_sha256": "da75d83e78ffcc3253ca8739586c8b9799fa0b0171db51632d0ce300e01d27f4",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -1568,40 +1353,10 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "snicore",
-      "provisional_character_name": "snicore",
-      "source": "Asset/Character/vfx/snicore.gif",
-      "source_sha256": "ac42c2b21e4b33e088b70a1d0c204aa69f700b2b56872773aa162e381de6da1b",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "snowpie",
       "provisional_character_name": "snowpie",
       "source": "Asset/Character/vfx/snowpie.gif",
       "source_sha256": "2bb818caba8429c3eeddf3ea66aa18c8f834567557a52c3e5146108bf03451d2",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "snowtiger",
-      "provisional_character_name": "snowtiger",
-      "source": "Asset/Character/vfx/snowtiger.gif",
-      "source_sha256": "9458a7c59fa28777167d4a4249e212467803d814d503856ee2c5161bcf08cf68",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -1647,21 +1402,6 @@
       "provisional_character_name": "tigerknight",
       "source": "Asset/Character/vfx/tigerknight.gif",
       "source_sha256": "e5e5f1e28ab0a71deb074d6605071b34ba0110e4ce9c4c6abe85a3edf4206cb5",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "trike",
-      "provisional_character_name": "trike",
-      "source": "Asset/Character/vfx/trike.gif",
-      "source_sha256": "d4122d6064fad16c676ba132e6ebbfcc7e2547c8469bc6ba32c684545f262b12",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -1748,40 +1488,10 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "wavyin",
-      "provisional_character_name": "wavyin",
-      "source": "Asset/Character/vfx/wavyin.gif",
-      "source_sha256": "e71168056dce8539ca817e33d02d5c51da18d08d115fcb31b8216dc3e1a62272",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "wordknight",
       "provisional_character_name": "wordknight",
       "source": "Asset/Character/vfx/wordknight.gif",
       "source_sha256": "8a25ac384bdb311eefb99ef0777f1cc6632a26f1ea3409bc45e33af24cd26dae",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "wothem",
-      "provisional_character_name": "wothem",
-      "source": "Asset/Character/vfx/wothem.gif",
-      "source_sha256": "10074896d7154d84a1146cd81b66889435362c7718645fe835a0ede3579f12bc",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -1926,6 +1636,411 @@
       },
       "attack_range": "unreviewed",
       "notes": "Chưa phân loại hoạt ảnh hoặc skill."
+    },
+    {
+      "source_id": "aonoma",
+      "provisional_character_name": "aonoma",
+      "source": "Asset/Character/vfx/aonoma.gif",
+      "source_sha256": "2bcefa6bd3257fac09b7f16329d15ede1e0f9eadf102b382516e52fa8a590bdb",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Nguồn do người dùng cung cấp; chưa phân đoạn động tác hoặc skill."
+    },
+    {
+      "source_id": "reptalian",
+      "provisional_character_name": "reptalian",
+      "source": "Asset/Character/vfx/reptalian.gif",
+      "source_sha256": "7f807bebbc7100f3ceb708d0379047364e8782de92018ae27df139a333c101d9",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "dracian",
+      "provisional_character_name": "dracian",
+      "source": "Asset/Character/vfx/dracian.gif",
+      "source_sha256": "843fe18eee342ae6d656a4df533130a3823141e87a9f41f80af2dda3808e6cbd",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "vargost",
+      "provisional_character_name": "vargost",
+      "source": "Asset/Character/vfx/vargost.gif",
+      "source_sha256": "fbd1eec8544ab241c9d5bede17d181f5f458da5495907815b692f87cab81b62e",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "xinchan",
+      "provisional_character_name": "xinchan",
+      "source": "Asset/Character/vfx/xinchan.gif",
+      "source_sha256": "f9d61ec7738b0fe257976a34ca37c72dcecee9428b4c0505af40a25bf240b0ea",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "raptilian",
+      "provisional_character_name": "raptilian",
+      "source": "Asset/Character/vfx/raptilian.gif",
+      "source_sha256": "7b392e4d1454eba604a53ea94154bc577cf8ae2f164022f9331f277d550daac7",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "changlie",
+      "provisional_character_name": "changlie",
+      "source": "Asset/Character/vfx/changlie.gif",
+      "source_sha256": "621d18c29aeefb380c2d9695554e55599b6440d9683f7f41eddeadc27ffbb05e",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "choptian",
+      "provisional_character_name": "choptian",
+      "source": "Asset/Character/vfx/choptian.gif",
+      "source_sha256": "6915cf0876e063ae49754339d691ef2ec17dd2d4fec0c3b3fbaded4c337c7f4e",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "costmic",
+      "provisional_character_name": "costmic",
+      "source": "Asset/Character/vfx/costmic.gif",
+      "source_sha256": "bd991689aa2ca585a823e96fef96775eded7deae12d644d948ef7abde439dd8c",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "ractalo",
+      "provisional_character_name": "ractalo",
+      "source": "Asset/Character/vfx/ractalo.gif",
+      "source_sha256": "eddb8a8b1e4c4aa838ecbeeff3b6127c80962c140a9f93e8883cedc9b9e1b24b",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "kungchang",
+      "provisional_character_name": "kungchang",
+      "source": "Asset/Character/vfx/kungchang.gif",
+      "source_sha256": "1145aba9420d52fb08eaa9d0a03033fa8319e0763208aac0d8a8c7d0e7dcc14b",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "rep",
+      "provisional_character_name": "rep",
+      "source": "Asset/Character/vfx/rep.gif",
+      "source_sha256": "7effd89923f4661f2163c55da0c2c5dbc0df97f404ce47428e8ca55038945722",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "biden",
+      "provisional_character_name": "biden",
+      "source": "Asset/Character/vfx/biden.gif",
+      "source_sha256": "ed83327fb803d1abf94fdf7797eff253e01b06aadefea228f01c0d652b45a113",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "airpot",
+      "provisional_character_name": "airpot",
+      "source": "Asset/Character/vfx/airpot.gif",
+      "source_sha256": "0d09956f6048d3fce18d67dd047bcf39b5bcda1ac31dac57c24c84cd8564e3b2",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "black",
+      "provisional_character_name": "black",
+      "source": "Asset/Character/vfx/black.gif",
+      "source_sha256": "817c9ec1e784ca93dbfc72c796cb53f2b352ff79e3ca6cb811e16c9b550f9360",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "knigblack",
+      "provisional_character_name": "knigblack",
+      "source": "Asset/Character/vfx/knigblack.gif",
+      "source_sha256": "243484289b25cfb2290bc337077654cd0893a97f778132f6b1e2e194707181dd",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "pigpor",
+      "provisional_character_name": "pigpor",
+      "source": "Asset/Character/vfx/pigpor.gif",
+      "source_sha256": "b19fd558441321233dde03b82c4767377d7b1fbf4c1a85ac14208dbe777d859c",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "jaik",
+      "provisional_character_name": "jaik",
+      "source": "Asset/Character/vfx/jaik.gif",
+      "source_sha256": "b25e093e64953aea941e9d065a961eed81c6f7d5aaa849d6c631050bf2c246d6",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
+    },
+    {
+      "source_id": "Trex",
+      "provisional_character_name": "Trex",
+      "source": "Asset/Character/vfx/Trex.gif",
+      "source_sha256": "1116a26d0e29f30120914a4b8a8faa70e5ce95b16845a218cb6665e8430190e2",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
+    },
+    {
+      "source_id": "butayaro",
+      "provisional_character_name": "butayaro",
+      "source": "Asset/Character/vfx/butayaro.gif",
+      "source_sha256": "82666cd6265e434456ec1b048bf9ffa608621d99851f9f6593af2ab49cf31f6d",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
+    },
+    {
+      "source_id": "comic",
+      "provisional_character_name": "comic",
+      "source": "Asset/Character/vfx/comic.gif",
+      "source_sha256": "a9dc4e548b33c5c7ba5b4e80dc56f671dff903c8829ad503394d5b082d89bbc6",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
+    },
+    {
+      "source_id": "ethan",
+      "provisional_character_name": "ethan",
+      "source": "Asset/Character/vfx/ethan.gif",
+      "source_sha256": "2560b34e90a103e3ba3834c658e2cad2a2ce62ef0a2ee1e42c71069b22a1aab8",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
+    },
+    {
+      "source_id": "jaying",
+      "provisional_character_name": "jaying",
+      "source": "Asset/Character/vfx/jaying.gif",
+      "source_sha256": "47f04e6f34345d9771fdb843818a16d00458f64d754974514b238d8a79fb951e",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
+    },
+    {
+      "source_id": "momo",
+      "provisional_character_name": "momo",
+      "source": "Asset/Character/vfx/momo.gif",
+      "source_sha256": "2084efc7ecca9e3dba3ccf4c874b69ccc1b0922ea41ea666ba123f57dafb8265",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
+    },
+    {
+      "source_id": "odin",
+      "provisional_character_name": "odin",
+      "source": "Asset/Character/vfx/odin.gif",
+      "source_sha256": "fc73255d030cf8851255226ccd69f4b731a7104af409896e02c40f798e4e05dc",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
+    },
+    {
+      "source_id": "panfire",
+      "provisional_character_name": "panfire",
+      "source": "Asset/Character/vfx/panfire.gif",
+      "source_sha256": "5096c4bf89b0b35e043f2ce8b7092b825da23eb3e11cde8361d863c02c6787e4",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
+    },
+    {
+      "source_id": "shellhost",
+      "provisional_character_name": "shellhost",
+      "source": "Asset/Character/vfx/shellhost.gif",
+      "source_sha256": "7e05e635e835ba5e17252b77de0ca194079db8eb65231ef232f94c7ffb2ce0d4",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
     }
   ]
 }

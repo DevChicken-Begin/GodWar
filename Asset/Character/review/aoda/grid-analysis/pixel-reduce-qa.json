@@ -1,0 +1,117 @@
+{
+  "status": "pass",
+  "method": "forge_palette.detect_grid (boundary lattice score and block uniformity at tolerance 24); one mode sample per grid block snapped to the OKLab palette with binary alpha; the 1x result is re-expanded by the period and compared with the input",
+  "notProven": [
+    "Fractional grids (a non-integer pixel size) are not detected.",
+    "Whether the logical image keeps the art's intent: look at the 1x and upscaled output."
+  ],
+  "checks": [
+    {
+      "id": "grid_clean",
+      "status": "pass",
+      "value": {
+        "period": 6,
+        "phase": [
+          0,
+          0
+        ],
+        "score": 1.0,
+        "uniformity": 1.0
+      },
+      "threshold": {
+        "min_score": 0.5,
+        "min_uniformity": 0.9
+      },
+      "subject": "fine_input_frame0.png"
+    },
+    {
+      "id": "reconstruction_mismatch",
+      "status": "pass",
+      "value": 0.0,
+      "threshold": 0.05,
+      "subject": "fine_input_frame0.png"
+    },
+    {
+      "id": "lost_visible_px",
+      "status": "pass",
+      "value": 0,
+      "threshold": 0,
+      "subject": "fine_input_frame0.png"
+    },
+    {
+      "id": "output_off_palette_px",
+      "status": "pass",
+      "value": 0,
+      "threshold": 0
+    },
+    {
+      "id": "output_partial_alpha_px",
+      "status": "pass",
+      "value": 0,
+      "threshold": 0
+    }
+  ],
+  "inputs": [
+    {
+      "path": "../fine_input_frame0.png",
+      "sha256": "04f07e7b1543a5c9d0ae40c09be90ec4d15ce31cdc2cc3bd422568fa0e974842",
+      "bytes": 4702
+    }
+  ],
+  "outputs": [
+    {
+      "path": "fine_input_frame0.png",
+      "sha256": "bbadb844a708bf6538fb4e0ae0e525fd930ca6b6e7c562e2442e1114d26e189e",
+      "bytes": 2069
+    },
+    {
+      "path": "palette.json",
+      "sha256": "5e643d45c58a8222cdf2a801e1a08b84088e2f9784c913528518a2289bcbac5c",
+      "bytes": 838
+    }
+  ],
+  "tool": {
+    "name": "pixel_reduce",
+    "version": "0.4.0"
+  },
+  "images": {
+    "fine_input_frame0.png": {
+      "grid": {
+        "period": 6,
+        "phase": [
+          0,
+          0
+        ],
+        "score": 1.0,
+        "uniformity": 1.0,
+        "boundary_hit_rate": 1.0,
+        "chance_rate": 0.167,
+        "has_grid": true
+      },
+      "detected": {
+        "period": 6,
+        "phase": [
+          0,
+          0
+        ],
+        "score": 1.0,
+        "uniformity": 1.0,
+        "boundary_hit_rate": 1.0,
+        "chance_rate": 0.167,
+        "has_grid": true
+      },
+      "forced": false,
+      "method": "mode",
+      "logical_size": [
+        100,
+        100
+      ],
+      "mixed_blocks": 0
+    }
+  },
+  "palette": {
+    "colors": 18,
+    "built": true,
+    "transparent_index": 255
+  }
+}

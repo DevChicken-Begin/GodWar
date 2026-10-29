@@ -1,0 +1,827 @@
+{
+  "id": "ethan",
+  "source": "Asset/Character/vfx/ethan.gif",
+  "source_sha256": "2560b34e90a103e3ba3834c658e2cad2a2ce62ef0a2ee1e42c71069b22a1aab8",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/ethan/frame_000.png": "05200d3f61ab290000fd95aa8bd70eba8f4cb6acde37e88ca53732d437ef3509",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_001.png": "9f5ea4e604ae4fc15f7ff3a1366b2b10b8b1322a6249b33c93a9809cd8062805",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_002.png": "888e39cae803aef5bd9520c2d14f6541956c1745afb86e0ef3f4f22c2eb0e972",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_003.png": "a7bb774acc6bbfdd5c4c3bd1f44e1217fd9b7406b6c9fba2fd07b1bb2c1b4876",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_004.png": "1ecb40285fe5788f666b80d575c4f3efa537247990d7abc4894baf2eb2921be6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_005.png": "bbfea2d2beb38c4f6c517565a0c42cad6b4130fa320ecaa505d1973ffc0a25c6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_006.png": "e685f7a593e5b3c8f2914790612a9fb18d84c78d236bc2b37ea72ba05d18f360",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_007.png": "ce26b4e0bc118cf0823b574a5ac1fde068f82d0d8efd777ecd198fad723d1b6b",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_008.png": "05200d3f61ab290000fd95aa8bd70eba8f4cb6acde37e88ca53732d437ef3509",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_009.png": "9f5ea4e604ae4fc15f7ff3a1366b2b10b8b1322a6249b33c93a9809cd8062805",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_010.png": "888e39cae803aef5bd9520c2d14f6541956c1745afb86e0ef3f4f22c2eb0e972",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_011.png": "a7bb774acc6bbfdd5c4c3bd1f44e1217fd9b7406b6c9fba2fd07b1bb2c1b4876",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_012.png": "1ecb40285fe5788f666b80d575c4f3efa537247990d7abc4894baf2eb2921be6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_013.png": "bbfea2d2beb38c4f6c517565a0c42cad6b4130fa320ecaa505d1973ffc0a25c6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_014.png": "e685f7a593e5b3c8f2914790612a9fb18d84c78d236bc2b37ea72ba05d18f360",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_015.png": "ce26b4e0bc118cf0823b574a5ac1fde068f82d0d8efd777ecd198fad723d1b6b",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_016.png": "48b4e203a43562ca5b36a681fc50c8aa360cb777a2a14a4c106acd079a5d7af6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_017.png": "ef2f3413986960f568db4eb6d2f6827cc39296b9d0254bd0293a3b4692a0c7c6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_018.png": "9133ef8010f75418541d28a53123f256702ed3166122b4fe57eec90789dc491c",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_019.png": "6f6be68e6271501d6f8640e0167244af47b2cf743a5c46a10dfd5928a96a48f1",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_020.png": "d3ba45829e31e11f37b26234c85736c5aa5a520d2dd934ed842d8a6a4d52429b",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_021.png": "471ca4edc1897149581c3585d3a52df12dccedbceb20a0c61a5d571cc1a4271d",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_022.png": "dc008ef63eecdf7043493a16cff1350cf311d82848117a851105bb443e884186",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_023.png": "61d5a78ed531988eb01bd4a796e6d2e4013d6299ea15440b779034abe1ffcff6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_024.png": "4e5f593a88c28c63b5da53fc224fb12dc3a67201c90841c43545da8a030c0377",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_025.png": "32c3c35727b67329de3de3e924f693eb5650b8388f5cc598b5fa989ca5f13579",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_026.png": "48b4e203a43562ca5b36a681fc50c8aa360cb777a2a14a4c106acd079a5d7af6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_027.png": "ef2f3413986960f568db4eb6d2f6827cc39296b9d0254bd0293a3b4692a0c7c6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_028.png": "9133ef8010f75418541d28a53123f256702ed3166122b4fe57eec90789dc491c",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_029.png": "6f6be68e6271501d6f8640e0167244af47b2cf743a5c46a10dfd5928a96a48f1",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_030.png": "d3ba45829e31e11f37b26234c85736c5aa5a520d2dd934ed842d8a6a4d52429b",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_031.png": "471ca4edc1897149581c3585d3a52df12dccedbceb20a0c61a5d571cc1a4271d",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_032.png": "dc008ef63eecdf7043493a16cff1350cf311d82848117a851105bb443e884186",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_033.png": "61d5a78ed531988eb01bd4a796e6d2e4013d6299ea15440b779034abe1ffcff6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_034.png": "4e5f593a88c28c63b5da53fc224fb12dc3a67201c90841c43545da8a030c0377",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_035.png": "32c3c35727b67329de3de3e924f693eb5650b8388f5cc598b5fa989ca5f13579",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_036.png": "04922adb71befb3ecce3e5e05e5940870b999909aba426fe10196b1934dc2ac7",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_037.png": "24f9100088e110ac516cc679dc313f145970cdeacbaf3fa147f78036efce57c0",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_038.png": "6f1b881cb0a0135c4cee49a35035d07cad7baae844f2e36d6a1f61aeb8609017",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_039.png": "9744f2f9d6bd5ae4f6f7fda5b4f2baff5497baa2c9546e8ac3ce7553309efe0c",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_040.png": "a9c59e488bddf6a7a60ea1f0233a80ebb5fd8827666493bd200ccf83c096769e",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_041.png": "8144f74f906b3008dcc0ffd22ca077bc7d1826f0bd4419f3f943e8432b562271",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_042.png": "f004cc2d794bf334dba09e6c906afab7793a888964c28c9aa7c078e8f4e89a31",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_043.png": "56124d858463ee092d121cd25979e58930362b9f2e88ca9494c4e20a7800fc05",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_044.png": "7c86f157d3daa0980c30687c842efc39e271cc1d65c49df844fd4f4fc45100d4",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_045.png": "2b361a8a180ea0f80b98d5af2704c69c064ad2d2c6898a4e2b5562bd7b7d8bc9",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_046.png": "f31ffd0135f155f8f654ce1f8ccc78ae48dab1a5622cf505ec5a7c4afe560dfc",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_047.png": "00edcb8545fcc5af0fb6af4903eb9832a10200d61d2a4fda951c71877485e019",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_048.png": "606a957f5180bba42cfc6ab36f67da882e7dc0cf601b3c38f6851dadbcbb142d",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_049.png": "bce4f946bd3ec230b5ea27a52c15ede65ea5938f795a676a826de82f47c728e2",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_050.png": "8e4f942cefde2236ef64d05214df712dcd2e78f33a718b096a86667eaccfc00d",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_051.png": "edce750a1b85f7bbf284259eaf5b663308936ef9fafa2388aeef02dfb03bc21e",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_052.png": "bb51c71760a0168f255f1de11a0097c916ee10e076080a77cb0d50b7b878bdb4",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_053.png": "937b4b662e6528c973b4faaaab5b4128cfc5a61f7b031aeda4f0ca87d2843ac6",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_054.png": "b8d76c33ce27a57734099c8451d05bb4a5e00f4238803e07358f1a5f176afd89",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_055.png": "263e68f1c82be0347b9eb5992336e96bd27f87f117afb49eba57c59aee1f1c11",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_056.png": "07b12bd6ccb533bc323a53fda8792f59f16d874ea7f9bff458655ad4b00c746b",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_057.png": "118f2f0ba5176818f66d57ee18c73157322d31202aff86aeb26bb362de441c54",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_058.png": "855b9cac4fd3e80c5b2495af7786caf862b869a1c09fc0b907e113f0cbd4c6d0",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_059.png": "ea61ea0075433b77fb8aae77ecd357395501315f4624b2943b4a29ec8b6ba0ba",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_060.png": "423998b216eb6c84d56287e7706deb6a6b649564bec5acae06fe640d245570b5",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_061.png": "1dbe74c1a91a1c47f3304e39307c3f0c2ae6e28b97bc2c87e57afa96752de4c5",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_062.png": "6336ac9b05ae6789fcf24113a8b75c41b474c61e17fad8ecba6b8debc943cac5",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_063.png": "3a7158cb65d7c9582fec86d75c886ee26a084c65ef777651a68ec78e6d677d24",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_064.png": "36cbc2850228fccf80493596498d130b2cbbb0ebf4b559938e793196e807ab32",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_065.png": "2ae61ac3e967c35cc93f551b3a9811dbb3d8fb81e6c40354eaff1ff17d78dabe",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_066.png": "45a197fac2a704a6be40c00445364d7422671810be24b2a0124b4852f7f09faa",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_067.png": "d8fa9dcac688f4a5644079b2378649ddbbe0b6c941a8bb559e7d5a10505c29f3",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_068.png": "d5be1d771e3ae31873a9adecec418441d16cf528f9c82e92261110c253755b50",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_069.png": "48758d6ca02f56607c84b6cf4ae3d4afcc1a8eded911263b9196cc727f1d7257",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_070.png": "5a30442d84e09e42b16583aabfcb73eacf9af6e005dfdb8e9a56c0d273ee954e",
+    "Asset/Character/detail_oct29_candidates/ethan/frame_071.png": "36b03b95f347fa809999d68c69e08ad1b26690677469976d6e5827d056cf76be"
+  },
+  "art_source": "existing",
+  "frame_count": 72,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 16,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 16,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 17,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 17,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 660
+    }
+  ],
+  "frame_size": [
+    780,
+    780
+  ],
+  "target_height_px": 70,
+  "reference_frame": 0,
+  "reference_height_px": 500,
+  "reference_alpha_bounds": [
+    245,
+    152,
+    636,
+    652
+  ],
+  "anchor_px": [
+    440.5,
+    652
+  ],
+  "display_scale": 0.14,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

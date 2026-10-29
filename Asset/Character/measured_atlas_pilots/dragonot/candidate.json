@@ -1,0 +1,574 @@
+{
+  "id": "dragonot",
+  "source": "Asset/Character/vfx/dragonot.gif",
+  "source_sha256": "92ba426c824eadfc954699aa923f2f9504eb73df849c56dc44567d54f0acdf5f",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_000.png": "24b5a95d220729f70a073658c1608b3c857abe0e1968e6945f35f8763db7f53b",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_001.png": "d93fbcb3e590d57985e259bd7400792ee949fae99513d12a3b8fccdce4b487f6",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_002.png": "7dd8df01f541538753535d3c22d1577ee749e2a2e31b924b919fa3f9212199b9",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_003.png": "c30ff914c55ac69986ddf17e0ba129d12f9b15ec1fdf3ba4bb95f90a37cb8305",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_004.png": "0ee1faf6365ade699bd9c4dd1a68998d3e32595afe43884ba6770966223fd595",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_005.png": "9c6e8fabcf7cdf7a538f7237ddf81c39dbcd77de2384787f59080f82bc292914",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_006.png": "a1ef965b28e91c99c1b8c27776a1ac73a546d45ae2d0dbbcd29d779e6bb2a5c1",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_007.png": "1842d298d0f3cafd3b20e2999c2017ff3782830222c30ee27c13858cd2ab10a8",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_008.png": "b2ba9348ca5281ed6894fd6fc0d2fd4f8cc0e54c867810dc6b816a78d2308190",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_009.png": "e726ced2aae7909985185f32b9f94d3136917d86913d3688d584461072e55e60",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_010.png": "6ec985d247569616d21b2ece17d029a9b2cf03a32628c86308ebb60ea5d38e72",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_011.png": "3cbb4d22d4b7ab2b7585d32918b6eb4ee11b9b6059da48e0ff528cf0bc27dd49",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_012.png": "cf17db1d5979aae75e6d5ba2b6c60c742814bd6594b298aae8b5b054340f588e",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_013.png": "c7224d4e6305b0ee7e870e5959fab5c4fa4fb54d560294c474db515432795eab",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_014.png": "24b5a95d220729f70a073658c1608b3c857abe0e1968e6945f35f8763db7f53b",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_015.png": "d93fbcb3e590d57985e259bd7400792ee949fae99513d12a3b8fccdce4b487f6",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_016.png": "7dd8df01f541538753535d3c22d1577ee749e2a2e31b924b919fa3f9212199b9",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_017.png": "c30ff914c55ac69986ddf17e0ba129d12f9b15ec1fdf3ba4bb95f90a37cb8305",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_018.png": "0ee1faf6365ade699bd9c4dd1a68998d3e32595afe43884ba6770966223fd595",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_019.png": "9c6e8fabcf7cdf7a538f7237ddf81c39dbcd77de2384787f59080f82bc292914",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_020.png": "a1ef965b28e91c99c1b8c27776a1ac73a546d45ae2d0dbbcd29d779e6bb2a5c1",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_021.png": "1842d298d0f3cafd3b20e2999c2017ff3782830222c30ee27c13858cd2ab10a8",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_022.png": "b2ba9348ca5281ed6894fd6fc0d2fd4f8cc0e54c867810dc6b816a78d2308190",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_023.png": "e726ced2aae7909985185f32b9f94d3136917d86913d3688d584461072e55e60",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_024.png": "6ec985d247569616d21b2ece17d029a9b2cf03a32628c86308ebb60ea5d38e72",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_025.png": "3cbb4d22d4b7ab2b7585d32918b6eb4ee11b9b6059da48e0ff528cf0bc27dd49",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_026.png": "cf17db1d5979aae75e6d5ba2b6c60c742814bd6594b298aae8b5b054340f588e",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_027.png": "c7224d4e6305b0ee7e870e5959fab5c4fa4fb54d560294c474db515432795eab",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_028.png": "1ae959df4f323e021078b86f60581e3bba9d99ec7f6a6321b633cc7d00eea046",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_029.png": "c349f50a7bb98429f9fc281360ea457a5cf59abdae35436b415404bcf3d31335",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_030.png": "bf7b2bb270b122d38247d4e249bdf77d8a7690b7e2d237992b406ef9a4c58bdd",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_031.png": "37399304875e42247c8e9aa0336133385d6ce2b3337048665e3b4e5b7e4c91de",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_032.png": "da95dee124b3be5b732e38bc87c5331ea2abb7e2652cfb832d467b6fddcd01ad",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_033.png": "0ce1b0be75bc27f14e382179b14b0bf5312d203000f9293b557b6bf75a4f56ea",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_034.png": "75c29f7f512b430c5649b55d3d62b02de0b8b1d150eef4885f47e8333b79d0e9",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_035.png": "1fd590293402983c038ce099a03846cb92a3a6c0b14fcd6e482bd69b9c6c65ed",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_036.png": "bf40b0ececb5dd9b772c2cb979b1fb58fd34ec497c78953e3463cf081a759245",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_037.png": "d1bc8b116e83e2a04da11a1244d6cc0a8197c6240133a642b6e5e7d169a8304a",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_038.png": "ed0c679e80c7bf776889900d8bfff263698c8475db9f5182c1c3b7ab3a62bc26",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_039.png": "9429b2c4b79a15017f344ee07d259d56af03b98681844c7a0a7864a6b57ea12c",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_040.png": "dd414879510ebfa6ec8f6b53327d5155017a42356f6186e1600012b6d3b3c795",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_041.png": "6150b3de8a5308ad32cc5e97dac9597bc5fd93b27ee50ac89328b0c7e7de846f",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_042.png": "e22ed6df8467c99b5f5775a82c039e1e7b9c0405210a412b378f1ccb485673db",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_043.png": "ece89ad6d564a1630c60d0797c2f26ac015ac2b636d479af21224f0deb5629d7",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_044.png": "67487376bfd2547ffba491796f3d6de6ddea871d354ca9d80fc7c2604acb02df",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_045.png": "666839254c210293bd6f7c248657e5130fe823c357e3925d88b8119622641c97",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_046.png": "56d5bee4f0eb3c388abe890372a0fbec3754028c27386a7887fb3deac08a65b0",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_047.png": "636dabedbe4a8436552a6817ff33dd4b6f9f4170b9a38ddaf49c642dd7d03e9c",
+    "Asset/Character/detail_oct29_candidates/dragonot/frame_048.png": "d5ea9687d0e17b492895fa206fcd78dc1d92bda49d0bafe23301aa4b1d6fbd54"
+  },
+  "art_source": "existing",
+  "frame_count": 49,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        499,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        998,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1497,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        499,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        998,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1497,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        499,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        998,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1497,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        499,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        998,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1497,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        499,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        998,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1497,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        499,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        998,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1497,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        499,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        998,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1497,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        499,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        998,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1497,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        499,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        998,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1497,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        499,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        998,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1497,
+        499,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        499,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        998,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1497,
+        998,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        499,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        998,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1497,
+        1497,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        499,
+        499
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    499,
+    499
+  ],
+  "target_height_px": 100,
+  "reference_frame": 0,
+  "reference_height_px": 300,
+  "reference_alpha_bounds": [
+    66,
+    141,
+    346,
+    441
+  ],
+  "anchor_px": [
+    206.0,
+    441
+  ],
+  "display_scale": 0.3333333333333333,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round3"
+}

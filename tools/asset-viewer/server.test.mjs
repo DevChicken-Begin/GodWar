@@ -17,7 +17,7 @@ await test('local viewer serves source data, candidates, and handles missing rou
   const data = await catalog.json(); assert.ok(data.assets.length > 0);
   const visible = await (await fetch(`${origin}/api/assets`)).json();
   const visibleIds = new Set(visible.assets.map(item => item.id));
-  for (const id of ['athen', 'scot', 'slowdame', 'kong', 'trike', 'wavyin', '3 char', 'skylian', 'wothem', 'snicore', 'lois', 'maono']) {
+  for (const id of ['athen', 'scot', 'slowdame', 'kong', 'trike', 'wavyin', '3 char', 'skylian', 'wothem', 'snicore', 'lois', 'maono', 'knigblack', 'monsterdead', 'newwomen', 'firer', 'kapicon']) {
     assert.ok(!visibleIds.has(id));
     assert.equal(data.assets.some(item => item.id === id), id === '3 char');
   }
@@ -62,7 +62,7 @@ await test('local viewer serves source data, candidates, and handles missing rou
   for (const id of ['agon', 'airpot', 'amore', 'aoda']) assert.ok(fine.includes(id));
   const motion = await (await fetch(`${origin}/api/motion-v2-candidates`)).json();
   assert.ok(motion.includes('blacktiger'));
-  assert.ok(motion.includes('firer'));
+  assert.ok(!motion.includes('firer'));
   const repairedV5 = await (await fetch(`${origin}/api/repaired-v5-candidates`)).json();
   assert.ok(repairedV5.includes('conden'));
   const repairedV2 = await (await fetch(`${origin}/api/repaired-v2-candidates`)).json();
@@ -85,10 +85,16 @@ await test('local viewer serves source data, candidates, and handles missing rou
   const native = await (await fetch(`${origin}/api/native-candidates`)).json();
   for (const id of ['reptalian', 'dracian', 'vargost', 'xinchan', 'raptilian']) { assert.ok(visibleIds.has(id)); assert.ok(native.includes(id)); }
   for (const id of ['changlie', 'choptian', 'costmic', 'ractalo', 'kungchang', 'rep']) { assert.ok(visibleIds.has(id)); assert.ok(native.includes(id)); }
-  for (const id of ['biden', 'airpot', 'black', 'knigblack', 'pigpor', 'jaik']) { assert.ok(visibleIds.has(id)); assert.ok(native.includes(id)); }
+  for (const id of ['biden', 'airpot', 'black', 'pigpor', 'jaik']) { assert.ok(visibleIds.has(id)); assert.ok(native.includes(id)); }
+  const detailOct29 = await (await fetch(`${origin}/api/detail-oct29-candidates`)).json();
+  for (const id of ['dragonot', 'momo', 'nox', 'warrioram']) assert.ok(detailOct29.includes(id));
+  assert.equal((await fetch(`${origin}/Asset/Character/detail_oct29_candidates/nox/frame_000.png`, { method: 'HEAD' })).status, 200);
+  const pilot = await fetch(`${origin}/Asset/Character/forge_pilots/dragonot_reference_v1/godot_export/godot/preview.json`);
+  assert.equal(pilot.status, 200);
+  assert.equal((await pilot.json()).frames.length, 49);
   const logos = await (await fetch(`${origin}/api/logo-candidates`)).json();
   for (const id of ['airpot', 'wavinges']) assert.ok(logos.includes(id));
-  assert.ok((await (await fetch(`${origin}/api/scene-protected-candidates`)).json()).includes('knigblack'));
+  assert.ok(!(await (await fetch(`${origin}/api/scene-protected-candidates`)).json()).includes('knigblack'));
   assert.equal((await fetch(`${origin}/Asset/Character/extracted/extra-preview-catalog.json`)).status, 404);
   assert.ok(visibleIds.has('changlie'));
   const local = await (await fetch(`${origin}/api/oct28-fix-candidates`)).json();

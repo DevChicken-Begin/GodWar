@@ -1,0 +1,581 @@
+{
+  "id": "dragonight",
+  "source": "Asset/Character/vfx/dragonight.gif",
+  "source_sha256": "aad09044d2aa7cfea84de39c8477db200fef9b525de804d7fcb9056fcb9bd2a5",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_000.png": "dfc30146bfbb4e6b8bd3936455b156dfdfa69ba747da6c280da209da1d15b52c",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_001.png": "cd1b5f855ef299c1905792e63e125463a674bd2c22c91a635a2bfee0e865252b",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_002.png": "7cca51ca57c7e62793e0cab41cbeb7d251c11fef134c8f09e9cb59709e3c2404",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_003.png": "665d7bc878842c0a1b1bebb93a8e0d5be87561a318f56727829bd8b301fa5a91",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_004.png": "100da396a914da19ed9f56756bf16b19c9025159ee4d5b5a2efabc458b28d90d",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_005.png": "c0d3497d74ec1ffbac53912d5f3eee0b5f723a3402eaed702487497df7f9ebc2",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_006.png": "08e8552a8df00a1f19de24df44ebae94e16e7c7f178d18c4f4e4cb694aec6df7",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_007.png": "16f2a1f5370a346fab5a2e147a59c73010af6b8650f6d9ffe7a45e04a1589825",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_008.png": "65f5356607effd496c2f47a762d806e0d100de0ff2e2e9e06f2e0dd92dad09c9",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_009.png": "528f5ba831d84b47217dda291edc9d04884abdf4c2b9df12addea8b3da25ec9a",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_010.png": "df60a51c9328e8a9930bc42fc2f71928a444360a93bc3b6a36e38ab53a6d60b0",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_011.png": "90e725e76ff62f6adcc5511c7dbee6d8d90737f480f09958d3832eab2cb714ab",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_012.png": "fd054e28b14bbe04f8e3c288e4a7ce5e10e75fa137c5e46acb921bb39bf06a2e",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_013.png": "55ae628c2144f5cfb47ba76c7464cb8c041df40d9e333afd1ea159faa0c921ad",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_014.png": "dfc30146bfbb4e6b8bd3936455b156dfdfa69ba747da6c280da209da1d15b52c",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_015.png": "cd1b5f855ef299c1905792e63e125463a674bd2c22c91a635a2bfee0e865252b",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_016.png": "7cca51ca57c7e62793e0cab41cbeb7d251c11fef134c8f09e9cb59709e3c2404",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_017.png": "665d7bc878842c0a1b1bebb93a8e0d5be87561a318f56727829bd8b301fa5a91",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_018.png": "100da396a914da19ed9f56756bf16b19c9025159ee4d5b5a2efabc458b28d90d",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_019.png": "c0d3497d74ec1ffbac53912d5f3eee0b5f723a3402eaed702487497df7f9ebc2",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_020.png": "08e8552a8df00a1f19de24df44ebae94e16e7c7f178d18c4f4e4cb694aec6df7",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_021.png": "16f2a1f5370a346fab5a2e147a59c73010af6b8650f6d9ffe7a45e04a1589825",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_022.png": "65f5356607effd496c2f47a762d806e0d100de0ff2e2e9e06f2e0dd92dad09c9",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_023.png": "528f5ba831d84b47217dda291edc9d04884abdf4c2b9df12addea8b3da25ec9a",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_024.png": "df60a51c9328e8a9930bc42fc2f71928a444360a93bc3b6a36e38ab53a6d60b0",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_025.png": "90e725e76ff62f6adcc5511c7dbee6d8d90737f480f09958d3832eab2cb714ab",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_026.png": "fd054e28b14bbe04f8e3c288e4a7ce5e10e75fa137c5e46acb921bb39bf06a2e",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_027.png": "55ae628c2144f5cfb47ba76c7464cb8c041df40d9e333afd1ea159faa0c921ad",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_028.png": "a2ed19b2f6d272eecbf7fc323795c07f0409601e888ed072c3e0bd066647c1b9",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_029.png": "e23d5a40ee616f2e9b1a2827309d4c02eae664155a35ac60d9bc5e4d702125ef",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_030.png": "00b6c9d9e7cc5222ae6abdaa7a6714dc15ee8cd7046debfe712737fba37caf55",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_031.png": "9718c154b7225c543674b67cc4cac9dc41e49a67aee49efef3ba625ebabd0be4",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_032.png": "2378685cab02d2aec23de217c1e9d2d3f3675eac31ac5652ac55f96f9478b2ac",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_033.png": "379eebf1f33717bebff3c1bc0d5acf241aeac3c50fb029d394c41e6bffb59045",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_034.png": "9325efd4b364295d9bbd6a7d8f43cc79cee1ade6fee92f9094c406b0b7ddddcd",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_035.png": "14eb81717a13b3b91699d417174b07c59923d2352ee8810f96a501629a722850",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_036.png": "71f55e7dac243459a2c26c300add525cc9f57101e025586432690f883cbf7425",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_037.png": "aa9893b258a5879d77bae1b674a4cccc1764762f3ee8efcb5de022fe75b7d1e0",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_038.png": "17ac6190ac7055a96593539df9325aebbad98f2abf879151657a85687cb8f074",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_039.png": "aaebad42271d84dfa17baeddf68de682934426278e50b20ceb8470c9cc373415",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_040.png": "900761fe2bd2b1e38e865749cc7b2e903fd5027991c340103fcc911c74bc7cb2",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_041.png": "b085abbc1175c45e2d7ee3f9e04c3ad9af88bc2ef086b4ec9e3f028851cd94a7",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_042.png": "a0d5b7feda8320311b8954f6ade7a5c89d38c9e9004855b077cd334bd70e6252",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_043.png": "63b349008831a5002ad657bdf1124d96bc55285f40bd4071bb54b9b2e774267d",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_044.png": "df6ffded63e282231615d03b8073ef9afdc89fee22fbb6de3b3725d6a9728268",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_045.png": "5902ca9525566e56bf630c99b1588bf850f4714bc8cd04820a4e21fb09eab082",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_046.png": "beef6f03dc34f49f530563431f0e8bb1cdfb420b67ff73758a0a77558313011b",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_047.png": "5a78f9ff9f25b236a6ddc6e74531e89afae4f7eca0efcf8fef44f5bc01634623",
+    "Asset/Character/detail_oct28_candidates/dragonight/frame_048.png": "a8ac5db063da86448666c0943f3f4cf381727c7eb3acaf41c821422de70e947d"
+  },
+  "art_source": "existing",
+  "frame_count": 49,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        480,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        480,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        480,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        480,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        960,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        480,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        960,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        480,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        960,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        480,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        960,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        480,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        960,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        480,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        960,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        480,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        960,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        480,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        480,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        960,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        960,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        480,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        960,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        1440,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        480,
+        480
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    480,
+    480
+  ],
+  "target_height_px": 100,
+  "reference_frame": 0,
+  "reference_height_px": 261,
+  "reference_alpha_bounds": [
+    100,
+    121,
+    380,
+    423
+  ],
+  "anchor_px": [
+    240.0,
+    423
+  ],
+  "display_scale": 0.3831417624521073,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round3",
+  "reference_body_bounds": [
+    103,
+    159,
+    357,
+    420
+  ],
+  "body_measurement_note": "Frame 0 largest connected foreground component checked visually; attached VFX may remain, and detached details may be excluded."
+}

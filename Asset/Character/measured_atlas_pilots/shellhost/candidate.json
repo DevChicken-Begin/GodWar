@@ -1,0 +1,486 @@
+{
+  "id": "shellhost",
+  "source": "Asset/Character/vfx/shellhost.gif",
+  "source_sha256": "7e05e635e835ba5e17252b77de0ca194079db8eb65231ef232f94c7ffb2ce0d4",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_000.png": "c181338398f1db78ac8345932bb9ae0b2e3e4e56a26fac547109e1b7a09c23b3",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_001.png": "ac9b540e67e4e8e2f415537f87ad9d036a1e296fe2d65340c4649b4ef5719332",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_002.png": "bc5845be07c44c44747dcabe63d2f1a4686ee5566e1e4430e272119c441f92bb",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_003.png": "c5703236b646093de29724dc2f396ac27da1e31869ff0a0a076a5ce3958b69f2",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_004.png": "663f731fca5248100e9278faf44878e61c5f7ce4f70d221201812edfbaf49e89",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_005.png": "4da8bc1c294d0df324575e44e42daca75bbd48d2032078ab167ff934b17e992e",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_006.png": "5ef4d6e77ff581ba578f77f0e21ac2e511ccafe2191bf02b05700b5275059166",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_007.png": "f4e3a0145b38da7556fc4cff3ac1ac6bd39cf8186fdb1f00c59e51d1de186a90",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_008.png": "b4712045c68735dd71ffa812fccfdb51478297da84e9c9d1b7ab88e95ab2c1ab",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_009.png": "3ac402fbdbac432dfbb00c707b7012f453117d6966966ae1d3d040d02695d2d5",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_010.png": "a392b57c50deec9052aa3328f87eccf8ed17ee43d0b18e8add784a313e76faba",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_011.png": "c181338398f1db78ac8345932bb9ae0b2e3e4e56a26fac547109e1b7a09c23b3",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_012.png": "ac9b540e67e4e8e2f415537f87ad9d036a1e296fe2d65340c4649b4ef5719332",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_013.png": "bc5845be07c44c44747dcabe63d2f1a4686ee5566e1e4430e272119c441f92bb",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_014.png": "c5703236b646093de29724dc2f396ac27da1e31869ff0a0a076a5ce3958b69f2",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_015.png": "663f731fca5248100e9278faf44878e61c5f7ce4f70d221201812edfbaf49e89",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_016.png": "4da8bc1c294d0df324575e44e42daca75bbd48d2032078ab167ff934b17e992e",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_017.png": "5ef4d6e77ff581ba578f77f0e21ac2e511ccafe2191bf02b05700b5275059166",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_018.png": "f4e3a0145b38da7556fc4cff3ac1ac6bd39cf8186fdb1f00c59e51d1de186a90",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_019.png": "b4712045c68735dd71ffa812fccfdb51478297da84e9c9d1b7ab88e95ab2c1ab",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_020.png": "3ac402fbdbac432dfbb00c707b7012f453117d6966966ae1d3d040d02695d2d5",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_021.png": "a392b57c50deec9052aa3328f87eccf8ed17ee43d0b18e8add784a313e76faba",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_022.png": "c181338398f1db78ac8345932bb9ae0b2e3e4e56a26fac547109e1b7a09c23b3",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_023.png": "831d6cb1ed46cbd6b4999777b80e8a6dfe53463f641aaa1958bbb0fff0aab3ca",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_024.png": "bb9d07862320fa260fc95de3fb8098c58c796f4577d895d954740bd632002429",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_025.png": "d2da5ada82076f5d138c771d62abd4e13171ec617aad89d97003c0d7bf298e84",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_026.png": "a295265fbad253f851ea2b6696a3792fdfff2a3559fdc9c7ae3c75df19a3a97f",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_027.png": "8604858d8b21ae813731ce78e25a1e531d833c59b229944d554913948a34b5c4",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_028.png": "aad080c7272e1c7dde804de8392f0f7f17e05c57c4ecbda1480f823c3eed0e4f",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_029.png": "d5fac756f280c5486987077ff7f27e27cf9f54d1f4278f697f4c2351bf2bb2ce",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_030.png": "f438d22a57c2cc8459d586e8545ed8dbb75708b60feb42c9d1f09b24b3bddb1d",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_031.png": "b1520a9c073345c246f1fd64c8c43d0c5022fc19d25fb9a20c7c52bed86fbad1",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_032.png": "d899b717676875a469ddd58a1a247acb18d562e824af22151f2d0f8502567139",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_033.png": "c23a7e29b4b30cd6c45b80a5108f9cf52d8bb0c8bdae4d10a75942dff0fc4235",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_034.png": "334275d47b2588b34edd8e5e9f3028e33a2c56a3288cba3ba35900d7bdfacea9",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_035.png": "3ea861cff5b4095111097430666fd3478e331c5a5bb5d7fd45f53dc554f34172",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_036.png": "d34e60e259a611e1c5af1466c990da73ad2bcf9b9b1072ad5d092f43b1b4ff67",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_037.png": "ae07c6b54c8c6a4d0f9af7146f140d6127a40b7924ea1758af4f8bb6fe9008a1",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_038.png": "18f1fececebeafbe3e6093aac86a6c291055547f7e472ab6eaf7db0e2cb140c4",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_039.png": "2657248399b345d06d3c7b526bc325e093a0a184f0944719da1330b9d504f1de",
+    "Asset/Character/detail_oct29_candidates/shellhost/frame_040.png": "c181338398f1db78ac8345932bb9ae0b2e3e4e56a26fac547109e1b7a09c23b3"
+  },
+  "art_source": "existing",
+  "frame_count": 41,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    811,
+    811
+  ],
+  "target_height_px": 90,
+  "reference_frame": 0,
+  "reference_height_px": 298,
+  "reference_alpha_bounds": [
+    214,
+    393,
+    589,
+    691
+  ],
+  "anchor_px": [
+    401.5,
+    691
+  ],
+  "display_scale": 0.30201342281879195,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

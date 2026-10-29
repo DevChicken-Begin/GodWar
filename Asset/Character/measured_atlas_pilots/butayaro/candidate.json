@@ -1,0 +1,508 @@
+{
+  "id": "butayaro",
+  "source": "Asset/Character/vfx/butayaro.gif",
+  "source_sha256": "82666cd6265e434456ec1b048bf9ffa608621d99851f9f6593af2ab49cf31f6d",
+  "input_candidate": "batch12_detail_candidates",
+  "input_sha256": {
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_000.png": "c7b94aa409b57c9f33c3376d0e25eaa2ebadb5ca5a08006cb8aec87e51f181ea",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_001.png": "29dd7a8938f59720609590a52319990f053064a520c8ef4d22672538d2c883a5",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_002.png": "d92b0e6e2f29243496eca22df4edb75afd6e7c2d1992a0691138b04870b6e631",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_003.png": "5ce456dca8c99d7ebadbd9c44420ca36fef926abd82ea1f3bb1089103eccf2f3",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_004.png": "2c0b01acb766617c1dd6e9531ca07d818dd282228b6a6f6a8eae2a3458b85bfa",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_005.png": "c9fb123c9591d63aa5ddaafee2486f88e8e906c675ecdd08a02f0d57b77adcfa",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_006.png": "24124c23b13325c1f99a3c63f4813793863fe96fa677fa740f2ee8c85be072b6",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_007.png": "c76e0e7a31679c274fda3bfb07491bf2b04b4fa5c4d6bc56d6c4e8e1d6fa28af",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_008.png": "4720f3e661eb52e5a7dde4446e699501eb2d625fb2fbaca5db9026923610aba3",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_009.png": "a773c10301e171f13c7c3b64f08dcc8d016d049783e066badc1a55b8b9342fff",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_010.png": "085742b13f338b26457b1e687624bbf4001e41550a47a1fd0bc4368da24134bf",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_011.png": "c626cbc02a2b8eabb397a722612476c6339564b3bb4b59a68d9caa6f56ded850",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_012.png": "7c1bb619700421eae971b246f49387cbc288e6601eddaa8a4e86190cc9511b3e",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_013.png": "bd71767e5b6ed62c0fbc9158abe8e547f0ae843f4d0e8872f81c5debb92ade9a",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_014.png": "c7b94aa409b57c9f33c3376d0e25eaa2ebadb5ca5a08006cb8aec87e51f181ea",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_015.png": "29dd7a8938f59720609590a52319990f053064a520c8ef4d22672538d2c883a5",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_016.png": "d92b0e6e2f29243496eca22df4edb75afd6e7c2d1992a0691138b04870b6e631",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_017.png": "5ce456dca8c99d7ebadbd9c44420ca36fef926abd82ea1f3bb1089103eccf2f3",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_018.png": "2c0b01acb766617c1dd6e9531ca07d818dd282228b6a6f6a8eae2a3458b85bfa",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_019.png": "c9fb123c9591d63aa5ddaafee2486f88e8e906c675ecdd08a02f0d57b77adcfa",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_020.png": "24124c23b13325c1f99a3c63f4813793863fe96fa677fa740f2ee8c85be072b6",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_021.png": "c76e0e7a31679c274fda3bfb07491bf2b04b4fa5c4d6bc56d6c4e8e1d6fa28af",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_022.png": "4720f3e661eb52e5a7dde4446e699501eb2d625fb2fbaca5db9026923610aba3",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_023.png": "a773c10301e171f13c7c3b64f08dcc8d016d049783e066badc1a55b8b9342fff",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_024.png": "085742b13f338b26457b1e687624bbf4001e41550a47a1fd0bc4368da24134bf",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_025.png": "c626cbc02a2b8eabb397a722612476c6339564b3bb4b59a68d9caa6f56ded850",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_026.png": "7c1bb619700421eae971b246f49387cbc288e6601eddaa8a4e86190cc9511b3e",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_027.png": "bd71767e5b6ed62c0fbc9158abe8e547f0ae843f4d0e8872f81c5debb92ade9a",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_028.png": "c7db19b3dc768caf5626b2ca135c0a8cbcc032c43c6f6b7f60f8092312bb3e04",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_029.png": "712298cbf30a8f68c1d8e6c7d82ed41a79cf3fd20620abcbe3c860b3cb099188",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_030.png": "a3fb20509f88acdf8c70e8acf268c627547a5af45a4d90759e0618ca4e89df7c",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_031.png": "321f47bab283bfdf0c56f8063346afa1be1fa7fd20a5823c2091f6fcffc867d5",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_032.png": "f19fb28cdaef545ca72a826804b09ed0f48bc3f2e19cd181736a84f4ada3adec",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_033.png": "802be5701f133eb5e207bcd720a154abb2edd9a994909ca11c7c80bf7fff6640",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_034.png": "4e48798f9df17c00944e762d917544eccce0b13e4580c44c9c0c6c592af1eddc",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_035.png": "3978d1d291b90110f38ef3dc907455b099c9fe4161e6646ec54ea97a1f146838",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_036.png": "8c718cf8ec3820070e63dd5a4b32d4de6c18d5c4724c592668fe49195944dec3",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_037.png": "fc1f2e71460975f033fc53fee1b9af0a40bdd6d4a8fcc4dfc5de5b46d206e52c",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_038.png": "07b0afc53a6ffe31b73e20493b3789d42b91360d327660d90fff1fb707ab4ee7",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_039.png": "071bf4a6f32fb9353f17f98e52df67d79158b484838f2d2b301cea4bc89721d5",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_040.png": "0898d35aa6be81398b278aae3780ce098934e881818ef9e1eaa9689bee61cdfe",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_041.png": "8ab5c0a94e2a1e6709d799802e5fad562985146151e8f8d299a15833b0a29a32",
+    "Asset/Character/batch12_detail_candidates/butayaro/frame_042.png": "88a5f0895fe3195243901ba6bb68534c97af106ed634567232b69cc64e216ed4"
+  },
+  "art_source": "existing",
+  "frame_count": 43,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        864,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        864,
+        0,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        864,
+        864,
+        864
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    864,
+    864
+  ],
+  "target_height_px": 90,
+  "reference_frame": 0,
+  "reference_height_px": 438,
+  "reference_alpha_bounds": [
+    84,
+    321,
+    694,
+    759
+  ],
+  "anchor_px": [
+    389.0,
+    759
+  ],
+  "display_scale": 0.2054794520547945,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

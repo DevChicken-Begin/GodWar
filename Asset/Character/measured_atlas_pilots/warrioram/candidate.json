@@ -1,0 +1,1362 @@
+{
+  "id": "warrioram",
+  "source": "Asset/Character/vfx/warrioram.gif",
+  "source_sha256": "f8447dfdeea1bf1ae17ad3dbe1446790abbc55ee071edc39b484f9e71191be97",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_000.png": "eb11818429e1c2301afb9b103862e46cb2b2f336fa8b371484531f52b6aad3ca",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_001.png": "01d6ba45dfb880c7ca3c08c35c6a6ad8bd20380f8d8d126a6d8822b0901bf533",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_002.png": "1a2430bd02b18f549c20fde968bb3063e0aa04395e5f6804c7dcc01df1966bf8",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_003.png": "5ae794aefe19225b06cefaa507fa527b7ba14966c5446978d5ed6db1b6b4f6da",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_004.png": "f407c2ab0d35e3a0a6082deaa71ab54f759ad956d8f5ebc942372bd1b6ba96ac",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_005.png": "903952f4247da67ace311cbf523f851fa3e158b3170192ab20327d2ee47adc70",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_006.png": "0c24f1e3651767647081eee182ffce0247090c3d901799e46bb2f0e3f4a33828",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_007.png": "c08de8f91c2be59733779397e7fef214715d74299907dc0ae70d907c937cb6d8",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_008.png": "a1f6447d4709301a418d4bdf717f8febcf9284bc39bc36d4f7560b7da29d2f19",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_009.png": "7a7841556b355bab5155cddc15c499b1fb6e2856e5686db62770aed7038d5e82",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_010.png": "eb11818429e1c2301afb9b103862e46cb2b2f336fa8b371484531f52b6aad3ca",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_011.png": "01d6ba45dfb880c7ca3c08c35c6a6ad8bd20380f8d8d126a6d8822b0901bf533",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_012.png": "1a2430bd02b18f549c20fde968bb3063e0aa04395e5f6804c7dcc01df1966bf8",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_013.png": "5ae794aefe19225b06cefaa507fa527b7ba14966c5446978d5ed6db1b6b4f6da",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_014.png": "f407c2ab0d35e3a0a6082deaa71ab54f759ad956d8f5ebc942372bd1b6ba96ac",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_015.png": "903952f4247da67ace311cbf523f851fa3e158b3170192ab20327d2ee47adc70",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_016.png": "0c24f1e3651767647081eee182ffce0247090c3d901799e46bb2f0e3f4a33828",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_017.png": "c08de8f91c2be59733779397e7fef214715d74299907dc0ae70d907c937cb6d8",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_018.png": "a1f6447d4709301a418d4bdf717f8febcf9284bc39bc36d4f7560b7da29d2f19",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_019.png": "7a7841556b355bab5155cddc15c499b1fb6e2856e5686db62770aed7038d5e82",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_020.png": "e06c17ebc197534ff288856ecd3a4bc3c501810dd6abdfe3ec0fb5af36e81f37",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_021.png": "42214da96771a7a0983cc85f96dda2d04fb6e986c0bc829fac6ff927bf922ee6",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_022.png": "595997e36f484be8bd89ae479d0fbaf9a50265f737dbc01eef7afd72ba6e70d5",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_023.png": "6088b8b3b863d06b3de714d5e7f94099e502bf1a5c25e1f0d96fcdc78b7feaa4",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_024.png": "2f08808ac8f301e6d4770217222568db697fe9ef5e87f5109aa88a7a25ab7467",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_025.png": "981220289c6fe6ed181854c76277f8f0474093ccde5d2287f57a7305fea7f113",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_026.png": "c6fa27f52607c60be7d51b4317639663f191d77683fd8558d858653c47480dd0",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_027.png": "1f934c0c4a53f73fed75ca4c42e201af44484c0a2dd0fa097c5ea933384d9bcd",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_028.png": "e69ae46d2113d75c3ee99ab7b0704123efb1ff829a73936afa1101a833e15f07",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_029.png": "69202558e09e8dea3a172931a3c0d4a73dc8ffc7d78eafdcb026281d86802885",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_030.png": "b6ac5dda417ec756d2dba95446a9646c827dbba96aacf04d65abb2b8e3f55381",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_031.png": "22112837a4c479e6bd0ea0f7e9ff67b27da5be3eb4ce3e30d48899ab529e68f4",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_032.png": "86606587418d1322ab27c043be9bb2256d38fb7c6b07d399afba37a997ed0527",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_033.png": "0f800c291dabe57fbcea7315a2d63aa7a60bbf935a0caab3d563566a9fc7ec45",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_034.png": "4767a18eefe58385896d4412d42e01269d7061ac9d0abfdf2103c8a2aba9f76f",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_035.png": "1f934c0c4a53f73fed75ca4c42e201af44484c0a2dd0fa097c5ea933384d9bcd",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_036.png": "e69ae46d2113d75c3ee99ab7b0704123efb1ff829a73936afa1101a833e15f07",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_037.png": "69202558e09e8dea3a172931a3c0d4a73dc8ffc7d78eafdcb026281d86802885",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_038.png": "b6ac5dda417ec756d2dba95446a9646c827dbba96aacf04d65abb2b8e3f55381",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_039.png": "22112837a4c479e6bd0ea0f7e9ff67b27da5be3eb4ce3e30d48899ab529e68f4",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_040.png": "86606587418d1322ab27c043be9bb2256d38fb7c6b07d399afba37a997ed0527",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_041.png": "0f800c291dabe57fbcea7315a2d63aa7a60bbf935a0caab3d563566a9fc7ec45",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_042.png": "4767a18eefe58385896d4412d42e01269d7061ac9d0abfdf2103c8a2aba9f76f",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_043.png": "afb9d55dd864065ead3298753a426b29f8009c82e08fffe4855c48461e69b971",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_044.png": "e77c310c1632a5b5c00ace7c14f88403bcd30637d98e336ff281eae0df546e4b",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_045.png": "82410ee73a1e9c45985bd72dbaa6c6d82a3bdd812a82a35362e721c63b79403d",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_046.png": "edf05f6ce65d719c8ec3f611ce9bd116b9d02b7fd9314be70487150cd3d82bd1",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_047.png": "cce0e718cf8a7b55142f19e0c5f5e20c5a794e7ff355a65474d7aec43d6023f1",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_048.png": "4037c64c060199938e66e8766f27134c70e925d901d17abb30c7d6cf87107945",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_049.png": "daa83df49d21b840d133e2aef2f27e7179ae38201065f002e50f06f9b60ca499",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_050.png": "8f5ec146d2d49cbf03bc6989fd93cc0a2a84e37fe563d48044ca3e8e8f9dcb5d",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_051.png": "a29bf7b595746453565f5a3dcef9373c1ef8499221e5d17c6a6aa035e0babe45",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_052.png": "85192ff6f2959c478997eb160ed60ed453476a1a8db2e125cb587cbd49475c7d",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_053.png": "32be91d27b2cb5232325cb109d2e32af8a45c50ff212fb317b8422e0828c7aaf",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_054.png": "b159a24f6c981847b8138ece343d63bd3a5b6af7cde135aa65dad69614d619b4",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_055.png": "14a148f4ce026f7259f4fdf334e51bd2ba27621a892b4ccc4d23b68c546820b9",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_056.png": "cb38f3881cf38b5f63038f3b213fe1679af8db1f660cb7279467b13d8ba519ff",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_057.png": "678280c009b6d11dc429f31b0dd8356054a206e16dfde33ed734299ad3c60dc1",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_058.png": "638a0a623e918b87ebc94d5437bbd9d0fea3a5a8e2d5402880c6050e0f5622dd",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_059.png": "05af634e48437a620c8edaf8b21da6b9d1a400f14dbb49ac74fe64006f89e60d",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_060.png": "953eb560e05090b6dbc32e9d3a8cf76bafd39e35765e06512c1a9c2bc7e52b95",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_061.png": "a009d65634daa68b72dcbc5cf22e67e6206ec6d012d4bb2525fc25e35a975903",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_062.png": "28f0c583b79318bc00f56d605ffe888f9f168956f147a9f47104e9086131a96e",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_063.png": "64d48ef05cf29315ca9dc974858cdb79e58e16ecc62d9ab159efa8d73f354b11",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_064.png": "f023adc8d6eb7e3842fc5fd38c5939ef7b151f4b2ebfd22aeca656c0175d45c1",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_065.png": "f38a46f30771fc0fce0a370b48c343161978688e8263cd0eab183ea624885e2f",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_066.png": "df9c539a867c241048dc95bde6cae530bac35af5ac4b398d6aa970aabe005cfa",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_067.png": "661071309b83fafe024a4d6b5c9ab93caa7192a202147b2681ba3071f4b0d6bb",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_068.png": "c159b98f69db9bcce05cc7dba756676f2db98fdef57a9679811985d8f200739e",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_069.png": "d9a93af03fc08b403b0149e38f5813d907498cf228a84a50ec5dadc1ca08e5ce",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_070.png": "25c67fd5d84e943c0667811f93a766cb3d0ae95c7d49fc85debf06b8109eef96",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_071.png": "3f2dba4d2803ae45632c03d3e4f901a7607497f1f9258f6a9ef9728998a14771",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_072.png": "347d67e2a4e94e2424ec93a621c568f1dccce210c664d65f656270a100870efc",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_073.png": "298286e79647b3359ab5d7549f53359c4cf4f8e52b3639a4ff99c535de25e858",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_074.png": "366a6234dbb8001a7f435cee4d89871f5df0cb6c1d49c9ce2155bb74d9b02c81",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_075.png": "c178ad86fdc2005c3b06b5e72ae4949c4620fbb2630c2d563c42feebd58a8584",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_076.png": "8bcf4b7ab7e76ecbe86d048ee5ade80ba54e15f2d8dd0503f099b7f43d8f868e",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_077.png": "487630750b68f2ade9e876c6bfa9bf2d76cf9d87325e97bbfa919ef9ee6e2b5e",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_078.png": "ab2dc180c0e8e3b543b7dd4df3f837d3207763d66f235452d6dbb4927a690813",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_079.png": "9f327fbd7dfa7c9b14c2a21851d82394fb6bceb26834d9b460f60c84374b22c5",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_080.png": "7f6ea1dee55b7a03eb6a9530d6a1d686f7872d6ec4014c8b16d975064d5f9fdf",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_081.png": "a17a8571d693507301abaee020b0a94eb4c1e726c75af6b7dc87dbd008f31bd2",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_082.png": "0785023ae6be0757828900c4b0f57b424514e8fb79c81ae33532345c7df3e870",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_083.png": "529924ee01b0577ab5c6db0dc534246c984385f0af5e6230ceb7a73c8bb3a0c6",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_084.png": "0de72f20479e76abc3b1f3564330c9058d1d48a5d8c7f476fda6ae274249c0ee",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_085.png": "ef7e00cc6635d0ceb0f5a40c2de5e27e580f939ba891d4a50ea04fa1f8045678",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_086.png": "6967207a912fb7c244a96df31e5fd7713acc6e250cdeb85ecfa453d707b79fd5",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_087.png": "b321953000210d2018c21b67756cd5d9d514ef3ac9d967104e84f7af06564cf0",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_088.png": "0a76fc2add9587b183a769f44ceaef984b6183adf1e53a2a88cb40f16ed20055",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_089.png": "d829047a3ffad73a5a7ba31d60d69e0a66667b1755781067c0c950f8cad8dc09",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_090.png": "a4acea01bb919c784e3c439df8ed1a9abf0d3136d288a7ab16482348ae1012f1",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_091.png": "a17a8571d693507301abaee020b0a94eb4c1e726c75af6b7dc87dbd008f31bd2",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_092.png": "0785023ae6be0757828900c4b0f57b424514e8fb79c81ae33532345c7df3e870",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_093.png": "529924ee01b0577ab5c6db0dc534246c984385f0af5e6230ceb7a73c8bb3a0c6",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_094.png": "0de72f20479e76abc3b1f3564330c9058d1d48a5d8c7f476fda6ae274249c0ee",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_095.png": "ef7e00cc6635d0ceb0f5a40c2de5e27e580f939ba891d4a50ea04fa1f8045678",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_096.png": "6967207a912fb7c244a96df31e5fd7713acc6e250cdeb85ecfa453d707b79fd5",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_097.png": "b321953000210d2018c21b67756cd5d9d514ef3ac9d967104e84f7af06564cf0",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_098.png": "0a76fc2add9587b183a769f44ceaef984b6183adf1e53a2a88cb40f16ed20055",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_099.png": "d829047a3ffad73a5a7ba31d60d69e0a66667b1755781067c0c950f8cad8dc09",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_100.png": "a4acea01bb919c784e3c439df8ed1a9abf0d3136d288a7ab16482348ae1012f1",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_101.png": "f9e2c03a9d178a0b130df060e70c5f2758aafe0da7338832a3024c489800202c",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_102.png": "584263754280400047715b4b33088cbc1e7cfd86f9393618be4775fcded27b74",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_103.png": "ebd361dd723395fb43742a90884c1f98c94cced3364e81563ce734bad26735e9",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_104.png": "8ef964ad2ff505800c1c34b9976d5df011609f63db56fd0c7d61f2cd61c658de",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_105.png": "5fa5810fd93df693329c4e86a12ed990bc3df0a917612a7f690c867dfb1ebebb",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_106.png": "a369d58ed73aadd889d90f97087d0badf046a0353b72a7bdbfb64b91308fecf1",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_107.png": "78d71ff60a78b8ebfca2f621f6923c780657133704289b7d74e242e47de192a2",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_108.png": "5547b6e4b9eb5bb99e9b87758ce1096fe3fa2c1d3622ea51e2ec707be12b03a9",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_109.png": "d5abdd83fd2bea03dcf0ed17d0a210ab5fdf28dec4cb27a6e4eb626be9acad5d",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_110.png": "f183ffa41679fd22d673345e947a9330214b5fcd5bc1bab899cbed5e03b87f6d",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_111.png": "998262efa674752bf0713d41d0f3ba8b63dc489368a02731341041fec6718a93",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_112.png": "b6e36f51bae6930c43aa9cae26ba50a2d2661acfe890c740584e63d027fb0bee",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_113.png": "5e19c2f6482288d65a7a1b3cf224e31117a1960f5cec61c6e43cd906cd867273",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_114.png": "5e19c2f6482288d65a7a1b3cf224e31117a1960f5cec61c6e43cd906cd867273",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_115.png": "5e19c2f6482288d65a7a1b3cf224e31117a1960f5cec61c6e43cd906cd867273",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_116.png": "5e19c2f6482288d65a7a1b3cf224e31117a1960f5cec61c6e43cd906cd867273",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_117.png": "5e19c2f6482288d65a7a1b3cf224e31117a1960f5cec61c6e43cd906cd867273",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_118.png": "5e19c2f6482288d65a7a1b3cf224e31117a1960f5cec61c6e43cd906cd867273",
+    "Asset/Character/detail_oct29_candidates/warrioram/frame_119.png": "5e19c2f6482288d65a7a1b3cf224e31117a1960f5cec61c6e43cd906cd867273"
+  },
+  "art_source": "existing",
+  "frame_count": 120,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        676,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        1352,
+        676,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        676,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        1352,
+        1352,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        676,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        1352,
+        0,
+        676,
+        676
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    676,
+    676
+  ],
+  "target_height_px": 85,
+  "reference_frame": 0,
+  "reference_height_px": 266,
+  "reference_alpha_bounds": [
+    127,
+    288,
+    539,
+    601
+  ],
+  "anchor_px": [
+    333.0,
+    601
+  ],
+  "display_scale": 0.31954887218045114,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2",
+  "reference_body_bounds": [
+    140,
+    332,
+    536,
+    598
+  ],
+  "body_measurement_note": "Frame 0 largest connected foreground component checked visually; attached VFX may remain, and detached details may be excluded."
+}

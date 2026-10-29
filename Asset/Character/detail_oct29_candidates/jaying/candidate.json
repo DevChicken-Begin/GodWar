@@ -1,0 +1,349 @@
+{
+  "id": "jaying",
+  "source": "Asset/Character/vfx/jaying.gif",
+  "source_sha256": "47f04e6f34345d9771fdb843818a16d00458f64d754974514b238d8a79fb951e",
+  "base_candidate": "batch12_detail_candidates",
+  "base_metadata_sha256": "934ff26722fd44edf311166292ac1146c05ab25b29917167eba72275011ff8a8",
+  "base_input_sha256": {
+    "Asset/Character/batch12_detail_candidates/jaying/frame_000.png": "bad2596939cca51b68cad4039dd2b9b49138826641deca93395f9f951985ab30",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_001.png": "b7ba75ab5ac44dcb1bfe11aa636472ff156ac255b9e42ab586312b18287a058b",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_002.png": "42eedf589830b31dab5de01c8abfbac7e2e49b626db6d46943583f71d6b1582f",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_003.png": "6e076e19194393bd478d63399c4a63a0a2f8d749771b83d7747140ca73284349",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_004.png": "be6df1261dfb704089622aa088ed65255d4212673ec3008b5bda915436093bcc",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_005.png": "6b0054dec33cf575c2c698d933f8b4680012225f3e3ff613a36ea4b168c27bc8",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_006.png": "563f793a19d7995cdf976229f542cd85489cf6609157e575247ff4357325603b",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_007.png": "d38208bef625aa4350e15696e72178900f95c6f416e6f41247bb24b9d71e6656",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_008.png": "e596126b4a508049b6202072ea112dc030beac02866d74e493c832f758a7b81a",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_009.png": "3741cfaa1506331201362c735bfd3503c298423bc9eb1f96dd065e342e803b1b",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_010.png": "5b98373b48eb26172743facfaf666bab20584b33c9e4c2df4287a35972e18a93",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_011.png": "3da445e9f10ed01c979eed637103a6eb4af3eb391d7722b714707314acca5807",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_012.png": "886736165d2bccf31a77d362ebfac0b908a027c2806a5662364bccf4b8f190ed",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_013.png": "4c8da323b0fbc07edc14ae0b7835f893b63bee4ea693fe1a7868128aa15a89ac",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_014.png": "0e406fd558fbd4446f2ada33404391f55cd88baddfbf28e8f9a1709e10ccdeb2",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_015.png": "fcb0ac6fada9c07fd093ce050ed12850d5f60e27902a00cace2b70b1388df59c",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_016.png": "942cc6234a89a848d7cfa4fbfd8235c46666c190daab9b84e86b91a63f611490",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_017.png": "fd6050a26f8e52639cc91ff7f3710fa163a8c0aa04189b9a2972f13f19eac554",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_018.png": "6d643ada32fb61bc233962ce46fabbb4ac69c48e26fc0fb1c2652cb570862471",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_019.png": "f0e5f6d6033932c399916a3a482e310d0236a75ac8ae7e8110312732590e5466",
+    "Asset/Character/batch12_detail_candidates/jaying/frame_020.png": "6ebe4f549c411099cc8de42a7d84ccb968df4fb1aaf2936bb77395d9ef81e7d2"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.3,
+  "display_scale": 1.0,
+  "base_display_size": [
+    200,
+    200
+  ],
+  "display_size": [
+    200,
+    200
+  ],
+  "base_frame_size": [
+    240,
+    240
+  ],
+  "frame_size": [
+    312,
+    312
+  ],
+  "frame_count": 21,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        312,
+        312
+      ]
+    }
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos upscale by 30% per axis, then mild RGB unsharp mask (radius 1, 18%, threshold 3); preserve source frame timing. Display size changes only by explicit display_scale.",
+  "limitations": "Interpolation cannot restore missing source detail; sharpening may introduce halos or change effects. Inspect every frame at game size and over light/dark backgrounds."
+}

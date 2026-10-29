@@ -1,0 +1,343 @@
+{
+  "id": "powerdame",
+  "source": "Asset/Character/vfx/powerdame.gif",
+  "source_sha256": "ddb920bf194d268df2abbed5230ad11f197b7becb9d6fd0cef13972df73b8b6c",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_000.png": "0a16039d2dad10769502fe0bbfcad639525dc5b6093d64e3d29965426185beb1",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_001.png": "bf3e44db5a9dede2156b3fb5525fbdfe47796c954232630d33c059392268ce06",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_002.png": "e1c3047a6c4da7d1257392d4621af4b91c3401b7510b96cd980a9b1ae764c28f",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_003.png": "7de7b3cfec504a93135d8b07ee6c5cd82d643b81e0d2394518246cdf3d1910e2",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_004.png": "7f4d91929182a2586bb2b9a5790df7ad5680c1ca3628973143845a7b27ed37dc",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_005.png": "e2c52d64200a2d0e14623a60b0cf6267f6bd8e83199d7e81b8192aa1f2ee2eed",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_006.png": "593503c6ecebd3d2ed6514c28fabd0f35a4901fa7435d18c4bc2013eb073baef",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_007.png": "ff6edf4b2274993f771246a83c36b73eecd5c39cd5c25d393fc5fce645963ba8",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_008.png": "b2fc204c2caf89322e8184103465230db730455856281d39f1576e13de124b56",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_009.png": "51101b30033faa17a44db2a6728c73c56bdafba971774e8a27eafe7bec3740c3",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_010.png": "16562cfec26ba9249a1e8a4a69b2bfebfd9aef08552d0d8d8576cd9011f1244d",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_011.png": "d45576972d2ba7736aaa002d5155a4d774875d2329f698cdf8b93f0bdb854135",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_012.png": "8f0385c7766f749a40c9cf2920211973fef43fea4f88d156ab6868e3f3048ac0",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_013.png": "7511d4864f5a8021c12153cfb621da863e0676b040915067713e27a4b84037db",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_014.png": "e98ddbb200cdea89185fdb14bf7c59b0bb0730170e36adb3a76085c8427549a6",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_015.png": "85a584988f7c039a9ed463b618b11ee76c1e1e06929c1c95a7ec870d59f2d30f",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_016.png": "c7184c947dbc3b4ba5df571e8e677a85831b846696e27f0da2574d759d29e98e",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_017.png": "21540b2ce1b565d6ac557712899dbda40a4e6175f65146e8268661741a1cb6fe",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_018.png": "c0994e1f5c61843260ed773349807c7392ba71aba5d78ca859602e4cc4a41e5f",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_019.png": "be12f32f660e22bcaa87485f1403b9efb1223e2d9aeea80d9d1f49cf903147b2",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_020.png": "3b129b71225b02c0b4c73f02edb4541fbdbbed06d9b5f3b06dd47a6c9c695595",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_021.png": "cdd769849ae6dfe5b41d8b0cef674f45c29cbb60b6d82b27d29311c07a09a2cb",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_022.png": "1ad3601719e443bafe2be02303cd13b199a1edde311185b52323370b019e9cfd",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_023.png": "c05b517d4c72637d8dc8db1bce8908d989e45ec6f256b76736ebfc31dfc69b52",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_024.png": "56bad4e4bf9c74147ddc58e4f21f38ff9a193821ca2107255b7e46f089184e0c",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_025.png": "e35696efb956796b50565f38c29f8414e476915f98d480bd86a83f28217d71e4",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_026.png": "21540b2ce1b565d6ac557712899dbda40a4e6175f65146e8268661741a1cb6fe",
+    "Asset/Character/detail_oct28_candidates/powerdame/frame_027.png": "c0994e1f5c61843260ed773349807c7392ba71aba5d78ca859602e4cc4a41e5f"
+  },
+  "art_source": "existing",
+  "frame_count": 28,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    468,
+    468
+  ],
+  "target_height_px": 90,
+  "reference_frame": 0,
+  "reference_height_px": 254,
+  "reference_alpha_bounds": [
+    91,
+    142,
+    382,
+    396
+  ],
+  "anchor_px": [
+    236.5,
+    396
+  ],
+  "display_scale": 0.3543307086614173,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

@@ -1,0 +1,526 @@
+{
+  "id": "mortafi",
+  "source": "Asset/Character/vfx/mortafi.gif",
+  "source_sha256": "1152258709991c2ab2cc1ecbf7c286b08062763d84c5c2cabf7519c441871ffa",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_000.png": "1dc5c978c867dbc857d944cd406027931fe70e176903fd2fe883d471dd094335",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_001.png": "7238df0c4641d0bb346b50e7f734249076e0e0639001bd1abeaf1d30dd9ce44c",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_002.png": "e7453f74c3f7143bedd008e3ee81168879a7fd23eb77a82a9da91427a38e2af9",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_003.png": "0191dab4c6bb0004fce016ba743b9330ffb42317736b7d130e3c1aee4476dd9b",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_004.png": "099decfb565166faa5b9be38fc630a8c53f3a82957918246edee85ce2eced7ba",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_005.png": "66f18a2f8ebe8a297e2d50f6d22da580022f0666d258feea62be825d2ddd22b7",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_006.png": "acebe81cee58402df7d1108899c7eabe461bbe6ca2a7b3c0c78c000d5f377209",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_007.png": "5ecde6d505ee6f9f4aa1cabc06164deec652c6afa6b0ab8ebe324903f41de8b7",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_008.png": "83337727f67403a3d941eb12a5fbc68fff7f7385d0adaba970575c8db2a43ad1",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_009.png": "973fa69262033778fdeeb65a51d233714d54c796da2408c24efaf42bd4e515ed",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_010.png": "6c85ccf9a57693d5c9db4c47afd7478fd4043ee11cc2a7e8286a31714ae9a8ae",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_011.png": "a2752d1bed75f213f8af015c014d3570f0bb07beafd23362e4284ed09f3a76b1",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_012.png": "faf1d20de51c5ad13abf0bce80b0904b0949f0eb075b3accad7e42d42ab0281a",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_013.png": "7238df0c4641d0bb346b50e7f734249076e0e0639001bd1abeaf1d30dd9ce44c",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_014.png": "e7453f74c3f7143bedd008e3ee81168879a7fd23eb77a82a9da91427a38e2af9",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_015.png": "0191dab4c6bb0004fce016ba743b9330ffb42317736b7d130e3c1aee4476dd9b",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_016.png": "099decfb565166faa5b9be38fc630a8c53f3a82957918246edee85ce2eced7ba",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_017.png": "66f18a2f8ebe8a297e2d50f6d22da580022f0666d258feea62be825d2ddd22b7",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_018.png": "acebe81cee58402df7d1108899c7eabe461bbe6ca2a7b3c0c78c000d5f377209",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_019.png": "5ecde6d505ee6f9f4aa1cabc06164deec652c6afa6b0ab8ebe324903f41de8b7",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_020.png": "83337727f67403a3d941eb12a5fbc68fff7f7385d0adaba970575c8db2a43ad1",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_021.png": "973fa69262033778fdeeb65a51d233714d54c796da2408c24efaf42bd4e515ed",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_022.png": "6c85ccf9a57693d5c9db4c47afd7478fd4043ee11cc2a7e8286a31714ae9a8ae",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_023.png": "a2752d1bed75f213f8af015c014d3570f0bb07beafd23362e4284ed09f3a76b1",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_024.png": "6aa2ac024d8537d6a6e3270b07a48c8ca2fba65bb0da6bc5847f4107bfd3cf05",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_025.png": "7139a3378649411e2df79ef63e599ea5eb649804c51cab386216192c9a4e4b7a",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_026.png": "e63fdc1fee03685e1ba93d7ea21627955cdd47e4ae6d39e32b178cb0e5955f63",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_027.png": "049f4efb2d7f0210ec65a4b4d9e4a5aff7e9d965bbc32e0f812ff2031cbd938e",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_028.png": "7cf473be1555e951f432f70d2dc4e44bb8cd8234cec994f7d52897c72d3dbee6",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_029.png": "590c3f626e76f1b3ce1a70b08d2e662d7fa435d03848933cde7020e677d0365c",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_030.png": "4d558777e4fd1330b156ad0f30cb91c8a89ccdefe25fe863fe07911160c0742c",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_031.png": "1e929fbf4ea79e0e985bce36c60a5dd5f8ef8c4c3873f7bab55eb0df2497bdbb",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_032.png": "f3b9dec3f5eba57f52d56ab16e8c045666bf709317cd00ab37e23dff8d8b63ab",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_033.png": "244ea0799fe7bc8748b6334caadef5ca9e2d102b709b6aaeaae615c06bfb4938",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_034.png": "58b88eefcd52fd1c0fa792d0f565cc2a90161b7a9c86563c4d1f04d1f8b0880c",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_035.png": "d711657babd4982841502357063b40a48aa26df98c218280a63d4ee998f9a222",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_036.png": "26bd20c283be1e7f3db3ac9e37463346cd209601f851bd99b4d8729e786023e6",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_037.png": "9cc0bf51c92f80820baf8ad5dece0dea92cb3cd3d9891cb1504699c26c71f4eb",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_038.png": "5a54915c337c9527ef038a9528b03f76c0016e32d6f15388948d1d620514b912",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_039.png": "e7eb99b239be7b01da6b7aec423d1226966b65ff3add9db373e82c76336e479a",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_040.png": "8ad85274848f52cf085049f300bfeff4aee19d8b92398347aa3241edb8195e52",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_041.png": "d20313095f068148becb217e53a71bae7c69b773c8e336a9773e884752959a8f",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_042.png": "9684a7b31fa29e887bf96cd2377cb4039b385b2c13bd482a8be86be40b199e25",
+    "Asset/Character/detail_oct28_candidates/mortafi/frame_043.png": "c28e9b5655a0bec155634a49e896f3b37523beee1ff561a254a0c4f96746250e"
+  },
+  "art_source": "existing",
+  "frame_count": 44,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    811,
+    811
+  ],
+  "target_height_px": 90,
+  "reference_frame": 0,
+  "reference_height_px": 332,
+  "reference_alpha_bounds": [
+    214,
+    91,
+    591,
+    720
+  ],
+  "anchor_px": [
+    402.5,
+    720
+  ],
+  "display_scale": 0.2710843373493976,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "reference_body_bounds": [
+    249,
+    386,
+    543,
+    718
+  ],
+  "body_measurement_note": "Frame 0: largest connected foreground component visually checked; effects may still overlap body.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

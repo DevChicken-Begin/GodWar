@@ -1,0 +1,1355 @@
+{
+  "id": "magma",
+  "source": "Asset/Character/vfx/magma.gif",
+  "source_sha256": "18467ba3c23fc2811ddcb5805eea1412b84170e20379431ac0ee33fd0bf4423a",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/magma/frame_000.png": "a8f7b611664d04198589d271dd52570a93870d2807033320f211eeeac8c06dfe",
+    "Asset/Character/detail_oct29_candidates/magma/frame_001.png": "0ad7233d10a23fa1f76744da789d2c1bad570d156b02cd432da38528cf058620",
+    "Asset/Character/detail_oct29_candidates/magma/frame_002.png": "ddd338d8885d10853b7deb737ac51a3210e5729206534887ce5e1460a73505b3",
+    "Asset/Character/detail_oct29_candidates/magma/frame_003.png": "aeef2c7e9cbdf9d8ffa8d36a611af2cdb09cb60596e150a64931b55933575b88",
+    "Asset/Character/detail_oct29_candidates/magma/frame_004.png": "c67c8e5866a4f92a85c47d0261bd5878e0f6845a8e4301df1011f54add921646",
+    "Asset/Character/detail_oct29_candidates/magma/frame_005.png": "cefb23cf3c3be6c573e03ea1e8896758b9e833a801e2e1444fec6697067baac1",
+    "Asset/Character/detail_oct29_candidates/magma/frame_006.png": "672f66bfbcedb8776932179c58b623e5e9a764e05410852cdf605146e6cefca9",
+    "Asset/Character/detail_oct29_candidates/magma/frame_007.png": "8f5e79e254806daeead010c75ccad7f6fc71aa90e7126eb9620056c35b41bba1",
+    "Asset/Character/detail_oct29_candidates/magma/frame_008.png": "e4d2787470870f676ce689b3b9dbe41d11506756870e287429191e7414ef7fcd",
+    "Asset/Character/detail_oct29_candidates/magma/frame_009.png": "9f290db99e5285ac4ec28e86702f9c7ec99e1ede66952ae7ca90f5cc7f75267c",
+    "Asset/Character/detail_oct29_candidates/magma/frame_010.png": "c72c62d184c9a7cc7ec6ea5511390c347be9e24e8880145cfef79ed2a754de1b",
+    "Asset/Character/detail_oct29_candidates/magma/frame_011.png": "39caf8d214a3b218f4d4d8d02ed440e5374a03c140b5eca0576114a2c3ec70eb",
+    "Asset/Character/detail_oct29_candidates/magma/frame_012.png": "27261320b80241310d1ab14b76356a37571867b5b7efd10f65ece9e4c006c114",
+    "Asset/Character/detail_oct29_candidates/magma/frame_013.png": "c09bf4d3799c94a15e1d3099a3174134ee08f0dac2e55de8127f681bfa0cdc62",
+    "Asset/Character/detail_oct29_candidates/magma/frame_014.png": "9c8812e578a31a2cdaab4e0bd9d33ec64be0e396e9f9a7047415a18d56163b99",
+    "Asset/Character/detail_oct29_candidates/magma/frame_015.png": "da5603f5afb606fb53c116bc32c7edb9198b6fd6cfe11c631382f76b9d541c95",
+    "Asset/Character/detail_oct29_candidates/magma/frame_016.png": "a8f7b611664d04198589d271dd52570a93870d2807033320f211eeeac8c06dfe",
+    "Asset/Character/detail_oct29_candidates/magma/frame_017.png": "0ad7233d10a23fa1f76744da789d2c1bad570d156b02cd432da38528cf058620",
+    "Asset/Character/detail_oct29_candidates/magma/frame_018.png": "ddd338d8885d10853b7deb737ac51a3210e5729206534887ce5e1460a73505b3",
+    "Asset/Character/detail_oct29_candidates/magma/frame_019.png": "aeef2c7e9cbdf9d8ffa8d36a611af2cdb09cb60596e150a64931b55933575b88",
+    "Asset/Character/detail_oct29_candidates/magma/frame_020.png": "c67c8e5866a4f92a85c47d0261bd5878e0f6845a8e4301df1011f54add921646",
+    "Asset/Character/detail_oct29_candidates/magma/frame_021.png": "cefb23cf3c3be6c573e03ea1e8896758b9e833a801e2e1444fec6697067baac1",
+    "Asset/Character/detail_oct29_candidates/magma/frame_022.png": "672f66bfbcedb8776932179c58b623e5e9a764e05410852cdf605146e6cefca9",
+    "Asset/Character/detail_oct29_candidates/magma/frame_023.png": "8f5e79e254806daeead010c75ccad7f6fc71aa90e7126eb9620056c35b41bba1",
+    "Asset/Character/detail_oct29_candidates/magma/frame_024.png": "e4d2787470870f676ce689b3b9dbe41d11506756870e287429191e7414ef7fcd",
+    "Asset/Character/detail_oct29_candidates/magma/frame_025.png": "9f290db99e5285ac4ec28e86702f9c7ec99e1ede66952ae7ca90f5cc7f75267c",
+    "Asset/Character/detail_oct29_candidates/magma/frame_026.png": "c72c62d184c9a7cc7ec6ea5511390c347be9e24e8880145cfef79ed2a754de1b",
+    "Asset/Character/detail_oct29_candidates/magma/frame_027.png": "39caf8d214a3b218f4d4d8d02ed440e5374a03c140b5eca0576114a2c3ec70eb",
+    "Asset/Character/detail_oct29_candidates/magma/frame_028.png": "27261320b80241310d1ab14b76356a37571867b5b7efd10f65ece9e4c006c114",
+    "Asset/Character/detail_oct29_candidates/magma/frame_029.png": "c09bf4d3799c94a15e1d3099a3174134ee08f0dac2e55de8127f681bfa0cdc62",
+    "Asset/Character/detail_oct29_candidates/magma/frame_030.png": "9c8812e578a31a2cdaab4e0bd9d33ec64be0e396e9f9a7047415a18d56163b99",
+    "Asset/Character/detail_oct29_candidates/magma/frame_031.png": "da5603f5afb606fb53c116bc32c7edb9198b6fd6cfe11c631382f76b9d541c95",
+    "Asset/Character/detail_oct29_candidates/magma/frame_032.png": "b98c09f2c463bc74fa761291386887da8a5110cf42b2ef4036a8dce4431f1e38",
+    "Asset/Character/detail_oct29_candidates/magma/frame_033.png": "98caf4ebd1b0ea40679a3beb3daebf67f2689a84a59a27bbcdf531eea78f4e39",
+    "Asset/Character/detail_oct29_candidates/magma/frame_034.png": "6b9b981778b17681e3f23e088548ffcfff4b6651d689af4269f6115d49c71dc8",
+    "Asset/Character/detail_oct29_candidates/magma/frame_035.png": "de8db75515be3a37ec974e01324a2f4061ecdd8d4a5b5f8177be18a4d327cfe0",
+    "Asset/Character/detail_oct29_candidates/magma/frame_036.png": "5b7fb7b8846adfad947eaf98a1a7cd4a24dc011895f8703df1bef4d7515f1cb0",
+    "Asset/Character/detail_oct29_candidates/magma/frame_037.png": "c0609681d6017cd1d52cbf2e56bcdc90bf74c473cbeeb35dce6b6ce876e5bbe4",
+    "Asset/Character/detail_oct29_candidates/magma/frame_038.png": "f2ae88fac2f6607f64ae67132382dfe19c279a1bfc4dfdbac124b19a825f1159",
+    "Asset/Character/detail_oct29_candidates/magma/frame_039.png": "8ed0437ceb315a297f0c808a46277e8a9fb3664957abfb70fca9cdb63d4791fb",
+    "Asset/Character/detail_oct29_candidates/magma/frame_040.png": "709ebdbf40ceb3f36d198d0afdff83a2093e9f47e2b549fc2b06ee6f29efd2fc",
+    "Asset/Character/detail_oct29_candidates/magma/frame_041.png": "5f6f2111231bb05462f81ede54a0406ed637a823cf5717ae25f0026efcde90f7",
+    "Asset/Character/detail_oct29_candidates/magma/frame_042.png": "2f26f663a4e0959758679bd28bb6e9947f5c54e92508fbae9a07ad8a1dfcbb78",
+    "Asset/Character/detail_oct29_candidates/magma/frame_043.png": "540041fbc6a0a5bd7b927af0c893a03559d02000de124814da547f038de166ce",
+    "Asset/Character/detail_oct29_candidates/magma/frame_044.png": "6cfb9a5fcc04a5ea14b2f72ca2e51e168eac609817801fc1c758e3eb34eb1868",
+    "Asset/Character/detail_oct29_candidates/magma/frame_045.png": "bbf011b63cb3ce31e9d639294368357c8b5f59d02c336e4b787bf7ba0a761243",
+    "Asset/Character/detail_oct29_candidates/magma/frame_046.png": "c73bb84e158f8a90cc89f6d798ea3de2d7180da01e5f781572f8f5266d19a19e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_047.png": "a4049304cc5fd40197400be450347aa2c8aaff7c06f5a1d7386525395b5045e3",
+    "Asset/Character/detail_oct29_candidates/magma/frame_048.png": "59def86dbc9234c3045d81c1348475670052cc8203e5d267254ec22789b7a703",
+    "Asset/Character/detail_oct29_candidates/magma/frame_049.png": "dabbf269e757079fb8abb192b46512b44bbcad56e4fe5489defeef06787569e4",
+    "Asset/Character/detail_oct29_candidates/magma/frame_050.png": "fc6417536fe2fc2a049bba927b35abcbc6c6cbc7bc273050c2dba95ed0be5d89",
+    "Asset/Character/detail_oct29_candidates/magma/frame_051.png": "354c11222d3cade2de8b562b401b24e5deddbacfe1892b3a4163c44fa7930811",
+    "Asset/Character/detail_oct29_candidates/magma/frame_052.png": "dcff4f2c624275c841eecdbf1560dd1a0e61cc1d3eb736b00c1d26ca4827a33c",
+    "Asset/Character/detail_oct29_candidates/magma/frame_053.png": "dab62f1c693cef2589bf0a2ef4370f69603f73337ab2192aa5dcaed977abec04",
+    "Asset/Character/detail_oct29_candidates/magma/frame_054.png": "d60026184e6bc6ea34c0780f84994b785288f53688a918b9c2d58e2d61ceacf5",
+    "Asset/Character/detail_oct29_candidates/magma/frame_055.png": "d891009eb6abfc1a6d9aa9e4cbf6392ac323d7e4f052df074021b4a1c1358594",
+    "Asset/Character/detail_oct29_candidates/magma/frame_056.png": "0f7f90d5d036cb96d25a7a7f3ef6ac119523e7726d6050f4c275469dfa3a4c13",
+    "Asset/Character/detail_oct29_candidates/magma/frame_057.png": "dabbf269e757079fb8abb192b46512b44bbcad56e4fe5489defeef06787569e4",
+    "Asset/Character/detail_oct29_candidates/magma/frame_058.png": "fc6417536fe2fc2a049bba927b35abcbc6c6cbc7bc273050c2dba95ed0be5d89",
+    "Asset/Character/detail_oct29_candidates/magma/frame_059.png": "354c11222d3cade2de8b562b401b24e5deddbacfe1892b3a4163c44fa7930811",
+    "Asset/Character/detail_oct29_candidates/magma/frame_060.png": "dcff4f2c624275c841eecdbf1560dd1a0e61cc1d3eb736b00c1d26ca4827a33c",
+    "Asset/Character/detail_oct29_candidates/magma/frame_061.png": "dab62f1c693cef2589bf0a2ef4370f69603f73337ab2192aa5dcaed977abec04",
+    "Asset/Character/detail_oct29_candidates/magma/frame_062.png": "d60026184e6bc6ea34c0780f84994b785288f53688a918b9c2d58e2d61ceacf5",
+    "Asset/Character/detail_oct29_candidates/magma/frame_063.png": "d891009eb6abfc1a6d9aa9e4cbf6392ac323d7e4f052df074021b4a1c1358594",
+    "Asset/Character/detail_oct29_candidates/magma/frame_064.png": "0f7f90d5d036cb96d25a7a7f3ef6ac119523e7726d6050f4c275469dfa3a4c13",
+    "Asset/Character/detail_oct29_candidates/magma/frame_065.png": "dabbf269e757079fb8abb192b46512b44bbcad56e4fe5489defeef06787569e4",
+    "Asset/Character/detail_oct29_candidates/magma/frame_066.png": "fc6417536fe2fc2a049bba927b35abcbc6c6cbc7bc273050c2dba95ed0be5d89",
+    "Asset/Character/detail_oct29_candidates/magma/frame_067.png": "354c11222d3cade2de8b562b401b24e5deddbacfe1892b3a4163c44fa7930811",
+    "Asset/Character/detail_oct29_candidates/magma/frame_068.png": "dcff4f2c624275c841eecdbf1560dd1a0e61cc1d3eb736b00c1d26ca4827a33c",
+    "Asset/Character/detail_oct29_candidates/magma/frame_069.png": "dab62f1c693cef2589bf0a2ef4370f69603f73337ab2192aa5dcaed977abec04",
+    "Asset/Character/detail_oct29_candidates/magma/frame_070.png": "d60026184e6bc6ea34c0780f84994b785288f53688a918b9c2d58e2d61ceacf5",
+    "Asset/Character/detail_oct29_candidates/magma/frame_071.png": "d891009eb6abfc1a6d9aa9e4cbf6392ac323d7e4f052df074021b4a1c1358594",
+    "Asset/Character/detail_oct29_candidates/magma/frame_072.png": "0f7f90d5d036cb96d25a7a7f3ef6ac119523e7726d6050f4c275469dfa3a4c13",
+    "Asset/Character/detail_oct29_candidates/magma/frame_073.png": "dabbf269e757079fb8abb192b46512b44bbcad56e4fe5489defeef06787569e4",
+    "Asset/Character/detail_oct29_candidates/magma/frame_074.png": "fc6417536fe2fc2a049bba927b35abcbc6c6cbc7bc273050c2dba95ed0be5d89",
+    "Asset/Character/detail_oct29_candidates/magma/frame_075.png": "354c11222d3cade2de8b562b401b24e5deddbacfe1892b3a4163c44fa7930811",
+    "Asset/Character/detail_oct29_candidates/magma/frame_076.png": "dcff4f2c624275c841eecdbf1560dd1a0e61cc1d3eb736b00c1d26ca4827a33c",
+    "Asset/Character/detail_oct29_candidates/magma/frame_077.png": "dab62f1c693cef2589bf0a2ef4370f69603f73337ab2192aa5dcaed977abec04",
+    "Asset/Character/detail_oct29_candidates/magma/frame_078.png": "d60026184e6bc6ea34c0780f84994b785288f53688a918b9c2d58e2d61ceacf5",
+    "Asset/Character/detail_oct29_candidates/magma/frame_079.png": "d891009eb6abfc1a6d9aa9e4cbf6392ac323d7e4f052df074021b4a1c1358594",
+    "Asset/Character/detail_oct29_candidates/magma/frame_080.png": "0f7f90d5d036cb96d25a7a7f3ef6ac119523e7726d6050f4c275469dfa3a4c13",
+    "Asset/Character/detail_oct29_candidates/magma/frame_081.png": "92246f38df066ee18440efef637bb10ac79271cc37356cb0cb6567279ae5840f",
+    "Asset/Character/detail_oct29_candidates/magma/frame_082.png": "90a7079d06a034da75a1dd705a44d2e0759774f0106017170eb24dc8028f07f4",
+    "Asset/Character/detail_oct29_candidates/magma/frame_083.png": "1be30cde218b4dab97a10b7960ebf4180ce9f750a5d936d8abf00e8b4f954ba5",
+    "Asset/Character/detail_oct29_candidates/magma/frame_084.png": "42fe59fc6d6e92f81c2825b98334f645e3881ce95f4323aae044cfe22cec3878",
+    "Asset/Character/detail_oct29_candidates/magma/frame_085.png": "2df6ed3960f3aca8118289fd346c3f85db4a2e37fd5a4b8bf7f7938fa5ede428",
+    "Asset/Character/detail_oct29_candidates/magma/frame_086.png": "02c0ef5e63bbc544ad429236f11e0ca94a40eac26c81bbddbd44592b7a83f2b2",
+    "Asset/Character/detail_oct29_candidates/magma/frame_087.png": "64d956b571810b13dbb7ec824fcbef90a01475b77134618bda6bca92a07bd203",
+    "Asset/Character/detail_oct29_candidates/magma/frame_088.png": "22a3761424e2f5b87ecd56cc355839fabcece8bf6133f0d3f40f897228f15599",
+    "Asset/Character/detail_oct29_candidates/magma/frame_089.png": "57a2db3663e8b74fc2da4d702e686a4d54eb5a44ff3694a0674f924d15937bfc",
+    "Asset/Character/detail_oct29_candidates/magma/frame_090.png": "ab7e09f86cfd649ba56f5539a3ffb911c34095c54b4a69bbd8cd0a1a93bd69fc",
+    "Asset/Character/detail_oct29_candidates/magma/frame_091.png": "42aa260ea8bec2ba547ee7635de9844facb7179ede2efff9558a661939e7591b",
+    "Asset/Character/detail_oct29_candidates/magma/frame_092.png": "f6c4033997f654b77f0ca1b01675fd7139906f8c0f061d0850a9980ba86e1d0d",
+    "Asset/Character/detail_oct29_candidates/magma/frame_093.png": "737ab977124873d55f0d7c205e1e06c2c41088d52a8c21c4aa3edba0014efe40",
+    "Asset/Character/detail_oct29_candidates/magma/frame_094.png": "8ec129d1f2ba0f4028c0f0170943897c92e32f5fa69f5ffef4c029a66eb892f5",
+    "Asset/Character/detail_oct29_candidates/magma/frame_095.png": "11a5b1ef231331ae729df09c66c5401a5f5633d38a72d28c37df356226949e60",
+    "Asset/Character/detail_oct29_candidates/magma/frame_096.png": "0c4bce6a8fa8f219e9379ee70f8527bcb948975e328d3ef4904be9f15407d1ec",
+    "Asset/Character/detail_oct29_candidates/magma/frame_097.png": "ca4d6a5911a4f7801a183855302c9ea8fcc4f7ba2c2fd15ae6529a402758fd49",
+    "Asset/Character/detail_oct29_candidates/magma/frame_098.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_099.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_100.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_101.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_102.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_103.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_104.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_105.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_106.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_107.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_108.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_109.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_110.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_111.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_112.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_113.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_114.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_115.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_116.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_117.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_118.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e",
+    "Asset/Character/detail_oct29_candidates/magma/frame_119.png": "7c26701c6831e6d96889ce649ebe6783e2c0ec56b17f16b92a65330730ea712e"
+  },
+  "art_source": "existing",
+  "frame_count": 120,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    520,
+    520
+  ],
+  "target_height_px": 80,
+  "reference_frame": 0,
+  "reference_height_px": 292,
+  "reference_alpha_bounds": [
+    132,
+    148,
+    383,
+    440
+  ],
+  "anchor_px": [
+    257.5,
+    440
+  ],
+  "display_scale": 0.273972602739726,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

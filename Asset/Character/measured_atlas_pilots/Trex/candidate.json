@@ -1,0 +1,574 @@
+{
+  "id": "Trex",
+  "source": "Asset/Character/vfx/Trex.gif",
+  "source_sha256": "1116a26d0e29f30120914a4b8a8faa70e5ce95b16845a218cb6665e8430190e2",
+  "input_candidate": "batch12_detail_candidates",
+  "input_sha256": {
+    "Asset/Character/batch12_detail_candidates/Trex/frame_000.png": "0af93ddd4e41608364e8e879ff25628254d0fe2b1b096690d788559804971bbf",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_001.png": "2f9f6f9a56abe68a4ea45cdd477dcf5225588cf800efef68bba55ade7c34c9b1",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_002.png": "58a3b2e815513e9f5f1944ba5cd3c47abbdf975486e667059b4009f713935e9d",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_003.png": "1fe9a9b93f10672a4759c378979712ffdcda396ce0fbd7f880f7340698ea59dd",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_004.png": "0f80f209a3789f5416b8db30294a0165deb2508e2a7429345eae9297158cfe85",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_005.png": "80ff1eac7c02fa61f0dce8cc3716855514c789eca1bc577c86d1e82974588f88",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_006.png": "1286c301d390987a37376c6d61796850059dc12b9e27e89eb9bb91bcdb7bc5aa",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_007.png": "843f36b3a883b1b02cc797574aba757563e3859f138af4a293b6c14288a9738c",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_008.png": "1b7f3b40887addf62f56d3597abbfab4462ab254d45ed277b06c35468cb06224",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_009.png": "ad0520115fde776e10037bdc5d0a800b5766f8d1ab96121d5a5419c0e54fc574",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_010.png": "369cc59c0669102aa74fe1ca10f656f3efbf4972e1ade6f4d22d85b086c6fd6d",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_011.png": "c91214f45d19d8a65c49c03578b6bff0819db09b0c64deaf53f7f176df95d542",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_012.png": "1555499388830189134c0f605a8c7031daaa2d900c40fb387abcd6f4bb0067ef",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_013.png": "2c358d20faf1eec76d449dacdf8a0b69929db878e38f5a9f276aa619be2e17b0",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_014.png": "0af93ddd4e41608364e8e879ff25628254d0fe2b1b096690d788559804971bbf",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_015.png": "2f9f6f9a56abe68a4ea45cdd477dcf5225588cf800efef68bba55ade7c34c9b1",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_016.png": "58a3b2e815513e9f5f1944ba5cd3c47abbdf975486e667059b4009f713935e9d",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_017.png": "1fe9a9b93f10672a4759c378979712ffdcda396ce0fbd7f880f7340698ea59dd",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_018.png": "0f80f209a3789f5416b8db30294a0165deb2508e2a7429345eae9297158cfe85",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_019.png": "80ff1eac7c02fa61f0dce8cc3716855514c789eca1bc577c86d1e82974588f88",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_020.png": "1286c301d390987a37376c6d61796850059dc12b9e27e89eb9bb91bcdb7bc5aa",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_021.png": "843f36b3a883b1b02cc797574aba757563e3859f138af4a293b6c14288a9738c",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_022.png": "1b7f3b40887addf62f56d3597abbfab4462ab254d45ed277b06c35468cb06224",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_023.png": "ad0520115fde776e10037bdc5d0a800b5766f8d1ab96121d5a5419c0e54fc574",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_024.png": "369cc59c0669102aa74fe1ca10f656f3efbf4972e1ade6f4d22d85b086c6fd6d",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_025.png": "c91214f45d19d8a65c49c03578b6bff0819db09b0c64deaf53f7f176df95d542",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_026.png": "1555499388830189134c0f605a8c7031daaa2d900c40fb387abcd6f4bb0067ef",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_027.png": "2c358d20faf1eec76d449dacdf8a0b69929db878e38f5a9f276aa619be2e17b0",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_028.png": "f8536be14fba9a57684b8345a4787e8174ff349f57e8f518c356fc9926b74a92",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_029.png": "9fbbc1589111b257f82a3b9a5a022773dde4274d12954d1c5c397feb77b82ed3",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_030.png": "3504f7d574210b3eeb055e0161312b24361650cd041f80adea1f8a7c993a9564",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_031.png": "1ac41f5d0dff4ff8e05773b298b5685f4e02797179af933e51465802ea3571ab",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_032.png": "bd25158a265925462ae53d074ba2957157f803d53161ef1b0fe930932ae241b4",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_033.png": "c95b59c063793c7968f1303c7b270f97ca59c15ab59cabe41186666d37658a98",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_034.png": "487d6dcb440a3439c78e0f4f8592029854d5832e252b7a3fd69cc30956326c2d",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_035.png": "cd0b5b392d9591adbb84437dfac5a9bc95c3230ae16861b84fe8eaa61792116c",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_036.png": "0e592ad649fb0e7c1e3628ec88bb5f8a87ecb81b6b7990ec8714a4068e09531c",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_037.png": "a1baa99d365b6990920a7164bf989676676585f15697355832b188466b82ee5c",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_038.png": "5c66117649d5204ce92d3aaec8b3f83e9ea650e2e47eebcedac8023a3e6d0849",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_039.png": "33550716edeb0965e02b659828cbdd6823720edd74fff6a31d9315da3c36fcee",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_040.png": "4b47134338b6c2d7054ff043286098404979da329bf80593d6b98250d8bee13e",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_041.png": "cd0b5b392d9591adbb84437dfac5a9bc95c3230ae16861b84fe8eaa61792116c",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_042.png": "0e592ad649fb0e7c1e3628ec88bb5f8a87ecb81b6b7990ec8714a4068e09531c",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_043.png": "a1baa99d365b6990920a7164bf989676676585f15697355832b188466b82ee5c",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_044.png": "5c66117649d5204ce92d3aaec8b3f83e9ea650e2e47eebcedac8023a3e6d0849",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_045.png": "66c597e6767f5db8c29ac4d7495fc228bd76cb785f9953c65e7f579c37959339",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_046.png": "218582f6115d4d81f578bba9b2977afc488765f5af59cea43cd44e773d69e062",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_047.png": "dd2454fc925144777b7d68f7be9a03d88fc6cac07756494e28abc6fdf9adf6cd",
+    "Asset/Character/batch12_detail_candidates/Trex/frame_048.png": "f8536be14fba9a57684b8345a4787e8174ff349f57e8f518c356fc9926b74a92"
+  },
+  "art_source": "existing",
+  "frame_count": 49,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1248,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        1248,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        1248,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        1248,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        1248,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        1248,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1560,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        1560,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        1560,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        1560,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        1560,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        1560,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        312,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        624,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1248,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1560,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        312,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        624,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1248,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1560,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    312,
+    312
+  ],
+  "target_height_px": 90,
+  "reference_frame": 0,
+  "reference_height_px": 137,
+  "reference_alpha_bounds": [
+    57,
+    103,
+    240,
+    240
+  ],
+  "anchor_px": [
+    148.5,
+    240
+  ],
+  "display_scale": 0.656934306569343,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

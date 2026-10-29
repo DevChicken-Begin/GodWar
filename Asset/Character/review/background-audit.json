@@ -687,24 +687,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "firer",
-      "source": "Asset/Character/vfx/firer.gif",
-      "source_sha256": "3a79411f9c2f0580b354e55d55c315e64b7ba0c467d8cfb961457496be1c58e5",
-      "frames": 113,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 113,
-      "corner_colors": [
-        [
-          20,
-          23,
-          25,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "flybird",
       "source": "Asset/Character/vfx/flybird.gif",
       "source_sha256": "96bcdd1f60a7b3ec634f9ba3a88dddbc788238919428616682e6ae7daad5f3b0",
@@ -918,24 +900,6 @@
         ]
       ],
       "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "kapicon",
-      "source": "Asset/Character/vfx/kapicon.gif",
-      "source_sha256": "bfad98746af6c9903e3ed6b4db238961f776a2817f01e9bb48ca61026e16ed09",
-      "frames": 47,
-      "frames_with_transparency": 47,
-      "frames_with_uniform_border": 47,
-      "corner_colors": [
-        [
-          255,
-          0,
-          255,
-          0
-        ]
-      ],
-      "category": "transparent_all_frames",
       "status": "automatic_measurement_unreviewed"
     },
     {
@@ -1173,24 +1137,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "monsterdead",
-      "source": "Asset/Character/vfx/monsterdead.gif",
-      "source_sha256": "5c78f8b25073eda1f0fb05e89fe240d93b94bc2ba7d1f599b2fd36dc77ece393",
-      "frames": 10,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 10,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "monstermap",
       "source": "Asset/Character/vfx/monstermap.gif",
       "source_sha256": "3ba8217b8ca41f13d1b87206add03ea65269d6c24475b7184e8cc3ee6554a01d",
@@ -1292,24 +1238,6 @@
           80,
           80,
           64,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "newwomen",
-      "source": "Asset/Character/vfx/newwomen.gif",
-      "source_sha256": "dedff11dfd65ec1704919f0e69eecc451c419a1d806734f0d94cf5ed5a145ec9",
-      "frames": 72,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 67,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
           255
         ]
       ],

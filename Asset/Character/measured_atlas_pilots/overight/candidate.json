@@ -1,0 +1,570 @@
+{
+  "id": "overight",
+  "source": "Asset/Character/vfx/overight.gif",
+  "source_sha256": "95468ca0e3755de220040d894e29d48d827c8c3a278d4d04e8426c9c47e64cbe",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/overight/frame_000.png": "12223df7cbb4f4f5ee50faa9b7a4ee231a2e30badceb5ddf65359809fa08c5f2",
+    "Asset/Character/detail_oct29_candidates/overight/frame_001.png": "2ad718086e4235682e48b9a559b9bd73df5ea963304a1a756d2b6faed1b9f810",
+    "Asset/Character/detail_oct29_candidates/overight/frame_002.png": "cb6d11b30f92ca0e26640ec88dea7f708ebcd948b54267bd6e37ff1a3e2c648e",
+    "Asset/Character/detail_oct29_candidates/overight/frame_003.png": "f82af9cb5d8999349b4eda9985f3ddc41d0598b5bdcd9aa1ef051f3c793ae478",
+    "Asset/Character/detail_oct29_candidates/overight/frame_004.png": "7c643554176224575257a55aacae7e6aec75ec0d910fc61577a1523a50c6c445",
+    "Asset/Character/detail_oct29_candidates/overight/frame_005.png": "d1ed6e59d22e4848112dea3c2c28b612b09f61e66aeb5a4bd45049fceda21051",
+    "Asset/Character/detail_oct29_candidates/overight/frame_006.png": "929830b5ff5c5b52063a2c96e52db7d5d62b1b603f370b958895c5c5b7534077",
+    "Asset/Character/detail_oct29_candidates/overight/frame_007.png": "22905f04d6647ca910aa57a29949d4e720c398dbc60116cf031d431d36a8d724",
+    "Asset/Character/detail_oct29_candidates/overight/frame_008.png": "90e2011b8ce897644bebc56f114f8b7f65598a4fa330ec504d8c40b2c538ebad",
+    "Asset/Character/detail_oct29_candidates/overight/frame_009.png": "120eb9d34ea2a5b170ae211e86b465f417df3e8f68adf9a311cf4e495e87053f",
+    "Asset/Character/detail_oct29_candidates/overight/frame_010.png": "0c6e5a18c12d05a770c9a2b5e3a444d804eab72b62bbc3f7552e7d2921474280",
+    "Asset/Character/detail_oct29_candidates/overight/frame_011.png": "485d158d5109f83c1ec2e2c69a5660c1fffc13e7542f983a75257f575863b9a6",
+    "Asset/Character/detail_oct29_candidates/overight/frame_012.png": "d10cf0a660abd4e6e8ba7e90038b29c129794bb11351a5331ff45f57df9e522e",
+    "Asset/Character/detail_oct29_candidates/overight/frame_013.png": "b2943e4dedef85a3108a53a7e52ad8c66e1ad343bde19c6e57541d45a1ab7586",
+    "Asset/Character/detail_oct29_candidates/overight/frame_014.png": "12223df7cbb4f4f5ee50faa9b7a4ee231a2e30badceb5ddf65359809fa08c5f2",
+    "Asset/Character/detail_oct29_candidates/overight/frame_015.png": "2ad718086e4235682e48b9a559b9bd73df5ea963304a1a756d2b6faed1b9f810",
+    "Asset/Character/detail_oct29_candidates/overight/frame_016.png": "cb6d11b30f92ca0e26640ec88dea7f708ebcd948b54267bd6e37ff1a3e2c648e",
+    "Asset/Character/detail_oct29_candidates/overight/frame_017.png": "f82af9cb5d8999349b4eda9985f3ddc41d0598b5bdcd9aa1ef051f3c793ae478",
+    "Asset/Character/detail_oct29_candidates/overight/frame_018.png": "7c643554176224575257a55aacae7e6aec75ec0d910fc61577a1523a50c6c445",
+    "Asset/Character/detail_oct29_candidates/overight/frame_019.png": "d1ed6e59d22e4848112dea3c2c28b612b09f61e66aeb5a4bd45049fceda21051",
+    "Asset/Character/detail_oct29_candidates/overight/frame_020.png": "929830b5ff5c5b52063a2c96e52db7d5d62b1b603f370b958895c5c5b7534077",
+    "Asset/Character/detail_oct29_candidates/overight/frame_021.png": "22905f04d6647ca910aa57a29949d4e720c398dbc60116cf031d431d36a8d724",
+    "Asset/Character/detail_oct29_candidates/overight/frame_022.png": "90e2011b8ce897644bebc56f114f8b7f65598a4fa330ec504d8c40b2c538ebad",
+    "Asset/Character/detail_oct29_candidates/overight/frame_023.png": "120eb9d34ea2a5b170ae211e86b465f417df3e8f68adf9a311cf4e495e87053f",
+    "Asset/Character/detail_oct29_candidates/overight/frame_024.png": "0c6e5a18c12d05a770c9a2b5e3a444d804eab72b62bbc3f7552e7d2921474280",
+    "Asset/Character/detail_oct29_candidates/overight/frame_025.png": "485d158d5109f83c1ec2e2c69a5660c1fffc13e7542f983a75257f575863b9a6",
+    "Asset/Character/detail_oct29_candidates/overight/frame_026.png": "d10cf0a660abd4e6e8ba7e90038b29c129794bb11351a5331ff45f57df9e522e",
+    "Asset/Character/detail_oct29_candidates/overight/frame_027.png": "b2943e4dedef85a3108a53a7e52ad8c66e1ad343bde19c6e57541d45a1ab7586",
+    "Asset/Character/detail_oct29_candidates/overight/frame_028.png": "ed0df98bea375a37f3cd84612b98bd163c313655875a1080f07ed7fcf802ccf0",
+    "Asset/Character/detail_oct29_candidates/overight/frame_029.png": "f1f76616c474df581a2ea1389d17ed579789a40739567d4a2587e6b1e0476426",
+    "Asset/Character/detail_oct29_candidates/overight/frame_030.png": "f1c43d8e3247f651d5a285a98d7e365126bbd412cd83b20693a7c90024cc932a",
+    "Asset/Character/detail_oct29_candidates/overight/frame_031.png": "1fd463f9c59f3dc5b14ac6b6493dfe3a6ef82944e9ae18c323f73309c59c4adc",
+    "Asset/Character/detail_oct29_candidates/overight/frame_032.png": "c74ac2c4c6583dcca307cd73a1eae65e27dbc5d42f8155d91fd8ff02b4899293",
+    "Asset/Character/detail_oct29_candidates/overight/frame_033.png": "97e88b0f4690f6aa1292241865107ef8abe16e708aea5f2c109052c9856c3fa6",
+    "Asset/Character/detail_oct29_candidates/overight/frame_034.png": "9e5854d5f720a2759010411215f749f1400a5fed6f993180f4f29fe1e510b896",
+    "Asset/Character/detail_oct29_candidates/overight/frame_035.png": "77a4ce743063e5b37af5982a7eec9337a3b83c350b1cfeb071bc52dc5b1dc281",
+    "Asset/Character/detail_oct29_candidates/overight/frame_036.png": "bc224a61e05e74677001a60a79ea286162d67883b98d31ae37037a2b99df8a08",
+    "Asset/Character/detail_oct29_candidates/overight/frame_037.png": "de6106ffbb4177e4ad04fc9f6f4126655185ab56db10fa53636f7a7319aa7fe8",
+    "Asset/Character/detail_oct29_candidates/overight/frame_038.png": "a8389dfd194c56b864d6887fd0f4e24fa43b31761f38fba109ae8364c3afacb1",
+    "Asset/Character/detail_oct29_candidates/overight/frame_039.png": "313938cc0c97fb9cf2f171f4832b746aa010c7562a83a5b9018be95d0452a861",
+    "Asset/Character/detail_oct29_candidates/overight/frame_040.png": "0b3d331319f8eb94106fb7113fb7536890db92227b6479765926ddbbbf188c74",
+    "Asset/Character/detail_oct29_candidates/overight/frame_041.png": "c80023ed54f8d945d7e0357572234759bb06f32931bf2c3ed273e107da525e6b",
+    "Asset/Character/detail_oct29_candidates/overight/frame_042.png": "98176583ab8e8f0bf32422318acdaf7288083a52bd168923ef38e8fccadff2ee",
+    "Asset/Character/detail_oct29_candidates/overight/frame_043.png": "0ed8c2d970bc7cd20bfa496ebb320ea4dddfbb19775a34da4a95658ee3b5969b",
+    "Asset/Character/detail_oct29_candidates/overight/frame_044.png": "d3290bca5b160f51a2ca950f103315c74abbea064a84a6f75411267790e1f8e3",
+    "Asset/Character/detail_oct29_candidates/overight/frame_045.png": "8a947ffae217f69bb367285a59014ef0beec6ae39ea698a18095a7287b7d2ae2",
+    "Asset/Character/detail_oct29_candidates/overight/frame_046.png": "06495fb7cfc7ece3eb687ddb5efb0afcb7fc3705615639849b369f6ab629a188",
+    "Asset/Character/detail_oct29_candidates/overight/frame_047.png": "7421acaac618602a10f0e20d4e80573daae11010d158099d8215f4c72c19825c"
+  },
+  "art_source": "existing",
+  "frame_count": 48,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 18,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 19,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 20,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 21,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 22,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 23,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 24,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 25,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 26,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 27,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 28,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 29,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 30,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 31,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 32,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 33,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 34,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 35,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 36,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 37,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 38,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 39,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 40,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 41,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 42,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 43,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 44,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 45,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 46,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 47,
+      "region": [
+        0,
+        0,
+        1054,
+        1054
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    1054,
+    1054
+  ],
+  "target_height_px": 90,
+  "reference_frame": 0,
+  "reference_height_px": 519,
+  "reference_alpha_bounds": [
+    265,
+    113,
+    856,
+    875
+  ],
+  "anchor_px": [
+    560.5,
+    875
+  ],
+  "display_scale": 0.17341040462427745,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "reference_body_bounds": [
+    353,
+    353,
+    852,
+    872
+  ],
+  "body_measurement_note": "Frame 0: largest connected foreground component visually checked; effects may still overlap body.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

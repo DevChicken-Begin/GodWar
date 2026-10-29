@@ -1,0 +1,482 @@
+{
+  "id": "dracian",
+  "source": "Asset/Character/vfx/dracian.gif",
+  "source_sha256": "843fe18eee342ae6d656a4df533130a3823141e87a9f41f80af2dda3808e6cbd",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/dracian/frame_000.png": "3efaabff622d24393e779cd92d583bf606b5cf844c156cdd2a41d8589c0fc67d",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_001.png": "5d06a0fafea89871e70c9898ada4a398dec74924ccc8f0819075d2119f391dfb",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_002.png": "3182320d50b876edf16b5c796af3d65d9e66a343df589d9f41f147dca4e71a8c",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_003.png": "fe80bdf324990123769bb727e4e728a89d2f534fbe6f6efdd8faef6ef600a3be",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_004.png": "5aecc325c3b863af8948325bcd20b3c765a77c16c3effeb12efb4554cdf95dc3",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_005.png": "8acb971b954562905055844c19977ca0036f6a3a5f76f0e90208490a8ed64f52",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_006.png": "6b9b88dac5f5ecbead2a7e580a71d06d4397f1eb6309588c05b4cad9363b0ee2",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_007.png": "cc78101a006eb8452b9a87ec4609a6bc426e3f8af9b88d92e365f68adcc79fa5",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_008.png": "c6129f67035255ea4c5d68e9fdcf6b21fff1079811a85b05f682d376b829f9bb",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_009.png": "0161a5964f861f1fdf32202bb6025e5db59fe555fe54b67d658c8067fdf3defc",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_010.png": "abe3f9bc14b0777a3190f429829e6778f5da93fae3ce38f17c8b64dd7377cbf8",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_011.png": "b6783157ee90d504054c1ae00415a13f11ce5106f643e0c26ac4c6d34793e113",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_012.png": "9ac2681f367bcba1efc5a8c9fec91a5d440c0ba50db64774f7bb46e88b210b4d",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_013.png": "8dfe6ab0434aad75dbc9490af469233074524ff5997ecaa3bf54e2ec560cfeb6",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_014.png": "a3799abdb5a360cd429c39dadf4898a1b9ea15050d719dc807006161ea2947dc",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_015.png": "e76f33330002839fdc9993657b96aa7c6f7d6bb9f48d96bbbb19eb308133fca0",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_016.png": "1c583fb40e55dadfbddc875d272c5e1f421de5c00b9272e359098a5f64276857",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_017.png": "2a7d8b5c0d8c1ecd0cd62e052db8f30b294f8c1f3c267e394f1dc1f3f4a9286b",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_018.png": "8ce2e400b9c243ba6bbc0d9f3f164eb991b859eb710ed4541f6ca5fb6db51ad8",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_019.png": "068ab1d35af6bcc80e31c2aabf2fe9c9c37ab4a22159b2e007f67714e234bde1",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_020.png": "144df1ea245c4484409f932164666987d48209df0dd61fc872227599cb11e2b6",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_021.png": "bda363904e6c73e7a8bac3aec7a8c9daf835cf81ab4f3d39d45b35d7d5a2d674",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_022.png": "03ce1932c1f7e60924d506ef8fc0e551f1c72463d5d312f721b8d1da639c4ecb",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_023.png": "42f7f4ee5fc461b9628dde48ed77840aa97a2cc0e4eb09506d9d26a644b8601a",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_024.png": "70103fd531c94b6a4fcc7017a0d296c5060419758ef28cea586d7e00465f2da8",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_025.png": "66fbc218333ac11bfa248d7df6f01022cf62f441856753f6bf26c9326bdf5117",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_026.png": "6d8e4af0b6461a2a8cd3b5daea57300fd7851ede111820cafb0fed2d6711e741",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_027.png": "3b0e7c52ed989045c6058e959799d926ba7b7d958bd2ba2ed10cd304c65c0a01",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_028.png": "43bd6111dad5609967630963f1a1ad3cced1168264a62e2b57323170e8254fa8",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_029.png": "2872fb76c547dff01aa24475b572ccd1534586ca5b22aa5b8af1fd3feb6c7828",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_030.png": "a43b7aa3e5797f1f87a443c7dc24d9e40e0f92bbf859e3c46f9d94cef3530fb3",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_031.png": "5efed0ab36d45a249ea5f39a8639353979acb8518aecbe98e031cf5bb76ea772",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_032.png": "359588e58501b0f1f3f9b5c08ec87cd41b03df3a8c6ae5b0eb6c3d73f5853fb1",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_033.png": "fa3f86dffa9d4261101009109cf771959e11d91e24ecbd294cd87e64c440a135",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_034.png": "568d8c62f383e63b84fd0bf3da8087d288b190c3d960284cfa995fcf6d0852fa",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_035.png": "98b90fcc181033be4ad9f1f32a23be9a6bc11dda75efdecc1230fb14362b8805",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_036.png": "f520387cb14a5901420acb4d2777ad4826929d9d1e9c0aa2a7b1e1ecc183697e",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_037.png": "b5619a6086734a9e32c31b807febc5f5f5a2ee4f89a4b664866d12d39e77fdcd",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_038.png": "9fefbb3e2eeae8aefe9b8cf2290bb013285a72c6e29f37c851735646775855c1",
+    "Asset/Character/detail_oct28_candidates/dracian/frame_039.png": "e8b4e2612b903642915820e3b8ac829a540daebd3b60cb8936ded4c4463031b2"
+  },
+  "art_source": "existing",
+  "frame_count": 40,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        418,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        836,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1254,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        418,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        836,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1254,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        836,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        418,
+        836,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        836,
+        836,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1254,
+        836,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1254,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        418,
+        1254,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        836,
+        1254,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1254,
+        1254,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        418,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        836,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1254,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        418,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        836,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1254,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        836,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        418,
+        836,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        836,
+        836,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1254,
+        836,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1254,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        418,
+        1254,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        836,
+        1254,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1254,
+        1254,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        418,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        836,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1254,
+        0,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        418,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        836,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1254,
+        418,
+        418,
+        418
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    418,
+    418
+  ],
+  "target_height_px": 95,
+  "reference_frame": 0,
+  "reference_height_px": 185,
+  "reference_alpha_bounds": [
+    109,
+    175,
+    324,
+    370
+  ],
+  "anchor_px": [
+    216.5,
+    370
+  ],
+  "display_scale": 0.5135135135135135,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round3",
+  "reference_body_bounds": [
+    111,
+    183,
+    321,
+    368
+  ],
+  "body_measurement_note": "Frame 0 largest connected foreground component checked visually; attached VFX may remain, and detached details may be excluded."
+}

@@ -1,0 +1,305 @@
+{
+  "id": "black",
+  "source": "Asset/Character/vfx/black.gif",
+  "source_sha256": "817c9ec1e784ca93dbfc72c796cb53f2b352ff79e3ca6cb811e16c9b550f9360",
+  "input_atlas_sha256": {
+    "Asset/Character/native_candidates/black/atlas_000.png": "434fa3037cacbb01793034b2a38eebdc50ab9368ca656566d0431ae1d28ca521"
+  },
+  "reference_alpha_bounds": [
+    74,
+    105,
+    214,
+    221
+  ],
+  "review_note": "Frame 0 visually sampled; alpha extent and approximate ground anchor require user review.",
+  "art_source": "existing",
+  "frame_count": 27,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        315,
+        0,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        630,
+        0,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        945,
+        0,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1260,
+        0,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1575,
+        0,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        250,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        315,
+        250,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        630,
+        250,
+        315,
+        250
+      ],
+      "duration_ms": 90
+    },
+    {
+      "atlas": 0,
+      "region": [
+        945,
+        250,
+        315,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1260,
+        250,
+        315,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1575,
+        250,
+        315,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        500,
+        315,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        315,
+        500,
+        315,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        630,
+        500,
+        315,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        945,
+        500,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1260,
+        500,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1575,
+        500,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        750,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        315,
+        750,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        630,
+        750,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        945,
+        750,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1260,
+        750,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1575,
+        750,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1000,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        315,
+        1000,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        630,
+        1000,
+        315,
+        250
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    315,
+    250
+  ],
+  "target_height_px": 65,
+  "reference_frame": 0,
+  "reference_height_px": 116,
+  "anchor_px": [
+    170,
+    221
+  ],
+  "display_scale": 0.5603448275862069,
+  "status": "candidate_unreviewed",
+  "method": "Lossless unscaled RGBA frame packing; apply one display_scale to the entire frame and shared anchor.",
+  "limitations": "Reference alpha bounds can include effects; anchor and body height require visual review. Scene and device playback not verified.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

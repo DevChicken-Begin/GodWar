@@ -1,0 +1,527 @@
+{
+  "id": "reptalian",
+  "source": "Asset/Character/vfx/reptalian.gif",
+  "source_sha256": "7f807bebbc7100f3ceb708d0379047364e8782de92018ae27df139a333c101d9",
+  "input_candidate": "fine_candidates",
+  "input_sha256": {
+    "Asset/Character/fine_candidates/reptalian/atlas_000.png": "09054647e857c4c38903c2509d6434dfea963dd0db0af2d070d5c2eeb9913572",
+    "Asset/Character/fine_candidates/reptalian/atlas_001.png": "43071ce7fc044c90c863678e6989616b1273c389bfc12cbe1e7c652c77d97636",
+    "Asset/Character/fine_candidates/reptalian/atlas_002.png": "1ab1b1fc387f4415c27af7b43af366e3565d786357955f901fb9fd8bce8b584c",
+    "Asset/Character/fine_candidates/reptalian/atlas_003.png": "865af53d7d66aac64ad8073849613b93375de55b851930028ef940dcf0989a1f",
+    "Asset/Character/fine_candidates/reptalian/atlas_004.png": "bd2c15bca90b92852dd771cedac0f34ccc1a488ec1f8c8344e2d651f3136a384",
+    "Asset/Character/fine_candidates/reptalian/atlas_005.png": "cbae106bad29613fe8e9d6426854bc7a66ef5ff23d170eedc270d278971fdf2a",
+    "Asset/Character/fine_candidates/reptalian/atlas_006.png": "d8c0eb28f02f795dbcb21abb1566b3bdda4c4e2f6363cb961077c900f8bf475b",
+    "Asset/Character/fine_candidates/reptalian/atlas_007.png": "4f490ba65f417ded06228035511f88b67acfdf99cb32aec99c4c03e4ecd28412",
+    "Asset/Character/fine_candidates/reptalian/atlas_008.png": "c7865b53101c4c0a44007c8ae6cefdcb04de141f5f6cc678b4513e7fccaaf179",
+    "Asset/Character/fine_candidates/reptalian/atlas_009.png": "f8ae0df85cb936fca67a47c7d718566bc1c16f0dad9a9f920f4fc89e825b26aa",
+    "Asset/Character/fine_candidates/reptalian/atlas_010.png": "aed638db49d983684187d46de9d74588d1eca4494de77d5e137b991e013b719d",
+    "Asset/Character/fine_candidates/reptalian/atlas_011.png": "97c9c9db971de10b96a023950f750c87f9238fcdb1b810a7285e27a58a25da7f"
+  },
+  "art_source": "existing",
+  "frame_count": 48,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        690,
+        0,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        690,
+        690,
+        690,
+        690
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    690,
+    690
+  ],
+  "target_height_px": 80,
+  "reference_frame": 0,
+  "reference_height_px": 414,
+  "reference_alpha_bounds": [
+    84,
+    180,
+    540,
+    594
+  ],
+  "anchor_px": [
+    312.0,
+    594
+  ],
+  "display_scale": 0.1932367149758454,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

@@ -1,0 +1,475 @@
+{
+  "id": "scorpit",
+  "source": "Asset/Character/vfx/scorpit.gif",
+  "source_sha256": "e71168056dce8539ca817e33d02d5c51da18d08d115fcb31b8216dc3e1a62272",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_000.png": "6b489458f20f096c2b464d9364aef0928ef61edb1208bfc50298504189a4cf21",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_001.png": "6629e2fc8ff7c48aa3f526ed058b637f899bd050841262c50df9537fb745eb54",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_002.png": "46818e279bb5b87b2f06d9b2109ad2a319d53cd06730a86515b892f26fc935db",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_003.png": "23d32b8c8fa912db3a4c191e0ae59729cd00dd1524a85e6fb9e01ef24d105c06",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_004.png": "7d6effa898bd48407e6e63b2855fb2bf6a4009e1cc1fcd8d1abe6a1d05072791",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_005.png": "754506b6c44cea29618a848cd822a38b25cc80e80ce9daba3cea21e9bb7d817e",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_006.png": "5561c98636ed0b69b0887ee914f59c8895055a0301c6cba186b56ce076615f44",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_007.png": "3ca30d3d8402b352570542fb28682d23640ac97b024bd49a6df0b98e98fcc3cf",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_008.png": "f9d0f5b6cebe65ee58428e3fba9b8ad32144fa388ceaa1f335551486448ed283",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_009.png": "90c821f327c1229c8167d11431823870923fcbfdb4fd5aebbddd685d444a1852",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_010.png": "fffe081167352574bb86ed1e97adf03ba82cd4cb3f274c875ba92452f00d4f38",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_011.png": "7f3e9acd56842c7346aa14aae532c6bcff7c3f3b7afb097f56e2b579a5da7cde",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_012.png": "b1d3a48de5bb8ded2dddfb83b9e27abf551c253c495d530870eb7b19f8ad9141",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_013.png": "bf837f85e854201e48e6663c4878681968b1c4359586d841f95c957d96e5b53e",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_014.png": "4cce98d02ab30bc9b3f2a8550ea8d70369e874ce178d08eab2efbd78282e497b",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_015.png": "7b94bc219b5d91be11489c1b32601943c35eaab8a153545e4888c04974b52c26",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_016.png": "90ba154cd360ad301155cd9d58065024708ab2643883fc3280bae725c4978c21",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_017.png": "f278502d345ff6a1bd3ae3bd4f4dfa9b6b8c9e5d8bf2a0083395cb9631a2a4a6",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_018.png": "3677ef39f10d42a4c5e42335a63d79d1f8c5c26d89a3f5ce051403b2473275db",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_019.png": "ec7a4f2fba068fd0d7dd6447747082fd7b8531d1d3fdd384d48f79ee71eab965",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_020.png": "7b1b52bd3dada0f61626bba47bfee3f8916051d640b10496bc7ad0a4bc37661c",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_021.png": "8eb25e9dd566c2ab7a4647a431b4e08ceaf1b89b81d2c6a82c228c796b9e7f68",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_022.png": "54731125c2bebdb88962a5de02473065cccd621c85dd3541eefa2b6cac53ddd2",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_023.png": "5c063e808b2ee96ae63cd252479e681f4e0bbd7b771562b6221546a44b185e59",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_024.png": "210ba99533f4fec22e631cc56b681ea9910f7d3607af99041dc8e5c2fd5bda11",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_025.png": "7a832bec69c0585dda55770219c4f6eb9eb07a2fc492c34557f72fd612ba0e29",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_026.png": "bfa93d26c3d4346b921d14a2e4ff61c8362e86a2fe108d2e7e2cffb02505bbef",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_027.png": "93220ae93c747138b89f43766aa8c6652d883e26f13ed2e6f0b58a41c2040f3b",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_028.png": "818b2f1c30edaf3247c1e4433bd8af5f2364d8297d6e3a605a40a1f892186241",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_029.png": "d2d108392d957974869036e43e492f4374a45eecb4bf804f19a66daee6f6cb6f",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_030.png": "1ea44c541990e79eefef213ffc848dd39b7fc1d90c489f4aab0d2fcc94395d5a",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_031.png": "0bb2c8706b3f9a4b4ef0303d38bd78fa47ad5358f8d19b48f5e68b5f47152166",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_032.png": "6b489458f20f096c2b464d9364aef0928ef61edb1208bfc50298504189a4cf21",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_033.png": "98e58b070e1e5753be9c2b48a4503e01ff2ee25a204138f4908a28514610299d",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_034.png": "3f6bd11f3570f40880cd16a0b298cc776d9716454301da87d4d26e375665e6eb",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_035.png": "cf08cb9d26105df94929b3e7d0fd0780aa3d3d12137887f71f8231c6366dd463",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_036.png": "a8a4ceb50dd99319021f5e97bf24ea4f3f0a3c9c0f0ae6005d9123b07ad62242",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_037.png": "54d8d98cf2371fcbdff9193286e2f514a08a59f33800b8e5a0562589ffcfbb6a",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_038.png": "26f8f2f8e969b675135be1801d24f42b3ff4601ec853b61bdaa340cc45b9cbc8",
+    "Asset/Character/detail_oct28_candidates/scorpit/frame_039.png": "74fafd5f40b4919c188d499bcd7cb56f87c7ebe64bca1ef9604f346c1873179b"
+  },
+  "art_source": "existing",
+  "frame_count": 40,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    468,
+    468
+  ],
+  "target_height_px": 80,
+  "reference_frame": 0,
+  "reference_height_px": 348,
+  "reference_alpha_bounds": [
+    96,
+    96,
+    419,
+    444
+  ],
+  "anchor_px": [
+    257.5,
+    444
+  ],
+  "display_scale": 0.22988505747126436,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

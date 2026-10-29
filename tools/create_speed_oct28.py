@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Create non-destructive playback-speed candidates for conden and firer."""
+"""Create a non-destructive playback-speed candidate for conden."""
 import hashlib, json
 from pathlib import Path
 from PIL import Image
@@ -7,14 +7,8 @@ ROOT=Path(__file__).resolve().parents[1]; A=ROOT/'Asset/Character'
 def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
 def main():
  catalog={e['id']:e for e in json.loads((A/'extracted/catalog.json').read_text())['assets']}
- for name in ('conden','firer'):
+ for name in ('conden',):
   if (A/'speed_oct28_candidates'/name).exists(): raise FileExistsError(name)
- # Firer default before this change was fine_candidates, with source timing.
- name='firer'; e=catalog[name]; base=A/'fine_candidates'/name; old=json.loads((base/'candidate.json').read_text()); assert sha(ROOT/e['source'])==e['source_sha256']==old['source_sha256']
- frames=[{**f,'duration_ms':f['duration_ms']/5} for f in e['frames']]
- out=A/'speed_oct28_candidates'/name;out.mkdir(parents=True)
- meta={'id':name,'source':e['source'],'source_sha256':e['source_sha256'],'base_candidate':'fine_candidates','base_metadata_sha256':sha(base/'candidate.json'),'base_atlas_sha256':{p.name:sha(p) for p in sorted(base.glob('atlas_*.png'))},'art_source':'existing','image_variant':'fine_candidates','frame_count':len(frames),'frames':frames,'display_size':e['size'],'speed_multiplier':5,'status':'candidate_unreviewed','method':'Preserve current default frames; divide each source duration by five.','limitations':'At high speed browser or device refresh may skip poses; visual review required.'}
- (out/'candidate.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n')
  # Conden: preserve the previous nine arrow positions, shorten their interval 100x.
  name='conden'; e=catalog[name]; base=A/'detail_oct28_candidates'/name; old=json.loads((base/'candidate.json').read_text()); assert sha(ROOT/e['source'])==old['source_sha256']==e['source_sha256']
  out=A/'speed_oct28_candidates'/name;out.mkdir(parents=True); frames=[]; original=e['frames']; arrow_frames=[(i,f) for i,f in enumerate(old['frames']) if f.get('projectile_x') is not None]
@@ -36,5 +30,5 @@ def main():
  assert abs(sum(f['duration_ms'] for f in frames)-sum(f['duration_ms'] for f in original))<1e-7
  meta={'id':name,'source':e['source'],'source_sha256':e['source_sha256'],'base_candidate':'detail_oct28_candidates','base_metadata_sha256':sha(base/'candidate.json'),'base_frames_sha256':{p.name:sha(p) for p in sorted(base.glob('frame_*.png'))},'reconstructed_pose_atlas_sha256':{p.name:sha(p) for p in sorted((A/'batch_candidates'/name).glob('atlas_*.png'))},'art_source':'existing','frame_files':True,'frame_count':len(frames),'frames':frames,'display_size':[960,720],'speed_multiplier':100,'status':'candidate_unreviewed','method':'Reuse previous arrow positions; show each for 0.7 ms (100x faster). Restore the background-only pose for remaining duration so the source body timing is unchanged.','limitations':'The complete flight is shorter than a display refresh and may be invisible or appear to teleport; arrow and shaft are reconstructed.'}
  (out/'candidate.json').write_text(json.dumps(meta,ensure_ascii=False,indent=2)+'\n')
- print('firer',sum(f['duration_ms'] for f in json.loads((A/'speed_oct28_candidates/firer/candidate.json').read_text())['frames']),'ms; conden',len(frames),'frames; projectile durations', [f['duration_ms'] for f in frames if f.get('speed_insert')])
+ print('conden',len(frames),'frames; projectile durations', [f['duration_ms'] for f in frames if f.get('speed_insert')])
 if __name__=='__main__':main()

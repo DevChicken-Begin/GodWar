@@ -1,0 +1,266 @@
+{
+  "id": "dragonmout",
+  "source": "Asset/Character/vfx/dragonmout.gif",
+  "source_sha256": "9228b22d2339477c62ffba8817bcb1f1b8e554b05357b044d2d24b47374224d4",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_000.png": "1b282fcd4cb2dc2731b46c5009a70f36a344d06b36f2acd0306c019b3a996cad",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_001.png": "2d600b3a06ea7d909cce5541e0c2047e6cad068f0831b5c46eb5b1ae2e2bdef9",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_002.png": "a7c1979e3acb513d77546987c9750e4536da9ad3f5ef291d51b1754c1d755ddf",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_003.png": "b66c71f7c81c326e7201c2924c57b33e35486df98b2a596e96b06ac5d6f61ef1",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_004.png": "bfcd954085063e9e02b494db1c9210347a59cac71e37bcd8386550705ee47dca",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_005.png": "a16c9e76f7f3f32c5bc73b34deccbe6266c6532d453a55573d0c35ab5afa119c",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_006.png": "4c7c4b9beee5c139de36f5417ae3250938929bc77416f6d6bc834bb6669e99dc",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_007.png": "3e9006a66b99fe6a28814ae31f481cb870cfd1b484ed36a1976b0c187c5ea0df",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_008.png": "3f41270e72d54b4acaccaacb4eca72ce26b04d0a9afaa1ce84164d50f2142c52",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_009.png": "d69ff1b017c49bb024ca710888373d1597c8971fbf145d22dc8ccd36679f84dc",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_010.png": "a83c4458af8751a9c5d42558e6a4c82ba6097739d19b8e958a35ede68efe6dc5",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_011.png": "0c313ca684b604bab62c0a0030e5cf93ed48f46504557bea10a388059055ae7c",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_012.png": "b309dd9ed7aaec5d9415ffd4c99c693d0581e90adb9ac0f55c69b9a31ea17ff0",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_013.png": "6a39ae29cba84e11e28f0b704c9186654b715a4822f90e4d49cf1ed153c46623",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_014.png": "4355f79e2b553aa7d093a77762c646d28d5dc2149a8eea8b02691fa9492ba1c3",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_015.png": "711317e699a1fb990be73b04dd3a19ea4919432a71e84dd975164296d0783565",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_016.png": "a78e777448e11406e7131ece106f7014dbe1a9cee32dd7284d480c490d54b308",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_017.png": "4091401376a178e8d623788f44f1ddad650d034c5edad99b86a786d799454c84",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_018.png": "ffd96300c5e68bea9e62044584a5b7ec351f818b29eecd0844ecf842e0309952",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_019.png": "172dc4c561c4b9d87a17c89bb83231c01042d9a6e9891334bc35a6007775040b",
+    "Asset/Character/detail_oct28_candidates/dragonmout/frame_020.png": "76835e1b1901e91eab7601e2fdccd873fa960a1734f6016587269dd127dc9354"
+  },
+  "art_source": "existing",
+  "frame_count": 21,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        455,
+        0,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        910,
+        0,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1365,
+        0,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        455,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        455,
+        455,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        910,
+        455,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1365,
+        455,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        910,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        455,
+        910,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        910,
+        910,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1365,
+        910,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1365,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        455,
+        1365,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        910,
+        1365,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1365,
+        1365,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        455,
+        0,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        910,
+        0,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1365,
+        0,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        455,
+        455,
+        455
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    455,
+    455
+  ],
+  "target_height_px": 95,
+  "reference_frame": 0,
+  "reference_height_px": 223,
+  "reference_alpha_bounds": [
+    71,
+    153,
+    356,
+    376
+  ],
+  "anchor_px": [
+    213.5,
+    376
+  ],
+  "display_scale": 0.4260089686098655,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

@@ -1,0 +1,273 @@
+{
+  "id": "jaying",
+  "source": "Asset/Character/vfx/jaying.gif",
+  "source_sha256": "47f04e6f34345d9771fdb843818a16d00458f64d754974514b238d8a79fb951e",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/jaying/frame_000.png": "7becb8606bafdb098a23a4126817b8831356ef599c9609c83959d5af3372a17d",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_001.png": "1e2e4be73548d6f60e594f37a6ebd823bdcaf82bca6e4b27a67ba1fb46d91057",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_002.png": "a1b4fc7f637a972293f7e09875b89f54da6bc29a0a18b009598f4ce2dcf491e6",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_003.png": "a44a2068030e776b6f43602c03deab09bc2a0cc3bae1fec11519f63244aab29e",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_004.png": "d3ebf235d282848e35996af424538f1642aee0be81bba644b4be71166c4c6996",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_005.png": "75a888271923520e730f97d2cf6d835da0c55ec3748a0ca835ae86147a4c65c3",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_006.png": "a9c89a89df965d7c0053556f9b316536925624d462bc2a1790c4244eeb60dc0e",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_007.png": "caee10fc7fe5a3ff3cb6c8564fb3611ebd3145aa0106e945149bb47ad3a31da3",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_008.png": "681dd80709180460c1ea95f186fcd54ebcc5af33b4a0e10b89393ba40f06434f",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_009.png": "d639e840168b0154209fdf25459488ecd990c7b30fbdec7557a5ab3c2d9695b5",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_010.png": "ad50232f9c0e477758d63f1f381c3d0df5751106008a80492d490aef4adc36eb",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_011.png": "52cd1825f9ddb506eedb5e43fbe6cb9a31e2a1701501b8eae498bf0d8b5ca019",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_012.png": "9ed26e1ad77827109df0530db139d0c59e6fd04b62963ab2e1d3f006f30945c3",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_013.png": "6d8218b48a7d8100ad8d30975bb416db34fe4404c956d7226df82c59b01f816b",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_014.png": "b0507d75abbcd174b7d0fdaff7ed57b6673cffb6c78b7fe03d454ab77571081d",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_015.png": "3d5b0d7b777be12cacbeb32722b084ae7b2d7e960e49aa9ba05549f89f243dcc",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_016.png": "86ac344b78c3c06fe5d7887f0917fc7c109c587aee116d8f4b293ae497902cbc",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_017.png": "bb02720a203369637c13081e68c5f0496055b7faf670105e5e64e8ac2cb25534",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_018.png": "9a6c714b262907911d6427dc7873d0fe71268604704a155030682695341168a9",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_019.png": "ab99475b9ea5eae09c13100eac56426919bd19e83b253f9d697c327d2ba12428",
+    "Asset/Character/detail_oct29_candidates/jaying/frame_020.png": "4c36205ba18c7a1824cb48d56636a4c9aef129375e793bdcfec52b40e1108c15"
+  },
+  "art_source": "existing",
+  "frame_count": 21,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        0,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        312,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1560,
+        624,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        312,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        936,
+        312,
+        312
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    312,
+    312
+  ],
+  "target_height_px": 65,
+  "reference_frame": 0,
+  "reference_height_px": 108,
+  "reference_alpha_bounds": [
+    77,
+    152,
+    214,
+    266
+  ],
+  "anchor_px": [
+    145.5,
+    266
+  ],
+  "display_scale": 0.6018518518518519,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round2",
+  "reference_body_bounds": [
+    80,
+    155,
+    210,
+    263
+  ],
+  "body_measurement_note": "Frame 0 largest connected foreground component checked visually; attached VFX may remain, and detached details may be excluded."
+}

@@ -1,0 +1,559 @@
+{
+  "id": "comic",
+  "source": "Asset/Character/vfx/comic.gif",
+  "source_sha256": "a9dc4e548b33c5c7ba5b4e80dc56f671dff903c8829ad503394d5b082d89bbc6",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/comic/frame_000.png": "e04147f8f94b9cd905edb0069ce17777d8872baee847fb2b4094cc768c909698",
+    "Asset/Character/detail_oct29_candidates/comic/frame_001.png": "61d3c213b847a1d2ee0a11f90ad39a518b973a816edd8e0e73e1b2d62796857b",
+    "Asset/Character/detail_oct29_candidates/comic/frame_002.png": "53a64e02e455681dd232f2a6f460f2404c348fdebc0b816b9f6b0075a8c3e3e7",
+    "Asset/Character/detail_oct29_candidates/comic/frame_003.png": "a51b86ed4cf61c14cd11118370a9786933d13753676d530efe2578459bf9531d",
+    "Asset/Character/detail_oct29_candidates/comic/frame_004.png": "b7d850846d28fc93ef685f49d2b7a91ef8c92e71c8cfe7dabd74d0c4d970ed02",
+    "Asset/Character/detail_oct29_candidates/comic/frame_005.png": "727201d444dbc2489bacee8281e59c6162af625268e3b2bd50660307e474ff17",
+    "Asset/Character/detail_oct29_candidates/comic/frame_006.png": "292d0c81b5896dba78efb58e2d400ece8110f3388509e6ca9701e4f12fe8525b",
+    "Asset/Character/detail_oct29_candidates/comic/frame_007.png": "6583646247d5472d1dc792d65d0ee68c4d4951e18feab306631d95b59e2d4f16",
+    "Asset/Character/detail_oct29_candidates/comic/frame_008.png": "12bac7ddf8f47be329f56e6ee8a974d7dc1f84779bd473fd48e396f928bb5911",
+    "Asset/Character/detail_oct29_candidates/comic/frame_009.png": "0e8aece18c8229f972ef7ac8888dd660775b0e0acd2925bcdb4ba0a82180500a",
+    "Asset/Character/detail_oct29_candidates/comic/frame_010.png": "a4a983baa4a6edba47ccaf687998c5e3a409f00ec2a9ad65f12e40518c1f2ecb",
+    "Asset/Character/detail_oct29_candidates/comic/frame_011.png": "8f7b62531c9822beea3f6639a1eaa27fa1cb9daedf90d8dfa996bbbe1f4f68da",
+    "Asset/Character/detail_oct29_candidates/comic/frame_012.png": "e04147f8f94b9cd905edb0069ce17777d8872baee847fb2b4094cc768c909698",
+    "Asset/Character/detail_oct29_candidates/comic/frame_013.png": "61d3c213b847a1d2ee0a11f90ad39a518b973a816edd8e0e73e1b2d62796857b",
+    "Asset/Character/detail_oct29_candidates/comic/frame_014.png": "53a64e02e455681dd232f2a6f460f2404c348fdebc0b816b9f6b0075a8c3e3e7",
+    "Asset/Character/detail_oct29_candidates/comic/frame_015.png": "a51b86ed4cf61c14cd11118370a9786933d13753676d530efe2578459bf9531d",
+    "Asset/Character/detail_oct29_candidates/comic/frame_016.png": "b7d850846d28fc93ef685f49d2b7a91ef8c92e71c8cfe7dabd74d0c4d970ed02",
+    "Asset/Character/detail_oct29_candidates/comic/frame_017.png": "727201d444dbc2489bacee8281e59c6162af625268e3b2bd50660307e474ff17",
+    "Asset/Character/detail_oct29_candidates/comic/frame_018.png": "292d0c81b5896dba78efb58e2d400ece8110f3388509e6ca9701e4f12fe8525b",
+    "Asset/Character/detail_oct29_candidates/comic/frame_019.png": "6583646247d5472d1dc792d65d0ee68c4d4951e18feab306631d95b59e2d4f16",
+    "Asset/Character/detail_oct29_candidates/comic/frame_020.png": "12bac7ddf8f47be329f56e6ee8a974d7dc1f84779bd473fd48e396f928bb5911",
+    "Asset/Character/detail_oct29_candidates/comic/frame_021.png": "0e8aece18c8229f972ef7ac8888dd660775b0e0acd2925bcdb4ba0a82180500a",
+    "Asset/Character/detail_oct29_candidates/comic/frame_022.png": "a4a983baa4a6edba47ccaf687998c5e3a409f00ec2a9ad65f12e40518c1f2ecb",
+    "Asset/Character/detail_oct29_candidates/comic/frame_023.png": "8f7b62531c9822beea3f6639a1eaa27fa1cb9daedf90d8dfa996bbbe1f4f68da",
+    "Asset/Character/detail_oct29_candidates/comic/frame_024.png": "f8241fa2b36cfc8ac14b63ce351d530b19f348520505930953aec2ef8c39b676",
+    "Asset/Character/detail_oct29_candidates/comic/frame_025.png": "92ee4c23c77ab3e8f1e82df1264d833d8269e0d19d57331f2776fbd134028679",
+    "Asset/Character/detail_oct29_candidates/comic/frame_026.png": "9f752247c4c356a52b9f0d0e2e58a506a90bac1a901a956bbeecd1381bd15bfa",
+    "Asset/Character/detail_oct29_candidates/comic/frame_027.png": "01669a76714e3fbf303e01714bc01e6a6db99d0439f1a8fc53273a0c626f2645",
+    "Asset/Character/detail_oct29_candidates/comic/frame_028.png": "70a5f239827de843dd3e6e00ed0bd51cd2c2ef0e75f74de94754df1551ce3e9e",
+    "Asset/Character/detail_oct29_candidates/comic/frame_029.png": "d3b0e812555fbfc5ec94d80359edb046278409b9028e2322caba00d1040414cb",
+    "Asset/Character/detail_oct29_candidates/comic/frame_030.png": "b05282ef8e6a788bc5735f1dbff8e3ce812d808a836e1833fc86f523954337d7",
+    "Asset/Character/detail_oct29_candidates/comic/frame_031.png": "66bb6cc1d7a098a36ca58194c4ead03be33f47788590d526d8f3d59d1e17b762",
+    "Asset/Character/detail_oct29_candidates/comic/frame_032.png": "9b9c3580d9649b209445023ce41eba17b8e332a35c858fb111404d1ddbccef3e",
+    "Asset/Character/detail_oct29_candidates/comic/frame_033.png": "f28cca223f8c826dde0c8d4427d04c1cc3c6115a1dc7825d845652b57e07f298",
+    "Asset/Character/detail_oct29_candidates/comic/frame_034.png": "53a6239d1d5c7e55d140520f2ed4c1fdb0a09a2e7d0195cb90a5d62fdae34c11",
+    "Asset/Character/detail_oct29_candidates/comic/frame_035.png": "4e9e1f8f34c201ae3799d019778ff120b2e1b5a25396bc04dfd47b5dd07625bd",
+    "Asset/Character/detail_oct29_candidates/comic/frame_036.png": "75d4d10fd43f59941222ac5658ca0650e9dfd04998b99ca45bf17d33d4f1e01c",
+    "Asset/Character/detail_oct29_candidates/comic/frame_037.png": "a7baca7fa2ec2fba029973ead21cd8dbd9ae44f6a6359ea1523ad9cfd81bee53",
+    "Asset/Character/detail_oct29_candidates/comic/frame_038.png": "877287518c2f7e439ae71a1203b6cc21a55ec9a0bd59cd02ea3459c91e39d5a5",
+    "Asset/Character/detail_oct29_candidates/comic/frame_039.png": "0fa5504234e455cce521ae039e7c3e0e047e1209472e361159d997135b523062",
+    "Asset/Character/detail_oct29_candidates/comic/frame_040.png": "456f78bc9461d1dbaa22f5a866149bc15eb2c03cdf35c6905a925fca06354552",
+    "Asset/Character/detail_oct29_candidates/comic/frame_041.png": "073ed6dc478ca3bf1e382e74a16bc8c9b4fa7a796f4ed8d5b5685bfdf409db76",
+    "Asset/Character/detail_oct29_candidates/comic/frame_042.png": "e2d261177c73964a4419ec51749ef1c5eaab7c500248f6f63e1a7c3fd7708db3",
+    "Asset/Character/detail_oct29_candidates/comic/frame_043.png": "bbfc6905eba164eb02525465fdcdfbff52f672f9f5fbb64713594bc4d43bb50b",
+    "Asset/Character/detail_oct29_candidates/comic/frame_044.png": "092b31b704d6ba11de36ea02aec266be2d6cbc82607bbe9d787209f305747cc5",
+    "Asset/Character/detail_oct29_candidates/comic/frame_045.png": "25e177a556de65451e5d747bd74a0ea476264e2c04209c751e4bc74fc66a64fa",
+    "Asset/Character/detail_oct29_candidates/comic/frame_046.png": "9cdf790b36bbd8e3a0c56b08705b238714664f5d2de8117b803dbb2828dea1c6"
+  },
+  "art_source": "existing",
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        624,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1248,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        624,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1248,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        624,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1248,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        624,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1248,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        624,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1248,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        624,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1248,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        624,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1248,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        624,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1248,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        624,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1248,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        624,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1248,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        624,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1248,
+        624,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        624,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1248,
+        1248,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        624,
+        0,
+        624,
+        624
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    624,
+    624
+  ],
+  "target_height_px": 85,
+  "reference_frame": 0,
+  "reference_height_px": 332,
+  "reference_alpha_bounds": [
+    196,
+    176,
+    441,
+    528
+  ],
+  "anchor_px": [
+    318.5,
+    528
+  ],
+  "display_scale": 0.2560240963855422,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round3",
+  "reference_body_bounds": [
+    199,
+    193,
+    437,
+    525
+  ],
+  "body_measurement_note": "Frame 0 largest connected foreground component checked visually; attached VFX may remain, and detached details may be excluded."
+}

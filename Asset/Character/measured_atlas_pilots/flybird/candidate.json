@@ -1,0 +1,526 @@
+{
+  "id": "flybird",
+  "source": "Asset/Character/vfx/flybird.gif",
+  "source_sha256": "96bcdd1f60a7b3ec634f9ba3a88dddbc788238919428616682e6ae7daad5f3b0",
+  "input_candidate": "fine_candidates",
+  "input_sha256": {
+    "Asset/Character/fine_candidates/flybird/atlas_000.png": "732a81b5236bada2863eb04d775af3791f8fd7c9816eaf47af90db33385c7902"
+  },
+  "art_source": "existing",
+  "frame_count": 49,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        200,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        400,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        800,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1400,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1600,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1800,
+        0,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        200,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        400,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        800,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1400,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1600,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1800,
+        200,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        200,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        400,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        800,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1400,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1600,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1800,
+        400,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        200,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        400,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        800,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1400,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1600,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1800,
+        600,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        200,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        400,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        800,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1000,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1400,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1600,
+        800,
+        200,
+        200
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    200,
+    200
+  ],
+  "target_height_px": 80,
+  "reference_frame": 0,
+  "reference_height_px": 92,
+  "reference_alpha_bounds": [
+    54,
+    76,
+    188,
+    168
+  ],
+  "anchor_px": [
+    121.0,
+    168
+  ],
+  "display_scale": 0.8695652173913043,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

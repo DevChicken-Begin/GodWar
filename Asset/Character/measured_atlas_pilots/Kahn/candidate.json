@@ -1,0 +1,1256 @@
+{
+  "id": "Kahn",
+  "source": "Asset/Character/vfx/Kahn.gif",
+  "source_sha256": "4911bbdbaabc843923ac391b521281192fd8c39511e5d629a6bd20badcc8b133",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_000.png": "d4ae305232fb99265c73b903d47a9e7dd49915d37d19d384c26f91788c19fff4",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_001.png": "6dd20ee3e6915ba5f86894790f9e3032008da2466e884e1725577d2137c0ae1d",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_002.png": "7dcc35d9a7767627136cfef8487405d3fd6adc8cf5d440dd9487c70eb392eef3",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_003.png": "fe482b10920cfb331eb7744c7a7b5b5062bfe77f3a2a88de385c4acd0dbeeb38",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_004.png": "2bef04c5fba5f866bb0c6a72d641a0196cf09d8239ee107f2ece14b2d65a61eb",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_005.png": "6a69394e452fea828f1b6b5424664192e63b52529d2e8c55a0ac8a062750effc",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_006.png": "6eef73de37261a1082861a84690524249f67d1cde2ac36d5bf8622c2b21d53df",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_007.png": "5ac43d09767fbfd2574ea1b7bacd9ad09a73b810d60e0cee1e49cf9cf5e8c9b4",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_008.png": "2dba9d7a1116acda4937197c527ecc06f1c8a8d8134fd426d67146a3e2680566",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_009.png": "6bfcb0417ccf63f5d8558eee73195922f81b7b6633ff0cbcf95ef3358e3d0efa",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_010.png": "90e372c4c56bca6cf6fae6afe92999e67680c902bab091d563bf6fa8a68ea2c2",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_011.png": "d32a808f2ed3518cf37771fefe7ead06b5b7cd59c483362ffa07560e5f51cedc",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_012.png": "ef624c91e02e187b7e4932e56f77f564c4067827af75f90b3204bc16d70799ad",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_013.png": "5d2b6c52106e45f551acdf94f779403a0197e6b63a276f80469a458de5299ee9",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_014.png": "b33dc7193d0a244f2aa18ad6627c70906c1282330afbb506b25e49829509e62f",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_015.png": "dd6953d8e1e21fc3e7f0a97034f269c243bb7a3c9f27003aa6e592f9b20569eb",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_016.png": "ef0a2c94a3e2a21f30bcb3d3d9ee0a40bcf21e0ce95036835738904d296fe86c",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_017.png": "bb426853b5a809f295f0f8d5d3dbf8359de5bcee0e59b3919021a4444dba3b43",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_018.png": "e93d37ecfa324a835e9c0c6f5c38334ea39a14c1e33b3fd79b2f1809df775257",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_019.png": "6bdd2f7a58ac5f598a16e35bda2c971408de9c53f2c1b50f6fedccd8afeb63cb",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_020.png": "82ebd38045c1d46dbb36f458a3a5e19148b23e6e1971c706bfc6f1b203a5eab3",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_021.png": "c3308e08f2b74e1f547787f5079e758f3829f4ae25fef77db83461168953152e",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_022.png": "16ab49bc223b8f5f825db86dcdaa5985e2aa001e8b7a7d1723359e040dc6c98a",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_023.png": "09e1aa2b8b17c2965c321cd5e41d4f267f5d338ce80e18e287269c460a47100d",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_024.png": "b4a5d35181afba8c8c91e84e163031e69ce7c5c197d655ffbe54ad447a0f39cc",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_025.png": "f1a915e54bdbff6e3cc326b5a3daf3a78e87a3aadbe881764b8bdea0b9e878a5",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_026.png": "315734c3c0d1e669b4734d8b85c63f6e389806790b5632ff4ce55786883baae2",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_027.png": "0ffcfaabd1e16ba7737f000ce5967d1a782f2fcdfa5f7d17be3018b78222ef9f",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_028.png": "555d11af448a8288755c9feadbb4a840c64736050918ef684624de759eaf3c4e",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_029.png": "bf96979b246801161745496c9fb0de2d5e13290621295dac912176d70af4e3bf",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_030.png": "a0a17591c5529130dbcc0660f265d4e326d57cd2509d59ff423bac7c23e0b7ce",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_031.png": "f4b92beab75519590b1db3b32e2f8b6a8c2643872b37c401a4aadeb8470406af",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_032.png": "438f6d95433edcec21d632b9aacde7079d11236ea4ede279a649abef51ecce8a",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_033.png": "fe626a6a4a2561f6399b3d9792ec09c6a62cca3e939d1612f4c58edb902d804c",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_034.png": "1defc9cd8cca52de6294e70355d3cd75cd515fd4ce91b5d8fd5c320e1db0f70c",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_035.png": "602017d8a2ae465470aed18419f752b78d8dd57eb1bdc4cef5526d569c4d861a",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_036.png": "df3a8daa93c517a7771e6ad807aba6475c6b791c0c2602861ffc8a39a700a54e",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_037.png": "d333bc684c625029802529d0972775eb4a1ec7b00d6a6fb7962fba186ebaac4e",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_038.png": "cf2da9228a4326f76435be16e98fb8bad31789b7a88f7124c533a00272bae69c",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_039.png": "682cb1a9505633988b81da2d725b091dca6811a062bd093fe1dd45776afb6d3c",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_040.png": "36702d2aff7cb2339bcdff54675d02b967c9bd916cbd412ef4c05b739d33ed76",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_041.png": "43b425f6cdb8702649b8c2f462687bbe9a9212660cd87017bc021bee97da046c",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_042.png": "452719af0c1aa7d6f7bc48625352ca643cd2c9991bc0b078a27f3b2871fe1fd1",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_043.png": "8c900874136523dbfe213ddcc7f194635cd6cf760ed92bff717acb16f41053ee",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_044.png": "cce789cffa69cca929095abeb6b7bbe9018277aacd7f469abe82dc00715b91d3",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_045.png": "96b5817598d1e0178f0a429d40680a541a038a1a6069d7a3e145c615eea4b4b3",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_046.png": "b22d9ebfdd37ecba7b03637279950a6856249afa620ed4931f7ac4fd19aecf0d",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_047.png": "29bb3c5d1c0d21caf204cd84ea04b3b07df34e25348122f4825b45f8b377809a",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_048.png": "58ebb9535cfcaf58bd5df8c4fdc2d8e85f7a198d647a38b1ce9b5cd75fa1073a",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_049.png": "28f337bf3e7a84c4fd7fec512dc68e3d3cb9c5dc5f8ecc66c2167a769e90e3c7",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_050.png": "827bcf917524b956f7849130a067aac2238b3ad9fb2ce939490a700a378baf8f",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_051.png": "f39b3c7d33b5a9f78004e72de18f0c2eadf8637c76c681709f84c0a10f6cff0b",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_052.png": "ba919d6e122fea2718b6d7b9c19fae3384d8a377373466c9b285f5ae6092eecb",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_053.png": "5dd53e1e0c33b6090bce5847d3c503cda4dce58b11331384c387ad9a90bb8852",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_054.png": "5f7bf1a52c5ff3f8d53d8eeadcc1ceb36dc2118426504e40158734d751492c49",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_055.png": "d519a8620eb9021a890696895c0bbb5cb36a7d1a54f80f9bef7d1a8ea9fe62db",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_056.png": "5cbe627870177295e2b44436c6030167b56e40f71d7b6a28aa137df780e65eba",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_057.png": "60e43d869f7ff73801b0f864b70bdd3e4f58984d16259e392e1cfa18beaeb76f",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_058.png": "9db71f64333af77dc52648ed092548175eecceb8d18342de9cda793047ccd021",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_059.png": "d53488f167949665567861d51510eafc2f9c1eafddcb9ff8cc2a550e0701d84d",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_060.png": "b56453a42d2df155b7b243a7ff2cd2b11a91612fa76a7f1ec1351ac45b4b82fd",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_061.png": "22072d2007bcb26ca607a10b9a17ea3d3bc8250f3c606781d5621f63fa4dbc18",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_062.png": "2dba9d7a1116acda4937197c527ecc06f1c8a8d8134fd426d67146a3e2680566",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_063.png": "6bfcb0417ccf63f5d8558eee73195922f81b7b6633ff0cbcf95ef3358e3d0efa",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_064.png": "90e372c4c56bca6cf6fae6afe92999e67680c902bab091d563bf6fa8a68ea2c2",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_065.png": "d32a808f2ed3518cf37771fefe7ead06b5b7cd59c483362ffa07560e5f51cedc",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_066.png": "d4ae305232fb99265c73b903d47a9e7dd49915d37d19d384c26f91788c19fff4",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_067.png": "9e9868c2c1b26e5e6797457c794633e81e07bc9c15161b316d20bfe0b82daec3",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_068.png": "3e4335685d84ec0edf2fa8542eb508fea599ce2731966e631b16cb37c75f3bbd",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_069.png": "9ac2b13a4626d31ccc3260c8ed4d846b33767fbbac160d062fb118ccd5f9c016",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_070.png": "be3f2477ef3986734f3781f547c9ad9f8a503ee60b038c68b596b543d8446923",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_071.png": "4bab484892dd8dd5ce87f0553ef6be361ee72012162e30db4560ad81d933e3fb",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_072.png": "9b05816b8815589105d05536a51fb80c7d438a92d1b91a63edcb652793802780",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_073.png": "3d120e997f17b8798d344ea2673ddf4752355219b23d50fe36c70d9e52f075e4",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_074.png": "c2ff47363bbdb4ad0333edfb933a4c67f36622bc978c615683bc3a004cca96f0",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_075.png": "2c152fa7b843a4373e98b0f78b7b65b5bb9e3d24edcf7a84258f5bdf76e930da",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_076.png": "01e6e01a62572a134420c9cc68af4d0cc3780a005b4cc686c14b5c8efb1f7672",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_077.png": "613ed6116be69dd84da7bc4bdefd6e91255a93aeda5ac24413ff763bf3b0de78",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_078.png": "38a3b64933d3caaf22a9a3c6a49b951d1de421a24a5f48e9e6176eb6a595043e",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_079.png": "e207c5c735b6faf2759f38866dfcc587b2d9da957498c3ec532823b683784fa5",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_080.png": "a8cf92b5699c3e7ccfb582ad06ef63f3ab65dd100dea13d15e7079e8ed113a9e",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_081.png": "bb8f949e480b5107149897751d8bc67f095d72c58d2a9374469b76a2dcb237fd",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_082.png": "b09509902e9da166ae440bc7ee37fe1ce2a2fa09e967ffcbfcb68e29bd5c7b43",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_083.png": "f22968e45c0ffe72a5d98cfc5251373118b2056768c1d5679b27062e9183e8be",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_084.png": "8407b2cb1ab2aeecffc9605e7f71949f4a0c385d004da4e2615ffaf54a567676",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_085.png": "113a366fa39bde6245266035870765459eb2246e02fe8038674cb2eca631b5ba",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_086.png": "2d6fc45d5b8a4b1856940c284e9a37d0715d23a4d4877e9e6d055a0ca511ad53",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_087.png": "adb1d501cc1c58f25f6e960ae76931228603cf6288dbf45e905b75aa2ebc8d17",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_088.png": "0d0096c133956860a943d7b33ddf146d2ab1c24249eef2f0d7715267e9845a62",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_089.png": "0d0096c133956860a943d7b33ddf146d2ab1c24249eef2f0d7715267e9845a62",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_090.png": "0d0096c133956860a943d7b33ddf146d2ab1c24249eef2f0d7715267e9845a62",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_091.png": "0d0096c133956860a943d7b33ddf146d2ab1c24249eef2f0d7715267e9845a62",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_092.png": "0d0096c133956860a943d7b33ddf146d2ab1c24249eef2f0d7715267e9845a62",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_093.png": "0d0096c133956860a943d7b33ddf146d2ab1c24249eef2f0d7715267e9845a62",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_094.png": "0d0096c133956860a943d7b33ddf146d2ab1c24249eef2f0d7715267e9845a62",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_095.png": "0ded17db1839bc12be8e1099b9961c72f0e8a6a173ec80c30647afe5f53b9501",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_096.png": "260d6008525539bf18c856e4481b94f95946a5a00f6e4931ee9e37fcd937df02",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_097.png": "c897f5f954627dbbe01d069200b67f6c1b1ac7473bc4fd3a4f8c9f769a3c160c",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_098.png": "eecc08b2e8e2d67923506227b9cd438e5e6cccd8409e47c78aaf11fb5e1a3bde",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_099.png": "32857ec25d34ef58a18567c36d9e8d34e7aa3c42eb3863f68d204603348b537e",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_100.png": "b646917dbeae804a69c1b75336f5abd58b3aeff13f7443e48059f05e8ad8bdb8",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_101.png": "c66fd619a2deca52b76995c9963878e9b49b275b562ca1981c72343df2876646",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_102.png": "d5d44be9d8e60ac536babc1fd668e2ca6db3950bad8da30aded02f58a490c889",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_103.png": "0ded17db1839bc12be8e1099b9961c72f0e8a6a173ec80c30647afe5f53b9501",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_104.png": "260d6008525539bf18c856e4481b94f95946a5a00f6e4931ee9e37fcd937df02",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_105.png": "c897f5f954627dbbe01d069200b67f6c1b1ac7473bc4fd3a4f8c9f769a3c160c",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_106.png": "eecc08b2e8e2d67923506227b9cd438e5e6cccd8409e47c78aaf11fb5e1a3bde",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_107.png": "32857ec25d34ef58a18567c36d9e8d34e7aa3c42eb3863f68d204603348b537e",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_108.png": "b646917dbeae804a69c1b75336f5abd58b3aeff13f7443e48059f05e8ad8bdb8",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_109.png": "c66fd619a2deca52b76995c9963878e9b49b275b562ca1981c72343df2876646",
+    "Asset/Character/detail_oct28_candidates/Kahn/frame_110.png": "d5d44be9d8e60ac536babc1fd668e2ca6db3950bad8da30aded02f58a490c889"
+  },
+  "art_source": "existing",
+  "frame_count": 111,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1080,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1080,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1080,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1080,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1080,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        360,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        720,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1080,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1440,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        360,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        720,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1080,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1440,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        360,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        720,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1080,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1440,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        360,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        720,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1080,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1440,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        360,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        720,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1080,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1440,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        360,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        720,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1080,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1440,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        360,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        720,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1080,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1440,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    360,
+    360
+  ],
+  "target_height_px": 87,
+  "reference_frame": 0,
+  "reference_height_px": 211,
+  "reference_alpha_bounds": [
+    120,
+    94,
+    334,
+    305
+  ],
+  "anchor_px": [
+    227.0,
+    305
+  ],
+  "display_scale": 0.41232227488151657,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round3"
+}

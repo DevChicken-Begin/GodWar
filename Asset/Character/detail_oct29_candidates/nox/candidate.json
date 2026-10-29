@@ -1,0 +1,739 @@
+{
+  "id": "nox",
+  "source": "Asset/Character/vfx/nox.gif",
+  "source_sha256": "a8c66d01969f3dff2bc1174dff41f343d2b91e74c1d79948a242db0b67e47270",
+  "base_candidate": "detail_oct28_candidates",
+  "base_metadata_sha256": "d90a0eac3744c352f4b0d848f616e7b54cbd38e7f577ecd660bb71556283d2ab",
+  "base_input_sha256": {
+    "Asset/Character/detail_oct28_candidates/nox/frame_000.png": "37d9a7792031aaf2d1753e3b27d1cf1635de135ff50f7175e7e0efaf4c36236a",
+    "Asset/Character/detail_oct28_candidates/nox/frame_001.png": "72e69cb8bb7929efd0472df088630dce79d4517967a949aa8c810b11187aa875",
+    "Asset/Character/detail_oct28_candidates/nox/frame_002.png": "aeb92c51f9528182f676788a6a8ebbc05af5fed50db9a33cfb07ce12143e7481",
+    "Asset/Character/detail_oct28_candidates/nox/frame_003.png": "d89bd31f47bf8b278d267501cee3df5bb59ca29dd85b3c9b6eb4aa4e8b4a07cd",
+    "Asset/Character/detail_oct28_candidates/nox/frame_004.png": "012bc4fb98bdbaa98f7c826bad30b88b0ac5050b3bd3c62ed14ef66aae5156db",
+    "Asset/Character/detail_oct28_candidates/nox/frame_005.png": "e78672bdaa129b5f51c31ed3108d79e30d586690b89bc090eb3e2e01dde80820",
+    "Asset/Character/detail_oct28_candidates/nox/frame_006.png": "f3464c3cacc804ff9029bdf85dc82ec3e9a096d678b6dcdd4f21904818160134",
+    "Asset/Character/detail_oct28_candidates/nox/frame_007.png": "f9e758facafa1537ccb415d2873c5205cbc4ad73f3924387293bba7f5e335e92",
+    "Asset/Character/detail_oct28_candidates/nox/frame_008.png": "c14afb8adce8d0df924426f299d6a54a3f889d4ee7705877fd1c758dd1e3c158",
+    "Asset/Character/detail_oct28_candidates/nox/frame_009.png": "152d524f4c06ff1996fa5785ea2ef639f1e2a2d74e2322521f38fe396c211010",
+    "Asset/Character/detail_oct28_candidates/nox/frame_010.png": "f6273a061bc3e71e607542e186eb718f0feb955bc5d3cb54b88f6f4a1ed5a490",
+    "Asset/Character/detail_oct28_candidates/nox/frame_011.png": "5491c1394c6463937294b83a09244b2354fdb348440f13bf77710ed33ca5627c",
+    "Asset/Character/detail_oct28_candidates/nox/frame_012.png": "1b3d1f98102fc834b4bda70cf619756f1881a656a1bc5c1a67f727e8d555a635",
+    "Asset/Character/detail_oct28_candidates/nox/frame_013.png": "37d9a7792031aaf2d1753e3b27d1cf1635de135ff50f7175e7e0efaf4c36236a",
+    "Asset/Character/detail_oct28_candidates/nox/frame_014.png": "72e69cb8bb7929efd0472df088630dce79d4517967a949aa8c810b11187aa875",
+    "Asset/Character/detail_oct28_candidates/nox/frame_015.png": "aeb92c51f9528182f676788a6a8ebbc05af5fed50db9a33cfb07ce12143e7481",
+    "Asset/Character/detail_oct28_candidates/nox/frame_016.png": "d89bd31f47bf8b278d267501cee3df5bb59ca29dd85b3c9b6eb4aa4e8b4a07cd",
+    "Asset/Character/detail_oct28_candidates/nox/frame_017.png": "012bc4fb98bdbaa98f7c826bad30b88b0ac5050b3bd3c62ed14ef66aae5156db",
+    "Asset/Character/detail_oct28_candidates/nox/frame_018.png": "e78672bdaa129b5f51c31ed3108d79e30d586690b89bc090eb3e2e01dde80820",
+    "Asset/Character/detail_oct28_candidates/nox/frame_019.png": "f3464c3cacc804ff9029bdf85dc82ec3e9a096d678b6dcdd4f21904818160134",
+    "Asset/Character/detail_oct28_candidates/nox/frame_020.png": "f9e758facafa1537ccb415d2873c5205cbc4ad73f3924387293bba7f5e335e92",
+    "Asset/Character/detail_oct28_candidates/nox/frame_021.png": "c14afb8adce8d0df924426f299d6a54a3f889d4ee7705877fd1c758dd1e3c158",
+    "Asset/Character/detail_oct28_candidates/nox/frame_022.png": "152d524f4c06ff1996fa5785ea2ef639f1e2a2d74e2322521f38fe396c211010",
+    "Asset/Character/detail_oct28_candidates/nox/frame_023.png": "f6273a061bc3e71e607542e186eb718f0feb955bc5d3cb54b88f6f4a1ed5a490",
+    "Asset/Character/detail_oct28_candidates/nox/frame_024.png": "5491c1394c6463937294b83a09244b2354fdb348440f13bf77710ed33ca5627c",
+    "Asset/Character/detail_oct28_candidates/nox/frame_025.png": "1b3d1f98102fc834b4bda70cf619756f1881a656a1bc5c1a67f727e8d555a635",
+    "Asset/Character/detail_oct28_candidates/nox/frame_026.png": "dbcb1cbb5aa3c4369a6c8c281ea2ca321ea7c4e57d9023159c029029f87f1d13",
+    "Asset/Character/detail_oct28_candidates/nox/frame_027.png": "a5744455680a57745fe5d4457631f8251db12d06c6547e8b3c7b163d530554b0",
+    "Asset/Character/detail_oct28_candidates/nox/frame_028.png": "246d322fa6697aad8e353f0f6e5fe5f728a6069245cca52b89adc93451fa26b6",
+    "Asset/Character/detail_oct28_candidates/nox/frame_029.png": "b661a0440d6532c4d6bfae484c9cbd94f7ac15fd1e29b67746c172ab101f8edf",
+    "Asset/Character/detail_oct28_candidates/nox/frame_030.png": "6f03a9d258e2e192571023a048ca54b5592753f1778dedf8ee06a9181c939646",
+    "Asset/Character/detail_oct28_candidates/nox/frame_031.png": "76a67ce6b200592be0951e02d79aaade32f4254bf9220496055adbe5fa5a1f47",
+    "Asset/Character/detail_oct28_candidates/nox/frame_032.png": "879ae5efab657fd4517b9b0a172059841f5a29e2faf198abebbf2adea8ec3034",
+    "Asset/Character/detail_oct28_candidates/nox/frame_033.png": "cc6d7751de61bd9503e423c94cae68c9afee58629cd79455b05e8773e18d1087",
+    "Asset/Character/detail_oct28_candidates/nox/frame_034.png": "1a06999af592f83899f9b2973da59e14e5cdc65634f16389f26b7d1d11b786c4",
+    "Asset/Character/detail_oct28_candidates/nox/frame_035.png": "9883d739c468fcf987b4f1ceea135bf7ef1e3a66e233fda0d39d21217c29c105",
+    "Asset/Character/detail_oct28_candidates/nox/frame_036.png": "f5d692280ee0ff0842787cd65c8310a524cfaada3b00593069dc7e5de771e469",
+    "Asset/Character/detail_oct28_candidates/nox/frame_037.png": "6c28691e1e58119dff7f384af97470e3871e2224bc3b62a4546e76ee1d52914f",
+    "Asset/Character/detail_oct28_candidates/nox/frame_038.png": "796030d0e758ad5cb634ccd5b78ed9a18f741a914c2b82845e89c46445d44a69",
+    "Asset/Character/detail_oct28_candidates/nox/frame_039.png": "9e5202bc1a73b024334a2d569d1c0b26b9fe344414bd94dbee3eee55bbdbc6e7",
+    "Asset/Character/detail_oct28_candidates/nox/frame_040.png": "9fdd60aab15a0e70518b5a0cb73a7435b52a3f8b24ec6b4bb3a77a7f9eb49bfd",
+    "Asset/Character/detail_oct28_candidates/nox/frame_041.png": "c2b3933a00bf9010db21ad462a633cd672664fa8bff594699465084379a5ba96",
+    "Asset/Character/detail_oct28_candidates/nox/frame_042.png": "a10153c06bdbef65710f5c51881b7c0372831565d2152fc7f982f3c584251609",
+    "Asset/Character/detail_oct28_candidates/nox/frame_043.png": "6ef26072bb075f4b42fcc1b8c0735c407833a3cb8d2fb9eb28b1c786a67f40d2",
+    "Asset/Character/detail_oct28_candidates/nox/frame_044.png": "daea9f8df2052a7ad55a917ce6f1c44c1b1d404f2b7fdc12f1d60c1c65294601",
+    "Asset/Character/detail_oct28_candidates/nox/frame_045.png": "e841f3839565526fd9a12256a0a45a07f31f87775da04b223b54e941a37bcb3f",
+    "Asset/Character/detail_oct28_candidates/nox/frame_046.png": "de50859cadf72121a193f12b4346f5710e159560804e4c6657ac02ad3dc5da41"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.3,
+  "display_scale": 0.8,
+  "base_display_size": [
+    540,
+    540
+  ],
+  "display_size": [
+    432,
+    432
+  ],
+  "base_frame_size": [
+    842,
+    842
+  ],
+  "frame_size": [
+    1095,
+    1095
+  ],
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        540,
+        540
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        1095,
+        1095
+      ]
+    }
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos upscale by 30% per axis, then mild RGB unsharp mask (radius 1, 18%, threshold 3); preserve source frame timing. Display size changes only by explicit display_scale.",
+  "limitations": "Interpolation cannot restore missing source detail; sharpening may introduce halos or change effects. Inspect every frame at game size and over light/dark backgrounds."
+}

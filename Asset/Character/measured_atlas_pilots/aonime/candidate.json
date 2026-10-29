@@ -1,0 +1,695 @@
+{
+  "id": "aonime",
+  "source": "Asset/Character/vfx/aonime.gif",
+  "source_sha256": "b9f3070941886d329e62bf9ff2f989cd0cfcb38294b20209fb56fb508f425cb2",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/aonime/frame_000.png": "b5bf92a193924f1da016dae6af702e316b6e7de8790f5643dcb0ed4ee369dd71",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_001.png": "c0801e7da36b98b92b5fb5966a53580eb17006ccf1bd6b4ee7f0a2ec5f303ed3",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_002.png": "aa4e4ea99aa1aa4f4897117d3d5ea38ac4f30477b58cbd15c4e8d793e3ff4d4c",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_003.png": "8c9c20c137725ec117883136bfb7d9678fe6f5438d458831b66bf06c4d88b012",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_004.png": "7db31a604efe34b6461b937eceb76984749ff39bb9b3f373ff5bd1943a62c1b2",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_005.png": "74b6bb26f59a45a5d539aa2cb5a8b9e80daff88e750083902169f03f144e79d9",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_006.png": "19af9e667d8be6c8f36c9a764824e2519579869948fbc29e61465559b3e0842b",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_007.png": "f185060bda23846e35522acef931ec74012d9159f23b32bf3847ca86b11a201f",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_008.png": "50f20344483d0fe80da7dc7b3cb52695d4cc81bc49c98b375aa5a46236b48e08",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_009.png": "1b69620ec4dcd98db22251733b925d8ab4fa91bfdc6f280bace58e67261b442d",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_010.png": "b5bf92a193924f1da016dae6af702e316b6e7de8790f5643dcb0ed4ee369dd71",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_011.png": "c0801e7da36b98b92b5fb5966a53580eb17006ccf1bd6b4ee7f0a2ec5f303ed3",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_012.png": "aa4e4ea99aa1aa4f4897117d3d5ea38ac4f30477b58cbd15c4e8d793e3ff4d4c",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_013.png": "8c9c20c137725ec117883136bfb7d9678fe6f5438d458831b66bf06c4d88b012",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_014.png": "7db31a604efe34b6461b937eceb76984749ff39bb9b3f373ff5bd1943a62c1b2",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_015.png": "74b6bb26f59a45a5d539aa2cb5a8b9e80daff88e750083902169f03f144e79d9",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_016.png": "19af9e667d8be6c8f36c9a764824e2519579869948fbc29e61465559b3e0842b",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_017.png": "f185060bda23846e35522acef931ec74012d9159f23b32bf3847ca86b11a201f",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_018.png": "50f20344483d0fe80da7dc7b3cb52695d4cc81bc49c98b375aa5a46236b48e08",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_019.png": "1b69620ec4dcd98db22251733b925d8ab4fa91bfdc6f280bace58e67261b442d",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_020.png": "903232f17e256d1cdc6a02719a60a356219db8a9942e03156d3e791b6c4a9a25",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_021.png": "7307c386d7cfeb8d4d44e720c6c4f6cb8738c1f9dce901dceae9a498238c038b",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_022.png": "fa9ae261949bcb7f36a292bd8645c6aeb4d51bf61a4e6252799db8c02a2701ea",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_023.png": "1b944bf177e5ab919dc94d3f947e9b1c8a8e23a8c0b543ce329a83865b1e7c16",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_024.png": "601f3da44c1a1879cae938de46109d321ba89a8ce17bc3709570409b0f56182f",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_025.png": "ff9ff060d9a8ba54564b72d740017d9777dfb5dbef168e81334a8a62a8fa0b27",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_026.png": "30e7ac3e86470d3203773e42ada1561492912b387ec217670749b25cdee101d1",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_027.png": "89833fcff60c011a560bf0e8f1b916be0e07ec9b77e1b8e55bd244c7960554ad",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_028.png": "3fb97db714fd7b7e8c9dc1b92b9de6b11880a42ac20ff908f2b1cd038d04f6e4",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_029.png": "f3f6e99b19a8da4bb8c3e6e1e4b3d0e04cdd7638282cfb9f6fb598237abb0826",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_030.png": "1e4ea5e502831f643e9df622fe8b2593f95ffc2aba47b8f3ebbfd35bb6da62d6",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_031.png": "34b4bff3c78d1cb2a1971bd524e7af6e6c174eec6e5d23ab5aa2ad3891d90568",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_032.png": "8c4c91f99a7e8c1debddd1f77a08d9b27b95946be8153d6ed35fe4f94a4dc917",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_033.png": "1d13fa822f417b49414a8773f58f61203404a65691939913b682c2a6ef4d2986",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_034.png": "de014b220e1686cd04c017ac83ebea56ffaca3f9cfa83e3456155418ba423887",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_035.png": "3cbaef7f4f37f2f54616eb633ec0beae2f64dbb0c9c9062fe33a8a0b7583189e",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_036.png": "f56216a9963135d3528188d54a438a6a9d73ed34185327868e20566c795a6b8c",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_037.png": "98209a98af76f4da6cbf3916732fd2db5e2ebebcb9d8e505fcd75c483cafce1a",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_038.png": "09d2f91a68eed59d113804666a9241da8f7da819d495304baebf5eca61a5e165",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_039.png": "5d9fa22d836dded085f87e96d5546072eb362827f6a291cfe94a434e69c53d9b",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_040.png": "1bcc13e99177f55dbb7a3b22fb1450a0d933285aa70e4c4547782bc7940b69ce",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_041.png": "1f63e5fba385bff6c9357a6905e4c4ec8e4caea7de043b80d99aebc63ef63a55",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_042.png": "ab4f1847eb0a5b66db7db387b2be4ec47dfce9617d6160bf4c50a6166cbf32c5",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_043.png": "1d23f6fec7e54f5c40f56c951fa06e86f53e43fd41adac808bb4778213c63cde",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_044.png": "e345c09eacfc9ca86d39f199c6b81371b4f65d2a307de888585170a380a3c816",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_045.png": "db6ff03f5ff9d3055cb344cad5afaf113fe0ca3f113ab957d45475b9f238eece",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_046.png": "9bada8488cef7fd122fa5bcb60a447fe51dd788cbb17c281a4c22dc0e9258814",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_047.png": "43835dbf049f9e50c7fdb055835d78f75343a326c023f5cbe11699e899890d48",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_048.png": "ef60b7ac65fd6b48009ce5cfcf3a3861aa575d6664139e074d9efe2e9252cbc3",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_049.png": "654613b34f5d0571d1ef82fcfcd2024f0fd2d638f58f2c8aeed9de5481ddbea2",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_050.png": "2302713e2157fd4628b11b2471737208ff0233eff78ba728154130bf442b3162",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_051.png": "67e848a69af35fdca02fff7bfb257e7a84406dd5dac58f04fa1e88e92dbaa21a",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_052.png": "c3d8b78997c39d8480969ddef1809ea0cd4342f2af15296e475328190538b487",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_053.png": "dd180560c70032988b818f50811dee77ffe4e60f662dc3956f350c8084d138da",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_054.png": "60e7e0dc7a78bbff00a11a97de13c3b5465ab4299fe0266fa2ae937e20c3bd62",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_055.png": "36a4bf5ea630bfb0fb95c3fea84f770f0bd2a8e542a43c88ee4cb2355acaa367",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_056.png": "262d4e3566f37af7074cbe483bbd86392c6bcdcb9799900fbadf57c6f5f3488b",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_057.png": "6ea30978e9335d07558096a2e976de401877b9a94245bb412a2eaa451c159792",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_058.png": "2282dd42db48d5a60be2c098497cb32a74e9f9bac5ae67cde144659cded63945",
+    "Asset/Character/detail_oct29_candidates/aonime/frame_059.png": "9c64edd371ea5e2fa9b6ba231e6de67c8ffc7a75ea1ef42194b5bd4d951c1c6d"
+  },
+  "art_source": "existing",
+  "frame_count": 60,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        1014,
+        0,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        1014,
+        1014,
+        1014,
+        1014
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    1014,
+    1014
+  ],
+  "target_height_px": 70,
+  "reference_frame": 0,
+  "reference_height_px": 365,
+  "reference_alpha_bounds": [
+    278,
+    512,
+    682,
+    877
+  ],
+  "anchor_px": [
+    480.0,
+    877
+  ],
+  "display_scale": 0.1917808219178082,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

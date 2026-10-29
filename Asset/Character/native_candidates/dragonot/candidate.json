@@ -1,0 +1,558 @@
+{
+  "source": "Asset/Character/vfx/dragonot.gif",
+  "source_sha256": "92ba426c824eadfc954699aa923f2f9504eb73df849c56dc44567d54f0acdf5f",
+  "art_source": "existing",
+  "method": "Decode GIF at source resolution; clear modal border RGB within max distance 5, plus exact flat dark colors on the border covering >=0.5% of each frame; preserve all other pixels and source timing.",
+  "background_rgb_frame_counts": {
+    "0,48,66": 45,
+    "14,56,77": 1,
+    "18,53,70": 2,
+    "4,53,74": 1
+  },
+  "frame_count": 49,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "removed_per_frame": [
+    128833,
+    128434,
+    128418,
+    128074,
+    128855,
+    128676,
+    129242,
+    128668,
+    127065,
+    128472,
+    128701,
+    127557,
+    129014,
+    129488,
+    128833,
+    128434,
+    128418,
+    128074,
+    128855,
+    128676,
+    129242,
+    128668,
+    127065,
+    128472,
+    128701,
+    127557,
+    129014,
+    129488,
+    129336,
+    130421,
+    130770,
+    119047,
+    132467,
+    129621,
+    112844,
+    114579,
+    114326,
+    115230,
+    103886,
+    77579,
+    88157,
+    87768,
+    89529,
+    89860,
+    78015,
+    113495,
+    123312,
+    128708,
+    129945
+  ],
+  "status": "candidate_unreviewed",
+  "limitations": "Dark detail near the blue background can disappear; near-blue fringe, lettering or scene elements can remain. Inspect all frames over light and dark backdrops."
+}

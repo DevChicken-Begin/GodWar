@@ -1,0 +1,552 @@
+{
+  "id": "azza",
+  "source": "Asset/Character/vfx/azza.gif",
+  "source_sha256": "8fc3d162149a9713db3753f796733bc1ab613386d43e9a19395d81b36db24127",
+  "input_candidate": "detail_130_candidates",
+  "input_sha256": {
+    "Asset/Character/review/azza/detail_130_frames/frame_000.png": "db185c59c643085973b33a3349b160c76111bb5a8a5dbc46eb6010ab965714fd",
+    "Asset/Character/review/azza/detail_130_frames/frame_001.png": "c7f50fb7917faec7e38dbe25d295ecc69673cf60c84d0d486018a404c96298ea",
+    "Asset/Character/review/azza/detail_130_frames/frame_002.png": "f3b19e86f3a8a4a8745cae598e2716fb441ad88fb8bf609fd639954d844e3a62",
+    "Asset/Character/review/azza/detail_130_frames/frame_003.png": "e4289084934186155197217d0385add1d4a336cc5ac958fd4494e6ddda776264",
+    "Asset/Character/review/azza/detail_130_frames/frame_004.png": "e2275e1d5b3bfd39bd06316c7ff66c3103f21e2c8ea703a0f77f88ac6212d420",
+    "Asset/Character/review/azza/detail_130_frames/frame_005.png": "9128a08d5240c823ecdb77f9419f7e43a2cd19886e28332bf03b1e1c11fab70f",
+    "Asset/Character/review/azza/detail_130_frames/frame_006.png": "b5ddfa64639916d04134befc1c10cf2db73464f59c2591136092da7430837950",
+    "Asset/Character/review/azza/detail_130_frames/frame_007.png": "1ea3f7735c133b49fc92d97d0c943081efae70e9909dbe295e29b301efd46ba4",
+    "Asset/Character/review/azza/detail_130_frames/frame_008.png": "5df2cb779d7478e996e2dcd619806cacea2229f1db07b591608b55098ddda6ca",
+    "Asset/Character/review/azza/detail_130_frames/frame_009.png": "5bfa0efead537e991d5bb56923f5eb79e9b5c154ceba4466b2b565fb4dc1239d",
+    "Asset/Character/review/azza/detail_130_frames/frame_010.png": "cb18364b6f4ec5d5c97c804c5d49b2c720e7cff1ed96443483c89527dbc4df6d",
+    "Asset/Character/review/azza/detail_130_frames/frame_011.png": "c60661c4f5579139ac444fdf99193ddcb742ec840bf92e73fe57735f91936b0b",
+    "Asset/Character/review/azza/detail_130_frames/frame_012.png": "1a3fc7fc95c72d1ebac8f91cb0cdf5532fb688199cdafdede56e489a8029c1fd",
+    "Asset/Character/review/azza/detail_130_frames/frame_013.png": "4237a7f8137a05701cb418eadaa6dc133b5cb8aa682b29c5338a819d4143ce9c",
+    "Asset/Character/review/azza/detail_130_frames/frame_014.png": "db185c59c643085973b33a3349b160c76111bb5a8a5dbc46eb6010ab965714fd",
+    "Asset/Character/review/azza/detail_130_frames/frame_015.png": "c7f50fb7917faec7e38dbe25d295ecc69673cf60c84d0d486018a404c96298ea",
+    "Asset/Character/review/azza/detail_130_frames/frame_016.png": "f3b19e86f3a8a4a8745cae598e2716fb441ad88fb8bf609fd639954d844e3a62",
+    "Asset/Character/review/azza/detail_130_frames/frame_017.png": "e4289084934186155197217d0385add1d4a336cc5ac958fd4494e6ddda776264",
+    "Asset/Character/review/azza/detail_130_frames/frame_018.png": "e2275e1d5b3bfd39bd06316c7ff66c3103f21e2c8ea703a0f77f88ac6212d420",
+    "Asset/Character/review/azza/detail_130_frames/frame_019.png": "9128a08d5240c823ecdb77f9419f7e43a2cd19886e28332bf03b1e1c11fab70f",
+    "Asset/Character/review/azza/detail_130_frames/frame_020.png": "b5ddfa64639916d04134befc1c10cf2db73464f59c2591136092da7430837950",
+    "Asset/Character/review/azza/detail_130_frames/frame_021.png": "1ea3f7735c133b49fc92d97d0c943081efae70e9909dbe295e29b301efd46ba4",
+    "Asset/Character/review/azza/detail_130_frames/frame_022.png": "5df2cb779d7478e996e2dcd619806cacea2229f1db07b591608b55098ddda6ca",
+    "Asset/Character/review/azza/detail_130_frames/frame_023.png": "5bfa0efead537e991d5bb56923f5eb79e9b5c154ceba4466b2b565fb4dc1239d",
+    "Asset/Character/review/azza/detail_130_frames/frame_024.png": "cb18364b6f4ec5d5c97c804c5d49b2c720e7cff1ed96443483c89527dbc4df6d",
+    "Asset/Character/review/azza/detail_130_frames/frame_025.png": "c60661c4f5579139ac444fdf99193ddcb742ec840bf92e73fe57735f91936b0b",
+    "Asset/Character/review/azza/detail_130_frames/frame_026.png": "1a3fc7fc95c72d1ebac8f91cb0cdf5532fb688199cdafdede56e489a8029c1fd",
+    "Asset/Character/review/azza/detail_130_frames/frame_027.png": "4237a7f8137a05701cb418eadaa6dc133b5cb8aa682b29c5338a819d4143ce9c",
+    "Asset/Character/review/azza/detail_130_frames/frame_028.png": "9f7807e7b26f0c8601c64ce0d6fc33ec57194939f09d181cf26a75f279b6dc02",
+    "Asset/Character/review/azza/detail_130_frames/frame_029.png": "283f6bcf3edf655dedb224a249f0b314487a82a04bf69fa2b96e022eb0ec69fd",
+    "Asset/Character/review/azza/detail_130_frames/frame_030.png": "49b03e2338e435fac1d73fe8d6659c67d74c3b768b60f1663a5396842c9917c8",
+    "Asset/Character/review/azza/detail_130_frames/frame_031.png": "37478eba8d17fe00106f181ba2a3eb510a818f07cac32124dc687d8cda0347b5",
+    "Asset/Character/review/azza/detail_130_frames/frame_032.png": "bce60402bf7bc113dd6b2253bd9e289bed964bc19c0939369d5c7b11bc1f84c0",
+    "Asset/Character/review/azza/detail_130_frames/frame_033.png": "c63e8db42366ba29bde431d2dd038bee76505667c49b18d062533f6adbd3fe8b",
+    "Asset/Character/review/azza/detail_130_frames/frame_034.png": "3ba8b0b70654074ef72d63e082641eba04d7548e058e7cd608cff22a16c24535",
+    "Asset/Character/review/azza/detail_130_frames/frame_035.png": "a24b505cf4d1fca1818c64a8508e6101181ea8374168b22348f2a62b47892c5c",
+    "Asset/Character/review/azza/detail_130_frames/frame_036.png": "8675828827f8d55ba9a44ea5ede90758bd6d023c8af1dd8793ec0ec296dbffd8",
+    "Asset/Character/review/azza/detail_130_frames/frame_037.png": "53245de247d72c9e2040f81560f43d4ab72bfa9479aa8d80b90763dac9f19d09",
+    "Asset/Character/review/azza/detail_130_frames/frame_038.png": "6396c3d7ff703498b1ed0632e0bee4ecf35ea677f73643eda2598ca895ed29e3",
+    "Asset/Character/review/azza/detail_130_frames/frame_039.png": "f3258e76ccb526dbbb1ba48999fde403c88bfb6f9d837d7995021e74e9ff63d4",
+    "Asset/Character/review/azza/detail_130_frames/frame_040.png": "ed0c06805c852db6a553cbc9b12f920c6f0d195b72329d20df08fb44cad031c3",
+    "Asset/Character/review/azza/detail_130_frames/frame_041.png": "b3618900f8f96118e384dbea23d74e6e0213bec9d1f72bdedcebae0b61b1472f",
+    "Asset/Character/review/azza/detail_130_frames/frame_042.png": "7841b3b8b5da0b1090c0048de000ee1a5e6f2b9797c07cae93482a1278dc428d",
+    "Asset/Character/review/azza/detail_130_frames/frame_043.png": "8209498a7443a374091dca8b12c7d34d70c65803d52ae1c0c7390fd3df457b68",
+    "Asset/Character/review/azza/detail_130_frames/frame_044.png": "1ba01f617e4f8760d7e302683587cbdb0275a66494782cbbb24a433e20aad626",
+    "Asset/Character/review/azza/detail_130_frames/frame_045.png": "c06bbc8855c2f13f14c66f59d1d7d47ded46263702ac3b2b476731a148546786",
+    "Asset/Character/review/azza/detail_130_frames/frame_046.png": "25c27a2f6d06ee85894097eecdcdf99c138a2eebfa55b99617aac42ce8e71edf"
+  },
+  "art_source": "existing",
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        208,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        416,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        832,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1456,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1664,
+        0,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        208,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        416,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        832,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1456,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1664,
+        208,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        208,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        416,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        832,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1456,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1664,
+        416,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        208,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        416,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        832,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1456,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1664,
+        624,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        208,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        416,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        624,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        832,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1248,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1456,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1664,
+        832,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        208,
+        1040,
+        208,
+        208
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    208,
+    208
+  ],
+  "target_height_px": 75,
+  "reference_frame": 0,
+  "reference_height_px": 114,
+  "reference_alpha_bounds": [
+    78,
+    52,
+    140,
+    166
+  ],
+  "anchor_px": [
+    109.0,
+    166
+  ],
+  "display_scale": 0.6578947368421053,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

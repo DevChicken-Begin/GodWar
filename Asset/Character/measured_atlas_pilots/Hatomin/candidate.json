@@ -1,0 +1,599 @@
+{
+  "id": "Hatomin",
+  "source": "Asset/Character/vfx/Hatomin.gif",
+  "source_sha256": "2fafdae2af1e61c6638ad23a3e65e4dd1548d7f33670cfddee6c4f35d4bea2f9",
+  "art_source": "existing",
+  "frame_count": 51,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        576,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1152,
+        1152,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        576,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1152,
+        0,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        576,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1152,
+        576,
+        576,
+        576
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    576,
+    576
+  ],
+  "target_height_px": 80,
+  "reference_frame": 0,
+  "reference_height_px": 287,
+  "reference_alpha_bounds": [
+    127,
+    177,
+    478,
+    464
+  ],
+  "anchor_px": [
+    302.5,
+    464
+  ],
+  "display_scale": 0.2787456445993031,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "size_target_approval": "user_updated_round4",
+  "background_rgb_frame_counts": {
+    "3,32,49": 51
+  },
+  "removed_per_frame": [
+    201276,
+    200232,
+    199080,
+    199980,
+    200232,
+    200304,
+    199944,
+    201096,
+    201492,
+    201888,
+    201384,
+    201276,
+    200232,
+    199080,
+    199980,
+    200232,
+    200304,
+    199944,
+    201096,
+    201492,
+    201888,
+    201384,
+    201276,
+    201168,
+    200232,
+    200592,
+    200880,
+    200880,
+    200412,
+    200736,
+    201132,
+    201168,
+    200232,
+    200556,
+    200880,
+    200880,
+    200412,
+    200736,
+    201024,
+    200844,
+    199944,
+    195228,
+    180972,
+    161928,
+    159984,
+    175176,
+    183852,
+    193716,
+    196632,
+    200484,
+    201996
+  ],
+  "detail_scale": 1.2,
+  "method": "Per-frame modal border color, RGB distance <= 5 removed; preserve timeline and full frame. Hatomin: premultiplied Lanczos 120% and mild unsharp mask.",
+  "limitations": "Unreviewed matte can remove similarly colored detail or retain fringe, lettering and scene; frame-0 alpha bounds can contain effects, not a verified body or anchor. Interpolation cannot recover source detail."
+}

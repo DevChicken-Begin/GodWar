@@ -343,16 +343,6 @@
       ]
     },
     {
-      "id": "firer",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
-      "variants": [
-        "candidates",
-        "batch_candidates",
-        "fine_candidates"
-      ]
-    },
-    {
       "id": "flybird",
       "status": "visual_review_pending",
       "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
@@ -452,14 +442,6 @@
       "variants": [
         "refined_candidates",
         "batch_candidates",
-        "fine_candidates"
-      ]
-    },
-    {
-      "id": "kapicon",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
-      "variants": [
         "fine_candidates"
       ]
     },
@@ -587,16 +569,6 @@
       ]
     },
     {
-      "id": "monsterdead",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
-      "variants": [
-        "candidates",
-        "batch_candidates",
-        "fine_candidates"
-      ]
-    },
-    {
       "id": "monstermap",
       "status": "visual_review_pending",
       "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
@@ -649,15 +621,6 @@
       "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
       "variants": [
         "batch_candidates"
-      ]
-    },
-    {
-      "id": "newwomen",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
-      "variants": [
-        "batch_candidates",
-        "fine_candidates"
       ]
     },
     {
@@ -807,19 +770,6 @@
       "variants": [
         "batch_candidates",
         "fine_candidates"
-      ]
-    },
-    {
-      "id": "scorpit",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Bản xử lý chi tiết mới chưa duyệt; cần so từng frame với nguồn và kiểm tra mất chi tiết/VFX. Có bản sửa cục bộ; scorpit vùng chữ có thể thủng VFX và còn sót chữ khi hiệu ứng phủ lên. Có bản thử phục hồi chữ bằng pixel lân cận cho chỉ số 18/19; phần bên dưới là ước lượng, cần xem chuyển động và frame lân cận. Có bản phục hồi chữ tại chỉ số 17–19; vùng che được ước lượng, cần duyệt chuyển động. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
-      "variants": [
-        "batch_candidates",
-        "detailed_candidates",
-        "oct28_fix_candidates",
-        "scorpit_repair_candidates",
-        "scorpit_repair18_candidates",
-        "detail_130_candidates"
       ]
     },
     {
@@ -1155,17 +1105,6 @@
       ]
     },
     {
-      "id": "knigblack",
-      "status": "defect_observed",
-      "issue": "Bản tách nền cảnh còn viền tối quanh nhân vật và bóng dưới chân; có nguy cơ mất chi tiết giáp, chưa duyệt.",
-      "variants": [
-        "native_candidates",
-        "scene_model_candidates",
-        "scene_model_strong_candidates",
-        "scene_protected_candidates"
-      ]
-    },
-    {
       "id": "pigpor",
       "status": "visual_review_pending",
       "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
@@ -1261,6 +1200,206 @@
       "variants": [
         "batch12_native_candidates",
         "batch12_detail_candidates"
+      ]
+    },
+    {
+      "id": "aonime",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "buffoin",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "congpha",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "dragonot",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "hanko",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "kengkeng",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "kungtailee",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "machinen",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "magma",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "swithin",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "trongit",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "vision",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "warrioram",
+      "status": "visual_review_pending",
+      "issue": "Bản tách nền nguyên kích thước chưa duyệt; có thể mất chi tiết tối gần màu nền hoặc còn viền xanh.",
+      "variants": [
+        "native_candidates"
+      ]
+    },
+    {
+      "id": "buffao",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "scosrian",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "dump",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "hemsiss",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "scorpit",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Domrico",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "hecfaom",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Impector",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Actem",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Hatomin",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Trainxoan",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "urguro",
+      "status": "visual_review_pending",
+      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
       ]
     }
   ]

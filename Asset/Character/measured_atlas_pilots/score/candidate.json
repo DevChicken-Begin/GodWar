@@ -1,0 +1,359 @@
+{
+  "id": "score",
+  "source": "Asset/Character/vfx/score.gif",
+  "source_sha256": "156ccf50306654a9b6c7035ad401a613e05e9479df5e2fe68e18ff88634fb379",
+  "input_candidate": "fine_candidates",
+  "input_sha256": {
+    "Asset/Character/fine_candidates/score/atlas_000.png": "40b1ac76d8f483bad3ac1891930fb36d48ef0f5c612d852dafe50e9ff5cf36e2",
+    "Asset/Character/fine_candidates/score/atlas_001.png": "898819e940c365a9064d0eb13659d2b73197128eeb51ba92eb7a99b274d8e068",
+    "Asset/Character/fine_candidates/score/atlas_002.png": "b3a79371f1fe4ccbb969df1cd830413e8960418843b0d1898bbb3b124d4020c3",
+    "Asset/Character/fine_candidates/score/atlas_003.png": "7cf6b7124f14a9abc284e14402d10e6bd77017b0ce0b0fa610ffe4f191882140"
+  },
+  "art_source": "existing",
+  "frame_count": 32,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        600,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1200,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        600,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1200,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        600,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1200,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        600,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1200,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        600,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1200,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        600,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1200,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        600,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1200,
+        1200,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        600,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1200,
+        0,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        600,
+        600,
+        600,
+        600
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    600,
+    600
+  ],
+  "target_height_px": 90,
+  "reference_frame": 0,
+  "reference_height_px": 330,
+  "reference_alpha_bounds": [
+    156,
+    174,
+    540,
+    504
+  ],
+  "anchor_px": [
+    348.0,
+    504
+  ],
+  "display_scale": 0.2727272727272727,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round2"
+}

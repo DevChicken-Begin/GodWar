@@ -1,0 +1,552 @@
+{
+  "id": "wuchen",
+  "source": "Asset/Character/vfx/wuchen.gif",
+  "source_sha256": "88c1a9c837b29ad4506715d3ea87a45e458a21ab2b2d002bd07f9758e0b11e42",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_000.png": "837b3c1d144019ff12d3f546f393cd2a6027e9dee0da84f92971614e2806ea9a",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_001.png": "9a69c39308cfd2cc19d2a536ea8d19d9f531893abad51833b3a0eb631619eae1",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_002.png": "28c1bf9c0d60cc2fa66f16f98eb4d1a4d1bc59e6150b67fb2f2cc5ea86d4a6eb",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_003.png": "7a97141d9506e8565af2ee885b22ee36894c5c2bba1d58b089f7aa77ee8611be",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_004.png": "47f3537f7dfbe507b71dce51550611488dafed1bc17b133cc1810ea96fa329df",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_005.png": "d05991a899f2b187e94e66bd88115ab902e0702dc6a19998a848e57e66ab45ef",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_006.png": "5ddf1ee18e6e8f5e29cbd3f2dac7549161469f1d87b9e27e9c8446fd8c5ad30a",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_007.png": "04de1f49f7d57df9f461bce5ea40793cd79afd1a59c56274111fbc7c3a74d8c3",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_008.png": "e7d0f8f570ef76d2f6472b59f15fab8a416d3797f7346fe9e858c9c569efe4e4",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_009.png": "368853af235d9f3ce2932222908d990e5e4a4f014aaf97d4cf5398dfd0313c24",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_010.png": "03d5e749ce85e53547037924bd81de93c56dbcf761ecb069dac68c931f27e14c",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_011.png": "d73acf9a9b1edd06808d4ac6309b1118894fc669fc17f3502ca72d13bafa866a",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_012.png": "e9fb6f2b8fada14280a652fdecbf608f4b2d48e1b465bd5abdbeb84234e836ee",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_013.png": "0b6aae69703f6a30e1e35b3194a9182bbe7c262a3b0f2a8278bd0d7fe0b9db4a",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_014.png": "cb0afae6150e83511eab1d2cf986eb3dee5ed2202bc025cfc44ee906712be684",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_015.png": "9a69c39308cfd2cc19d2a536ea8d19d9f531893abad51833b3a0eb631619eae1",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_016.png": "28c1bf9c0d60cc2fa66f16f98eb4d1a4d1bc59e6150b67fb2f2cc5ea86d4a6eb",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_017.png": "7a97141d9506e8565af2ee885b22ee36894c5c2bba1d58b089f7aa77ee8611be",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_018.png": "47f3537f7dfbe507b71dce51550611488dafed1bc17b133cc1810ea96fa329df",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_019.png": "d05991a899f2b187e94e66bd88115ab902e0702dc6a19998a848e57e66ab45ef",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_020.png": "5ddf1ee18e6e8f5e29cbd3f2dac7549161469f1d87b9e27e9c8446fd8c5ad30a",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_021.png": "04de1f49f7d57df9f461bce5ea40793cd79afd1a59c56274111fbc7c3a74d8c3",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_022.png": "e7d0f8f570ef76d2f6472b59f15fab8a416d3797f7346fe9e858c9c569efe4e4",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_023.png": "368853af235d9f3ce2932222908d990e5e4a4f014aaf97d4cf5398dfd0313c24",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_024.png": "03d5e749ce85e53547037924bd81de93c56dbcf761ecb069dac68c931f27e14c",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_025.png": "d73acf9a9b1edd06808d4ac6309b1118894fc669fc17f3502ca72d13bafa866a",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_026.png": "e9fb6f2b8fada14280a652fdecbf608f4b2d48e1b465bd5abdbeb84234e836ee",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_027.png": "7fe6edf2380f5f69c93f524e6d8d8a58717e600a5b5f59c07908f0ee271aaa6f",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_028.png": "f226d28c26d7cca47b6b4dba50bf810770694fcfd4ac827f95dc41b7bde95777",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_029.png": "00f9e97c1f415fa2206270ef1193715b05783259393a4e66303a44534207e758",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_030.png": "77d1b5c7ab3366726c1645e1c0a1c64e5bf651b6f844689bb54aa3497071643e",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_031.png": "27ea1c8967846ee7cf62506dbf8077624a8e4a6d94e58e78c306ba307080107f",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_032.png": "1f682e55a3e3653d24c98dabf92d6ece4b59b0c771982f6d9eb122ab5830b7a5",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_033.png": "f2e1d7e87685dc98637ca123ac741d03b82194ac83fb22d4905e8a2534b87f95",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_034.png": "f5f7a2373280b1ed1ddcc3d65f7c9022a2f908c7f9a8aa54eb98153efe5ace28",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_035.png": "5163e6ad6ccfcc5717ea545861d82726923d7c905af6af0202fae35c448fb00b",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_036.png": "1d6dfa46d6b99dd9ec418eb3cce03f088fa5afcdd22de06eb56d1585e9c054b6",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_037.png": "893d6c6b3b3358b09a69c01eccc129eabdecae1f99757edd9f7eec95b260da96",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_038.png": "0a0c57fef58dafead23722a806fe6eefb34d650e9fb485e7c7481b94f5032428",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_039.png": "15649b83d6e56d65da95b6403045f51a6d5db86ebd030ac888cfe071be075f5d",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_040.png": "06d67d4082229d9c57c016d2f218bcbd77385eb241f2551f4fc680d4e96c9f2d",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_041.png": "b2e6543644afe4309f10039b6310b3d44ed24b3f3c6e2cc697df3482f36289db",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_042.png": "a1dacd5bfeca38dc09aee54ae996df6a76136ca1c4c5ea2cca6aa1f15ebcc9b2",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_043.png": "92d0341937a401d4bc6595b5cae97aabfef4c7687f23ecdf6b0c788076fceb74",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_044.png": "a7a0a40e98922e45ea8134e70172da2893113b66bc3e56435fd580eb3bb74f07",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_045.png": "e68735cb5cc965e92a08e71f8c5536161672a5513f81dd64779be9bc87e6f3ea",
+    "Asset/Character/detail_oct28_candidates/wuchen/frame_046.png": "7cdeedd429530b0ccb779f40bb567a9f27eb87ef1e11d7cec4c0ecf1e3ae5963"
+  },
+  "art_source": "existing",
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    468,
+    468
+  ],
+  "target_height_px": 85,
+  "reference_frame": 0,
+  "reference_height_px": 244,
+  "reference_alpha_bounds": [
+    117,
+    164,
+    310,
+    408
+  ],
+  "anchor_px": [
+    213.5,
+    408
+  ],
+  "display_scale": 0.3483606557377049,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round2"
+}

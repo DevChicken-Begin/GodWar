@@ -1,0 +1,739 @@
+{
+  "id": "comic",
+  "source": "Asset/Character/vfx/comic.gif",
+  "source_sha256": "a9dc4e548b33c5c7ba5b4e80dc56f671dff903c8829ad503394d5b082d89bbc6",
+  "base_candidate": "batch12_detail_candidates",
+  "base_metadata_sha256": "f82098395fb686c99dba1556dfa053b37009e915baa881020ade1402ab590b0f",
+  "base_input_sha256": {
+    "Asset/Character/batch12_detail_candidates/comic/frame_000.png": "b19d156601fedecf9070872286b8bf4440ecd80b76a9ff637a338fcad3813bce",
+    "Asset/Character/batch12_detail_candidates/comic/frame_001.png": "737d1d55b6ce2365383f14c044c49dbdd136c367859a273beac7350263a65f5f",
+    "Asset/Character/batch12_detail_candidates/comic/frame_002.png": "7a05ddb307acad1c18cb6015c2838472a6fbfd49aa566ba03c40b312f3c3538a",
+    "Asset/Character/batch12_detail_candidates/comic/frame_003.png": "be0d165d9a9c85570a3de02d035eee338583a1cf8d362adf8ec41009f0904677",
+    "Asset/Character/batch12_detail_candidates/comic/frame_004.png": "fa2ba37bb14427554e3814afdb9efbf49620a4b1c4bd9b2c37fe3281ffeace74",
+    "Asset/Character/batch12_detail_candidates/comic/frame_005.png": "fc3680d1cc953ec48b499707df614db73fef4b88c43c41ab276ccd914417585c",
+    "Asset/Character/batch12_detail_candidates/comic/frame_006.png": "d8d19aff68fbf722a4725ac34fb5c5ae1b8272a318c02ed47b1f075e803a3fa5",
+    "Asset/Character/batch12_detail_candidates/comic/frame_007.png": "7570df0ec864577f8e3038dfe37364a0eebeff3257639defaf297813ed99af35",
+    "Asset/Character/batch12_detail_candidates/comic/frame_008.png": "43c0b937e441d808784e62a344208d25afdae6a2261782c375816a382b74345a",
+    "Asset/Character/batch12_detail_candidates/comic/frame_009.png": "97f3cde3c01f5bd7b974b4e207c569a26401639685834e9b7c2903cb41c769b7",
+    "Asset/Character/batch12_detail_candidates/comic/frame_010.png": "987883304bf1e51b39e0d2e17911b465deaf919746dd896e4785d3a62bfd9784",
+    "Asset/Character/batch12_detail_candidates/comic/frame_011.png": "ec0d8c56bb854c14101427aa79495799f57eacfe874711d408e5aa5ffc9540fa",
+    "Asset/Character/batch12_detail_candidates/comic/frame_012.png": "b19d156601fedecf9070872286b8bf4440ecd80b76a9ff637a338fcad3813bce",
+    "Asset/Character/batch12_detail_candidates/comic/frame_013.png": "737d1d55b6ce2365383f14c044c49dbdd136c367859a273beac7350263a65f5f",
+    "Asset/Character/batch12_detail_candidates/comic/frame_014.png": "7a05ddb307acad1c18cb6015c2838472a6fbfd49aa566ba03c40b312f3c3538a",
+    "Asset/Character/batch12_detail_candidates/comic/frame_015.png": "be0d165d9a9c85570a3de02d035eee338583a1cf8d362adf8ec41009f0904677",
+    "Asset/Character/batch12_detail_candidates/comic/frame_016.png": "fa2ba37bb14427554e3814afdb9efbf49620a4b1c4bd9b2c37fe3281ffeace74",
+    "Asset/Character/batch12_detail_candidates/comic/frame_017.png": "fc3680d1cc953ec48b499707df614db73fef4b88c43c41ab276ccd914417585c",
+    "Asset/Character/batch12_detail_candidates/comic/frame_018.png": "d8d19aff68fbf722a4725ac34fb5c5ae1b8272a318c02ed47b1f075e803a3fa5",
+    "Asset/Character/batch12_detail_candidates/comic/frame_019.png": "7570df0ec864577f8e3038dfe37364a0eebeff3257639defaf297813ed99af35",
+    "Asset/Character/batch12_detail_candidates/comic/frame_020.png": "43c0b937e441d808784e62a344208d25afdae6a2261782c375816a382b74345a",
+    "Asset/Character/batch12_detail_candidates/comic/frame_021.png": "97f3cde3c01f5bd7b974b4e207c569a26401639685834e9b7c2903cb41c769b7",
+    "Asset/Character/batch12_detail_candidates/comic/frame_022.png": "987883304bf1e51b39e0d2e17911b465deaf919746dd896e4785d3a62bfd9784",
+    "Asset/Character/batch12_detail_candidates/comic/frame_023.png": "ec0d8c56bb854c14101427aa79495799f57eacfe874711d408e5aa5ffc9540fa",
+    "Asset/Character/batch12_detail_candidates/comic/frame_024.png": "9449f40552615f75c85f82b9f12758ed0fe40c680f6533d8f9e4cea59ba34541",
+    "Asset/Character/batch12_detail_candidates/comic/frame_025.png": "eab2fb69c075fd023df93111ba58b485fb792cba8c45607b618401dc23d38ae5",
+    "Asset/Character/batch12_detail_candidates/comic/frame_026.png": "3a230c303f298dcf5a01eb3c21d713797a4f3a4202efe3da046db425d3acf5c7",
+    "Asset/Character/batch12_detail_candidates/comic/frame_027.png": "7832935385c9355a48d250a9021b12d9035786d5cc6abd247591e7b92c0cee8a",
+    "Asset/Character/batch12_detail_candidates/comic/frame_028.png": "12390cf36b497b00c579f214576ad72a4bc9bdf58181f7656ee245804408204b",
+    "Asset/Character/batch12_detail_candidates/comic/frame_029.png": "eb89e70e49d56f1ec24e1014272efe32cc1f7ccc9f79860561fabc896709659f",
+    "Asset/Character/batch12_detail_candidates/comic/frame_030.png": "7c6260a1ee27727b36ce8214175d51202b99b1499d8a52d9dc31cdb278c5df2d",
+    "Asset/Character/batch12_detail_candidates/comic/frame_031.png": "9edc302b54e87d2f85cdf36364c03c5d3f0bc5f31080215865ab3771d09cb0ec",
+    "Asset/Character/batch12_detail_candidates/comic/frame_032.png": "bb814ccfa9d2954f9c87c7b5f9b66f9e3190c09d1556d3d89cd5b8756aee38a9",
+    "Asset/Character/batch12_detail_candidates/comic/frame_033.png": "668f8e672d9b92da9036f8ef6961de1c8989c195df86beef482998d0a1124fd2",
+    "Asset/Character/batch12_detail_candidates/comic/frame_034.png": "74be57f8ef046fe6bd5ecfc13c01233446a7a37e7b0226b046a71d7603d998e8",
+    "Asset/Character/batch12_detail_candidates/comic/frame_035.png": "b59ffae469bf290a0f31f3d686387fb44e2f980b8b02e65aa6ac728c4313a2b4",
+    "Asset/Character/batch12_detail_candidates/comic/frame_036.png": "e4f3d9551f0a09a07529266de1186f3afdcbc05e9ac154f366eb211263d772bc",
+    "Asset/Character/batch12_detail_candidates/comic/frame_037.png": "068cd7dc0e472f15411dd28e134582d80310824b96265fa56fcb866d9dca7d38",
+    "Asset/Character/batch12_detail_candidates/comic/frame_038.png": "aded27c50ef546d60bdf1239b5363b80421ef236776ad64ee878fa3600b0dee1",
+    "Asset/Character/batch12_detail_candidates/comic/frame_039.png": "6f083ff172fbee3cd055658c44f559da8635522ae249ba7da93ded6144973140",
+    "Asset/Character/batch12_detail_candidates/comic/frame_040.png": "85bde4c7db0334531ac806d9a82f5deaf98ceae0e6d72547c0057aeba8712b8e",
+    "Asset/Character/batch12_detail_candidates/comic/frame_041.png": "9c21dbd045995d6cca2ca58fa0b73f12fe4a65e15acbd647c09dfb0729095520",
+    "Asset/Character/batch12_detail_candidates/comic/frame_042.png": "62654e27708b72aeabab6c054b11596aff415a505c4d6de8075f6d3e7f05f356",
+    "Asset/Character/batch12_detail_candidates/comic/frame_043.png": "39ad1a09b8874a7bd41243366b29641c339ef36f28162dc3e4815f96292ef654",
+    "Asset/Character/batch12_detail_candidates/comic/frame_044.png": "e169118bc589d4ee900d7645157e216e5d4e89d8800e86cfbe3d64ed32f7e815",
+    "Asset/Character/batch12_detail_candidates/comic/frame_045.png": "797886a9eda21c7eeae24043f9867e7400f51a3b4b35eaf76c197a9564d12261",
+    "Asset/Character/batch12_detail_candidates/comic/frame_046.png": "885d460342614e9839668dfaa1b991cf60bc258fd4d6a234cbcc12e84aa997a2"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.3,
+  "display_scale": 1.0,
+  "base_display_size": [
+    400,
+    400
+  ],
+  "display_size": [
+    400,
+    400
+  ],
+  "base_frame_size": [
+    480,
+    480
+  ],
+  "frame_size": [
+    624,
+    624
+  ],
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        400,
+        400
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        624,
+        624
+      ]
+    }
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos upscale by 30% per axis, then mild RGB unsharp mask (radius 1, 18%, threshold 3); preserve source frame timing. Display size changes only by explicit display_scale.",
+  "limitations": "Interpolation cannot restore missing source detail; sharpening may introduce halos or change effects. Inspect every frame at game size and over light/dark backgrounds."
+}

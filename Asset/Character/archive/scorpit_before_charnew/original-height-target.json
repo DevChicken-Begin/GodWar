@@ -1,0 +1,12 @@
+{
+  "id": "scorpit",
+  "target_height_px": 80,
+  "source": "Asset/Character/vfx/scorpit.gif",
+  "source_sha256": "e71168056dce8539ca817e33d02d5c51da18d08d115fcb31b8216dc3e1a62272",
+  "reference_frame": 0,
+  "reference_body_bounds": null,
+  "scale": 0.22988505747126436,
+  "status": "automatic_alpha_candidate_unreviewed",
+  "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/scorpit/candidate.json",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

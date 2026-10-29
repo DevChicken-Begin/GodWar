@@ -1,0 +1,769 @@
+{
+  "id": "dragonot",
+  "source": "Asset/Character/vfx/dragonot.gif",
+  "source_sha256": "92ba426c824eadfc954699aa923f2f9504eb73df849c56dc44567d54f0acdf5f",
+  "base_candidate": "revision_candidates",
+  "base_metadata_sha256": "d1f7791327a894853aff931212914ae6da3ccc4208678bc8849aa9548383fa12",
+  "base_input_sha256": {
+    "Asset/Character/revision_candidates/dragonot/frame_000.png": "8c25a699b6e99fc2bc03da1b018c22c5bc2ca3ddc784475e80820be7a8288212",
+    "Asset/Character/revision_candidates/dragonot/frame_001.png": "4e9b38bff6e8cc4c411c7ad605e02ac880ce0753f2b593399f320c0781e22147",
+    "Asset/Character/revision_candidates/dragonot/frame_002.png": "d4d5bd4af20de65462f7d0518c5ba545d3c2e722ee84a10e2d8aaf2388758fa6",
+    "Asset/Character/revision_candidates/dragonot/frame_003.png": "aca61c4ee876eb43dc35c48309d620ce4bad7130f12a2dd141e3424cc9d35a59",
+    "Asset/Character/revision_candidates/dragonot/frame_004.png": "dc318f1ad93c03a10384eb30db79c5bc856bea7a861f81e5dce2d5c29c6a12e1",
+    "Asset/Character/revision_candidates/dragonot/frame_005.png": "e1b08bfb78615d276205c1f077ba674f529f663c1f5f8639c35c76efd876c48f",
+    "Asset/Character/revision_candidates/dragonot/frame_006.png": "2185b462b6a854e55077693bc4ec25e4088036ca10ca01ca55565c162cdf0f05",
+    "Asset/Character/revision_candidates/dragonot/frame_007.png": "2e6c8ba90b540dbd744f67c07db3467aca184993fafacfd3dc10c69643691a6e",
+    "Asset/Character/revision_candidates/dragonot/frame_008.png": "5443136d23316a80d5f815f1c029cb5f52bdbc622108f2861d2050cd87ddaa2c",
+    "Asset/Character/revision_candidates/dragonot/frame_009.png": "35c3cb1a5e662b560bc9263c3ef0a31849511cbdb2571c331b05df83fde0b26d",
+    "Asset/Character/revision_candidates/dragonot/frame_010.png": "260e0230fdb114fb1d8df7356e08fd730b89d630d4aebafdf51dbe9e59b3d8fb",
+    "Asset/Character/revision_candidates/dragonot/frame_011.png": "241a1fff3bf018fd7d625c9518d11e5c44d99fc7f11a883db0e4107cd32c80b3",
+    "Asset/Character/revision_candidates/dragonot/frame_012.png": "54e5e81e6f6d9725bdb39947ae42a93223f786eed71eab94ccf0c1f89eed43e4",
+    "Asset/Character/revision_candidates/dragonot/frame_013.png": "ca33bcb54c0fc57f64700555b483b68dc42f14bfd9030cb164c6b0f81b9c7d85",
+    "Asset/Character/revision_candidates/dragonot/frame_014.png": "8c25a699b6e99fc2bc03da1b018c22c5bc2ca3ddc784475e80820be7a8288212",
+    "Asset/Character/revision_candidates/dragonot/frame_015.png": "4e9b38bff6e8cc4c411c7ad605e02ac880ce0753f2b593399f320c0781e22147",
+    "Asset/Character/revision_candidates/dragonot/frame_016.png": "d4d5bd4af20de65462f7d0518c5ba545d3c2e722ee84a10e2d8aaf2388758fa6",
+    "Asset/Character/revision_candidates/dragonot/frame_017.png": "aca61c4ee876eb43dc35c48309d620ce4bad7130f12a2dd141e3424cc9d35a59",
+    "Asset/Character/revision_candidates/dragonot/frame_018.png": "dc318f1ad93c03a10384eb30db79c5bc856bea7a861f81e5dce2d5c29c6a12e1",
+    "Asset/Character/revision_candidates/dragonot/frame_019.png": "e1b08bfb78615d276205c1f077ba674f529f663c1f5f8639c35c76efd876c48f",
+    "Asset/Character/revision_candidates/dragonot/frame_020.png": "2185b462b6a854e55077693bc4ec25e4088036ca10ca01ca55565c162cdf0f05",
+    "Asset/Character/revision_candidates/dragonot/frame_021.png": "2e6c8ba90b540dbd744f67c07db3467aca184993fafacfd3dc10c69643691a6e",
+    "Asset/Character/revision_candidates/dragonot/frame_022.png": "5443136d23316a80d5f815f1c029cb5f52bdbc622108f2861d2050cd87ddaa2c",
+    "Asset/Character/revision_candidates/dragonot/frame_023.png": "35c3cb1a5e662b560bc9263c3ef0a31849511cbdb2571c331b05df83fde0b26d",
+    "Asset/Character/revision_candidates/dragonot/frame_024.png": "260e0230fdb114fb1d8df7356e08fd730b89d630d4aebafdf51dbe9e59b3d8fb",
+    "Asset/Character/revision_candidates/dragonot/frame_025.png": "241a1fff3bf018fd7d625c9518d11e5c44d99fc7f11a883db0e4107cd32c80b3",
+    "Asset/Character/revision_candidates/dragonot/frame_026.png": "54e5e81e6f6d9725bdb39947ae42a93223f786eed71eab94ccf0c1f89eed43e4",
+    "Asset/Character/revision_candidates/dragonot/frame_027.png": "ca33bcb54c0fc57f64700555b483b68dc42f14bfd9030cb164c6b0f81b9c7d85",
+    "Asset/Character/revision_candidates/dragonot/frame_028.png": "a1a3fb25eb30b8ea29b067ad31a48fd809b36967ffb94f9432caac6461d1d6ae",
+    "Asset/Character/revision_candidates/dragonot/frame_029.png": "414c07e7be31ae285aa685fabe6d268fc318eae77b05f3a300efcd316f9a1189",
+    "Asset/Character/revision_candidates/dragonot/frame_030.png": "5a37c6a21602be12536bea0f7e5eeedb54d13595101cee8aef914ded0b75ab2f",
+    "Asset/Character/revision_candidates/dragonot/frame_031.png": "32c7ddf8bc8938fae645c0bab412dab116b0c3f1f0c80704924abb0af36cddb8",
+    "Asset/Character/revision_candidates/dragonot/frame_032.png": "5c71ec577a4dd0a523004a166858937f1ca959bace48713eedd307b1d304f46b",
+    "Asset/Character/revision_candidates/dragonot/frame_033.png": "75e971e447e74c1f40acb9009512d088f455ed30d3849f44b42f85ee48a1df25",
+    "Asset/Character/revision_candidates/dragonot/frame_034.png": "a55dd971b3ec4bfa419979c6003ee998037c0925b6b83940f753f1872c44ce92",
+    "Asset/Character/revision_candidates/dragonot/frame_035.png": "ceb417bec20a1408a07a215be302c3af5c52abe1b56f45703f9584fed8c7909c",
+    "Asset/Character/revision_candidates/dragonot/frame_036.png": "59d6c088c14b542c85732fcbd408f77c9d6616a8614bea21d802806870640794",
+    "Asset/Character/revision_candidates/dragonot/frame_037.png": "b1ee484ae5c5e3de6b4448a731ae9a217565c11226dc9c4630ee06d387682d56",
+    "Asset/Character/revision_candidates/dragonot/frame_038.png": "edf430125c67ddf3f6c2361d06238b4302cf35a7eb085888ac69702e1a3fb1fa",
+    "Asset/Character/revision_candidates/dragonot/frame_039.png": "7dd7e3fe458f621771bbd4c34af0853d9a710ff76cf0693b0281a9186411384d",
+    "Asset/Character/revision_candidates/dragonot/frame_040.png": "c58491753dca225e544a45ea298c06a8f5dd655b78c52f311a1ed1c8ea13696f",
+    "Asset/Character/revision_candidates/dragonot/frame_041.png": "04659acd4dc36c2e279aab6888983d85a5f8527a24e8886711694c5de579b92d",
+    "Asset/Character/revision_candidates/dragonot/frame_042.png": "8901ff2a2fb1d4174f90f2001f8cd5cfa1d8d290628698c447d9027a02afea33",
+    "Asset/Character/revision_candidates/dragonot/frame_043.png": "ffb0f6db5e76c2b3a404c3991cacc446a097917126034a577990c8e351084d1c",
+    "Asset/Character/revision_candidates/dragonot/frame_044.png": "7fb99aaa39e3655adb36ad5b3214fb7e9faff9f7f746eef3ddb730d728f7073c",
+    "Asset/Character/revision_candidates/dragonot/frame_045.png": "b1a3a92bb9bdddf3381d2b41363512d63323018787e674231e782f2b68f99a86",
+    "Asset/Character/revision_candidates/dragonot/frame_046.png": "23e162020bcb36b6fb377209067aa7462f726e7dfa8a5d94c87321712d215bc3",
+    "Asset/Character/revision_candidates/dragonot/frame_047.png": "739f5561d63dc25d62fc2983e8ad16122df8c8fe29cc483894ce5571618529f2",
+    "Asset/Character/revision_candidates/dragonot/frame_048.png": "f6da5dca8ef9e2960e0e082fb5f4d1f8ba6a541a3de192b0db50cf2a378ac849"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.3,
+  "display_scale": 1.0,
+  "base_display_size": [
+    384,
+    384
+  ],
+  "display_size": [
+    384,
+    384
+  ],
+  "base_frame_size": [
+    384,
+    384
+  ],
+  "frame_size": [
+    499,
+    499
+  ],
+  "frame_count": 49,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        499,
+        499
+      ]
+    }
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos upscale by 30% per axis, then mild RGB unsharp mask (radius 1, 18%, threshold 3); preserve source frame timing. Display size changes only by explicit display_scale.",
+  "limitations": "Interpolation cannot restore missing source detail; sharpening may introduce halos or change effects. Inspect every frame at game size and over light/dark backgrounds."
+}

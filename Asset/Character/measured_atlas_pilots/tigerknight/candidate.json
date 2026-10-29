@@ -1,0 +1,768 @@
+{
+  "id": "tigerknight",
+  "source": "Asset/Character/vfx/tigerknight.gif",
+  "source_sha256": "e5e5f1e28ab0a71deb074d6605071b34ba0110e4ce9c4c6abe85a3edf4206cb5",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_000.png": "ab2ef4bb68ca926f75d2351d4e74f8c392418ffd2a3b2580cf223a7d1c147b81",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_001.png": "1afbbd9732a0ebf48df60bd72ac71c1300ca8de1d0e29db9cde3760f383bf3f3",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_002.png": "3b205e9c84d61aa3ab0ecff1a7648016d6ac1ab10fc22172cc3d2d7a1901b744",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_003.png": "f254e3090339d290ab805108ceeccc4360a0ef464e6bc3988be817115e238080",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_004.png": "eb1a1d1ac59f18e06914dca99bf11e470aed3543eca34664cea4dfd9a49b93dd",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_005.png": "b027929dbeb88328f63000fd584e4cbf17caad2833afe7185b5ed93bbeadd32d",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_006.png": "f583d786b19fa5ac768e2b26524cb95720556bb91041ae659b2cfd5985b16787",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_007.png": "c7a082d23aa0107f521663f31e63de02fe75681ff15f581d1ae3d5be0803515d",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_008.png": "ebb24efb87a88cbabff26eeed7a1e12ca13d3e3db5a414ea09b407200082a2f6",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_009.png": "b66100204b925fa3d1e45190c5403a6ab7799c6f285e3bda660c46fe797b4d6f",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_010.png": "31b9b744e886967c4cef3c064164e927e457b929c3a2e8a5c950011c36e69833",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_011.png": "d78726ed977f00eb12336b5edbe7aeeb0727dbb47febca5f22b2df502b796fa5",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_012.png": "16f4c380d6f3ed9dbc41234ed8d9c4b4702c90e2f0d8b26675921d3a73b61bc3",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_013.png": "2db37fac0c76f1e652c7c1b98117b4900d34e6ab0b672e27101b33bc4d6312f9",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_014.png": "ab2ef4bb68ca926f75d2351d4e74f8c392418ffd2a3b2580cf223a7d1c147b81",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_015.png": "1afbbd9732a0ebf48df60bd72ac71c1300ca8de1d0e29db9cde3760f383bf3f3",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_016.png": "3b205e9c84d61aa3ab0ecff1a7648016d6ac1ab10fc22172cc3d2d7a1901b744",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_017.png": "f254e3090339d290ab805108ceeccc4360a0ef464e6bc3988be817115e238080",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_018.png": "eb1a1d1ac59f18e06914dca99bf11e470aed3543eca34664cea4dfd9a49b93dd",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_019.png": "b027929dbeb88328f63000fd584e4cbf17caad2833afe7185b5ed93bbeadd32d",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_020.png": "f583d786b19fa5ac768e2b26524cb95720556bb91041ae659b2cfd5985b16787",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_021.png": "c7a082d23aa0107f521663f31e63de02fe75681ff15f581d1ae3d5be0803515d",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_022.png": "ebb24efb87a88cbabff26eeed7a1e12ca13d3e3db5a414ea09b407200082a2f6",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_023.png": "b66100204b925fa3d1e45190c5403a6ab7799c6f285e3bda660c46fe797b4d6f",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_024.png": "31b9b744e886967c4cef3c064164e927e457b929c3a2e8a5c950011c36e69833",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_025.png": "d78726ed977f00eb12336b5edbe7aeeb0727dbb47febca5f22b2df502b796fa5",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_026.png": "16f4c380d6f3ed9dbc41234ed8d9c4b4702c90e2f0d8b26675921d3a73b61bc3",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_027.png": "2db37fac0c76f1e652c7c1b98117b4900d34e6ab0b672e27101b33bc4d6312f9",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_028.png": "40453222fef4aa84d7786cacd5c6013b3f26f9d7dc82fd878a407f391960970a",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_029.png": "ceae53c02880b373b25381a7dbfb5f133b269578b2dc9f76c91b93014e984d5f",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_030.png": "41e0c229f1779a48244fabb2753523b7b91484153ab458fdb9c8063ecf7cfb7d",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_031.png": "7e6315e5831ff33d3f558218bee811eda9790dba8d0495147a026780697bfae4",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_032.png": "6eeca8dd63320e12ecd1f060278d4e4d8c632c1573a0ffffa4c2a375c5c05d8a",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_033.png": "0367d8d312e2b697ae9de75e70b56aa571b1bac656d5fad26c8e9dc715785596",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_034.png": "ebbe643b329977fcb6556802a54b2d91ff3cf0b739b56e03013f3e45eb4abb76",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_035.png": "f39e4e3bceb5d159eb331912e87244c753f5bc15fa44ce4212bf59138d8b75fa",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_036.png": "40453222fef4aa84d7786cacd5c6013b3f26f9d7dc82fd878a407f391960970a",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_037.png": "ceae53c02880b373b25381a7dbfb5f133b269578b2dc9f76c91b93014e984d5f",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_038.png": "41e0c229f1779a48244fabb2753523b7b91484153ab458fdb9c8063ecf7cfb7d",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_039.png": "7e6315e5831ff33d3f558218bee811eda9790dba8d0495147a026780697bfae4",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_040.png": "6eeca8dd63320e12ecd1f060278d4e4d8c632c1573a0ffffa4c2a375c5c05d8a",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_041.png": "0367d8d312e2b697ae9de75e70b56aa571b1bac656d5fad26c8e9dc715785596",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_042.png": "ebbe643b329977fcb6556802a54b2d91ff3cf0b739b56e03013f3e45eb4abb76",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_043.png": "f39e4e3bceb5d159eb331912e87244c753f5bc15fa44ce4212bf59138d8b75fa",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_044.png": "40453222fef4aa84d7786cacd5c6013b3f26f9d7dc82fd878a407f391960970a",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_045.png": "ceae53c02880b373b25381a7dbfb5f133b269578b2dc9f76c91b93014e984d5f",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_046.png": "41e0c229f1779a48244fabb2753523b7b91484153ab458fdb9c8063ecf7cfb7d",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_047.png": "7e6315e5831ff33d3f558218bee811eda9790dba8d0495147a026780697bfae4",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_048.png": "6eeca8dd63320e12ecd1f060278d4e4d8c632c1573a0ffffa4c2a375c5c05d8a",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_049.png": "0367d8d312e2b697ae9de75e70b56aa571b1bac656d5fad26c8e9dc715785596",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_050.png": "ebbe643b329977fcb6556802a54b2d91ff3cf0b739b56e03013f3e45eb4abb76",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_051.png": "f39e4e3bceb5d159eb331912e87244c753f5bc15fa44ce4212bf59138d8b75fa",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_052.png": "7e538ab6340b3e21aa5ef9a643c8c38c353be4cc803cb9e3295e667289c4b896",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_053.png": "5bf196dc17507ddf4dc1676e7edfd1f0e6e9da51c7fc5ba5de5298fa6739e837",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_054.png": "6904afa47068588f6c26410056623bf529a7b2a49868ec8388b9270ecc783c87",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_055.png": "143622cb0fcdcdd9d913ed7056984e7b807f52605a108e9e54c9bc1aac7dc901",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_056.png": "23de1ce01593aeade904b10f8bc8dade86b09b8b244efd5313bfb6aa9fda86f1",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_057.png": "40f6079c49d18019974176da09f7c1def77073215a883ce50fc6a61b6c0a3f79",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_058.png": "f94ba6366a133423bf2ae7527292c1ab6ec2a51440010376c1d4e429df6b04bc",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_059.png": "922a791a82686c338a9d1321faada43c28beb73ff57ee1da4376f22291d68462",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_060.png": "016c8b88090db49b2e89b26fb2d0a9b058575fe60cae50193f442f3cc3b9f49c",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_061.png": "6d674013edd7780d4553e32d3207d2ece2da51fc5dbb0cdf3ff24e58dc5ead77",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_062.png": "4c224de933a859d0677cb7b62bd07e1a0ac75e6d1e6897ff68468a08dfc1536d",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_063.png": "a49ccc253842dce3bb95f7d88d9e2827ed523893071e0528bd3c68593a8f9be2",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_064.png": "c2b23cad6c648fca149a484acd65e4b69ea832a211aa3b7b7d3dc6efe6a46c56",
+    "Asset/Character/detail_oct28_candidates/tigerknight/frame_065.png": "9fc8a84537652ace752887098036714a16062a43fcbe87f7c5bb8c8991899b3f"
+  },
+  "art_source": "existing",
+  "frame_count": 66,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        811,
+        811,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 16,
+      "region": [
+        811,
+        0,
+        811,
+        811
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    811,
+    811
+  ],
+  "target_height_px": 100,
+  "reference_frame": 0,
+  "reference_height_px": 368,
+  "reference_alpha_bounds": [
+    184,
+    87,
+    696,
+    689
+  ],
+  "anchor_px": [
+    440.0,
+    689
+  ],
+  "display_scale": 0.2717391304347826,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "reference_body_bounds": [
+    187,
+    319,
+    694,
+    687
+  ],
+  "body_measurement_note": "Frame 0: largest connected foreground component visually checked; effects may still overlap body.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

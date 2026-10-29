@@ -1,0 +1,139 @@
+{
+  "art_source": "existing",
+  "sources": [
+    {
+      "id": "buffao",
+      "input": "13 charnew/buffao.gif",
+      "sha256": "bc1613e845856b85777883dafe771858146431b5ea3dc7b77fdc6d48f78855e2",
+      "frame_count": 68,
+      "target_height_px": 80,
+      "frame_size": [
+        200,
+        200
+      ]
+    },
+    {
+      "id": "scosrian",
+      "input": "13 charnew/scosrian.gif",
+      "sha256": "861a84575b84f3fbb3f689733cc2d21683694e4e4d1fa705e7cebd4b985a5b20",
+      "frame_count": 56,
+      "target_height_px": 85,
+      "frame_size": [
+        260,
+        260
+      ]
+    },
+    {
+      "id": "dump",
+      "input": "13 charnew/dump.gif",
+      "sha256": "a36b6446f621e2951b759b791494c70064be3dc60af8bb88cfaf5615e44ba381",
+      "frame_count": 110,
+      "target_height_px": 80,
+      "frame_size": [
+        360,
+        360
+      ]
+    },
+    {
+      "id": "hemsiss",
+      "input": "13 charnew/hemsiss.gif",
+      "sha256": "bb9415849edb6673e9edbe98a30998c616b1794b78394623adca25fb64c9ef29",
+      "frame_count": 49,
+      "target_height_px": 80,
+      "frame_size": [
+        280,
+        280
+      ]
+    },
+    {
+      "id": "scorpit",
+      "input": "13 charnew/scorpit.gif",
+      "sha256": "aef6d4d693c637829ef7668b23844c5fb909edd948a2a9eb98905fde191f9604",
+      "frame_count": 40,
+      "target_height_px": 80,
+      "frame_size": [
+        600,
+        600
+      ]
+    },
+    {
+      "id": "Domrico",
+      "input": "13 charnew/Domrico.gif",
+      "sha256": "cc53375b653a3b8cb3d78cc17e71127e1c7c1b492dabfa5ca44e45407d16e6bd",
+      "frame_count": 100,
+      "target_height_px": 85,
+      "frame_size": [
+        520,
+        520
+      ]
+    },
+    {
+      "id": "hecfaom",
+      "input": "13 charnew/hecfaom.gif",
+      "sha256": "1b791f0b2aae6431d75f4dbcbc9cfda596dcf59d8f0c11bb179c826f440f62a2",
+      "frame_count": 68,
+      "target_height_px": 85,
+      "frame_size": [
+        280,
+        280
+      ]
+    },
+    {
+      "id": "Impector",
+      "input": "13 charnew/Impector.gif",
+      "sha256": "13b57ba2bf86ee22a97a97600d3202421448660171a309d14fde9e8bf36bb16d",
+      "frame_count": 62,
+      "target_height_px": 80,
+      "frame_size": [
+        260,
+        260
+      ]
+    },
+    {
+      "id": "Actem",
+      "input": "13 charnew/Actem.gif",
+      "sha256": "bb6004facff8f10b826ade536210221a178ada6836740945858cc1c135a0177b",
+      "frame_count": 66,
+      "target_height_px": 80,
+      "frame_size": [
+        720,
+        720
+      ]
+    },
+    {
+      "id": "Hatomin",
+      "input": "13 charnew/Hatomin.gif",
+      "sha256": "2fafdae2af1e61c6638ad23a3e65e4dd1548d7f33670cfddee6c4f35d4bea2f9",
+      "frame_count": 51,
+      "target_height_px": 80,
+      "frame_size": [
+        576,
+        576
+      ]
+    },
+    {
+      "id": "Trainxoan",
+      "input": "13 charnew/Trainxoan.gif",
+      "sha256": "95fa5038d4d7f03b2e6a0d060b6985b7385489d57b745715e64dc21a70ef8a55",
+      "frame_count": 53,
+      "target_height_px": 85,
+      "frame_size": [
+        320,
+        320
+      ]
+    },
+    {
+      "id": "urguro",
+      "input": "13 charnew/urguro.gif",
+      "sha256": "74dd23de17fe1a31f426c14fd136694a3e16fb96845e488239a6d6d79556bc48",
+      "frame_count": 47,
+      "target_height_px": 80,
+      "frame_size": [
+        200,
+        200
+      ]
+    }
+  ],
+  "scorpit_previous_source": "Asset/Character/vfx/scorpit.gif",
+  "scorpit_archive": "Asset/Character/archive/scorpit_before_charnew"
+}

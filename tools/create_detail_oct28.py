@@ -6,7 +6,7 @@ from PIL import Image, ImageFilter
 
 ROOT = Path(__file__).resolve().parents[1]
 A = ROOT / 'Asset/Character'
-NAMES = 'artemis aument bearen biden botem choptian conden corepion dracian dragonight dragonmout ethan guard jaik Kahn kapicon knight mainthen mortafi nox overight powerdame scorpit skyles tigerknight wuchen'.split()
+NAMES = 'artemis aument bearen biden botem choptian conden corepion dracian dragonight dragonmout ethan guard jaik Kahn knight mainthen mortafi nox overight powerdame scorpit skyles tigerknight wuchen'.split()
 PRIORITIES = 'detail_130_candidates fine_candidates pixel_220_candidates sharp_candidates scorpit_repair18_candidates logo_candidates scene_protected_candidates pixel_180_candidates scorpit_repair_candidates pixel_120_candidates native_candidates oct28_fix_candidates pixel_candidates spot_candidates remaining_scene_candidates scene_detail_v3_candidates foot_candidates detailed_candidates special_candidates cleanup_candidates shared_scene_candidates temporal_candidates batch_candidates refined_candidates candidates'.split()
 def sha(p): return hashlib.sha256(p.read_bytes()).hexdigest()
 def main():

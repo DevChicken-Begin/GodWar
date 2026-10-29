@@ -1,0 +1,518 @@
+{
+  "id": "pygon",
+  "source": "Asset/Character/vfx/pygon.gif",
+  "source_sha256": "ed94b28c8591862caa8ed790af503b8b2b1c7e5f4a6b9be9da0f1986192533b1",
+  "input_candidate": "fine_candidates",
+  "input_sha256": {
+    "Asset/Character/fine_candidates/pygon/atlas_000.png": "4355fa4f70ff1777479e13b949f817e84d79613058825de40511be9a5191d0ec",
+    "Asset/Character/fine_candidates/pygon/atlas_001.png": "03f6d372c08440439c85080f43fedbbdc9495e7701adf9d6d0ea89ced196f237",
+    "Asset/Character/fine_candidates/pygon/atlas_002.png": "418e6a671a81a3c89f1c0f2ccd86dec2a396accc6ccb2f33cbdba4fd504dbddb",
+    "Asset/Character/fine_candidates/pygon/atlas_003.png": "daee435be5cc5778e3dce7e6ce4c9195e567e2d4e2db68ef6dfe38245ad52289",
+    "Asset/Character/fine_candidates/pygon/atlas_004.png": "5399cad96fccdd104ce79c99d0939a6c266aaf0e27dc2c2ba22b6278589b74e9",
+    "Asset/Character/fine_candidates/pygon/atlas_005.png": "1716c4fe30ce8263bcd1ba36a913701ad774c1351d3994679c25f22ff33beafb"
+  },
+  "art_source": "existing",
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        660,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1320,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        660,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1320,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        660,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1320,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        660,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1320,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        660,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1320,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        660,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1320,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        660,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1320,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        660,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1320,
+        660,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        660,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1320,
+        1320,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        660,
+        0,
+        660,
+        660
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    660,
+    660
+  ],
+  "target_height_px": 70,
+  "reference_frame": 0,
+  "reference_height_px": 180,
+  "reference_alpha_bounds": [
+    216,
+    264,
+    426,
+    564
+  ],
+  "anchor_px": [
+    321.0,
+    564
+  ],
+  "display_scale": 0.3888888888888889,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2",
+  "reference_body_bounds": [
+    216,
+    384,
+    426,
+    564
+  ],
+  "body_measurement_note": "Frame 0 largest connected foreground component checked visually; attached VFX may remain, and detached details may be excluded."
+}

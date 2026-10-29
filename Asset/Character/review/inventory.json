@@ -581,18 +581,6 @@
       "characters": []
     },
     {
-      "source": "Asset/Character/vfx/firer.gif",
-      "sha256": "3a79411f9c2f0580b354e55d55c315e64b7ba0c467d8cfb961457496be1c58e5",
-      "frames": 113,
-      "review_sheets": [
-        "frames_0000_0063.jpg",
-        "frames_0064_0112.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
       "source": "Asset/Character/vfx/flybird.gif",
       "sha256": "96bcdd1f60a7b3ec634f9ba3a88dddbc788238919428616682e6ae7daad5f3b0",
       "frames": 49,
@@ -750,17 +738,6 @@
       "characters": []
     },
     {
-      "source": "Asset/Character/vfx/kapicon.gif",
-      "sha256": "bfad98746af6c9903e3ed6b4db238961f776a2817f01e9bb48ca61026e16ed09",
-      "frames": 47,
-      "review_sheets": [
-        "frames_0000_0046.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
       "source": "Asset/Character/vfx/knel.gif",
       "sha256": "d1dd440f3fc35e95b2d70aa7543c48a0aeffa535ce8ec74b73ff0dcef9125c49",
       "frames": 59,
@@ -907,17 +884,6 @@
       "characters": []
     },
     {
-      "source": "Asset/Character/vfx/monsterdead.gif",
-      "sha256": "5c78f8b25073eda1f0fb05e89fe240d93b94bc2ba7d1f599b2fd36dc77ece393",
-      "frames": 10,
-      "review_sheets": [
-        "frames_0000_0009.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
       "source": "Asset/Character/vfx/monstermap.gif",
       "sha256": "3ba8217b8ca41f13d1b87206add03ea65269d6c24475b7184e8cc3ee6554a01d",
       "frames": 40,
@@ -980,18 +946,6 @@
       "review_sheets": [
         "frames_0000_0063.jpg",
         "frames_0064_0096.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
-      "source": "Asset/Character/vfx/newwomen.gif",
-      "sha256": "dedff11dfd65ec1704919f0e69eecc451c419a1d806734f0d94cf5ed5a145ec9",
-      "frames": 72,
-      "review_sheets": [
-        "frames_0000_0063.jpg",
-        "frames_0064_0071.jpg"
       ],
       "status": "unreviewed",
       "observations": [],
@@ -1161,17 +1115,6 @@
       "frames": 32,
       "review_sheets": [
         "frames_0000_0031.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
-      "source": "Asset/Character/vfx/scorpit.gif",
-      "sha256": "e71168056dce8539ca817e33d02d5c51da18d08d115fcb31b8216dc3e1a62272",
-      "frames": 40,
-      "review_sheets": [
-        "frames_0000_0039.jpg"
       ],
       "status": "unreviewed",
       "observations": [],
@@ -1592,17 +1535,6 @@
       "characters": []
     },
     {
-      "source": "Asset/Character/vfx/knigblack.gif",
-      "sha256": "243484289b25cfb2290bc337077654cd0893a97f778132f6b1e2e194707181dd",
-      "frames": 12,
-      "review_sheets": [
-        "frames_0000_0011.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
       "source": "Asset/Character/vfx/pigpor.gif",
       "sha256": "b19fd558441321233dde03b82c4767377d7b1fbf4c1a85ac14208dbe777d859c",
       "frames": 44,
@@ -1731,6 +1663,257 @@
         "frames_0000_0029.jpg",
         "frames_0030_0040.jpg"
       ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/aonime.gif",
+      "sha256": "b9f3070941886d329e62bf9ff2f989cd0cfcb38294b20209fb56fb508f425cb2",
+      "frames": 60,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/buffoin.gif",
+      "sha256": "3d4dfd06f6ee9d2acf9da237f43343d1bec3ce6b720cef69dd81f9b270bff53b",
+      "frames": 49,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/congpha.gif",
+      "sha256": "dfc50767e3ef7baaa0d3bb0bfe583106ff358797b686d56184d4155d54028875",
+      "frames": 34,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/dragonot.gif",
+      "sha256": "92ba426c824eadfc954699aa923f2f9504eb73df849c56dc44567d54f0acdf5f",
+      "frames": 49,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/hanko.gif",
+      "sha256": "5315071b98d265131fed8831a7a7b1cb17694f20be1a72ae03a79f3e72c9c132",
+      "frames": 72,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/kengkeng.gif",
+      "sha256": "ff404a3cb779a5d4c6ecafced201d646e59dbb5f2c73e73d59fec55612a09acf",
+      "frames": 77,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/kungtailee.gif",
+      "sha256": "c98c28c9e44dcb6ba00a6b9eaf3272ce82326b9bab44f44603b3f4c06a29f003",
+      "frames": 120,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/machinen.gif",
+      "sha256": "26c8f990aff2328e8f7ca1e580205da4f1e83be919138c6eb7e3e8c26ee7ff0c",
+      "frames": 64,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/magma.gif",
+      "sha256": "18467ba3c23fc2811ddcb5805eea1412b84170e20379431ac0ee33fd0bf4423a",
+      "frames": 120,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/swithin.gif",
+      "sha256": "e3c6641cd9be86dbefde7f351229505b041afdb07247f3ddc2ac7f38f3f87aaa",
+      "frames": 62,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/trongit.gif",
+      "sha256": "73490e75d22569ec53e8be0c11ba491125969f0917acc54a19fba84fa82bf3ac",
+      "frames": 60,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/vision.gif",
+      "sha256": "64b1b53bfa31b1cfe89eec0459ed836395785ba935e8b7e0e696726a88410501",
+      "frames": 56,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/warrioram.gif",
+      "sha256": "f8447dfdeea1bf1ae17ad3dbe1446790abbc55ee071edc39b484f9e71191be97",
+      "frames": 120,
+      "review_sheets": [
+        "sample-keyed.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/buffao.gif",
+      "sha256": "bc1613e845856b85777883dafe771858146431b5ea3dc7b77fdc6d48f78855e2",
+      "frames": 68,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/scosrian.gif",
+      "sha256": "861a84575b84f3fbb3f689733cc2d21683694e4e4d1fa705e7cebd4b985a5b20",
+      "frames": 56,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/dump.gif",
+      "sha256": "a36b6446f621e2951b759b791494c70064be3dc60af8bb88cfaf5615e44ba381",
+      "frames": 110,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/hemsiss.gif",
+      "sha256": "bb9415849edb6673e9edbe98a30998c616b1794b78394623adca25fb64c9ef29",
+      "frames": 49,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/scorpit_charnew.gif",
+      "sha256": "aef6d4d693c637829ef7668b23844c5fb909edd948a2a9eb98905fde191f9604",
+      "frames": 40,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Domrico.gif",
+      "sha256": "cc53375b653a3b8cb3d78cc17e71127e1c7c1b492dabfa5ca44e45407d16e6bd",
+      "frames": 100,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/hecfaom.gif",
+      "sha256": "1b791f0b2aae6431d75f4dbcbc9cfda596dcf59d8f0c11bb179c826f440f62a2",
+      "frames": 68,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Impector.gif",
+      "sha256": "13b57ba2bf86ee22a97a97600d3202421448660171a309d14fde9e8bf36bb16d",
+      "frames": 62,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Actem.gif",
+      "sha256": "bb6004facff8f10b826ade536210221a178ada6836740945858cc1c135a0177b",
+      "frames": 66,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Hatomin.gif",
+      "sha256": "2fafdae2af1e61c6638ad23a3e65e4dd1548d7f33670cfddee6c4f35d4bea2f9",
+      "frames": 51,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Trainxoan.gif",
+      "sha256": "95fa5038d4d7f03b2e6a0d060b6985b7385489d57b745715e64dc21a70ef8a55",
+      "frames": 53,
+      "review_sheets": [],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/urguro.gif",
+      "sha256": "74dd23de17fe1a31f426c14fd136694a3e16fb96845e488239a6d6d79556bc48",
+      "frames": 47,
+      "review_sheets": [],
       "status": "unreviewed",
       "observations": [],
       "characters": []

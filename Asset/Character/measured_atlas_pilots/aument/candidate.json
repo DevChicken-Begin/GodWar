@@ -1,0 +1,497 @@
+{
+  "id": "aument",
+  "source": "Asset/Character/vfx/aument.gif",
+  "source_sha256": "d9b5ced419eb1d8cd9aebbfab828e057e16f3363b88ab8b64c042c095b259598",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/aument/frame_000.png": "92bfbef8529efc2569a2ff1facec2e70af42b99f06a40ba48b39dc7060dabd00",
+    "Asset/Character/detail_oct28_candidates/aument/frame_001.png": "1f6f132b95e43d7589ad1a2502c40f849e9f17543b01cd9d935abf2f278b02ba",
+    "Asset/Character/detail_oct28_candidates/aument/frame_002.png": "3f4ec094721edbfac1f14ba68c7647191a8acbc9a902acbbebefc2b54356eddf",
+    "Asset/Character/detail_oct28_candidates/aument/frame_003.png": "e3320775a46806dccb2c78a59f26e9f74627943b5c78b42524304c0d608837e6",
+    "Asset/Character/detail_oct28_candidates/aument/frame_004.png": "0bc1953b562aa1f8b13af235d932d175fef959b547844bd29fb6b11944e510c1",
+    "Asset/Character/detail_oct28_candidates/aument/frame_005.png": "492007ea2d6a4fbe684f89ca0acbcb5ab1d0a0f688eb05702f0832e74c4528c6",
+    "Asset/Character/detail_oct28_candidates/aument/frame_006.png": "2fb09be8bac282026c745bbd5d378e2d30ccb1178742fc33be5140bf595b65c2",
+    "Asset/Character/detail_oct28_candidates/aument/frame_007.png": "39582b33fa2f64b56e8e733c40c9673bd2b69a95b6325f5050ba8672dfc27f1e",
+    "Asset/Character/detail_oct28_candidates/aument/frame_008.png": "b8853a7598097a8db06cf40f626768c3768542e839660623b8307094bedc59a1",
+    "Asset/Character/detail_oct28_candidates/aument/frame_009.png": "d24f3d8db52a2e13b0dd83ddb393716a21ec6bad0e799a6436d08ad788def3fe",
+    "Asset/Character/detail_oct28_candidates/aument/frame_010.png": "575e4e07b4c64155b38a2c4fe53776d225711ced4e308229816814762fcf0841",
+    "Asset/Character/detail_oct28_candidates/aument/frame_011.png": "83295af3863c03caf517977b17f03ec8db5c983ebd0445c7bd3d323412b741d4",
+    "Asset/Character/detail_oct28_candidates/aument/frame_012.png": "a70aa14719eaa5397ab07c62e5eb42a3ebbb20e521c28d376f4d5848b4831b72",
+    "Asset/Character/detail_oct28_candidates/aument/frame_013.png": "15d7d9670727c8379332d0ad8e0979980eb1a33afcd91996395590ea6716f569",
+    "Asset/Character/detail_oct28_candidates/aument/frame_014.png": "fb83a5707597ab0b604479067664b42a406a1e896ccf42cdcae316c83158d431",
+    "Asset/Character/detail_oct28_candidates/aument/frame_015.png": "2e2a0a477dac78de30e5688e4da9db37e570edabaa6568ad3eb05949815cfb44",
+    "Asset/Character/detail_oct28_candidates/aument/frame_016.png": "11e99c8acc8c21d127c86ac0947ab3ed09a1a3a3a0d636c2854811677be72340",
+    "Asset/Character/detail_oct28_candidates/aument/frame_017.png": "daa75e5dfa682af76f2baa6e04f9a1e23d068d50ea802d4918eff5319a6b8c7f",
+    "Asset/Character/detail_oct28_candidates/aument/frame_018.png": "4a0c8b1cfc1074d1968b10113f888858daab5d1e284e2454a343f0b64451f78e",
+    "Asset/Character/detail_oct28_candidates/aument/frame_019.png": "4599961410500a714f4eb3ac088161446d0e80de7236a138374f1ace7ea6be5f",
+    "Asset/Character/detail_oct28_candidates/aument/frame_020.png": "3be123d886499c7f6b6f88be987da05ceb7fb969ede3e1d8ba779638755db3f6",
+    "Asset/Character/detail_oct28_candidates/aument/frame_021.png": "d1b19adbf65c937f2de25cc451d43002f5c3b7b202174309cfc557fe71231ebe",
+    "Asset/Character/detail_oct28_candidates/aument/frame_022.png": "6d41780bfa00a6d8e1c85ddd75efa0bf411ac4d558bae16d00da33a3d7501b58",
+    "Asset/Character/detail_oct28_candidates/aument/frame_023.png": "85b42511bf4e5b9cba572a160cba3c9f3fcea2a4d43aa549be476d90b1aa0beb",
+    "Asset/Character/detail_oct28_candidates/aument/frame_024.png": "6ffceb10af6f6a5aaae06c193406861c969f92d6734c00e940e586654fcc7d04",
+    "Asset/Character/detail_oct28_candidates/aument/frame_025.png": "bef0d081d96ebc20fd6e75c434379ac97757376cb912b6ff0921e5ff6cc3944f",
+    "Asset/Character/detail_oct28_candidates/aument/frame_026.png": "ca23ab2c6d4b8a65651545a228d3204011dedb0ff03823a2e90de2b025202797",
+    "Asset/Character/detail_oct28_candidates/aument/frame_027.png": "508fe2a825edbd742b289c297bbd45d028fa32bf0df6697ed69815215d9931b9",
+    "Asset/Character/detail_oct28_candidates/aument/frame_028.png": "5d48985ae549d8cbdf563f088daa90cb88447cd13c631662da558f9dc2fe6c23",
+    "Asset/Character/detail_oct28_candidates/aument/frame_029.png": "20811c8f3247ff2ee92b8819d15eb68fdd5157f85df24326c9239f5462654fae",
+    "Asset/Character/detail_oct28_candidates/aument/frame_030.png": "374555d21ee4457b4fce95c61a7dd2444014e2cf7681bb810dec8e64cf55aaec",
+    "Asset/Character/detail_oct28_candidates/aument/frame_031.png": "cd565263f415239081c5ed58b693dedfc61035075b09f68cb99b5c6825e56459",
+    "Asset/Character/detail_oct28_candidates/aument/frame_032.png": "36bab64b1e080661cce36fa6d9567a249b4416a173acf1b721f513abfb022c53",
+    "Asset/Character/detail_oct28_candidates/aument/frame_033.png": "afa570be37cd770e302694f89bf890ac9df7ebbe044b165df6bd55be9aeb8007",
+    "Asset/Character/detail_oct28_candidates/aument/frame_034.png": "c1d4589e355de33f615af9cb10b2026d97d12ebdfd8b7baf31c447f07a9f47f1",
+    "Asset/Character/detail_oct28_candidates/aument/frame_035.png": "72716058e03bb7cafb1c99032cf9d34b733933551d425005ef487d8719f435a7",
+    "Asset/Character/detail_oct28_candidates/aument/frame_036.png": "49554f5d786c5439464b83ac92033dbab06df094523d3ddd473e6c205cee1ab2",
+    "Asset/Character/detail_oct28_candidates/aument/frame_037.png": "34b35dccf26909d5b1e06c051b920aa450227540566fa98c4a557cb64f2cf45f",
+    "Asset/Character/detail_oct28_candidates/aument/frame_038.png": "f004ae3490ed2acf90f87afebf80f34549a88c06b2bd39cfe0537846f65e37e9",
+    "Asset/Character/detail_oct28_candidates/aument/frame_039.png": "420b20d9d4dad3dddd6cd338d4285856bb8e1678a483b4024a822509f3fee27e",
+    "Asset/Character/detail_oct28_candidates/aument/frame_040.png": "e251734fefab4981d4cd2d6c2db5a61fefc1c742e091317b25369d4a5f726468",
+    "Asset/Character/detail_oct28_candidates/aument/frame_041.png": "d1546e77c56c792c6dd53940aaee4842c852a137dbd96832a3046904e0b047ad"
+  },
+  "art_source": "existing",
+  "frame_count": 42,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        468,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1404,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        468,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1404,
+        1404,
+        468,
+        468
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1404,
+        0,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1404,
+        468,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        468,
+        936,
+        468,
+        468
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    468,
+    468
+  ],
+  "target_height_px": 85,
+  "reference_frame": 0,
+  "reference_height_px": 213,
+  "reference_alpha_bounds": [
+    43,
+    206,
+    317,
+    419
+  ],
+  "anchor_px": [
+    180.0,
+    419
+  ],
+  "display_scale": 0.39906103286384975,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

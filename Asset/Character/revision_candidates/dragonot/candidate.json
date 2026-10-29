@@ -1,0 +1,559 @@
+{
+  "id": "dragonot",
+  "source": "Asset/Character/vfx/dragonot.gif",
+  "source_sha256": "92ba426c824eadfc954699aa923f2f9504eb73df849c56dc44567d54f0acdf5f",
+  "base_candidate": "native_candidates",
+  "base_metadata_sha256": "f9cda8de1bfeca90cb3111023f7a9662bbd34b97d29884bbc95641f0341ca45a",
+  "art_source": "existing",
+  "display_size": [
+    384,
+    384
+  ],
+  "frame_count": 49,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        384,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        768,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1536,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        0,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        384,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        768,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1536,
+        1152,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        384,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        768,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1152,
+        1536,
+        384,
+        384
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "removed_per_frame": [
+    556,
+    498,
+    441,
+    843,
+    0,
+    250,
+    326,
+    986,
+    2216,
+    542,
+    0,
+    1438,
+    124,
+    0,
+    556,
+    498,
+    441,
+    843,
+    0,
+    250,
+    326,
+    986,
+    2216,
+    542,
+    0,
+    1438,
+    124,
+    0,
+    402,
+    137,
+    4,
+    2783,
+    0,
+    71,
+    0,
+    0,
+    1,
+    118,
+    597,
+    4,
+    0,
+    72,
+    0,
+    694,
+    0,
+    1096,
+    0,
+    0,
+    6
+  ],
+  "method": "8-connected alpha components; remove detached components of at most 16 pixels only where every removed pixel is dark background-like RGB (R<=40,G<=80,B<=100). All other pixels and frame timing are unchanged.",
+  "status": "candidate_unreviewed",
+  "limitations": "Detached dark intentional detail may be removed. Inspect all frames over light and dark backgrounds."
+}

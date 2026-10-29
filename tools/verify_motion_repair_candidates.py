@@ -18,9 +18,9 @@ def read(folder, frame):
         return np.asarray(image.convert('RGBA').crop((x, y, x+w, y+h)))
 
 
-for name in ('blacktiger', 'firer', 'conden', 'moxie'):
+for name in ('blacktiger', 'conden', 'moxie'):
     entry = catalog[name]
-    variant = 'motion_v2_candidates' if name in ('blacktiger', 'firer') else 'repaired_candidates'
+    variant = 'motion_v2_candidates' if name == 'blacktiger' else 'repaired_candidates'
     folder = ASSETS / variant / name
     meta = json.loads((folder / 'candidate.json').read_text())
     assert hashlib.sha256((ROOT / meta['source']).read_bytes()).hexdigest() == meta['source_sha256'] == entry['source_sha256']

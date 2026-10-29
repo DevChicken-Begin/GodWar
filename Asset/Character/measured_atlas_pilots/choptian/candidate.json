@@ -1,0 +1,570 @@
+{
+  "id": "choptian",
+  "source": "Asset/Character/vfx/choptian.gif",
+  "source_sha256": "6915cf0876e063ae49754339d691ef2ec17dd2d4fec0c3b3fbaded4c337c7f4e",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/choptian/frame_000.png": "99b69f22af8587da24895585e51b9a276527639ffa45da8b495896f9b5c79e8e",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_001.png": "c2fa487d55ddcaf508c6816e2674b1b0cc799ba852262532b3abad34d316e4e0",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_002.png": "077491267d1a09da6bfd889372a515773bc6d1f0423b63f679406e197b481996",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_003.png": "8dc3f78f6b58bde4d24cdbab5b598bfba465148eef417a0cac0ef044dfdff153",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_004.png": "3204cbc591ffd69b0601e1a06a19e71817bd3bf5589305a8f1d6812b45dba737",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_005.png": "3bd8f913eb871e4d1a921a1fedf3c3a1a591a7f28e498f521ae64ffc93d6a498",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_006.png": "5d63e9623162dd12e88c7dc764eace259592c40aa21e7d89e312ed9a9d92554a",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_007.png": "a786d361291f7a0a4cb22e63794f8e6ee98ba9e502e80e3e5b75170c6ffbfe81",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_008.png": "cdb5ff5b6ec59838df6465d26926e503cdbb0cc1cec7846c0072d5dc3cb7791d",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_009.png": "c2ea436f5e187aa41c9a3f0bf8bfda991acc3d90a30cae369eab29e5f38c7f85",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_010.png": "c403be956abb08b672851445538e41676dd1ef736cc545a0b997f5259bda0855",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_011.png": "1b2b0949dfd826788337d4984b161b380c3ee3dbb51bc1311cb54704c594063b",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_012.png": "e2a3da1b5235ae40e05a07333ae9f1f8fc2376b3cdb095caffd067ff3e5839e9",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_013.png": "f16b9326203fab9e9f92718bae7e90bcb6e30e8d7a0686b189a107d390dbd906",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_014.png": "99b69f22af8587da24895585e51b9a276527639ffa45da8b495896f9b5c79e8e",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_015.png": "c2fa487d55ddcaf508c6816e2674b1b0cc799ba852262532b3abad34d316e4e0",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_016.png": "077491267d1a09da6bfd889372a515773bc6d1f0423b63f679406e197b481996",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_017.png": "8dc3f78f6b58bde4d24cdbab5b598bfba465148eef417a0cac0ef044dfdff153",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_018.png": "3204cbc591ffd69b0601e1a06a19e71817bd3bf5589305a8f1d6812b45dba737",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_019.png": "3bd8f913eb871e4d1a921a1fedf3c3a1a591a7f28e498f521ae64ffc93d6a498",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_020.png": "5d63e9623162dd12e88c7dc764eace259592c40aa21e7d89e312ed9a9d92554a",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_021.png": "a786d361291f7a0a4cb22e63794f8e6ee98ba9e502e80e3e5b75170c6ffbfe81",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_022.png": "cdb5ff5b6ec59838df6465d26926e503cdbb0cc1cec7846c0072d5dc3cb7791d",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_023.png": "c2ea436f5e187aa41c9a3f0bf8bfda991acc3d90a30cae369eab29e5f38c7f85",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_024.png": "c403be956abb08b672851445538e41676dd1ef736cc545a0b997f5259bda0855",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_025.png": "1b2b0949dfd826788337d4984b161b380c3ee3dbb51bc1311cb54704c594063b",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_026.png": "e2a3da1b5235ae40e05a07333ae9f1f8fc2376b3cdb095caffd067ff3e5839e9",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_027.png": "f16b9326203fab9e9f92718bae7e90bcb6e30e8d7a0686b189a107d390dbd906",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_028.png": "cb8cacfac4d274d62d0848a4992e702b39269368ed1e2ba321b9aa3fc86f4367",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_029.png": "7456fc4ca4826f37807d4c93f49cb81dac6f0700c16d2e650c5eed407636f777",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_030.png": "c8e88b708b6df4e3b0f0a82062f5b895f8e18b62f2298d53fa2c89e3f9653171",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_031.png": "f9b2ea95d0f7cad1ce00f7726d059f0089399a66137189b8c0e369bd91e1a13b",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_032.png": "a56b45a778e1f506dc3866f633ebbee7a5e4ba805c4a9f29550ac4c6adf2d03b",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_033.png": "3fbcbc105becd2e0af5f083ab1d5d32ea531a5afe3b5802f3cbf0f440384baf2",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_034.png": "a3eaff469fad0a593ba0776a90b516b071142a53de4019722c9d2fefa6a0695d",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_035.png": "403a7f23f2f62e63e0f9c74e116a0e475f20d39b66daefec2a5608d9477ce3d5",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_036.png": "24772a9bb19a741977d7ddf70f6b25729cccba7b3b1c2090757acf3e72aba6ec",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_037.png": "6f2438b60f2b8f120179ee6dfe3445e8bbadd6a2ee4dd3f2880c1bda850fcf05",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_038.png": "84a156202d7a4c9b06f3aae203d9e2e8dbd3695feb27633cb4fa08ec344ba35b",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_039.png": "37694b0e61975bc9a7d32214bb54a0ed1014d59e299d384006fca573a5997e3e",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_040.png": "8a49c1f4b5cbe2db3b413ad9945eb33c9ea1e6b58fd62c926c4227b9fbcf6dbd",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_041.png": "90607f5e7449c0a562497b9304138b300a70e1d06d6cde18e408ba5f14dc68a2",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_042.png": "e0c28de0d6eab2a7d9cc5ef0f077085afa02ed13fe59d31ee411266cffcf55fd",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_043.png": "fbfef44ff4a528cf1ab6fb91f7bf5b0e185567d8364f09cd832c16185f1e4879",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_044.png": "e6a9132f615ceb587a065a62803a9f286024523cbec4903d44dd74ec63b29aac",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_045.png": "6132c793072ff839726e11aa710e72cd7862fabbda66867d1159fe779805d724",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_046.png": "133b3559c59d7d440c84053d00319a8ea27074f68477c91da4a1696ed174f8bf",
+    "Asset/Character/detail_oct28_candidates/choptian/frame_047.png": "efd9d2c6cb2cfd09f0c883251d9bf7d1c267ad7339d2dac8a58764e72e415b94"
+  },
+  "art_source": "existing",
+  "frame_count": 48,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        288,
+        0,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        0,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        0,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        0,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        0,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1728,
+        0,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        288,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        288,
+        288,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        288,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        288,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        288,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        288,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1728,
+        288,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        576,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        288,
+        576,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        576,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        576,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        576,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        576,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1728,
+        576,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        864,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        288,
+        864,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        864,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        864,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        864,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        864,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1728,
+        864,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1152,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        288,
+        1152,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        1152,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        1152,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        1152,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        1152,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1728,
+        1152,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1440,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        288,
+        1440,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        1440,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        1440,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        1440,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        1440,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1728,
+        1440,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1728,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        288,
+        1728,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        576,
+        1728,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        864,
+        1728,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1152,
+        1728,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        1728,
+        288,
+        288
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    288,
+    288
+  ],
+  "target_height_px": 90,
+  "reference_frame": 0,
+  "reference_height_px": 147,
+  "reference_alpha_bounds": [
+    52,
+    98,
+    200,
+    252
+  ],
+  "anchor_px": [
+    126.0,
+    252
+  ],
+  "display_scale": 0.6122448979591837,
+  "measurement_kind": "visually_inspected_component_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round3",
+  "reference_body_bounds": [
+    55,
+    103,
+    197,
+    250
+  ],
+  "body_measurement_note": "Frame 0 largest connected foreground component checked visually; attached VFX may remain, and detached details may be excluded."
+}

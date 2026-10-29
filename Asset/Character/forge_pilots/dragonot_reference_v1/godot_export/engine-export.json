@@ -1,0 +1,669 @@
+{
+  "schema": "generate2dsprite.engine_export.v1",
+  "name": "godot_export",
+  "tool": {
+    "name": "export_engine.py",
+    "version": "0.4.0"
+  },
+  "source": {
+    "path": "../clips/animation-clips.json",
+    "sha256": "017ee27d1c1e030e388670e90a864750407998eaef6d15ecc14fda900965f39e",
+    "bytes": 75068,
+    "schema": "generate2dsprite.animation_clips.v2"
+  },
+  "targets": [
+    "godot-spriteframes"
+  ],
+  "frame_size": [
+    384,
+    384
+  ],
+  "anchor_px": [
+    192.0,
+    192.0
+  ],
+  "sampling": "nearest",
+  "pixel_art": true,
+  "art_source": "existing",
+  "default_clip": "reference_unclassified",
+  "atlas": {
+    "max_size": 4096,
+    "padding": 2,
+    "extrude": 1,
+    "pages": [
+      {
+        "index": 0,
+        "size": [
+          2330,
+          2330
+        ],
+        "cells": 35,
+        "clips": [
+          "reference_unclassified"
+        ]
+      }
+    ]
+  },
+  "scale": {
+    "pixel_size": 0.01,
+    "subject_height_px": 224.0,
+    "world_height": 2.24,
+    "source": "Godot default pixel size",
+    "subject_height_source": "median visible height of clip reference_unclassified"
+  },
+  "clips": {
+    "reference_unclassified": {
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48
+      ],
+      "duration_ms": [
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70,
+        70
+      ],
+      "total_duration_ms": 3430,
+      "loop": true,
+      "loop_policy": "cycle",
+      "events_ms": [],
+      "page": 0,
+      "tick_grid": {
+        "hz": 60,
+        "max_drift_ms": 6.667,
+        "frame_ticks": [
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4,
+          4,
+          4,
+          4,
+          5,
+          4
+        ],
+        "zero_tick_positions": [],
+        "even": false,
+        "cycle_ticks": 205.8,
+        "cycle_aligned": false,
+        "method": "cumulative integer-ms frame boundaries rounded half-up to the nearest tick"
+      },
+      "godot": {
+        "speed": 14.285714285714286,
+        "basis": "shortest frame = 1.0",
+        "relative_durations": [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      }
+    }
+  },
+  "states": {},
+  "unused_frames": [],
+  "mapping": {
+    "anchor_px": [
+      192.0,
+      192.0
+    ],
+    "frame_size": [
+      384,
+      384
+    ],
+    "anchor_normalized_top_left": [
+      0.5,
+      0.5
+    ],
+    "sampling": "nearest",
+    "godot": {
+      "animated_sprite_2d": {
+        "centered": false,
+        "offset": [
+          -192.0,
+          -192.0
+        ],
+        "texture_filter": 1
+      },
+      "animated_sprite_3d": {
+        "centered": true,
+        "offset": [
+          0.0,
+          0.0
+        ],
+        "pixel_size": 0.01,
+        "texture_filter": 0
+      }
+    },
+    "unity": {
+      "pivot": [
+        0.5,
+        0.5
+      ],
+      "pixels_per_unit": 100.0,
+      "filter_mode": "Point"
+    },
+    "phaser": {
+      "origin": [
+        0.5,
+        0.5
+      ],
+      "pixel_art": true
+    },
+    "pixi": {
+      "anchor": [
+        0.5,
+        0.5
+      ],
+      "scale_mode": "nearest"
+    },
+    "pitch_compensation": {
+      "applies_to": "yaw-only (fixed-y) billboards seen by a pitched camera",
+      "formula": "scale_y = 1 / cos(camera_pitch), applied about the anchor"
+    }
+  },
+  "files": [
+    {
+      "path": "godot/godot_export-atlas-00.png",
+      "sha256": "c4446305903ada8fa59707c382fecd7ef6f69fa7d3116c93ef6e44cdf3716d49",
+      "bytes": 1580118
+    },
+    {
+      "path": "godot/godot_export.tres",
+      "sha256": "d563088b5735d3b9428dacb54924b3e72062ad4a239dde65ce6bc2cea6935e77",
+      "bytes": 8666
+    },
+    {
+      "path": "godot/godot_export.tscn",
+      "sha256": "0a0c2481bedcb22da5a9478ef707ee536a3c6390ffe9b8ba4295ed2f1dc0ced4",
+      "bytes": 343
+    }
+  ],
+  "qa": {
+    "status": "pass",
+    "method": "round trip: every written atlas, Aseprite JSON, SpriteFrames .tres, scene .tscn and Sprite3D contract was parsed back and compared with the source frames (exact RGBA), integer durations, loop flags, events and the shared anchor",
+    "notProven": [
+      "Imports into the Aseprite, Godot 4, Phaser, PixiJS and Unity editors or runtimes were not run; only parse-level round trips were checked.",
+      "Engine import settings (filter, compression, mipmaps) are not written; set them as engine-export.md describes.",
+      "Animation quality, timing feel and silhouette consistency are not judged."
+    ],
+    "checks": [
+      {
+        "id": "godot_spriteframes_roundtrip",
+        "status": "pass",
+        "value": {
+          "animations": 1
+        },
+        "threshold": null
+      },
+      {
+        "id": "godot_spriteframes_duration_error_ms",
+        "status": "pass",
+        "value": 1.4210854715202004e-14,
+        "threshold": 1e-06
+      },
+      {
+        "id": "atlas_max_side_px",
+        "status": "pass",
+        "value": 2330,
+        "threshold": 4096
+      },
+      {
+        "id": "source_frame_hashes",
+        "status": "pass",
+        "value": {
+          "verified": 49,
+          "frames": 49
+        },
+        "threshold": null
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../clips/animation-clips.json",
+        "sha256": "017ee27d1c1e030e388670e90a864750407998eaef6d15ecc14fda900965f39e",
+        "bytes": 75068
+      },
+      {
+        "path": "../clips/frames/frame-00.png",
+        "sha256": "8c25a699b6e99fc2bc03da1b018c22c5bc2ca3ddc784475e80820be7a8288212",
+        "bytes": 40858
+      },
+      {
+        "path": "../clips/frames/frame-01.png",
+        "sha256": "4e9b38bff6e8cc4c411c7ad605e02ac880ce0753f2b593399f320c0781e22147",
+        "bytes": 40782
+      },
+      {
+        "path": "../clips/frames/frame-02.png",
+        "sha256": "d4d5bd4af20de65462f7d0518c5ba545d3c2e722ee84a10e2d8aaf2388758fa6",
+        "bytes": 41449
+      },
+      {
+        "path": "../clips/frames/frame-03.png",
+        "sha256": "aca61c4ee876eb43dc35c48309d620ce4bad7130f12a2dd141e3424cc9d35a59",
+        "bytes": 40655
+      },
+      {
+        "path": "../clips/frames/frame-04.png",
+        "sha256": "dc318f1ad93c03a10384eb30db79c5bc856bea7a861f81e5dce2d5c29c6a12e1",
+        "bytes": 41574
+      },
+      {
+        "path": "../clips/frames/frame-05.png",
+        "sha256": "e1b08bfb78615d276205c1f077ba674f529f663c1f5f8639c35c76efd876c48f",
+        "bytes": 41460
+      },
+      {
+        "path": "../clips/frames/frame-06.png",
+        "sha256": "2185b462b6a854e55077693bc4ec25e4088036ca10ca01ca55565c162cdf0f05",
+        "bytes": 40739
+      },
+      {
+        "path": "../clips/frames/frame-07.png",
+        "sha256": "2e6c8ba90b540dbd744f67c07db3467aca184993fafacfd3dc10c69643691a6e",
+        "bytes": 40144
+      },
+      {
+        "path": "../clips/frames/frame-08.png",
+        "sha256": "5443136d23316a80d5f815f1c029cb5f52bdbc622108f2861d2050cd87ddaa2c",
+        "bytes": 40564
+      },
+      {
+        "path": "../clips/frames/frame-09.png",
+        "sha256": "35c3cb1a5e662b560bc9263c3ef0a31849511cbdb2571c331b05df83fde0b26d",
+        "bytes": 41386
+      },
+      {
+        "path": "../clips/frames/frame-10.png",
+        "sha256": "260e0230fdb114fb1d8df7356e08fd730b89d630d4aebafdf51dbe9e59b3d8fb",
+        "bytes": 41877
+      },
+      {
+        "path": "../clips/frames/frame-11.png",
+        "sha256": "241a1fff3bf018fd7d625c9518d11e5c44d99fc7f11a883db0e4107cd32c80b3",
+        "bytes": 40586
+      },
+      {
+        "path": "../clips/frames/frame-12.png",
+        "sha256": "54e5e81e6f6d9725bdb39947ae42a93223f786eed71eab94ccf0c1f89eed43e4",
+        "bytes": 40912
+      },
+      {
+        "path": "../clips/frames/frame-13.png",
+        "sha256": "ca33bcb54c0fc57f64700555b483b68dc42f14bfd9030cb164c6b0f81b9c7d85",
+        "bytes": 41341
+      },
+      {
+        "path": "../clips/frames/frame-14.png",
+        "sha256": "8c25a699b6e99fc2bc03da1b018c22c5bc2ca3ddc784475e80820be7a8288212",
+        "bytes": 40858
+      },
+      {
+        "path": "../clips/frames/frame-15.png",
+        "sha256": "4e9b38bff6e8cc4c411c7ad605e02ac880ce0753f2b593399f320c0781e22147",
+        "bytes": 40782
+      },
+      {
+        "path": "../clips/frames/frame-16.png",
+        "sha256": "d4d5bd4af20de65462f7d0518c5ba545d3c2e722ee84a10e2d8aaf2388758fa6",
+        "bytes": 41449
+      },
+      {
+        "path": "../clips/frames/frame-17.png",
+        "sha256": "aca61c4ee876eb43dc35c48309d620ce4bad7130f12a2dd141e3424cc9d35a59",
+        "bytes": 40655
+      },
+      {
+        "path": "../clips/frames/frame-18.png",
+        "sha256": "dc318f1ad93c03a10384eb30db79c5bc856bea7a861f81e5dce2d5c29c6a12e1",
+        "bytes": 41574
+      },
+      {
+        "path": "../clips/frames/frame-19.png",
+        "sha256": "e1b08bfb78615d276205c1f077ba674f529f663c1f5f8639c35c76efd876c48f",
+        "bytes": 41460
+      },
+      {
+        "path": "../clips/frames/frame-20.png",
+        "sha256": "2185b462b6a854e55077693bc4ec25e4088036ca10ca01ca55565c162cdf0f05",
+        "bytes": 40739
+      },
+      {
+        "path": "../clips/frames/frame-21.png",
+        "sha256": "2e6c8ba90b540dbd744f67c07db3467aca184993fafacfd3dc10c69643691a6e",
+        "bytes": 40144
+      },
+      {
+        "path": "../clips/frames/frame-22.png",
+        "sha256": "5443136d23316a80d5f815f1c029cb5f52bdbc622108f2861d2050cd87ddaa2c",
+        "bytes": 40564
+      },
+      {
+        "path": "../clips/frames/frame-23.png",
+        "sha256": "35c3cb1a5e662b560bc9263c3ef0a31849511cbdb2571c331b05df83fde0b26d",
+        "bytes": 41386
+      },
+      {
+        "path": "../clips/frames/frame-24.png",
+        "sha256": "260e0230fdb114fb1d8df7356e08fd730b89d630d4aebafdf51dbe9e59b3d8fb",
+        "bytes": 41877
+      },
+      {
+        "path": "../clips/frames/frame-25.png",
+        "sha256": "241a1fff3bf018fd7d625c9518d11e5c44d99fc7f11a883db0e4107cd32c80b3",
+        "bytes": 40586
+      },
+      {
+        "path": "../clips/frames/frame-26.png",
+        "sha256": "54e5e81e6f6d9725bdb39947ae42a93223f786eed71eab94ccf0c1f89eed43e4",
+        "bytes": 40912
+      },
+      {
+        "path": "../clips/frames/frame-27.png",
+        "sha256": "ca33bcb54c0fc57f64700555b483b68dc42f14bfd9030cb164c6b0f81b9c7d85",
+        "bytes": 41341
+      },
+      {
+        "path": "../clips/frames/frame-28.png",
+        "sha256": "a1a3fb25eb30b8ea29b067ad31a48fd809b36967ffb94f9432caac6461d1d6ae",
+        "bytes": 41074
+      },
+      {
+        "path": "../clips/frames/frame-29.png",
+        "sha256": "414c07e7be31ae285aa685fabe6d268fc318eae77b05f3a300efcd316f9a1189",
+        "bytes": 39326
+      },
+      {
+        "path": "../clips/frames/frame-30.png",
+        "sha256": "5a37c6a21602be12536bea0f7e5eeedb54d13595101cee8aef914ded0b75ab2f",
+        "bytes": 39478
+      },
+      {
+        "path": "../clips/frames/frame-31.png",
+        "sha256": "32c7ddf8bc8938fae645c0bab412dab116b0c3f1f0c80704924abb0af36cddb8",
+        "bytes": 50490
+      },
+      {
+        "path": "../clips/frames/frame-32.png",
+        "sha256": "5c71ec577a4dd0a523004a166858937f1ca959bace48713eedd307b1d304f46b",
+        "bytes": 33582
+      },
+      {
+        "path": "../clips/frames/frame-33.png",
+        "sha256": "75e971e447e74c1f40acb9009512d088f455ed30d3849f44b42f85ee48a1df25",
+        "bytes": 36348
+      },
+      {
+        "path": "../clips/frames/frame-34.png",
+        "sha256": "a55dd971b3ec4bfa419979c6003ee998037c0925b6b83940f753f1872c44ce92",
+        "bytes": 56005
+      },
+      {
+        "path": "../clips/frames/frame-35.png",
+        "sha256": "ceb417bec20a1408a07a215be302c3af5c52abe1b56f45703f9584fed8c7909c",
+        "bytes": 52567
+      },
+      {
+        "path": "../clips/frames/frame-36.png",
+        "sha256": "59d6c088c14b542c85732fcbd408f77c9d6616a8614bea21d802806870640794",
+        "bytes": 54109
+      },
+      {
+        "path": "../clips/frames/frame-37.png",
+        "sha256": "b1ee484ae5c5e3de6b4448a731ae9a217565c11226dc9c4630ee06d387682d56",
+        "bytes": 51220
+      },
+      {
+        "path": "../clips/frames/frame-38.png",
+        "sha256": "edf430125c67ddf3f6c2361d06238b4302cf35a7eb085888ac69702e1a3fb1fa",
+        "bytes": 70871
+      },
+      {
+        "path": "../clips/frames/frame-39.png",
+        "sha256": "7dd7e3fe458f621771bbd4c34af0853d9a710ff76cf0693b0281a9186411384d",
+        "bytes": 83911
+      },
+      {
+        "path": "../clips/frames/frame-40.png",
+        "sha256": "c58491753dca225e544a45ea298c06a8f5dd655b78c52f311a1ed1c8ea13696f",
+        "bytes": 85514
+      },
+      {
+        "path": "../clips/frames/frame-41.png",
+        "sha256": "04659acd4dc36c2e279aab6888983d85a5f8527a24e8886711694c5de579b92d",
+        "bytes": 84051
+      },
+      {
+        "path": "../clips/frames/frame-42.png",
+        "sha256": "8901ff2a2fb1d4174f90f2001f8cd5cfa1d8d290628698c447d9027a02afea33",
+        "bytes": 83814
+      },
+      {
+        "path": "../clips/frames/frame-43.png",
+        "sha256": "ffb0f6db5e76c2b3a404c3991cacc446a097917126034a577990c8e351084d1c",
+        "bytes": 82903
+      },
+      {
+        "path": "../clips/frames/frame-44.png",
+        "sha256": "7fb99aaa39e3655adb36ad5b3214fb7e9faff9f7f746eef3ddb730d728f7073c",
+        "bytes": 82955
+      },
+      {
+        "path": "../clips/frames/frame-45.png",
+        "sha256": "b1a3a92bb9bdddf3381d2b41363512d63323018787e674231e782f2b68f99a86",
+        "bytes": 57181
+      },
+      {
+        "path": "../clips/frames/frame-46.png",
+        "sha256": "23e162020bcb36b6fb377209067aa7462f726e7dfa8a5d94c87321712d215bc3",
+        "bytes": 49091
+      },
+      {
+        "path": "../clips/frames/frame-47.png",
+        "sha256": "739f5561d63dc25d62fc2983e8ad16122df8c8fe29cc483894ce5571618529f2",
+        "bytes": 43092
+      },
+      {
+        "path": "../clips/frames/frame-48.png",
+        "sha256": "f6da5dca8ef9e2960e0e082fb5f4d1f8ba6a541a3de192b0db50cf2a378ac849",
+        "bytes": 40192
+      }
+    ],
+    "outputs": [
+      {
+        "path": "godot/godot_export-atlas-00.png",
+        "sha256": "c4446305903ada8fa59707c382fecd7ef6f69fa7d3116c93ef6e44cdf3716d49"
+      },
+      {
+        "path": "godot/godot_export.tres",
+        "sha256": "d563088b5735d3b9428dacb54924b3e72062ad4a239dde65ce6bc2cea6935e77"
+      },
+      {
+        "path": "godot/godot_export.tscn",
+        "sha256": "0a0c2481bedcb22da5a9478ef707ee536a3c6390ffe9b8ba4295ed2f1dc0ced4"
+      }
+    ],
+    "tool": {
+      "name": "export_engine.py",
+      "version": "0.4.0"
+    }
+  }
+}

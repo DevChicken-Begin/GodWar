@@ -1,0 +1,552 @@
+{
+  "id": "nox",
+  "source": "Asset/Character/vfx/nox.gif",
+  "source_sha256": "a8c66d01969f3dff2bc1174dff41f343d2b91e74c1d79948a242db0b67e47270",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/nox/frame_000.png": "8ec48a472e738760d5dca8f9a3090e203ea94be8e7fc4d68d51cc0a3d75f0e2d",
+    "Asset/Character/detail_oct29_candidates/nox/frame_001.png": "14f4423ff9aeac98c0bb9f76c3061f428ef60f6528915889f3be8b466e8464c4",
+    "Asset/Character/detail_oct29_candidates/nox/frame_002.png": "baf02cf67d4617f101201638f2fe164a2585fb4f0d0c75e38823a7d759c60a40",
+    "Asset/Character/detail_oct29_candidates/nox/frame_003.png": "4c7b8bd74b1b2aa5a746d1b2e8fd747bb8e913044127fdddda3de840e6d0bfed",
+    "Asset/Character/detail_oct29_candidates/nox/frame_004.png": "8171893ae67c370bacd5a3e508315991aee7f9ecc388d9a767f034db3447b6f1",
+    "Asset/Character/detail_oct29_candidates/nox/frame_005.png": "2ba684a9facb6a90b8c3e693a77c0569735e0043eaae087ccc2735348637e9ba",
+    "Asset/Character/detail_oct29_candidates/nox/frame_006.png": "4bf8664ac33ff204400eec7120a8d13fa05e838158b1fcf696cd5a358ac2cd36",
+    "Asset/Character/detail_oct29_candidates/nox/frame_007.png": "b7684454781b368ffc8400d1d575eb86e08558f1037be3e6c09d7c675ab3f8ac",
+    "Asset/Character/detail_oct29_candidates/nox/frame_008.png": "577800a4d806c3c8f1e10eafd3d63d7c01b84d971ef46709a73271fae0b6cd72",
+    "Asset/Character/detail_oct29_candidates/nox/frame_009.png": "137ca250138eda17479ca33d04b19ee41311d8305ed4a68b8412b55571cb984d",
+    "Asset/Character/detail_oct29_candidates/nox/frame_010.png": "16a70d6e163be79d90725f1430fc77f534826bf4c3e0de44336461340a477ea6",
+    "Asset/Character/detail_oct29_candidates/nox/frame_011.png": "3faff063caf0f3ef517a2ab6fe83cca76fce93a85a9e79e463ca035603fee242",
+    "Asset/Character/detail_oct29_candidates/nox/frame_012.png": "df7dbb7b491a4266c60d415c507b95ef5a5819b30003f447d975e881b4dc5390",
+    "Asset/Character/detail_oct29_candidates/nox/frame_013.png": "8ec48a472e738760d5dca8f9a3090e203ea94be8e7fc4d68d51cc0a3d75f0e2d",
+    "Asset/Character/detail_oct29_candidates/nox/frame_014.png": "14f4423ff9aeac98c0bb9f76c3061f428ef60f6528915889f3be8b466e8464c4",
+    "Asset/Character/detail_oct29_candidates/nox/frame_015.png": "baf02cf67d4617f101201638f2fe164a2585fb4f0d0c75e38823a7d759c60a40",
+    "Asset/Character/detail_oct29_candidates/nox/frame_016.png": "4c7b8bd74b1b2aa5a746d1b2e8fd747bb8e913044127fdddda3de840e6d0bfed",
+    "Asset/Character/detail_oct29_candidates/nox/frame_017.png": "8171893ae67c370bacd5a3e508315991aee7f9ecc388d9a767f034db3447b6f1",
+    "Asset/Character/detail_oct29_candidates/nox/frame_018.png": "2ba684a9facb6a90b8c3e693a77c0569735e0043eaae087ccc2735348637e9ba",
+    "Asset/Character/detail_oct29_candidates/nox/frame_019.png": "4bf8664ac33ff204400eec7120a8d13fa05e838158b1fcf696cd5a358ac2cd36",
+    "Asset/Character/detail_oct29_candidates/nox/frame_020.png": "b7684454781b368ffc8400d1d575eb86e08558f1037be3e6c09d7c675ab3f8ac",
+    "Asset/Character/detail_oct29_candidates/nox/frame_021.png": "577800a4d806c3c8f1e10eafd3d63d7c01b84d971ef46709a73271fae0b6cd72",
+    "Asset/Character/detail_oct29_candidates/nox/frame_022.png": "137ca250138eda17479ca33d04b19ee41311d8305ed4a68b8412b55571cb984d",
+    "Asset/Character/detail_oct29_candidates/nox/frame_023.png": "16a70d6e163be79d90725f1430fc77f534826bf4c3e0de44336461340a477ea6",
+    "Asset/Character/detail_oct29_candidates/nox/frame_024.png": "3faff063caf0f3ef517a2ab6fe83cca76fce93a85a9e79e463ca035603fee242",
+    "Asset/Character/detail_oct29_candidates/nox/frame_025.png": "df7dbb7b491a4266c60d415c507b95ef5a5819b30003f447d975e881b4dc5390",
+    "Asset/Character/detail_oct29_candidates/nox/frame_026.png": "7390a9618387d1a4609e56b717e03006e864200995b7a2a37c9afade7340d8b1",
+    "Asset/Character/detail_oct29_candidates/nox/frame_027.png": "1e860d31097209c3e48d6ebf39230f17b9306dfb9d06fc256fbd512e2e4b994a",
+    "Asset/Character/detail_oct29_candidates/nox/frame_028.png": "df1918926b4c848fda6cc0ce6e95dfd67a2321827a0df83fe458391b6ed4860e",
+    "Asset/Character/detail_oct29_candidates/nox/frame_029.png": "6415e8bdd002ff8f9eaa0f74b9e46b3d0d6c7bb6de273e845a2e4ee224512792",
+    "Asset/Character/detail_oct29_candidates/nox/frame_030.png": "29ebc46841c264cbfd018c3f6595b2c83b3511630b24b614fad83df446a34d06",
+    "Asset/Character/detail_oct29_candidates/nox/frame_031.png": "ead0488eecf053c351a15441efe77ebbd0f69306849c6300adfbbdc0686fdae1",
+    "Asset/Character/detail_oct29_candidates/nox/frame_032.png": "049619a748e231d5dece447c5c8d97acf1cd3534e680a3c22d44c78e32e6ebec",
+    "Asset/Character/detail_oct29_candidates/nox/frame_033.png": "78854e50d1a47f2fe884c4d6d4886466e9f1ba09b8265cf1568e4a0c90c37c97",
+    "Asset/Character/detail_oct29_candidates/nox/frame_034.png": "dce5788d750bb5def8d8cf328f799317d360c913bbf3c548cfa55952ed0ae5ad",
+    "Asset/Character/detail_oct29_candidates/nox/frame_035.png": "46ac8229ed8a49c906c9a9b992c26d662d8f28301c966f60d6aa0af417e104bb",
+    "Asset/Character/detail_oct29_candidates/nox/frame_036.png": "0fcb8d2a62cf1737631f14ee90ec38bc1dfeb5a9a8f77036c92b51a36e3fe962",
+    "Asset/Character/detail_oct29_candidates/nox/frame_037.png": "63c296f951ea95ce05c66031c2818e7bdcec40f5e7ca4f845712c2069cb766d8",
+    "Asset/Character/detail_oct29_candidates/nox/frame_038.png": "095543a2a0f2b1340817b978e10c48847bb8c87220e607432276f37d1b60eab4",
+    "Asset/Character/detail_oct29_candidates/nox/frame_039.png": "70446b39ae777542beee2e8ccd331d5361027f26224e0e290b789e01a04f3bd2",
+    "Asset/Character/detail_oct29_candidates/nox/frame_040.png": "a8441d7e029b350d30305670b42aeeace4700c6f2ed5ba9d13fb0d4d6266b50f",
+    "Asset/Character/detail_oct29_candidates/nox/frame_041.png": "582a2e99e344131af37ec8f25c31776a61720be39c04517ae3911733c05cfdb6",
+    "Asset/Character/detail_oct29_candidates/nox/frame_042.png": "b9015cc7914613c82918f28bc86456dc7dd74e4193bfacee59ff0ce460457a6c",
+    "Asset/Character/detail_oct29_candidates/nox/frame_043.png": "9cd0b3098a83109361c7d0e73d79ba36560da9e34a490da6d06a8de752d77099",
+    "Asset/Character/detail_oct29_candidates/nox/frame_044.png": "ce772440b7a8f2ce2e158a59b8d2facd65bc28abd88016e3e04085254749e1dd",
+    "Asset/Character/detail_oct29_candidates/nox/frame_045.png": "b8a827e986e32666608e7520ae88958855434f3c9fc28410961cab50ee96a346",
+    "Asset/Character/detail_oct29_candidates/nox/frame_046.png": "14bd251f8f1f0a7a9ab63561636d05a43d88f3d0c5352ae0a4c447aeb6840859"
+  },
+  "art_source": "existing",
+  "frame_count": 47,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 18,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 19,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 20,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 21,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 22,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 23,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 24,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 25,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 26,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 27,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 28,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 29,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 30,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 31,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 32,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 33,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 34,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 35,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 36,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 37,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 38,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 39,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 40,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 41,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 42,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 43,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 44,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 45,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 46,
+      "region": [
+        0,
+        0,
+        1095,
+        1095
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    1095,
+    1095
+  ],
+  "target_height_px": 87,
+  "reference_frame": 0,
+  "reference_height_px": 705,
+  "reference_alpha_bounds": [
+    325,
+    245,
+    770,
+    950
+  ],
+  "anchor_px": [
+    547.5,
+    950
+  ],
+  "display_scale": 0.12340425531914893,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_updated_round3"
+}

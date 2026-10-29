@@ -4,7 +4,7 @@ import hashlib,json,shutil,sys
 from pathlib import Path
 import numpy as np
 from PIL import Image,ImageDraw
-ROOT=Path(__file__).resolve().parents[1];A=ROOT/'Asset/Character';NAMES=('biden','airpot','black','knigblack','pigpor','jaik')
+ROOT=Path(__file__).resolve().parents[1];A=ROOT/'Asset/Character';NAMES=('biden','airpot','black','pigpor','jaik')
 sys.path.insert(0,str(ROOT/'tools'));from extract_gif_assets import extract
 
 def load(p):return json.loads(p.read_text(encoding='utf8'))

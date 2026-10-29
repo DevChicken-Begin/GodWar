@@ -1,0 +1,772 @@
+{
+  "id": "biden",
+  "source": "Asset/Character/vfx/biden.gif",
+  "source_sha256": "ed83327fb803d1abf94fdf7797eff253e01b06aadefea228f01c0d652b45a113",
+  "input_candidate": "detail_oct28_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct28_candidates/biden/frame_000.png": "878c46af1645f8b20f40140e5d1da368e10b30a8fb86e15dc563a6e061613e5e",
+    "Asset/Character/detail_oct28_candidates/biden/frame_001.png": "d2b7cd3db3f29b9566dcd4e5535766898e5786097f2c7cf7e8eb7138ab71fa3c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_002.png": "f6ac19b6e0c1b6671f70a9679c14fa6f91a842a7bd7b84d260548529cd1bfb76",
+    "Asset/Character/detail_oct28_candidates/biden/frame_003.png": "bf197c564f4f665a523673f5db669bc43685e3509a0ea1122663bf91351d1716",
+    "Asset/Character/detail_oct28_candidates/biden/frame_004.png": "ca70ad6a47453826492833591318930d6f45ccbab3159b051e35842c6ea7f87e",
+    "Asset/Character/detail_oct28_candidates/biden/frame_005.png": "97b5db23c3b682d95444cce46bf7273309f0bff69904f3eb5610792087d72fa5",
+    "Asset/Character/detail_oct28_candidates/biden/frame_006.png": "2d264b3c3dbeed120ee35cc820c5d47dc5bdb0bdbe59e7d71b90074c58b4a922",
+    "Asset/Character/detail_oct28_candidates/biden/frame_007.png": "3d051e4ef18e0cc16d4d94c855bec4de027cc28dbb0fa472dd0d2978164826b6",
+    "Asset/Character/detail_oct28_candidates/biden/frame_008.png": "341c7e31aa2f0cc063453824eea4d3d3de4fca379fb2826c665c4353ea507060",
+    "Asset/Character/detail_oct28_candidates/biden/frame_009.png": "972692b43f45ae280b55e0a5e68b36d1bb956798aa5a3a319b62f6f0c5c9e729",
+    "Asset/Character/detail_oct28_candidates/biden/frame_010.png": "813d8a039fa804e29c5eda80e6154da52434a3b19a47ba053d0100703801c421",
+    "Asset/Character/detail_oct28_candidates/biden/frame_011.png": "b625a5fc5401f00d4be039cb664aed07155b912c6084c3bd228a6add4ae46584",
+    "Asset/Character/detail_oct28_candidates/biden/frame_012.png": "e7303e35de204cad85803853cb19ba3a84c06cade75e0d9571357b61dfa52211",
+    "Asset/Character/detail_oct28_candidates/biden/frame_013.png": "b1c8309378b2e67608dc21d05bafc4d89974380ec0d112c8e8d2056c9ed5c06c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_014.png": "811b346f1c5ed09dd16f32219649ccb877e11f4e5929ae0e2eb3f0eb5aef5c6c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_015.png": "71f6bb8107d7bb09c8b103ff7a079a4645bb447260e9abe3bf85ff9839c7247f",
+    "Asset/Character/detail_oct28_candidates/biden/frame_016.png": "878c46af1645f8b20f40140e5d1da368e10b30a8fb86e15dc563a6e061613e5e",
+    "Asset/Character/detail_oct28_candidates/biden/frame_017.png": "d2b7cd3db3f29b9566dcd4e5535766898e5786097f2c7cf7e8eb7138ab71fa3c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_018.png": "f6ac19b6e0c1b6671f70a9679c14fa6f91a842a7bd7b84d260548529cd1bfb76",
+    "Asset/Character/detail_oct28_candidates/biden/frame_019.png": "bf197c564f4f665a523673f5db669bc43685e3509a0ea1122663bf91351d1716",
+    "Asset/Character/detail_oct28_candidates/biden/frame_020.png": "ca70ad6a47453826492833591318930d6f45ccbab3159b051e35842c6ea7f87e",
+    "Asset/Character/detail_oct28_candidates/biden/frame_021.png": "97b5db23c3b682d95444cce46bf7273309f0bff69904f3eb5610792087d72fa5",
+    "Asset/Character/detail_oct28_candidates/biden/frame_022.png": "2d264b3c3dbeed120ee35cc820c5d47dc5bdb0bdbe59e7d71b90074c58b4a922",
+    "Asset/Character/detail_oct28_candidates/biden/frame_023.png": "3d051e4ef18e0cc16d4d94c855bec4de027cc28dbb0fa472dd0d2978164826b6",
+    "Asset/Character/detail_oct28_candidates/biden/frame_024.png": "341c7e31aa2f0cc063453824eea4d3d3de4fca379fb2826c665c4353ea507060",
+    "Asset/Character/detail_oct28_candidates/biden/frame_025.png": "972692b43f45ae280b55e0a5e68b36d1bb956798aa5a3a319b62f6f0c5c9e729",
+    "Asset/Character/detail_oct28_candidates/biden/frame_026.png": "813d8a039fa804e29c5eda80e6154da52434a3b19a47ba053d0100703801c421",
+    "Asset/Character/detail_oct28_candidates/biden/frame_027.png": "b625a5fc5401f00d4be039cb664aed07155b912c6084c3bd228a6add4ae46584",
+    "Asset/Character/detail_oct28_candidates/biden/frame_028.png": "e7303e35de204cad85803853cb19ba3a84c06cade75e0d9571357b61dfa52211",
+    "Asset/Character/detail_oct28_candidates/biden/frame_029.png": "b1c8309378b2e67608dc21d05bafc4d89974380ec0d112c8e8d2056c9ed5c06c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_030.png": "811b346f1c5ed09dd16f32219649ccb877e11f4e5929ae0e2eb3f0eb5aef5c6c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_031.png": "71f6bb8107d7bb09c8b103ff7a079a4645bb447260e9abe3bf85ff9839c7247f",
+    "Asset/Character/detail_oct28_candidates/biden/frame_032.png": "b69bd07894acd90c1d1b2a71c3fe6ccb754fbf7b6fab4ae7eb5e9c330b7c8e9c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_033.png": "d04766491ae317d0d82aa6b9e6b575b169dc282f115f025f2419f583c4b41fda",
+    "Asset/Character/detail_oct28_candidates/biden/frame_034.png": "854efe5eb4d6ca845107124c890bc7af2b9a0bd0fa3deefa3b299f2d71b4a8d1",
+    "Asset/Character/detail_oct28_candidates/biden/frame_035.png": "757d5f5488c41ac45b957aaae33ca3e4ac85686625b963e4e2f0e32e6fa3c734",
+    "Asset/Character/detail_oct28_candidates/biden/frame_036.png": "53b13638ef81c108dfd03a5e2e74ad37450fc72dc822e75974ace31cea803ff9",
+    "Asset/Character/detail_oct28_candidates/biden/frame_037.png": "51b756f55a85d24f2031b6de5a28310453ca023840ed1dd8b8d6e002062bebf7",
+    "Asset/Character/detail_oct28_candidates/biden/frame_038.png": "33ef154e8c8e56f68f97d90485fcc1b5636a56a96bd8c5c89b68cb0341f0c16d",
+    "Asset/Character/detail_oct28_candidates/biden/frame_039.png": "d925b91bc6601d22cb041df170cbdd74c52182fd70acb5c57e1a6d2dd45fd0f5",
+    "Asset/Character/detail_oct28_candidates/biden/frame_040.png": "d6892dc3462586a40521cca71c310750ef89cb0dcb1d230d3246a5ed90d3c16e",
+    "Asset/Character/detail_oct28_candidates/biden/frame_041.png": "c848517302418682c6663e202008a0664e9776141bb9dd496fb8012fdb711a76",
+    "Asset/Character/detail_oct28_candidates/biden/frame_042.png": "e62390ace8873dc1be6368c456c4e1ea9676c79bd31e197a2ca59074d4b5ce64",
+    "Asset/Character/detail_oct28_candidates/biden/frame_043.png": "0a60955f39dd0138c7abdb729fee2c356da0f5af85b5bbf70cd95f4184b5b3d0",
+    "Asset/Character/detail_oct28_candidates/biden/frame_044.png": "0d9247653b156ee32bd5be0ffec93fbc8199bea6cc08fabfc420ce642d27b67c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_045.png": "74b8c679feefff308afb5aaf2915a0abb4cb3f2b502974a33351e5af0918c2ef",
+    "Asset/Character/detail_oct28_candidates/biden/frame_046.png": "6abc4525b604a4e3aa68a5d54007f74b53bee690b8514a57e8c830d0f044cdac",
+    "Asset/Character/detail_oct28_candidates/biden/frame_047.png": "7c26763e6a8ce37cc1f448d09f6dbcf6e6a80e04477d0fe201bc03bc303d4735",
+    "Asset/Character/detail_oct28_candidates/biden/frame_048.png": "77f5d29f4ce670073d5492de13f5455d9ae5ded5c3e128950500eab3b00e0b0a",
+    "Asset/Character/detail_oct28_candidates/biden/frame_049.png": "7d0cb01f93d51d0df6fcee46e46812c68bbb0967854f5b3988b7bbb520ec5cca",
+    "Asset/Character/detail_oct28_candidates/biden/frame_050.png": "4f215dbc0c4c23be2446d2d8138af0b6c2465d61d0c84185df2c7d12eee7c609",
+    "Asset/Character/detail_oct28_candidates/biden/frame_051.png": "411fe8edd3731b155cea977071ee51d2b89aeedbc578f6f9b6bbde9a11a6684f",
+    "Asset/Character/detail_oct28_candidates/biden/frame_052.png": "07ff911ce42c157a73314d8baf071218124ae7ffe0db51df0e2b95dd436f4e0d",
+    "Asset/Character/detail_oct28_candidates/biden/frame_053.png": "2b8ad731c2adba1337bd5d05b8c492fdf6dc5ea98bb43542200a94f850902aeb",
+    "Asset/Character/detail_oct28_candidates/biden/frame_054.png": "94d6ebe7ce0c9d713403998e7ae7f900a8251790e2690a2a7965ac5170d2e73b",
+    "Asset/Character/detail_oct28_candidates/biden/frame_055.png": "e2137f909cc0ad78ac25d5b46f9588fa6f42045ad7786f8b0a836a305483ad85",
+    "Asset/Character/detail_oct28_candidates/biden/frame_056.png": "c697cc1ff5418c8101ed9994b37b892009dd30f6a74bc344582058b5fe2a90f4",
+    "Asset/Character/detail_oct28_candidates/biden/frame_057.png": "a709c6c5d8746dc86abae97b749d6eec82b73c122b9b256b144d84ccc3d6ba40",
+    "Asset/Character/detail_oct28_candidates/biden/frame_058.png": "5fac23350ab2e7e7c3b67681b505636e0654d6958f73f8d665e6a7371b39f3c5",
+    "Asset/Character/detail_oct28_candidates/biden/frame_059.png": "703e3f38a3eec4fef1f067b08276c435e8240760e3e1604b6afa220afebe7b1c",
+    "Asset/Character/detail_oct28_candidates/biden/frame_060.png": "ba0167498b4d9ddfd93f1f9ecc12384a7addf30abbd6b4f31ac7f88827cc898f",
+    "Asset/Character/detail_oct28_candidates/biden/frame_061.png": "8b1e30ee18e6dfff3f937284239707832c28d92b5d952d0a3d571ce22160d608",
+    "Asset/Character/detail_oct28_candidates/biden/frame_062.png": "f966068047d22dc553f65835dee1384fbf3aadaa113d80e726e70506df93ab04",
+    "Asset/Character/detail_oct28_candidates/biden/frame_063.png": "36b4e8a95ab4c2d5e2da6b48cff510367b7d581d0cba049390ca214a531249c4",
+    "Asset/Character/detail_oct28_candidates/biden/frame_064.png": "97525b1883edc8a90dadd7fee0874e7975d54f5e70831ae1658bf6b7c83f81ed",
+    "Asset/Character/detail_oct28_candidates/biden/frame_065.png": "c6446a10f1cf6bf9740255dd3b961afd6d686cb1f501371c16a6b212a9f4cb45",
+    "Asset/Character/detail_oct28_candidates/biden/frame_066.png": "bbfbe26697bb5877579d267e89790ec0f979a0743c7c3b31fec159488b693a3c"
+  },
+  "art_source": "existing",
+  "frame_count": 67,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        360,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        720,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1080,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1440,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        360,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        720,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1080,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1440,
+        1440,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1080,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        0,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1080,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        360,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        720,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1080,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1440,
+        720,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        360,
+        1080,
+        360,
+        360
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    360,
+    360
+  ],
+  "target_height_px": 80,
+  "reference_frame": 0,
+  "reference_height_px": 163,
+  "reference_alpha_bounds": [
+    85,
+    169,
+    240,
+    332
+  ],
+  "anchor_px": [
+    162.5,
+    332
+  ],
+  "display_scale": 0.49079754601226994,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

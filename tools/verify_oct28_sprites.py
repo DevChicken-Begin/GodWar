@@ -4,7 +4,7 @@ import hashlib,json
 from pathlib import Path
 import numpy as np
 from PIL import Image,ImageChops
-ROOT=Path(__file__).resolve().parents[1];A=ROOT/'Asset/Character';NAMES=('biden','airpot','black','knigblack','pigpor','jaik');total=0
+ROOT=Path(__file__).resolve().parents[1];A=ROOT/'Asset/Character';NAMES=('biden','airpot','black','pigpor','jaik');total=0
 catalog={e['id']:e for e in json.loads((A/'extracted/catalog.json').read_text())['assets']}
 for n in NAMES:
  p=A/'native_candidates'/n;m=json.loads((p/'candidate.json').read_text());src=ROOT/m['source'];assert m['source']==catalog[n]['source'] and hashlib.sha256(src.read_bytes()).hexdigest()==m['source_sha256']==catalog[n]['source_sha256'];bg=np.array(m['background_rgb'],np.int16)

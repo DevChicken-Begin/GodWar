@@ -58,3 +58,5 @@ Với mainthen, animent, overight và skypit, viewer chọn bản thử mới nh
 Tìm `aonoma` trong viewer để so GIF nguồn và các bản pixel hóa, gồm bản mới 198×158 pixel; các bản giữ số frame và thời lượng, nhưng phép tách nền và giảm màu có thể làm mất chi tiết hoặc thay đổi hiệu ứng. Các GIF mới có lựa chọn tách nền nguyên kích thước, vẫn cần duyệt từng frame.
 
 Tình trạng làm mịn pixel hàng loạt, gồm danh sách nguồn chưa áp dụng được, nằm tại [docs/fine-batch/README.md](docs/fine-batch/README.md).
+
+Bản thử tăng độ chi tiết 30% cho 26 nhân vật, gồm kích thước riêng của `momo` và `nox`, được theo dõi tại [docs/oct29-detail-30.md](docs/oct29-detail-30.md). Viewer chọn bản thử mới theo mặc định và vẫn giữ phiên bản cũ để đối chiếu.

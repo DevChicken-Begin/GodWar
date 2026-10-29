@@ -1,0 +1,228 @@
+{
+  "target_file_sha256_before": "62c00eb603759cb943b1348a2d5b82e5d32d4aee585c1313eaa58cc877a4564e",
+  "method": "Largest alpha>=32 connected component, frame 0; visually inspected sample sheet; measurements are approximate, no pixels changed.",
+  "prior_values": {
+    "aumen": {
+      "reference_height_px": 112,
+      "display_scale": 0.7589285714285714,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "aurora": {
+      "reference_height_px": 342,
+      "display_scale": 0.24853801169590642,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "authen": {
+      "reference_height_px": 320,
+      "display_scale": 0.25,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "choptian": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "comic": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "congpha": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "corepion": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "dracian": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "dragonight": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "hades": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "javis": {
+      "reference_height_px": 144,
+      "display_scale": 0.5555555555555556,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "jaying": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "kengkeng": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "kukang": {
+      "reference_height_px": 432,
+      "display_scale": 0.18518518518518517,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "magicleo": {
+      "reference_height_px": 222,
+      "display_scale": 0.38288288288288286,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "oxiu": {
+      "reference_height_px": 288,
+      "display_scale": 0.2777777777777778,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "pygon": {
+      "reference_height_px": 300,
+      "display_scale": 0.23333333333333334,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "skypit": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "swithin": {
+      "reference_height_px": 170,
+      "display_scale": 0.5,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "tailer": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "warrioram": {
+      "reference_height_px": 313,
+      "display_scale": 0.2715654952076677,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    }
+  },
+  "boxes": {
+    "aumen": [
+      90,
+      100,
+      82,
+      98
+    ],
+    "aurora": [
+      156,
+      216,
+      246,
+      276
+    ],
+    "authen": [
+      196,
+      186,
+      149,
+      246
+    ],
+    "choptian": [
+      55,
+      103,
+      142,
+      147
+    ],
+    "comic": [
+      199,
+      193,
+      238,
+      332
+    ],
+    "congpha": [
+      187,
+      257,
+      359,
+      399
+    ],
+    "corepion": [
+      118,
+      219,
+      163,
+      84
+    ],
+    "dracian": [
+      111,
+      183,
+      210,
+      185
+    ],
+    "dragonight": [
+      103,
+      159,
+      254,
+      261
+    ],
+    "hades": [
+      46,
+      28,
+      120,
+      140
+    ],
+    "javis": [
+      117,
+      126,
+      72,
+      120
+    ],
+    "jaying": [
+      80,
+      155,
+      130,
+      108
+    ],
+    "kengkeng": [
+      296,
+      382,
+      367,
+      508
+    ],
+    "kukang": [
+      198,
+      306,
+      468,
+      366
+    ],
+    "magicleo": [
+      165,
+      198,
+      117,
+      174
+    ],
+    "oxiu": [
+      132,
+      156,
+      208,
+      260
+    ],
+    "pygon": [
+      216,
+      384,
+      210,
+      180
+    ],
+    "skypit": [
+      101,
+      117,
+      226,
+      234
+    ],
+    "swithin": [
+      80,
+      98,
+      108,
+      123
+    ],
+    "tailer": [
+      270,
+      258,
+      186,
+      366
+    ],
+    "warrioram": [
+      140,
+      332,
+      396,
+      266
+    ]
+  },
+  "superseded_values": "Earlier target and scale values for changed IDs removed at user request."
+}

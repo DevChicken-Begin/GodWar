@@ -1,0 +1,574 @@
+{
+  "id": "panfire",
+  "source": "Asset/Character/vfx/panfire.gif",
+  "source_sha256": "5096c4bf89b0b35e043f2ce8b7092b825da23eb3e11cde8361d863c02c6787e4",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/panfire/frame_000.png": "ad149db869dd19b06becbf4f11124d097a935860157602626f431a1b72bf88c1",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_001.png": "447b173980b6a9cefa6ffb3d9a942fc909fd9728a5309d9f4bc47eba9cd2ca49",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_002.png": "5616af00da2d726edffbfa71bc6621687adf4d65bcef96ab4351c74ec009c810",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_003.png": "9b7d483ce6c3af29b0dfbd6b89154a444c149d269bd9affb06aeed78fff4bca5",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_004.png": "72fc6aa43d15df17ad375b5c6412ca15a6bb74a31f22f5900ccea1e1dad73cbb",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_005.png": "abf3215662cc84b8ba068ab52012d3e18525f71792aede37a55292b5f4269ed1",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_006.png": "52a42772c29c65d9ff42795c381a711f55c1bf92e8634bb5e57e5c43dd01fd84",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_007.png": "868965730792232d7d0a38ffbba53e0f8ff06df7acc27ebcfb66997e43b768d2",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_008.png": "5fcd7b24b139a74dbf87c1c646f0a153d2d476dc7f162c3530a7181c884e46e6",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_009.png": "a1509eb9edf55526b9f50cd71f5aa49b87a16286a47fe1e90e567fd1c5c0c205",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_010.png": "5c691254799f2bed7fdff8507b61307fc28160aaa83d232fb618bad4a90e0b67",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_011.png": "361b7eff456e90f4a40df91037ba81cd3350aecb78b9457811149cd3204e34ed",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_012.png": "e070b5e98b85bcb6e3a2f1512fee55f7eddfac5c0d112b7c8387d8e2070c76d7",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_013.png": "1ebfb725a63273ac55bd7cf0530e713e61993478a1b6ad1d35ec3c365d810c84",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_014.png": "642fc0a071eec269c3793eba52a3cb060c19ad6a1013aa34319a9e13e0bd8f61",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_015.png": "ad149db869dd19b06becbf4f11124d097a935860157602626f431a1b72bf88c1",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_016.png": "447b173980b6a9cefa6ffb3d9a942fc909fd9728a5309d9f4bc47eba9cd2ca49",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_017.png": "5616af00da2d726edffbfa71bc6621687adf4d65bcef96ab4351c74ec009c810",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_018.png": "9b7d483ce6c3af29b0dfbd6b89154a444c149d269bd9affb06aeed78fff4bca5",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_019.png": "72fc6aa43d15df17ad375b5c6412ca15a6bb74a31f22f5900ccea1e1dad73cbb",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_020.png": "abf3215662cc84b8ba068ab52012d3e18525f71792aede37a55292b5f4269ed1",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_021.png": "52a42772c29c65d9ff42795c381a711f55c1bf92e8634bb5e57e5c43dd01fd84",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_022.png": "868965730792232d7d0a38ffbba53e0f8ff06df7acc27ebcfb66997e43b768d2",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_023.png": "5fcd7b24b139a74dbf87c1c646f0a153d2d476dc7f162c3530a7181c884e46e6",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_024.png": "a1509eb9edf55526b9f50cd71f5aa49b87a16286a47fe1e90e567fd1c5c0c205",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_025.png": "5c691254799f2bed7fdff8507b61307fc28160aaa83d232fb618bad4a90e0b67",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_026.png": "361b7eff456e90f4a40df91037ba81cd3350aecb78b9457811149cd3204e34ed",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_027.png": "e070b5e98b85bcb6e3a2f1512fee55f7eddfac5c0d112b7c8387d8e2070c76d7",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_028.png": "1ebfb725a63273ac55bd7cf0530e713e61993478a1b6ad1d35ec3c365d810c84",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_029.png": "642fc0a071eec269c3793eba52a3cb060c19ad6a1013aa34319a9e13e0bd8f61",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_030.png": "ad149db869dd19b06becbf4f11124d097a935860157602626f431a1b72bf88c1",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_031.png": "27d9050ca9a8b6abf4f599aa7d44477ab07ea0664d09b5f4cbd3ea8659b5bc27",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_032.png": "49050028b3c321258bd4e286806e98b9b4da9771238f13cef39a15508ebedd3a",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_033.png": "3a82c2176bf1ef33f4d87428b0fc507ae799cffddb06fcc8e46eb44b4faa56f2",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_034.png": "9bb33b1df5e256adc32c39b63e5a111e87653ea9d72b6549af4ed302303055eb",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_035.png": "22195d2f8ab6ee363052735a2404cef13872c19c46f81f9e287063050ef7ee2f",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_036.png": "d57aa63a6412fdad9b1c22e9e19740c7ca3b9b5c75e3baa10b45f082d653cd8a",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_037.png": "9558432630ed5b28de5488b57a78d17e058d2448756b003de82374de3230cf16",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_038.png": "ef703eaf7ec1fb7481c46708f7c6af07ef5421105767aeb6eee039668d732f59",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_039.png": "66fabc6e75326a82e7d9a876689bb4c7a2133a1b223cf1751a1e5d3a2321def9",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_040.png": "fe70d7427ab48edb1830e35e2c51d97474051d7c19a0093cdd73e5db2e806b35",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_041.png": "7f32a8bad37ec70caf38e2d2aa6f17049197dd30e13e018bcf19b7eddb81567b",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_042.png": "b69c5a509954733d0b42423c273a9a2c3fc9508ac8726a4e4f499fc5d6f5edc9",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_043.png": "b97c2e0f624f4500c397cdd8aa453bc8d0946c7027c3e8ef09d85ebd905233f0",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_044.png": "7ecb14905fb0965127db8a5f0162455e74dd829beb99b57bc195bef3f92f52e5",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_045.png": "b21504dd2e8019d78734b705b0c517e85ecaf7a6df8fe555f151fd1ed4a8d367",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_046.png": "333e14df1904210e918be8a9e5b8f241f14ff3a053ca0afbbda13856c39716ba",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_047.png": "d0f50bba784c02dc054bce63f9d04095e80d99299eefe477c0b31d9c09655876",
+    "Asset/Character/detail_oct29_candidates/panfire/frame_048.png": "067cdcf30ff72c6849d477eef1e1f8fbe9671e5bf6fc68167083dd0ad7ca4082"
+  },
+  "art_source": "existing",
+  "frame_count": 49,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 18,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 19,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 20,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 21,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 22,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 23,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 24,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 25,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 26,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 27,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 28,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 29,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 30,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 31,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 32,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 33,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 34,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 35,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 36,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 37,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 38,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 39,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 40,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 41,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 42,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 43,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 44,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 45,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 46,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 47,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 48,
+      "region": [
+        0,
+        0,
+        1123,
+        1123
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    1123,
+    1123
+  ],
+  "target_height_px": 75,
+  "reference_frame": 0,
+  "reference_height_px": 495,
+  "reference_alpha_bounds": [
+    164,
+    483,
+    837,
+    978
+  ],
+  "anchor_px": [
+    500.5,
+    978
+  ],
+  "display_scale": 0.15151515151515152,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

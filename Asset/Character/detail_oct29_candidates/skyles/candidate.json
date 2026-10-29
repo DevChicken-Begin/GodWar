@@ -1,0 +1,1474 @@
+{
+  "id": "skyles",
+  "source": "Asset/Character/vfx/skyles.gif",
+  "source_sha256": "fe41141ae042fbc3e96a6f9f597ece0fee210c756d564e18a029ffa6d7343bbd",
+  "base_candidate": "detail_oct28_candidates",
+  "base_metadata_sha256": "59ee50f5db94a3fc43d622a2f3b57e0883687b297b34e4420138e3f070ff5323",
+  "base_input_sha256": {
+    "Asset/Character/detail_oct28_candidates/skyles/frame_000.png": "c426aa64641a25500517e05f0648d33f991b734d400a6e73ace54f34cee5b193",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_001.png": "7a54856deb3dd4deda2187afd5d32e7f893c7abf06fb1811ecb2c0ce0ec53a23",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_002.png": "9a9fcb52ffffdaf54faf1534df0946df090ba5bc8d8f1d50c7301dbd59aa875c",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_003.png": "e4bb709bfbd5e56a9f6215ec77a8d1e408beac677b42e9c04cd3c5b4b1424355",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_004.png": "59ef6f6a9f22d6737d72a30a3ccfbc920e432af154064da8be40d37ff999e968",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_005.png": "25a1ffbce069c8e979f06a9496f485b183b0f1374fcce6e915eb9bfd89592332",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_006.png": "c426aa64641a25500517e05f0648d33f991b734d400a6e73ace54f34cee5b193",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_007.png": "7a54856deb3dd4deda2187afd5d32e7f893c7abf06fb1811ecb2c0ce0ec53a23",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_008.png": "9a9fcb52ffffdaf54faf1534df0946df090ba5bc8d8f1d50c7301dbd59aa875c",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_009.png": "e4bb709bfbd5e56a9f6215ec77a8d1e408beac677b42e9c04cd3c5b4b1424355",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_010.png": "59ef6f6a9f22d6737d72a30a3ccfbc920e432af154064da8be40d37ff999e968",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_011.png": "25a1ffbce069c8e979f06a9496f485b183b0f1374fcce6e915eb9bfd89592332",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_012.png": "7d147505dddf53a4f0bf627096c2bc865eeea4048d0a5f12970641dbe74158b0",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_013.png": "a2d92327670cecbe4cc798295478ea7f5f18164a86b2751724f11e35564f95ad",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_014.png": "ab6ad73c472fbdcb9c66076366b785add754572baca04e9f49ccaa3f1d0d6216",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_015.png": "4363085ca49142857af882cfe3e014a57afe15addd797f942f7cd102f403154b",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_016.png": "02e7c55b60b1b40d23f2b8890ce85238418692629e4ba9793ded3df7c45a3e34",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_017.png": "3d30cb59a5aa0516f19417cfac962a265b46f5cad10ff067826677671b2a0fc2",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_018.png": "b2889d6dcd1928431d745feed9017fc83a2f3ecc1b2067b98ac7e0f2492c0975",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_019.png": "427cdc3d826f3732366b8ccf46c56b4c76093a86a8d243c0360e1e2d7698e98a",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_020.png": "3e0a1acfaac73859711c79e0011bf48eda85fc5090415bd3a8ebf95cbf1fc619",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_021.png": "f3bd3dcc9f481416b302f96aee5dad9af3c316554bee1c70b9a328fe775bdf59",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_022.png": "384b25c221c78877df7fdd78184803546cfe34721f9a0c3c901ef2b6699feb25",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_023.png": "29a53cf802edd0eb9f89187f956c901e722b31024c7d506866acea335a682988",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_024.png": "7d147505dddf53a4f0bf627096c2bc865eeea4048d0a5f12970641dbe74158b0",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_025.png": "a2d92327670cecbe4cc798295478ea7f5f18164a86b2751724f11e35564f95ad",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_026.png": "ab6ad73c472fbdcb9c66076366b785add754572baca04e9f49ccaa3f1d0d6216",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_027.png": "4363085ca49142857af882cfe3e014a57afe15addd797f942f7cd102f403154b",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_028.png": "02e7c55b60b1b40d23f2b8890ce85238418692629e4ba9793ded3df7c45a3e34",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_029.png": "3d30cb59a5aa0516f19417cfac962a265b46f5cad10ff067826677671b2a0fc2",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_030.png": "b2889d6dcd1928431d745feed9017fc83a2f3ecc1b2067b98ac7e0f2492c0975",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_031.png": "427cdc3d826f3732366b8ccf46c56b4c76093a86a8d243c0360e1e2d7698e98a",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_032.png": "3e0a1acfaac73859711c79e0011bf48eda85fc5090415bd3a8ebf95cbf1fc619",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_033.png": "f3bd3dcc9f481416b302f96aee5dad9af3c316554bee1c70b9a328fe775bdf59",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_034.png": "384b25c221c78877df7fdd78184803546cfe34721f9a0c3c901ef2b6699feb25",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_035.png": "29a53cf802edd0eb9f89187f956c901e722b31024c7d506866acea335a682988",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_036.png": "77397a6f747a862b1d986419427280445be3caa429248a3003def8e427cc49ad",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_037.png": "380f7e7cf747efcf417c743aa02c47d167ff0def87f8433e6b6343c2331e386f",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_038.png": "e191e4491719644d853fc555da5fbb934d4ccc7f533e1781da97a50c911db0bc",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_039.png": "0747330ef74052aba7c628da8a804ec9ea47ef911be3216a1d09df1836a7db96",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_040.png": "2ae68efd5ba16c6f7025c146d4872669cc295ee06cf17db2cba46f0b0cd15267",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_041.png": "7740be54f5907ccd4bc5df90ab980399583c18919f0adc4a6e0f5eab5fa13378",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_042.png": "2898f65a1fdd379aaa81b266e09ca82934d15a3c600f9ce84a7c3a35dc7fed4c",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_043.png": "f8365a2a3885cc1a5bf57ca96c6d690f6aa26c2278291ee1763666b673e085a4",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_044.png": "d6be71aa58a82e24d635f9f17319b64cd4d851458467a09a8a01982b529ef725",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_045.png": "08a9c79397500fe7656234dc36d54c4f43acd9975f53aa2fc30d1d8aeacb04c3",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_046.png": "fed28eaa1f0bae67161678422cf2be1764239acfa7e48b6602891fcd2b4d034b",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_047.png": "d8e79feb11998fc00e1ecf651086ac082546594e1c34118cdd11a8b05921da0f",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_048.png": "22c2de5ad72ccfc3b155ce824001da7952a6f55af001f5fcaffae901051af08b",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_049.png": "9ec6e236bf4c0baf83cac97aa7ee9ed813f8e7ca28d8fb81f1711735b71eaba4",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_050.png": "a4989920c637e2fe5ebd366f3a3a44ff1ffff9337974039fac1eddb96faf2cc1",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_051.png": "0e204e384138b70c1caf3fed0e64738e79880068caa0103878982f4cd6d03aa3",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_052.png": "42cc407a994f1952df4ae3b37195658b1d5921b4aad2132c714a8f52715ee2e3",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_053.png": "03dbdda27a132b3a9ea29098b77816a05faefe57a49eceff569842f3b57deb58",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_054.png": "1ec0efbfe4724dd2f0926e873a769f3103f937a4ccbdc74850b8b0e17a6c9b8a",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_055.png": "3ca1edc966edde8ce65c4823c39310e3ffb5736b169ddb7c2a04e615aa5e8901",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_056.png": "982910f8386c2aec6052b0bf1e4e4215b48908b2cb4330add401554e46767083",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_057.png": "31f3e0ed764ff19cea91a4a81c097c21b002cbd1ece5a3b86a572b5f3f46f07d",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_058.png": "f4a96d953c335b0c6a936f0339e494f7f282eee408c602abf7a149bd0826e13d",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_059.png": "b2091c469e558d7ab6231391327d6cbc9fee5b0fcc8400ee8f02db3e98eaeb20",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_060.png": "ab7ffc73948ec14e6b93a0f08190596c692010f6c0b028e046dbe3329a39bc38",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_061.png": "5d47b0106dfb2c6b852d0c1a748fb963e9af229095aa6c748f6784514db9bc0c",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_062.png": "123a4311b1671cd1fc1db9f00d7d230f69d909ed516b2286bf346d0042191416",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_063.png": "63dfd09a7cefe31f4dce871b1cb3e3b28bff4dbcdf7f62fd955713a4d5fd098c",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_064.png": "85e1858d942d55ce3e4be5c5c20a1eb25c3e12956a135e9c4a6e52bc78d881d2",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_065.png": "377972d7d34b529771b24e03a2538bfc26fb2abcf8186e173b8efdf801de21f1",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_066.png": "8ff177ce3593942994fcb8f17b999b096bb44db47a65fa997f7ffcd20693f5f8",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_067.png": "c817aaac6b35ec96b52ba4efe11dccf20b303d25d6b6c332f6970a11275063b4",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_068.png": "eb0160403b09168c57cc9c9a430991b10b4c3506e3a93a64e0d0b7b08795577e",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_069.png": "921061ffe9ba0d086140b2ba3ba41b4993e5d4d1d91d64e5942de3cc6aace65a",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_070.png": "e13eaf5259df73f976972a70cd1b4e328becf9330a498f942a39bb215eacf215",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_071.png": "715919c1f8ce3845cfb3295376d1940171123e5cbcb3cb41046b16a791a67cea",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_072.png": "0c41901a172e0d9a69dfd98d65a253b523368602c6f24dc79483c6ddc1190357",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_073.png": "10f2bdeab6130ba69dda063e0c10d11c06b7408d481de944956c44ff93ba0abb",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_074.png": "8a900441c07afaf325c245dff7b3a38190b2c733161dcad34f24e36b846965a4",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_075.png": "5b23e74dd6f260b1b97941725dcfb5814d91e525ed973a98930ff064b2543e04",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_076.png": "21169b1eae2ff5d003d4883a09851c932d52676ef664b45c7331df292f121e93",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_077.png": "36dceffe7e443aa81ef73ce69302ba8499261ca0e6d4b472cf770b255490ce4a",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_078.png": "430e26c921093bc5ba61eea05c418d83f313ce317d4dae455131d853f12c3c2d",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_079.png": "0c01fbcabd75fbbe765f2a51b1c60b99ad1487db344f43132f816a5c3fc3e6e0",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_080.png": "2bbc005b38c285b4788fe4b98697db0ea6a6e1e1f0b27e8794b966e4eeb0e9d7",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_081.png": "b2bb2f5afe238583671a0706e75296205b25d18ea77b51f1bc1e5d4b109f2254",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_082.png": "c184ee6a608787a2cd5f6462f15057e025c2860b31262a2c1b26b7e81ad2b114",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_083.png": "4094c6b1cf3ac48452fb921cafad3df79b9087f4955a30f435dec50f7eb45a15",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_084.png": "7fa3136f09ca6a44b632aa85aa3f1d925396f18b973055175488d1a37ebff59f",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_085.png": "4463a0e5acea667d2b298324c67a1500279d26ea8ecdda7db6d18dd3959b97ef",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_086.png": "00f107139da5e352d20d5caaa0b5b51ff656e4ae88b197d0040dfe4549fc515f",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_087.png": "62306299f2b6f0aa9f5f4941e5aa5f1566afaf2173115321511730f44cc2840e",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_088.png": "61d671e396c5a21eff38d74d21cfd17fcac45be5cbeac7cee790c7ffc11de7f4",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_089.png": "685ad4516949c64ade496cab4814206adf0a36048395107918717827aa26546a",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_090.png": "21b2cc0fc337481f3aaf650cfc9f98608b12be302431eaa3c11ac21458bff1f7",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_091.png": "a40f5471d5efdd81e18eba57d5f45afc4196fba39f0e47601fe893992280ae9a",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_092.png": "adb618a7e4e4bbf559f5e001a22034b6c377d864814890ff4bc78eeabf4c3934",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_093.png": "00e63764deb226504cb0e14e65e37ce89de14d7f752ac9b9e77f00bae3c611bd",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_094.png": "f77526fded906975c0cc1c03c9cc416dc7be15a151635634b736beef1d8ea826",
+    "Asset/Character/detail_oct28_candidates/skyles/frame_095.png": "1e18aea1f9611e35916387e1a49ee1610fa50b862e50c803273cb38a7d0b2903"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.3,
+  "display_scale": 1.0,
+  "base_display_size": [
+    500,
+    500
+  ],
+  "display_size": [
+    500,
+    500
+  ],
+  "base_frame_size": [
+    780,
+    780
+  ],
+  "frame_size": [
+    1014,
+    1014
+  ],
+  "frame_count": 96,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "duration_ms": 60,
+      "detail_size": [
+        1014,
+        1014
+      ]
+    }
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos upscale by 30% per axis, then mild RGB unsharp mask (radius 1, 18%, threshold 3); preserve source frame timing. Display size changes only by explicit display_scale.",
+  "limitations": "Interpolation cannot restore missing source detail; sharpening may introduce halos or change effects. Inspect every frame at game size and over light/dark backgrounds."
+}

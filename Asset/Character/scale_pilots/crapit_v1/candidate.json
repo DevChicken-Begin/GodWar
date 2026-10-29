@@ -1,0 +1,84 @@
+{
+  "source": "Asset/Character/vfx/crapit.gif",
+  "source_sha256": "58addc8fa67f97c0ce48255e36f38453ef60677af8b44b63320ebccf261a38be",
+  "base_candidate": "fine_candidates/crapit",
+  "base_metadata_sha256": "62235eac1fcb8feee75d3a7be6b75c879ed6144f2725b838ed96cce477b29863",
+  "frame_count": 24,
+  "duration_ms": [
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    100,
+    20
+  ],
+  "art_source": "existing",
+  "split_x": 230,
+  "parts": {
+    "main": {
+      "crop_source": [
+        230,
+        0,
+        512,
+        512
+      ],
+      "frame_size": [
+        282,
+        512
+      ],
+      "reference_frame": 0,
+      "visible_bbox": [
+        42,
+        156,
+        254,
+        332
+      ],
+      "reference_visible_height": 176,
+      "target_height_px": 100,
+      "display_scale_candidate": 0.5681818181818182,
+      "note": "Frame 0 alpha bounds may include effects; verify the actual body and ground anchor before use."
+    },
+    "secondary": {
+      "crop_source": [
+        0,
+        0,
+        230,
+        512
+      ],
+      "frame_size": [
+        230,
+        512
+      ],
+      "reference_frame": 0,
+      "visible_bbox": [
+        84,
+        248,
+        172,
+        332
+      ],
+      "reference_visible_height": 84,
+      "target_height_px": 40,
+      "display_scale_candidate": 0.47619047619047616,
+      "note": "Frame 0 alpha bounds may include effects; verify the actual body and ground anchor before use."
+    }
+  },
+  "status": "candidate_unreviewed"
+}

@@ -1,0 +1,739 @@
+{
+  "id": "machinen",
+  "source": "Asset/Character/vfx/machinen.gif",
+  "source_sha256": "26c8f990aff2328e8f7ca1e580205da4f1e83be919138c6eb7e3e8c26ee7ff0c",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/machinen/frame_000.png": "4178883c9017178cdc49ab0eeeccd07e991cf054a69f47352ad778a91e3d347b",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_001.png": "4cd1a11ea169de09164d0df2653747f9d65e1f1b58086b13bebf6bfdaaf1e0d0",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_002.png": "eeb588792a69308bb8be06c0ec825b53e51c05abd477791690d82f739be0b5de",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_003.png": "23aea8a91c2954d6a41883194c1689646da0cec1360eecea9f29896e3b993a00",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_004.png": "59f88a040027f3a59dd7f067da004fd1c4fde5c87ca7a6bec3d32ec2888f08ce",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_005.png": "4c4cfb0cea7bf634a4614434d86d6e6f9e47f4370e7dedad4d8bc1c03246285a",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_006.png": "81a03468f55a1f7a944a18d7affdc3d8ca4629aa3a781e60846a7f46c83fa9be",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_007.png": "e7453221d8532c17654d5e8d8a9f02a7bb3e423fd2e44d50104a19a32f514111",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_008.png": "bf44abc019e282055fd5aa53fa46ac5887d75dce2f2eb3a4a2f4caa198e893a4",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_009.png": "129b33a1a032e1e9ae77b6418ede36f6fac333e3210599d1db9593c344c01ff8",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_010.png": "91e87c3cc3d747bb81e45a86cfeba56ec863b18cd9c3fa65b6781bccce4f370c",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_011.png": "4ccad5fba04e22d87e78a7b4869fed1586c39847003ee79839f1043831a680ad",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_012.png": "4178883c9017178cdc49ab0eeeccd07e991cf054a69f47352ad778a91e3d347b",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_013.png": "4cd1a11ea169de09164d0df2653747f9d65e1f1b58086b13bebf6bfdaaf1e0d0",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_014.png": "eeb588792a69308bb8be06c0ec825b53e51c05abd477791690d82f739be0b5de",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_015.png": "23aea8a91c2954d6a41883194c1689646da0cec1360eecea9f29896e3b993a00",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_016.png": "59f88a040027f3a59dd7f067da004fd1c4fde5c87ca7a6bec3d32ec2888f08ce",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_017.png": "4c4cfb0cea7bf634a4614434d86d6e6f9e47f4370e7dedad4d8bc1c03246285a",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_018.png": "81a03468f55a1f7a944a18d7affdc3d8ca4629aa3a781e60846a7f46c83fa9be",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_019.png": "e7453221d8532c17654d5e8d8a9f02a7bb3e423fd2e44d50104a19a32f514111",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_020.png": "bf44abc019e282055fd5aa53fa46ac5887d75dce2f2eb3a4a2f4caa198e893a4",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_021.png": "129b33a1a032e1e9ae77b6418ede36f6fac333e3210599d1db9593c344c01ff8",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_022.png": "91e87c3cc3d747bb81e45a86cfeba56ec863b18cd9c3fa65b6781bccce4f370c",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_023.png": "4ccad5fba04e22d87e78a7b4869fed1586c39847003ee79839f1043831a680ad",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_024.png": "f8b9967bf9be2818363f51fb027b29e9f9b3cf4b6b3c2f97d9fdba68f3038f09",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_025.png": "3c6a5f47eb87f82a02d43b606fb220a9d5a4bf1f973d59546e2d829ec8c483d0",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_026.png": "e78020d3b1c16bbdc66269b2de2cded930ec2007df8e6ccd80be31c4a64792ad",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_027.png": "241266603f9e2c2a3c03ce4c2e48efe091e14baa8dadb43a2f6af465b0cc2ad9",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_028.png": "6f6d5f253323fb076eed7daa777828f7d90f260c0d857cf1e29d753a26765f70",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_029.png": "4ba421ee55838027b41ad6a06c19a1d29d262dbad8c421ef93efb9c867a6ed64",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_030.png": "5878a84834ac11514fa7430bc1d5389c35a759c44904875ae8bfae11c7245757",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_031.png": "38f50c8b530223374a562bc4bbed7fa2b817ff1698cbd93e8a9e5b03eed2d1c0",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_032.png": "0748b1811d62ef7542b85d981823cc17a5a0a35345435c0c859379d491c5f028",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_033.png": "d4089df21ce0c6778df04c362f81300d48748b1449e3cddf8721f35dd4bd91cc",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_034.png": "c4a316218fc4573bb08665c4f1eefaabcfe40cf3bedf91e93227aae17b7ae751",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_035.png": "f8f4f44422750a6c2a1847682437a87654d3421c35972c938b924c571dacd0ba",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_036.png": "6b8677ddd0300599637991a7635d43aa590187cb01b6841b48ab9173221ccee2",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_037.png": "7ae2a2a0291710198cd2ddc02969ed9fdfaf19bcc32ce64cb98a644e14d4331e",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_038.png": "7ba31161505738103b1a5157358195481a183d7150ac78c33a7e06c0ae7862f5",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_039.png": "db7947be579446aac819a00eb7289fcf6575bc2758fd48a4b28cfac2b17cb5b2",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_040.png": "aefaf48eb7ee1e8878f738cde91b5c79530efafc0c5f0ee12f39352c4378edcb",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_041.png": "3942db1b9a4983d5a164647b0415dc62310e574b85b97e606bdc6e7bc48a3e7f",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_042.png": "e7d1087230f1e150c8715733f01354ae7cb2d48eeb0a02adb0ec747b5ef31348",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_043.png": "d13c4a954eafeeaeb9b07aeecdfaa86066ab8e4162c1eb73f9854ed60a9860b3",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_044.png": "6f8b460704cec9811e5b792dcedd89c747f103fbd21598141ee94650bccbc3af",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_045.png": "d014a02a267395942c87ad5205389d8cc26d6aefdd9fe7d5cd1376ca67b214b8",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_046.png": "236936deaa861bcd0ca20e8e5a78f58a0c51374dd84a5f4ee4e9688d9bb45b6d",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_047.png": "f42b06debe999774ffea38de6d1ccbc4d9971071956b52fb2193a129a635076a",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_048.png": "b8c2c2ecb64d753c5b062cf444d2f18fb2ad0107b999f922b3ca701b0714365f",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_049.png": "001652ce512d8246934e9e082862dfd9e2c85c02d776f9fe9b685cc3a1b6be20",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_050.png": "99afbc6486e3e710fd726f3572ebd9b94e4629ce9b3478c4a17644bc59895e82",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_051.png": "10bab06e0753240ec81b7f00d2d8724e570655e3cbf95f8eede5b2913c7342d4",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_052.png": "7ceefcd7246fa124edc983d0d8a93328da25a695e082d865b583f02f750a75bf",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_053.png": "ab32625533f979eaa84684cacf95d128e15cb07d6f33595fbaec7a4e0c3dbbe4",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_054.png": "05cc586fb904f65c8f6c073c82bd152801f46155635655672e2b7257a5d7609e",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_055.png": "fc8f5d299a8c5b3d5101ead5f37601c32cb3fa0a6df17605136815bf00bb4f43",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_056.png": "cf2da31348dc7eda99388e179f55a01f2a4052b5a52bed0f88410a9305d23c60",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_057.png": "6e5a56b8644b18af681e567548004ef90184cbb0412791719d7a1313ca351281",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_058.png": "a0b253388eee2907c53eac72be5baa29fe1a9dc7ffa9329574e0fbc96b2479b9",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_059.png": "5250c4657c5db591c6a1998ea4d618cf293ebb14d41e688e3da36fc3bfde2bb3",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_060.png": "1fdd37e360833202e42871e56e044d44bbfba85e8aa17b99a558b0e8b2168826",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_061.png": "75451371b7e7c89502ec769cd0ec20118fc36ca5415680594e2683367af931c8",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_062.png": "07afea9e025a6b90ffb5fba6cf7881ead0f4ba387b4af84ab2f062d4268e4e85",
+    "Asset/Character/detail_oct29_candidates/machinen/frame_063.png": "52e2199993894e0ef639211ad075a6b0c47625c99035138768d6980d1af07a54"
+  },
+  "art_source": "existing",
+  "frame_count": 64,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 10,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 11,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 12,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 13,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 14,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        780,
+        0,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 15,
+      "region": [
+        780,
+        780,
+        780,
+        780
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    780,
+    780
+  ],
+  "target_height_px": 80,
+  "reference_frame": 0,
+  "reference_height_px": 365,
+  "reference_alpha_bounds": [
+    184,
+    293,
+    572,
+    658
+  ],
+  "anchor_px": [
+    378.0,
+    658
+  ],
+  "display_scale": 0.2191780821917808,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

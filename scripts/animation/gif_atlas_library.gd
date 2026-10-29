@@ -8,6 +8,73 @@ const SPLIT_CATALOG_PATH := "res://Asset/Character/extracted/split-catalog.json"
 const COMPOSITE_CATALOG_PATH := "res://Asset/Character/extracted/composite-catalog.json"
 const ATLAS_ROOT := "res://Asset/Character/extracted"
 
+## Loads a measured atlas pilot with its shared anchor and display scale.
+static func create_measured_pilot(asset_id: String) -> Dictionary:
+    if asset_id.is_empty() or "/" in asset_id or "\\" in asset_id or asset_id == "..":
+        push_error("Invalid measured pilot id")
+        return {}
+    var path := "res://Asset/Character/measured_atlas_pilots/%s" % asset_id
+    var file := FileAccess.open(path + "/candidate.json", FileAccess.READ)
+    if file == null:
+        push_error("Missing measured pilot: " + asset_id)
+        return {}
+    var entry: Variant = JSON.parse_string(file.get_as_text())
+    if not entry is Dictionary or not entry.has("frames") or entry.frames.is_empty() or not entry.has("anchor_px") or not entry.has("reference_height_px"):
+        push_error("Invalid measured pilot: " + asset_id)
+        return {}
+    var target_file := FileAccess.open("res://Asset/Character/characters/height-targets.json", FileAccess.READ)
+    if target_file == null:
+        push_error("Missing current height targets")
+        return {}
+    var target_catalog: Variant = JSON.parse_string(target_file.get_as_text())
+    if not target_catalog is Dictionary or not target_catalog.has("assets"):
+        push_error("Invalid height targets")
+        return {}
+    var source_id := asset_id
+    if asset_id == "crapit_main" or asset_id == "crapit_secondary":
+        source_id = "crapit"
+    elif asset_id == "moxie_repaired":
+        source_id = "moxie"
+    elif asset_id == "conden_tuned":
+        source_id = "conden"
+    var target: Dictionary = {}
+    for candidate in target_catalog.assets:
+        if candidate.id == source_id:
+            target = candidate
+            break
+    if target.is_empty() or target.source_sha256 != entry.source_sha256:
+        push_error("Missing or mismatched height target: " + asset_id)
+        return {}
+    var target_height: float = target.target_height_px
+    if asset_id == "crapit_secondary":
+        target_height = target.parts[1].target_height_px
+    var reference_height := float(entry.reference_height_px)
+    if target_height <= 0.0 or reference_height <= 0.0:
+        push_error("Invalid height or reference: " + asset_id)
+        return {}
+    var result := SpriteFrames.new()
+    result.rename_animation("default", "source")
+    result.set_animation_speed("source", 10.0)
+    result.set_animation_loop("source", true)
+    var pages: Dictionary = {}
+    for frame in entry.frames:
+        var page: int = frame.atlas
+        if not pages.has(page):
+            var texture: Texture2D = load("%s/atlas_%03d.png" % [path, page])
+            if texture == null:
+                push_error("Cannot load measured atlas: " + asset_id)
+                return {}
+            pages[page] = texture
+        var region: Array = frame.region
+        var tile := AtlasTexture.new()
+        tile.atlas = pages[page]
+        tile.region = Rect2(region[0], region[1], region[2], region[3])
+        tile.filter_clip = true
+        result.add_frame("source", tile, maxf(float(frame.duration_ms) / 100.0, 0.001))
+    return {"frames": result, "display_scale": target_height / reference_height,
+            "anchor_px": Vector2(entry.anchor_px[0], entry.anchor_px[1]),
+            "target_height_px": target_height}
+
 ## Loads a motion or reconstructed review candidate. Candidate metadata owns
 ## its timeline and regions; it must not be paired with the source catalog.
 static func create_animation_candidate(asset_id: String, candidate_kind: String) -> Dictionary:

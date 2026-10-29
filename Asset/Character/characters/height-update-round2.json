@@ -1,0 +1,487 @@
+{
+  "viewport": [
+    1920,
+    1080
+  ],
+  "changes": {
+    "aminao": 70,
+    "artemis": 85,
+    "jaying": 65,
+    "odin": 90,
+    "scatra": 80,
+    "score": 90,
+    "skyles": 70,
+    "skypit": 90,
+    "snax": 65,
+    "tailer": 90,
+    "vision": 85,
+    "wuchen": 85
+  },
+  "proof": {
+    "aminao": {
+      "new_height_px": 70,
+      "reference_height_px": 154,
+      "new_scale": 0.45454545454545453,
+      "frame_count": 82,
+      "frames_sha256": "dc9e40cd0d1740a85888627903f4697e2e5928ff108aa67d8020fc2754a0bc70",
+      "atlas_sha256": {
+        "atlas_000.png": "13d8c72e6285dba15130912c7a53054e402f5398a0bf38b2df4a2daaa9c5ecd7",
+        "atlas_001.png": "fae6296d6e851caf3f0644901196728cf08e6776c36c6b82591ae42ac40c2bcf",
+        "atlas_002.png": "5bdf96b39621d4229a4092f9715284aa5f8104d5bd4fca19d08b2648d0a00bd2",
+        "atlas_003.png": "ed9b6d680b05ab938a6f8a4492dab1320d4a13577776b68d31365adee7cb9e5b",
+        "atlas_004.png": "fdf4d3fd6f0025cbc292695dbb9fabf33c7fdc1dfb1ce549e6ac7768d2454aee",
+        "atlas_005.png": "48d418156cae305b970b63ca816640cc8248645dc3fddf9674a6dff79d610963",
+        "atlas_006.png": "26ddf6cd6fe4d26810bccc41c0edd81fc0a8131e0da50448ba9ef0e68bd2b248",
+        "atlas_007.png": "5e80276a3347610f08308072d6a7f5c929e8b8094b6cc1604418b777f6d60e08",
+        "atlas_008.png": "bd2b4455001ead8abe9c447ac271375ed4c80574833d8044ce398797647a5dc7",
+        "atlas_009.png": "c9c97417876732afbe5b6dcda9a5083b5ea5fd82c5d13c6fd9b776165ee1c878"
+      }
+    },
+    "artemis": {
+      "new_height_px": 85,
+      "reference_height_px": 201,
+      "new_scale": 0.4228855721393035,
+      "frame_count": 64,
+      "frames_sha256": "4c105acadf111c212ef2c1ab95137f6b67545a9b046091dac92b711ba6152af7",
+      "atlas_sha256": {
+        "atlas_000.png": "be827681d2954ef81d34cf0b2cf80aca8813730b36fad5e15aa714997140a9d7",
+        "atlas_001.png": "be827681d2954ef81d34cf0b2cf80aca8813730b36fad5e15aa714997140a9d7",
+        "atlas_002.png": "f6784376f43f0b658e1b659032b7674ed682ebe689f9884ce0c3fe4d157d8ca7",
+        "atlas_003.png": "b202c9c2be4636f486a49a210d1c0acbcfd46169b63fbbfa7af0ec9c6b3c4fec"
+      }
+    },
+    "choptian": {
+      "reference_height_px": 147,
+      "frame_count": 48,
+      "frames_sha256": "b557e1222640d5514a3e9c57ee1c178bbc2ce07ae19d2eada6cf9cb6aa04b290",
+      "atlas_sha256": {
+        "atlas_000.png": "3a38c7d79edd0fb31e1d74bcd7f07364760b44fda4a435623d5d242d1770f781"
+      }
+    },
+    "corepion": {
+      "reference_height_px": 84,
+      "frame_count": 99,
+      "frames_sha256": "8c742fbd90921f07ed2ed4b9e0003b9fff027cb0c99eff5a63e55d1dbc77cfb5",
+      "atlas_sha256": {
+        "atlas_000.png": "34e2d4b5acba9021d15678aad630a71a67e2ae151acca114cab74ab7a8fe2a42",
+        "atlas_001.png": "429c551951845b8f90623b6f3afb811e48eff1cd543a7361c26e279a0d051e2a",
+        "atlas_002.png": "941e06923c5a431e47a95f62b2bc5185c75202e0fce8d2eb8001abcc86020b59",
+        "atlas_003.png": "9c0c9110d6e66667dfc22036b82a5a8a127b3f412d00206819e60cfd2f60b0cc"
+      }
+    },
+    "costmic": {
+      "reference_height_px": 185,
+      "frame_count": 92,
+      "frames_sha256": "77015490dd45928e1bc169a1d9b8af8ba48ae3505fb868c2f5189c3b262f8167",
+      "atlas_sha256": {
+        "atlas_000.png": "28c16e0a0c4ea9288b1322f504d1f300d55ff6cd12be816642930921dada27ae",
+        "atlas_001.png": "9496487e4a20b8e8af53d2bbf03b676ebcb24f078c5fccf16cc480c35ecf95cd",
+        "atlas_002.png": "ab36c34c67e13680bb0c6cb2b5dfa48e6f3d11a4e7b110f56fd3b5e881b942d9",
+        "atlas_003.png": "c49355edbe7c1c955c6340ea79195162a46a1d6a110fcf8d3e78d78341034e82",
+        "atlas_004.png": "0892163f0994c3b30f68d3bb3efd30fd8857dfa4722238697e3855c1c3854ddb",
+        "atlas_005.png": "d5e171863547bbf1dc591eb954812b88ac56cf485a05b1ca8bc081a95f3a1001"
+      }
+    },
+    "dracian": {
+      "reference_height_px": 185,
+      "frame_count": 40,
+      "frames_sha256": "4e2d8804f4f56b180d5a1ab0229c7f24d0c50aa789ef8384b89fe3bbffdf3b38",
+      "atlas_sha256": {
+        "atlas_000.png": "ac3a8f9c0bdc472449f86e464631402f5d821b994cbdf73c0d4d27c023999f0e",
+        "atlas_001.png": "8fb7ede72b55f8560efe6c08a69a244a95bc8fa375f6edf13c0a0ef9fdf894c6",
+        "atlas_002.png": "7592578dfcc4d08b7a0947d5755802c4e840d7cccb5f565551cfe577007329d5"
+      }
+    },
+    "dragonot": {
+      "reference_height_px": 300,
+      "frame_count": 49,
+      "frames_sha256": "aa37429ca82a1cdc9be9ae7c5087ef6e8c6bd7b1df319d2942a452342c85f7e8",
+      "atlas_sha256": {
+        "atlas_000.png": "935c3124a64f12a88277e51461c1fad844d722dcd2fdb6093fbd01f8760f3969",
+        "atlas_001.png": "6722227f0a9fea6f98cc1834a249e73da9c03f5bc99aa5aa212c4f86504b7718",
+        "atlas_002.png": "6b7f897b5771c31b2912a2a458e885b36b241fb71e2f01058963df18e3cea06b",
+        "atlas_003.png": "d5ea9687d0e17b492895fa206fcd78dc1d92bda49d0bafe23301aa4b1d6fbd54"
+      }
+    },
+    "firemen": {
+      "reference_height_px": 160,
+      "frame_count": 116,
+      "frames_sha256": "99c8465171dacce92be415833cff8fd3a6a42a58ec2bec20d7f0c458f7de5d2f",
+      "atlas_sha256": {
+        "atlas_000.png": "0cf3837f2d8fa58075361a36e9975dd39302f5705a6c0f4a672497d844e1b390",
+        "atlas_001.png": "5a1c63b5d7fc135fc4b8a65d72290ed700d542918bf579f84eaf4a9d26b76dc5",
+        "atlas_002.png": "76326e0fc4e647ff4441af36b76aa441d065efc2c60f1740eca4ea6ec65c94ec",
+        "atlas_003.png": "dd139abe5815695144ef9968859a82ae59497d97a22c7363ff1a05189a22f678",
+        "atlas_004.png": "82bf05458358ec1af203c0bafa8218595c9d576972d7dbb370f0ee4b22d8fda4",
+        "atlas_005.png": "1e5c2c80c9a0d93b03a977f1563389baa46702cf6d744064c5996e5a3487da69",
+        "atlas_006.png": "7fb2b7dca7f417fc61254a8e158d993d99720e25671fa3d1740ed70a6df1226d",
+        "atlas_007.png": "978a01e7bd7445be66f7ca1a44fad3fd7350ad5301e49eee83d69eec64f3d2f2"
+      }
+    },
+    "hades": {
+      "reference_height_px": 140,
+      "frame_count": 98,
+      "frames_sha256": "0c5db6a359a7674c6f47989e59d4d40167d31735b0f5409ee6ace5b87508391e",
+      "atlas_sha256": {
+        "atlas_000.png": "5c11584bf566ae7d9a4a848c74a08d2a5db5ce1a9886cea415b3b0b9b5bba72b"
+      }
+    },
+    "iternal": {
+      "reference_height_px": 128,
+      "frame_count": 26,
+      "frames_sha256": "ed307b41bc9d6aedaef88abea53ec3458db41b448a2b543bbff9521dd2a70a24",
+      "atlas_sha256": {
+        "atlas_000.png": "197ca8562634998a43f346f22b6aef54516f1722660f02be1a56fdef06d230a8"
+      }
+    },
+    "jaying": {
+      "new_height_px": 65,
+      "reference_height_px": 108,
+      "new_scale": 0.6018518518518519,
+      "frame_count": 21,
+      "frames_sha256": "cf59edac24eb5727faaaa0cac9ac40847bb3587074628e41f3dd7afbb3cc34e7",
+      "atlas_sha256": {
+        "atlas_000.png": "950851c37de900aba96014f262f52242422bbeb533eb3b92e77c0c1345940536"
+      }
+    },
+    "kungchang": {
+      "reference_height_px": 108,
+      "frame_count": 61,
+      "frames_sha256": "9bef8781bde4cd6e7df7405ecd7f66ce94772704b7e9b2d60112c2c82c6d0f68",
+      "atlas_sha256": {
+        "atlas_000.png": "d54ee793e448d4bb00fe86fed31a188e9a2c0deb0f35a03d038a96f97683c908",
+        "atlas_001.png": "536c1dbe40cb1a0feb6f3c925deba2bf78cb30328c30c63224a145b7210ebb91"
+      }
+    },
+    "kumen": {
+      "reference_height_px": 112,
+      "frame_count": 56,
+      "frames_sha256": "6a476de59486f8847c073ca433a12cafec9a44d72de3fab4cc25964412feb22a",
+      "atlas_sha256": {
+        "atlas_000.png": "8207decc923bdc85424e456e7e9980b4064344630c07cc0a07e9f6634506ca58",
+        "atlas_001.png": "beb361a377313a2d0775fc9a28b8c9975cf2dda4f111c3bb1a80ee18a89a30df"
+      }
+    },
+    "momo": {
+      "reference_height_px": 408,
+      "frame_count": 58,
+      "frames_sha256": "a6f34005184bacec6f1aab581e57a7bd75ee0e727d4ebbe3ef4e9b4e1e1a6d6f",
+      "atlas_sha256": {
+        "atlas_000.png": "0e5e030b5849a9cc73d95ce6e36b972af05a28ae1fa5473af9ff0bfc6fb0e898",
+        "atlas_001.png": "ed55ac86963c40494df05747afffb9c6448d199b76bf564c89ea039911020de4",
+        "atlas_002.png": "4fa8013e7f8568b935dd6fc385169b8048d205d143703e639192771f63cd2ae6",
+        "atlas_003.png": "7888f16081dbc28ba77084327ef022e0ed429f7e570d82b2157d143f6d962157",
+        "atlas_004.png": "7d0bcb1b36ce040f690222755c66439cb2506193ea0c00e24e64832aa60b1905",
+        "atlas_005.png": "ede9f65d36522485e64ccad54f257d7f58572e73b3527813482a2b7024b62a60",
+        "atlas_006.png": "220f3462a16aa383df56a095ec7fc1686315f6a9cd689170e5d435e3115919ed",
+        "atlas_007.png": "5cc7c75b1b1165bc323f25d6da1f5c43b76852cdeffe79190b79af453ad81473",
+        "atlas_008.png": "770dee2021610925f885ded33e42d569dc22ba5574aab2ec5b96b63adc0c114e",
+        "atlas_009.png": "727b7ff14697dfaf3454347d798faa0b18d83f04de8a4d1ca01dde468b64c0c8",
+        "atlas_010.png": "5f5826b03dd730e7c6a7ca7b609dd958ac3256c912574b0f7d4d35a64fef46bf",
+        "atlas_011.png": "aca7c2806ac44d572f3676a5bdcc7d33f876ec190a3c3351ae413c52e513b7b3",
+        "atlas_012.png": "c11720c41856cb8d3284474054575d449998afb78de55fe21c9d5bcd0bd2abbf",
+        "atlas_013.png": "6ae6f84ab0204d62cf502a5d1ed2926a9d585fb08d24aefa973ec1975af67fa9",
+        "atlas_014.png": "7b17a840937ed0da1c82eec400501faf52b90cd4142f93d86f47fd8851bd1887"
+      }
+    },
+    "odin": {
+      "new_height_px": 90,
+      "reference_height_px": 337,
+      "new_scale": 0.26706231454005935,
+      "frame_count": 86,
+      "frames_sha256": "00962f17b1cbd8b212ad8172dbf8be1de517831cdc2688a514120cf53f847540",
+      "atlas_sha256": {
+        "atlas_000.png": "722874ff74c7423423f0b7189032d81b4961e4e8411c1c2b8e0b724017a933c5",
+        "atlas_001.png": "56d39dc6e0e390788439560761f3e10cb2c6410e2ffceea078fa2d8030f87387",
+        "atlas_002.png": "84a23a7d0d6d999c9dc6a60cb403016fafdb37d4d611aa96fbd7721936542804",
+        "atlas_003.png": "e1f61ea333ab7895628edbfcca6e52587a966e540f3a03cd5be6e9274e4e2d97",
+        "atlas_004.png": "dca8bd38637c3d2c2f45b5b86a4c756efb72962c3a4be0e18c77042dd767be3b",
+        "atlas_005.png": "609d17083c2753014888b13384ed042a06625357924b72a774ae5f72c8829d9e",
+        "atlas_006.png": "21a1f42382a771cf9ad4cd327152caab012278ae0fe7dc863d2709ae208b8374",
+        "atlas_007.png": "096519f92baa4e20a8f1c39f3281506ed166bff34d2660830667355c42ff5903",
+        "atlas_008.png": "a933e462203994971f26f7d1075d22e8fa7fad95004ad73ac43c46c881fa1941",
+        "atlas_009.png": "e0d9474c7320dcae8be66541393cb0567d281f86a4ae6a125b469bd79bc9ae0d"
+      }
+    },
+    "omra": {
+      "reference_height_px": 325,
+      "frame_count": 46,
+      "frames_sha256": "16d38745ae7bb25503794fac37b3ee4abc2b2f2ba9dd79f10df7052278c31555",
+      "atlas_sha256": {
+        "atlas_000.png": "0a6bc80f94de1740e072c4e56460442e5155901f46b1cdea379dae87f7aae285",
+        "atlas_001.png": "10feded4b90f58b4ae9fb022824685e5aac797673e3c96854535c4c9d30cfeb0",
+        "atlas_002.png": "d9708e89ed72c64882f70343ff3bb088e5f941d20ee8fd652601a223b358c7f2",
+        "atlas_003.png": "ecd22838abea4b77b6b978e274a0d21fc03844f3782f6f6997c4877cd986f371"
+      }
+    },
+    "scatra": {
+      "new_height_px": 80,
+      "reference_height_px": 240,
+      "new_scale": 0.3333333333333333,
+      "frame_count": 67,
+      "frames_sha256": "0a7775e0d1064dfda680c33e6d90f511b60c3336aa4ae13f1565c924e9b1252c",
+      "atlas_sha256": {
+        "atlas_000.png": "54df625dd176c216010585f53cb9508a6077faca4edd8b11b5a361efb59a9422",
+        "atlas_001.png": "6b57dba195da910d8ce87fcc8b9c10e66f8f5111d96ffaa7e109a42fb6249830",
+        "atlas_002.png": "abcde59a65c172fd3c2b3ec4ab16a5befe27627afdfa37f043f76e773638d8aa",
+        "atlas_003.png": "08eddb8f9ac2d4c6f29b37ae0bb748ecfc2a0513fbf5ce65af5d01ad249436aa",
+        "atlas_004.png": "40c9af944b7bed59c7948a602c98267ca11e8dfdfb2ad8d3093f7fc8093d91f8",
+        "atlas_005.png": "5088fd392b995a4869c64f5eada7fe28a22024319e0ff606a66f521752236383",
+        "atlas_006.png": "4918003d0fae6e557d5c055f780f7676f880f5cb7104f54e22871712817127b0",
+        "atlas_007.png": "a4d791446fa82025fc952da8f4b34bf3291940700a7cce6ac5a537a0bb28b764"
+      }
+    },
+    "score": {
+      "new_height_px": 90,
+      "reference_height_px": 330,
+      "new_scale": 0.2727272727272727,
+      "frame_count": 32,
+      "frames_sha256": "0b9ff3927809af005f3529cdb9b5aacf3ff7d0be8b49cf425147dc450824a43b",
+      "atlas_sha256": {
+        "atlas_000.png": "40b1ac76d8f483bad3ac1891930fb36d48ef0f5c612d852dafe50e9ff5cf36e2",
+        "atlas_001.png": "898819e940c365a9064d0eb13659d2b73197128eeb51ba92eb7a99b274d8e068",
+        "atlas_002.png": "b3a79371f1fe4ccbb969df1cd830413e8960418843b0d1898bbb3b124d4020c3",
+        "atlas_003.png": "7cf6b7124f14a9abc284e14402d10e6bd77017b0ce0b0fa610ffe4f191882140"
+      }
+    },
+    "skyles": {
+      "new_height_px": 70,
+      "reference_height_px": 337,
+      "new_scale": 0.20771513353115728,
+      "frame_count": 96,
+      "frames_sha256": "52b920d7bda0b51e899a81849d59ca021df242f8b01471cf3e3f78400f6e6d93",
+      "atlas_sha256": {
+        "atlas_000.png": "c5c921b20bcf04e7895b2613958232c88f5504fd8cf393c78df3e51ff3b43989",
+        "atlas_001.png": "7e985592390af9d3a20ba439f902210e6bf6b52b2429af02205d3effeadfcd9c",
+        "atlas_002.png": "7f2b95132f883ffeaaf61ba3af28ff18b7105ab301985fd234422904abd3f105",
+        "atlas_003.png": "c9dfaeda08a603338638becf037f92530132bf72c362ecb9a1f725c5445e8578",
+        "atlas_004.png": "04ceb998744560688985d9f7a81ac53c0fb62c6f524f2acbe128b1bb8fa4bb9d",
+        "atlas_005.png": "eb8378a1a2860b481823b114f39b1077eeee4cd1d6d789ec97954c3b5073dae4",
+        "atlas_006.png": "c9dfaeda08a603338638becf037f92530132bf72c362ecb9a1f725c5445e8578",
+        "atlas_007.png": "04ceb998744560688985d9f7a81ac53c0fb62c6f524f2acbe128b1bb8fa4bb9d",
+        "atlas_008.png": "eb8378a1a2860b481823b114f39b1077eeee4cd1d6d789ec97954c3b5073dae4",
+        "atlas_009.png": "d6be5731a2b6fe20c41658d95ab1ab60481714f473bb052c38703d3e111fd7fe",
+        "atlas_010.png": "8e8c6fcf417ac4ed953db6302fd5d73bee329cc0e13d948baedee2ecf13be4ca",
+        "atlas_011.png": "5458d66a12ba607e1bf3df453c9e11057fe6bacdfe71cf3ea9b2d8fc867591a0",
+        "atlas_012.png": "96e241677782cd2e3247348bca9a59a48d0e1d0976be3b93a6564417c77a87cd",
+        "atlas_013.png": "af4ecda088217c42e38d72ad81019ceb46cc05344e03b301ad9a20922f404d90",
+        "atlas_014.png": "bedd39e530be69fc659b3180c7349358ac1d9d95c4d90a26509a3996855bef91",
+        "atlas_015.png": "a1f7e43176c02f4a1b3397c700d6a52b0ac335d4f5a4b5e812d864bcd2d8d440",
+        "atlas_016.png": "a218d21ddb4152ae85beaaf75836d13757644668230a37702f073ade9ce21274",
+        "atlas_017.png": "55426b7faf84f0ffb7e770207b89a92ab6fc51d7c74889e349da394295a8358b",
+        "atlas_018.png": "b248aa6b707355ba2109b2ca5c1463e387ad62b012ba654bfa50895ee9736045",
+        "atlas_019.png": "a0ae7526282b1f5836a355372f278938fdd9d6dc3ada740d39fe5630ef23edb5",
+        "atlas_020.png": "1efc4777d2faa5adcc1a8d9dcef3e5d44067602076805e59c2bd2a6d9bafb11f",
+        "atlas_021.png": "97ce3c5e7efb4648295f403f443497be83b1e0f384fca38febfcb3c47c0cb965",
+        "atlas_022.png": "3fe1252e6db383bd0392324c2df281c5ae768d80e3813cd24244126026f42fe6",
+        "atlas_023.png": "6e7bf5127b6de7930e55bb33633d0153bff05132dd8a2c7205e704bb0d300b91"
+      }
+    },
+    "skypit": {
+      "new_height_px": 90,
+      "reference_height_px": 234,
+      "new_scale": 0.38461538461538464,
+      "frame_count": 65,
+      "frames_sha256": "0ca766f1ccb66e2670818781c6de1d7b5b368cc9b774c6c89437d6a6f77c3134",
+      "atlas_sha256": {
+        "atlas_000.png": "f074d4353824d05a5bcfa5cf006a13166d5a1d7684b1dc57a31c9081021e7160",
+        "atlas_001.png": "0914f7f91700dd8d6d638bef21c7bab4c18af3e607355ced18c609c0c0b29756",
+        "atlas_002.png": "c048de571da7d3ddca14291cab231dc86d62bfca3bfd6a6a53b1a6824311c85a"
+      }
+    },
+    "snax": {
+      "new_height_px": 65,
+      "reference_height_px": 152,
+      "new_scale": 0.4276315789473684,
+      "frame_count": 120,
+      "frames_sha256": "b060d2babcde4b535357f76966a4e5985f9a76ad6fab4062f726daa8cf8faedb",
+      "atlas_sha256": {
+        "atlas_000.png": "956cbd68468051689408fa32b0e7a10e00e83e34482329d1d9dc072d4e1199dd",
+        "atlas_001.png": "b0fe381cc91c1da4962e8c4d3b0bd908c72fcb1cd641059672774054187b1736",
+        "atlas_002.png": "0d2ad4d15db75bac520e3b6b56a0a6be5d591047cc62f742d05b5be880fb36f2",
+        "atlas_003.png": "388e5e2e8f2e236e65827b7a481120789ba01da2d37c6dd80b202d8dbabaf2b1",
+        "atlas_004.png": "214635b1ce4a3c9c9b71f65782294836a60a2f16cd589ed4c32eae391a4a4f1d"
+      }
+    },
+    "tailer": {
+      "new_height_px": 90,
+      "reference_height_px": 366,
+      "new_scale": 0.2459016393442623,
+      "frame_count": 45,
+      "frames_sha256": "8f847f4ffc8f26ff8450fd3707b2c80fb61824dfc50c27d105eb7e4ce7190c70",
+      "atlas_sha256": {
+        "atlas_000.png": "2b5e24040362c32823d7b793febdac379d6d2e3ba20e87fed6f1e02609037244",
+        "atlas_001.png": "d2227b6897f74434beffe074e7f45e834f275e35cd67bbd5bd392f32edb98872",
+        "atlas_002.png": "b1943ce5c74efec6a745c268a472d8a11a7f72db511ab3b7116c2327d831dc53",
+        "atlas_003.png": "6f734b6c0cf655942baeb49fcf4a813cc9cf77ceb41c9deedf2fb22499c740cc",
+        "atlas_004.png": "180290b28a36229fbd5a52732ea7d201f72f4f7cf8d40d069caba8616252f605",
+        "atlas_005.png": "80d71b3eb025af52c2357222bc9db9c312e931c9a80ce071c2ca8a20b155fb2b",
+        "atlas_006.png": "0beadbbe0849b628e1e95b16778e75d49b1a0fee9b1808253a57999a3b4ac72f",
+        "atlas_007.png": "2ccca43c1e8522f5ff52c90a9b0cb3c73c4c61ec57a614c7627449a1484e083b",
+        "atlas_008.png": "af77feacbd210d633cd2d779c9d091744c1a2dfc4f99ea73e8f7a8ce851a4aed",
+        "atlas_009.png": "2fbce4c534119b16ed424dd6faf851de82452bc90605b56e25d71c2cf2d7b8e9",
+        "atlas_010.png": "96e7d75f0acf958845c6272292556dc54af062619be53527b87d350f9de99757",
+        "atlas_011.png": "425ae498e5d4fdc9ad06ac64b95b015b2f074bd80cd7037cdf2d7dd069a5599d"
+      }
+    },
+    "vision": {
+      "new_height_px": 85,
+      "reference_height_px": 154,
+      "new_scale": 0.551948051948052,
+      "frame_count": 56,
+      "frames_sha256": "38473d662b8514b5f59f988d2631e32ee93bd6fd0ff7b21aff55121f5eae3c75",
+      "atlas_sha256": {
+        "atlas_000.png": "69764b95971935d704af209fe03a2d8f6fabe5566bd3b3162be0ff89895a5032",
+        "atlas_001.png": "766bbe5e5ea4cd51a86a581128fd37ebc69838bb012880e4e37a2f1263f8eec8"
+      }
+    },
+    "wuchen": {
+      "new_height_px": 85,
+      "reference_height_px": 244,
+      "new_scale": 0.3483606557377049,
+      "frame_count": 47,
+      "frames_sha256": "1041ae7b5325ace2503757ee5ad67536fa4a5a2a4c825a91f5994d7f0195ef1f",
+      "atlas_sha256": {
+        "atlas_000.png": "a22ae2188ce00cc79cfb4b4d1c7095a6b405cbc13c46b842da2b753b7602a645",
+        "atlas_001.png": "181440239f5e6c15d56018250cf7b725d2f177bcf8494b7f2cc9629e70a22791",
+        "atlas_002.png": "b73c3d8169413fd99e7030d258d3b71eb7910beb6780db89f0fe7a858ceef61a"
+      }
+    }
+  },
+  "note": "Earlier targets for IDs changed in round 3 were removed; original frame/atlas hash evidence remains.",
+  "unchanged_targets": {
+    "agon": 90,
+    "airpot": 80,
+    "amore": 80,
+    "animent": 85,
+    "aoda": 80,
+    "aonime": 70,
+    "aonoma": 80,
+    "assing": 75,
+    "astra": 75,
+    "aumen": 85,
+    "aument": 85,
+    "auranient": 80,
+    "auroma": 70,
+    "aurora": 85,
+    "authen": 80,
+    "azil": 70,
+    "azou": 55,
+    "azza": 75,
+    "bearen": 90,
+    "bearfire": 90,
+    "biden": 80,
+    "black": 65,
+    "blackdog": 65,
+    "blacktiger": 65,
+    "bomer": 60,
+    "botem": 100,
+    "botic": 100,
+    "buffoin": 90,
+    "butayaro": 90,
+    "camword": 80,
+    "changlie": 85,
+    "comca": 90,
+    "conden": 65,
+    "crapit": 100,
+    "diana": 70,
+    "dong": 85,
+    "dragonmout": 95,
+    "ethan": 70,
+    "fireknight": 90,
+    "flybird": 80,
+    "ghostian": 85,
+    "ghostic": 85,
+    "gin": 80,
+    "haden": 85,
+    "hanko": 75,
+    "hox": 80,
+    "hydra": 90,
+    "javis": 80,
+    "knel": 80,
+    "knight": 85,
+    "kukang": 80,
+    "kungtailee": 80,
+    "machinen": 80,
+    "magicer": 80,
+    "magicleo": 85,
+    "magma": 80,
+    "mainmout": 65,
+    "mainthen": 80,
+    "mark": 60,
+    "moca": 80,
+    "modfin": 60,
+    "monster": 90,
+    "monstermap": 85,
+    "monterlaze": 80,
+    "monterpie": 90,
+    "mortafi": 90,
+    "moxfi": 90,
+    "moxie": 80,
+    "ninjadead": 70,
+    "overight": 90,
+    "overmap": 80,
+    "oxiu": 80,
+    "panfire": 75,
+    "pigpor": 85,
+    "poppy": 50,
+    "powerdame": 90,
+    "pygon": 70,
+    "ractalo": 80,
+    "raptilian": 90,
+    "raptor": 90,
+    "rep": 65,
+    "reptail": 95,
+    "reptalian": 80,
+    "samurai": 75,
+    "scopion": 65,
+    "scorpit": 80,
+    "shellhost": 90,
+    "shellop": 85,
+    "smaxin": 85,
+    "snowpie": 60,
+    "swithin": 85,
+    "swordame": 80,
+    "tigerknight": 100,
+    "Trex": 90,
+    "trongit": 80,
+    "vanfox": 70,
+    "vargost": 75,
+    "vemou": 85,
+    "vivian": 80,
+    "warrioram": 85,
+    "waven": 85,
+    "wavinges": 75,
+    "wordknight": 80,
+    "wukongchen": 80,
+    "wutan": 80,
+    "xinchan": 80,
+    "yoyo": 80,
+    "ziggist": 60,
+    "solist": 60,
+    "namero": 60,
+    "kukaomni": 60
+  },
+  "superseded_by_round3": [
+    "Kahn",
+    "choptian",
+    "comic",
+    "congpha",
+    "corepion",
+    "costmic",
+    "dracian",
+    "dragonight",
+    "dragonot",
+    "firemen",
+    "hades",
+    "iternal",
+    "jaik",
+    "kengkeng",
+    "kumen",
+    "kungchang",
+    "midnight",
+    "momo",
+    "nox",
+    "omra"
+  ]
+}

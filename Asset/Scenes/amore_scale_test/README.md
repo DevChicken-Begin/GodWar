@@ -1,0 +1,9 @@
+# Scene thử tỷ lệ Amore
+
+- Nguồn map: `image copy.png`, SHA-256 `f5a10aa8eaed54d09ab7c9e15426a63e950632b7ae06ba86551e734e18d8d037`; `map.png` là bản sao nguyên vẹn, `art_source=existing`.
+- Nguồn nhân vật: `Asset/Character/vfx/amore.gif`, SHA-256 `68eafd0ef7bc7aa5d67bbc7bed841337a839132a1fe09a5a694c893d4e580604`; atlas đang dùng `fine_candidates/amore/atlas_000.png`, SHA-256 `2aa979c8a8ce168e661306afaf8519d168f43737597731ec12d455cf3f724d81`. Bản tách nền chưa duyệt.
+- Viewport ngang 1920×1080. Map gốc 512×352 được phóng đều; ở mức 100% vừa chiều rộng và cắt phần thừa trên/dưới. Mức thử mặc định 70% hiển thị toàn bộ ảnh giữa khung, các vùng trống dùng màu xanh; đây là phần map chưa được xây dựng. Các tọa độ mặt bệ là x 195–245, y 194 theo ảnh gốc, được quy đổi theo cùng phép biến đổi.
+- Frame đầu có vùng hiển thị khoảng 84×94 pixel trong canvas nguồn 240×240. Ở zoom mặc định 70%, vùng này cao khoảng 80 pixel trong viewport; zoom cảnh thay đổi tỷ lệ nhân vật cùng map. Atlas nguồn không được thay đổi hay giảm độ phân giải. Neo thử tại (126,208) của canvas gốc; chân trên mặt bệ. Đây là mốc đo thử, không phải điểm neo đã duyệt cho mọi hoạt ảnh.
+- Phát toàn bộ 46 frame, 70 ms/frame. Trái/phải chỉ dịch vị trí trong giới hạn bệ; không phải animation đi hay hệ thống vật lý/collision thật. Các động tác và skill chưa được phân loại. Không tạo asset mới bằng AI.
+- Web: `npm run dev`, mở `/amore-scene.html`, chọn zoom 50–100% và bật/tắt sáu bản sao Amore để so mật độ. Godot: mở `scene.tscn` từ project và chạy scene; phím mũi tên điều khiển, zoom thử cố định 70% với sáu bản sao. Scene thử đặt viewport 1920×1080 khi chạy và độc lập với main scene của project. Chưa thay đổi hướng màn hình mặc định của project hoặc kiểm tra APK.
+- Đã xem ảnh ghép frame đầu; Godot 4.3 headless nạp scene và kiểm tra 46 frame, tỷ lệ 240 pixel và neo trên bệ. Chưa đo FPS, chưa chạy APK hay kiểm thử trực tiếp trên điện thoại; chưa xác nhận tương tác hoặc collision cho map thật.

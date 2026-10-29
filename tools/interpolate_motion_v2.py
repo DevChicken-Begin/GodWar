@@ -10,7 +10,7 @@ from PIL import Image
 
 ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / 'Asset/Character'
-BASES = {'blacktiger': 'special_candidates', 'firer': 'batch_candidates'}
+BASES = {'blacktiger': 'special_candidates'}
 
 
 def midpoint(a, b):

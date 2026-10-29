@@ -1,0 +1,1728 @@
+{
+  "id": "warrioram",
+  "source": "Asset/Character/vfx/warrioram.gif",
+  "source_sha256": "f8447dfdeea1bf1ae17ad3dbe1446790abbc55ee071edc39b484f9e71191be97",
+  "base_candidate": "native_candidates",
+  "base_metadata_sha256": "e5a6c7caa2430b69eeb67aa05242e32b4b2ff02367c26766a8e5150c9001144b",
+  "base_input_sha256": {
+    "Asset/Character/native_candidates/warrioram/atlas_000.png": "9c2c4da9b4607ce22cac93ca6af3771f69db46f9c8b08da22154e656293ebfac",
+    "Asset/Character/native_candidates/warrioram/atlas_001.png": "8e5093a83f91e7fc6b870d036b802ef7e2ec55e17e46916b6105edf48075af8f",
+    "Asset/Character/native_candidates/warrioram/atlas_002.png": "510649cb67621e64afb5289704e8a47de81b13110b5b9c1cbae37dd5642d9a94",
+    "Asset/Character/native_candidates/warrioram/atlas_003.png": "ca7fc85adb47816988a20305f5449331e4c5ec57e5b358d7c9b4f442a12feaaf",
+    "Asset/Character/native_candidates/warrioram/atlas_004.png": "21a50eec2793b80339bb60e4ee840cf50be7e32a83afe7f6b491690c5362efd7",
+    "Asset/Character/native_candidates/warrioram/atlas_005.png": "484f57df8ff81417413f34d0937b0d502453ca54c9a6a5e98cdb689692bb448c",
+    "Asset/Character/native_candidates/warrioram/atlas_006.png": "2f9735a119cad8188e6c161bef5447e4ffdc60c448759cf6e788ce7c319543ad",
+    "Asset/Character/native_candidates/warrioram/atlas_007.png": "d47a4b350812ebf4ccefa723918ac57c3e34f7a64d49b765b1b871cd67f7215c",
+    "Asset/Character/native_candidates/warrioram/atlas_008.png": "640b39a044d405645d002128ab00bbd2c1ae94d7d63eae08053cff9f8a76c41d",
+    "Asset/Character/native_candidates/warrioram/atlas_009.png": "535a9d664674aab9d43ce6eed803c4fa18009a2702939bbce9ba10b3fb3880ee",
+    "Asset/Character/native_candidates/warrioram/atlas_010.png": "71dd5d1d589a939bd55987db33b925b6e477c024ceb3723ea795775e70e47c12",
+    "Asset/Character/native_candidates/warrioram/atlas_011.png": "acd3a2ed3551a9b56de92d616b2ca717959ee9515efa5207ea47d55265d65952",
+    "Asset/Character/native_candidates/warrioram/atlas_012.png": "2eb874f878e9b10a23711037b1abc559b0db0bf59a73761f2fe4c2bc176afcf8",
+    "Asset/Character/native_candidates/warrioram/atlas_013.png": "1bb6fde2f2bb7e46caf6a118e1ddfade12a3fb9d2d2213f03c72318426341091"
+  },
+  "art_source": "existing",
+  "scale_factor": 1.3,
+  "display_scale": 1.0,
+  "base_display_size": [
+    520,
+    520
+  ],
+  "display_size": [
+    520,
+    520
+  ],
+  "base_frame_size": [
+    520,
+    520
+  ],
+  "frame_size": [
+    676,
+    676
+  ],
+  "frame_count": 120,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 70,
+      "detail_size": [
+        676,
+        676
+      ]
+    }
+  ],
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied-alpha Lanczos upscale by 30% per axis, then mild RGB unsharp mask (radius 1, 18%, threshold 3); preserve source frame timing. Display size changes only by explicit display_scale.",
+  "limitations": "Interpolation cannot restore missing source detail; sharpening may introduce halos or change effects. Inspect every frame at game size and over light/dark backgrounds."
+}

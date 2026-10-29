@@ -1,0 +1,827 @@
+{
+  "id": "hanko",
+  "source": "Asset/Character/vfx/hanko.gif",
+  "source_sha256": "5315071b98d265131fed8831a7a7b1cb17694f20be1a72ae03a79f3e72c9c132",
+  "input_candidate": "detail_oct29_candidates",
+  "input_sha256": {
+    "Asset/Character/detail_oct29_candidates/hanko/frame_000.png": "77678730f3f333b1031dd58c242de34a35efdc833e7e9c6853db081b9d0d6694",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_001.png": "312453929828ca19b0c4801f83c82ed53e10def8fe0aa3fcdafb3998ee5ae62e",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_002.png": "219ea4bd436437ce25e1f95537a83d4540c2743a4ac3dfc80ac7c2339f9f1e64",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_003.png": "acca2bf33b9ee16b9b965f2bd4af1a28f7fc034162efa95728a8139e65115198",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_004.png": "dce75cca4bb3b924dd4d8d39ea5b24b5b1040ffcc68c96fb0fe022ada8263444",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_005.png": "ed2a9bfe42bb2aeb9a2ebf055f36bd09f8d07bc911cae790ab6113c625757d96",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_006.png": "6ad044eb264159671b4637c8b78806381d828ec233a4c79dfeb86b495761e94c",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_007.png": "865d9752402f8f259001a421c1b7a03bd83b7a3e2da13a498668979dc7c34379",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_008.png": "533ef3a26200334dc42594c7dc9ce188aca2669d2b9e8bf54bca6978705e412f",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_009.png": "4f6eda5c3ffbc0fcf5b8237b68ab46dc5a3e8f4905821bf17bfa513fc7ceb796",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_010.png": "af2032990ea31c1d2ac33e7f64854928fd6d36a9cd8cf80b7ce5a17f5e04aaf9",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_011.png": "b368984c3197278df4f4822796a5c54bbdfec3733e87c87e1f89cd28fd2375bd",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_012.png": "8b095818044e788894b70142c6020ba8c8b5593ca94e1d840e0fd7da67f13c5f",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_013.png": "9b46276269fabba332d50fe71fcd5b6442b33420d1226a46c589190d9d4e4bbc",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_014.png": "cf2306ee9661ac5e2b484e612e6a59d1fea72e749e1806144f7b2c2022a2ca41",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_015.png": "9e24a24892c6c55dd5e2b9777db24de1549a71447173469268004c689d82c4b2",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_016.png": "0f33bdf8cc695cfd42e7013087768f956b8b459414e88d28f9a9ae1a1abb86c5",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_017.png": "9615b1a6b976323d0394210abd5d9147eb9bc76ccca26b7c4b976b12d1ed1ea2",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_018.png": "6809a6d174da5cb0d38646a96fffd6ca8367bfded46b7dde854cdf14ed3103f7",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_019.png": "9bad3e292008b07a910478b27f3a648f5dd646cb283dd13d3e092a30a11c6d58",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_020.png": "c5f7df253348d3f594c4ce082a29b4ba1bdbeed35c2d2944e145462a4a03cbff",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_021.png": "d0e5d5a9f94ea5acfbd4a48db300eb94a67f4bdef9a40b064cb26151ab2f8d4a",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_022.png": "860211c18eb42f14fbfb62d8dd50b80847f501fd072b85447cb87b825cbc1c44",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_023.png": "c63fb0e9061585177a1e0715fd2234eb89985e0df8ae300d520d6be968236d2b",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_024.png": "e77ccf57dd52a9419503edea49b195ca872f53b87a1b229efaa28d2b38fd5c68",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_025.png": "95af630c6199c6ce9752413a09110c084a15061096ba15bb7fe8079802493135",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_026.png": "a82d6a2d60cd489aa2adb3568cd01147bb44e85d464eceb1e295595889cde03a",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_027.png": "5f27061992dc5ffb195c95cbce87e9c62617562b1b5f48f3bd91258641797f81",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_028.png": "968119ff24bf570c2318ec30d18ea1cbeb0b3797fe3c8af1d1ed9a138a772e53",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_029.png": "373ddcf9eba985a577e0fc39691592d219c3da7c57bd36db8876bff47bdf44e5",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_030.png": "63a9a20077a30d4e1fe5c730c99196953994a988f22c3495ce6435a9a3fbbbcb",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_031.png": "ce670abaa90385a340cdb15aa5d2cb57d33946e2b1a0050c7e32e6122e887895",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_032.png": "74b24b8806e6c90ea0f953d75aa7fae87f675a75a5a0fd716a2433b04e1ebed9",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_033.png": "c5df91cca3f135aa075be5ad34685329cf69d152d90688fb5f1869d4ac4c11fc",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_034.png": "88cd145346b9a8a19f3e460b7f9132d71a51f8c1dc5d270871476d1324708d9d",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_035.png": "ca600fc1a69cf9a1543f4916537fc4d8d6536ba33ee51cf05cc78a4f16be76f0",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_036.png": "77678730f3f333b1031dd58c242de34a35efdc833e7e9c6853db081b9d0d6694",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_037.png": "312453929828ca19b0c4801f83c82ed53e10def8fe0aa3fcdafb3998ee5ae62e",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_038.png": "219ea4bd436437ce25e1f95537a83d4540c2743a4ac3dfc80ac7c2339f9f1e64",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_039.png": "acca2bf33b9ee16b9b965f2bd4af1a28f7fc034162efa95728a8139e65115198",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_040.png": "dce75cca4bb3b924dd4d8d39ea5b24b5b1040ffcc68c96fb0fe022ada8263444",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_041.png": "ed2a9bfe42bb2aeb9a2ebf055f36bd09f8d07bc911cae790ab6113c625757d96",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_042.png": "77678730f3f333b1031dd58c242de34a35efdc833e7e9c6853db081b9d0d6694",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_043.png": "312453929828ca19b0c4801f83c82ed53e10def8fe0aa3fcdafb3998ee5ae62e",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_044.png": "219ea4bd436437ce25e1f95537a83d4540c2743a4ac3dfc80ac7c2339f9f1e64",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_045.png": "acca2bf33b9ee16b9b965f2bd4af1a28f7fc034162efa95728a8139e65115198",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_046.png": "dce75cca4bb3b924dd4d8d39ea5b24b5b1040ffcc68c96fb0fe022ada8263444",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_047.png": "ed2a9bfe42bb2aeb9a2ebf055f36bd09f8d07bc911cae790ab6113c625757d96",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_048.png": "0f99f9bf9411a4c96b040e6a4529e80e3fc47029e7790733eede48b2e3ffa918",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_049.png": "e27cd54ff2518efcd5212c10a210e996e29b48c1a330e5f8e972b49cba98fa0c",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_050.png": "3d1525304e5cac9690b008b5f6421b1b39011c9959d10fc2575e2b11d67aab62",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_051.png": "25eb53d45024d35c81085e23ccfa3fe9e6f299ae77e6d79f714c006536d8ceca",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_052.png": "a99b2f3c955d9a2c3ad6b17ae65efe729e0b43f9390608594b35fec1d899dbc1",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_053.png": "43d8ff84f49dcc337416c84a6795e9e4bd5a957dbdb0a0bfc113cbbb00062278",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_054.png": "f9c0ee8b7aad5c07c9dd0eaf0b3509a4d2a518e089e0b20d3715e6e7370663f9",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_055.png": "07dfd212aff85a6c3b9bfe8212c2f86c081432a11eb050a0cdb205a8ec260edd",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_056.png": "69517d3158a0e39d613058bcca549e4f787219bbd160a48ee381c6e4e5a07409",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_057.png": "b3704f3ddbedebb045999dedd811e9a63aa90ea7ba707f70b08231d54a8c34c4",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_058.png": "dd4dce0c65665d7175e78344aab68524b34a81c17c6025a7332a1458bb1372a4",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_059.png": "847ebd8c0d819fc5a87e44fb26f4dbddf0a283206a4cc02e5ab8f87c46622f4b",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_060.png": "79f204eee4965a8d7b3f5af3436f9cb4e81d7502dc30b8612c0baaa5deabe414",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_061.png": "d38b0e5eb21ef1a6839473ed536d5684c51925e8bdf005605cdc660e12e38fcf",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_062.png": "298da06612314e738baba07baf1b5b6900d5147ce073c97b432b45312f2ddeb2",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_063.png": "7fb0953b0c2a85f4b171ef213888d3c1d5e7df6883b961e03f69dd7df1118c48",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_064.png": "f621cb952de65110351594ecb2998cc4d449a7dfa6e31345db0a9a171e23c9e0",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_065.png": "c036fda112f05a80650fdde2cca8f12925d6a2bf61842a0224a9bf9378a2fb68",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_066.png": "5c3bfe758e67e9e8ebca4410fc4c90c3cb823836410998576f5872d3af61bb72",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_067.png": "7456f17f34057a7e09e6d8271160ad59f1c1faa185397c11b04d38380e53d8e9",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_068.png": "873c14e2315f3a71b1bd87900902a191133c370c880dfcd286f282a66adcb18b",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_069.png": "9c78fdab6cf12cde34ee6fb02bd0984706854a2349150c8328f204ad278c9a87",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_070.png": "e54db40226402db40893613f7d764d49ebc7d73b5d29e8923f6ce1d0454885f9",
+    "Asset/Character/detail_oct29_candidates/hanko/frame_071.png": "bc3f21e38740a3bc945119e74cb574dc2356dc30abefa0fa525f649516061401"
+  },
+  "art_source": "existing",
+  "frame_count": 72,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 0,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 1,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 2,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 3,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 4,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 5,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 6,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 7,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 8,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 9,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 10,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 11,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 12,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 13,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 14,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 14,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 14,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 15,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 15,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 15,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 16,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 16,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 16,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 17,
+      "region": [
+        936,
+        0,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 17,
+      "region": [
+        0,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    },
+    {
+      "atlas": 17,
+      "region": [
+        936,
+        936,
+        936,
+        936
+      ],
+      "duration_ms": 70
+    }
+  ],
+  "frame_size": [
+    936,
+    936
+  ],
+  "target_height_px": 75,
+  "reference_frame": 0,
+  "reference_height_px": 365,
+  "reference_alpha_bounds": [
+    301,
+    449,
+    635,
+    814
+  ],
+  "anchor_px": [
+    468.0,
+    814
+  ],
+  "display_scale": 0.2054794520547945,
+  "measurement_kind": "automatic_alpha_bbox_unreviewed",
+  "status": "automatic_candidate_unreviewed",
+  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
+  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
+  "size_target_approval": "user_approved_unchanged_round2"
+}

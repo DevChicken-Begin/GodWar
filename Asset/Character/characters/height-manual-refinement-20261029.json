@@ -1,0 +1,39 @@
+{
+  "target_sha256_before": "602595751220f74cabfadbfd6d9d26d7c33dc12bb00c07c033f63bf2a4093773",
+  "bounds": {
+    "aminao": [
+      230,
+      255,
+      380,
+      409
+    ],
+    "changlie": [
+      230,
+      350,
+      480,
+      624
+    ],
+    "costmic": [
+      160,
+      220,
+      365,
+      405
+    ]
+  },
+  "method": "Visual estimates using source pixel grid, frame 0. Not a segmentation mask.",
+  "prior_values": {
+    "aminao": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    },
+    "changlie": {
+      "reference_height_px": 432,
+      "display_scale": 0.19675925925925927,
+      "measurement_kind": "automatic_alpha_bbox_unreviewed",
+      "reference_body_bounds": null
+    },
+    "costmic": {
+      "measurement_kind": "automatic_alpha_bbox_unreviewed"
+    }
+  },
+  "superseded_values": "Earlier target and scale values for changed IDs removed at user request."
+}

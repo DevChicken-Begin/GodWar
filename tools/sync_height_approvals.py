@@ -11,7 +11,7 @@ for path in sorted((A/'measured_atlas_pilots').glob('*/candidate.json')):
     meta = json.loads(path.read_text())
     name = path.parent.name
     source_id = {'crapit_main':'crapit','crapit_secondary':'crapit',
-                 'moxie_repaired':'moxie','conden_tuned':'conden'}.get(name,name)
+                 'moxie_repaired':'moxie'}.get(name,name)
     entry = targets[source_id]
     height = 40 if name == 'crapit_secondary' else entry['target_height_px']
     assert meta['target_height_px'] == height, (name,meta['target_height_px'],height)

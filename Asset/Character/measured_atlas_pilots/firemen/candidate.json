@@ -1199,5 +1199,28 @@
   "status": "automatic_candidate_unreviewed",
   "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
   "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
-  "size_target_approval": "user_updated_round3"
+  "size_target_approval": "user_updated_round3",
+  "flash_softening": {
+    "input": "Asset/Character/archive/firemen_before_soft_flash",
+    "input_atlas_sha256": {
+      "atlas_000.png": "0cf3837f2d8fa58075361a36e9975dd39302f5705a6c0f4a672497d844e1b390",
+      "atlas_001.png": "5a1c63b5d7fc135fc4b8a65d72290ed700d542918bf579f84eaf4a9d26b76dc5",
+      "atlas_002.png": "76326e0fc4e647ff4441af36b76aa441d065efc2c60f1740eca4ea6ec65c94ec",
+      "atlas_003.png": "dd139abe5815695144ef9968859a82ae59497d97a22c7363ff1a05189a22f678",
+      "atlas_004.png": "82bf05458358ec1af203c0bafa8218595c9d576972d7dbb370f0ee4b22d8fda4",
+      "atlas_005.png": "1e5c2c80c9a0d93b03a977f1563389baa46702cf6d744064c5996e5a3487da69",
+      "atlas_006.png": "7fb2b7dca7f417fc61254a8e158d993d99720e25671fa3d1740ed70a6df1226d",
+      "atlas_007.png": "978a01e7bd7445be66f7ca1a44fad3fd7350ad5301e49eee83d69eec64f3d2f2"
+    },
+    "frame_indices_zero_based": [
+      73,
+      74
+    ],
+    "display_frame_numbers": [
+      74,
+      75
+    ],
+    "method": "Solid source black and white preserved; elliptical smoothstep alpha from radius 0.12 to 0.96, zero before every canvas edge.",
+    "status": "visual_review_pending"
+  }
 }

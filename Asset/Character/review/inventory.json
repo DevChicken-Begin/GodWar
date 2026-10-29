@@ -1838,15 +1838,6 @@
       "characters": []
     },
     {
-      "source": "Asset/Character/vfx/hemsiss.gif",
-      "sha256": "bb9415849edb6673e9edbe98a30998c616b1794b78394623adca25fb64c9ef29",
-      "frames": 49,
-      "review_sheets": [],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
       "source": "Asset/Character/vfx/scorpit_charnew.gif",
       "sha256": "aef6d4d693c637829ef7668b23844c5fb909edd948a2a9eb98905fde191f9604",
       "frames": 40,

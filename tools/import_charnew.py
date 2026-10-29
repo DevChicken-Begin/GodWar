@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw, ImageFilter
 from extract_gif_assets import extract
 from import_oct29_gifs import background, key
 ROOT=Path(__file__).resolve().parents[1]; A=ROOT/'Asset/Character'; SOURCE=ROOT/'13 charnew'
-HEIGHTS={'buffao':80,'scosrian':85,'dump':80,'hemsiss':80,'scorpit':80,'Domrico':85,'hecfaom':85,'Impector':80,'Actem':80,'Hatomin':80,'Trainxoan':85,'urguro':80}
+HEIGHTS={'buffao':80,'scosrian':85,'dump':80,'scorpit':80,'Domrico':85,'hecfaom':85,'Impector':80,'Actem':80,'Hatomin':80,'Trainxoan':85,'urguro':80}
 def digest(p): return hashlib.sha256(p.read_bytes()).hexdigest()
 def read(p): return json.loads(p.read_text())
 def write(p,d): p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')

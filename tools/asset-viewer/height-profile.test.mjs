@@ -12,6 +12,6 @@ test('current target overrides stale atlas metadata and aliases use the right pa
   assert.equal(body.target_height_px, 70);
   assert.equal(body.display_scale, 0.5);
   assert.equal(resolveHeightProfile({ id: 'crapit_secondary', source_sha256: 'b', reference_height_px: 80 }, targets).display_scale, 0.5);
-  assert.equal(resolveHeightProfile({ id: 'conden_tuned', source_sha256: 'c', reference_height_px: 130 }, targets).display_scale, 0.5);
+  assert.equal(resolveHeightProfile({ id: 'conden', source_sha256: 'c', reference_height_px: 130 }, targets).display_scale, 0.5);
   assert.throws(() => resolveHeightProfile({ id: 'aminao', source_sha256: 'wrong', reference_height_px: 140 }, targets));
 });

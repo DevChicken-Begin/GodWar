@@ -10,12 +10,12 @@
   "assets": [
     {
       "id": "Actem",
-      "target_height_px": 80,
+      "target_height_px": 85,
       "source": "Asset/Character/vfx/Actem.gif",
       "source_sha256": "bb6004facff8f10b826ade536210221a178ada6836740945858cc1c135a0177b",
       "reference_frame": 0,
       "reference_body_bounds": null,
-      "scale": 0.21505376344086022,
+      "scale": 0.19041218637992832,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Actem/candidate.json",
       "size_target_approval": "user_updated_round4"
@@ -473,7 +473,7 @@
     },
     {
       "id": "changlie",
-      "target_height_px": 85,
+      "target_height_px": 80,
       "source": "Asset/Character/vfx/changlie.gif",
       "source_sha256": "621d18c29aeefb380c2d9695554e55599b6440d9683f7f41eddeadc27ffbb05e",
       "reference_frame": 0,
@@ -483,10 +483,10 @@
         480,
         624
       ],
-      "scale": 0.3102189781021898,
+      "scale": 0.291970802919708,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/changlie/candidate.json",
-      "size_target_approval": "user_approved_unchanged_round2"
+      "size_target_approval": "user_updated_20261029_changlie"
     },
     {
       "id": "choptian",
@@ -731,15 +731,15 @@
     },
     {
       "id": "ethan",
-      "target_height_px": 70,
+      "target_height_px": 85,
       "source": "Asset/Character/vfx/ethan.gif",
       "source_sha256": "2560b34e90a103e3ba3834c658e2cad2a2ce62ef0a2ee1e42c71069b22a1aab8",
       "reference_frame": 0,
       "reference_body_bounds": null,
-      "scale": 0.14,
+      "scale": 0.17,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/ethan/candidate.json",
-      "size_target_approval": "user_approved_unchanged_round2"
+      "size_target_approval": "user_updated_20261029_ethan_85"
     },
     {
       "id": "fireknight",
@@ -876,18 +876,6 @@
       "scale": 0.6159420289855072,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/hecfaom/candidate.json",
-      "size_target_approval": "user_updated_round4"
-    },
-    {
-      "id": "hemsiss",
-      "target_height_px": 80,
-      "source": "Asset/Character/vfx/hemsiss.gif",
-      "source_sha256": "bb9415849edb6673e9edbe98a30998c616b1794b78394623adca25fb64c9ef29",
-      "reference_frame": 0,
-      "reference_body_bounds": null,
-      "scale": 0.6349206349206349,
-      "status": "automatic_alpha_candidate_unreviewed",
-      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/hemsiss/candidate.json",
       "size_target_approval": "user_updated_round4"
     },
     {
@@ -1686,7 +1674,7 @@
     },
     {
       "id": "skypit",
-      "target_height_px": 90,
+      "target_height_px": 100,
       "source": "Asset/Character/vfx/skypit.gif",
       "source_sha256": "e273211ede18e3da9257b162e8863bde8e8f919d12e5092212e9dfe5037223bb",
       "reference_frame": 0,
@@ -1696,10 +1684,10 @@
         327,
         351
       ],
-      "scale": 0.38461538461538464,
+      "scale": 0.42735042735042733,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/skypit/candidate.json",
-      "size_target_approval": "user_updated_round2"
+      "size_target_approval": "user_updated_20261029_skypit_100"
     },
     {
       "id": "smaxin",
@@ -1850,15 +1838,15 @@
     },
     {
       "id": "urguro",
-      "target_height_px": 80,
+      "target_height_px": 90,
       "source": "Asset/Character/vfx/urguro.gif",
       "source_sha256": "74dd23de17fe1a31f426c14fd136694a3e16fb96845e488239a6d6d79556bc48",
       "reference_frame": 0,
       "reference_body_bounds": null,
-      "scale": 0.6666666666666666,
+      "scale": 0.75,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/urguro/candidate.json",
-      "size_target_approval": "user_updated_round4"
+      "size_target_approval": "user_updated_20261029_urguro_90"
     },
     {
       "id": "vanfox",

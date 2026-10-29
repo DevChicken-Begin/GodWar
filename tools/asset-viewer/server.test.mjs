@@ -17,6 +17,9 @@ await test('local viewer serves source data, candidates, and handles missing rou
   const data = await catalog.json(); assert.ok(data.assets.length > 0);
   const visible = await (await fetch(`${origin}/api/assets`)).json();
   const visibleIds = new Set(visible.assets.map(item => item.id));
+  assert.ok(!visibleIds.has('hemsiss'));
+  assert.ok(!data.assets.some(item => item.id === 'hemsiss'));
+  assert.ok(!(await (await fetch(`${origin}/api/measured-atlases`)).json()).includes('hemsiss'));
   for (const id of ['athen', 'scot', 'slowdame', 'kong', 'trike', 'wavyin', '3 char', 'skylian', 'wothem', 'snicore', 'lois', 'maono', 'knigblack', 'monsterdead', 'newwomen', 'firer', 'kapicon']) {
     assert.ok(!visibleIds.has(id));
     assert.equal(data.assets.some(item => item.id === id), id === '3 char');

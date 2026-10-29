@@ -782,5 +782,129 @@
   ],
   "detail_scale": 1,
   "method": "Per-frame modal border color, RGB distance <= 5 removed; preserve timeline and full frame. Hatomin: premultiplied Lanczos 120% and mild unsharp mask.",
-  "limitations": "Unreviewed matte can remove similarly colored detail or retain fringe, lettering and scene; frame-0 alpha bounds can contain effects, not a verified body or anchor. Interpolation cannot recover source detail."
+  "limitations": "Unreviewed matte can remove similarly colored detail or retain fringe, lettering and scene; frame-0 alpha bounds can contain effects, not a verified body or anchor. Interpolation cannot recover source detail.",
+  "cleanup_oct29": {
+    "input": "Asset/Character/archive/cleanup_buffao_moxie_oct29/buffao",
+    "input_atlas_sha256": {
+      "atlas_000.png": "d1be2100d6f7f95de65cd81e625b078748b87fed982f437c5795350729795e2b"
+    },
+    "sample": "image copy 4.png",
+    "sample_sha256": "7cd671fb136aa48b7c0131f042c103d8592a35afb984c4d34bf4ab5ea8e53b53",
+    "sample_rgb": [
+      [
+        10,
+        46,
+        70
+      ],
+      [
+        13,
+        45,
+        72
+      ],
+      [
+        5,
+        45,
+        76
+      ],
+      [
+        9,
+        43,
+        74
+      ],
+      [
+        14,
+        41,
+        77
+      ],
+      [
+        14,
+        44,
+        66
+      ],
+      [
+        1,
+        50,
+        86
+      ],
+      [
+        9,
+        47,
+        55
+      ]
+    ],
+    "tolerance_per_channel": 6,
+    "method": "Remove sample-like RGB components touching transparency, preserving other pixels.",
+    "removed_per_frame": [
+      1063,
+      661,
+      776,
+      769,
+      893,
+      613,
+      676,
+      627,
+      665,
+      673,
+      821,
+      666,
+      754,
+      736,
+      714,
+      598,
+      701,
+      683,
+      697,
+      781,
+      705,
+      853,
+      791,
+      954,
+      834,
+      1141,
+      891,
+      1112,
+      923,
+      762,
+      771,
+      1651,
+      1635,
+      3070,
+      3649,
+      3965,
+      3106,
+      2311,
+      1711,
+      1549,
+      1253,
+      799,
+      827,
+      768,
+      645,
+      733,
+      673,
+      766,
+      606,
+      704,
+      688,
+      623,
+      676,
+      683,
+      669,
+      868,
+      633,
+      1395,
+      1322,
+      1216,
+      1275,
+      1146,
+      1092,
+      751,
+      457,
+      348,
+      316,
+      4
+    ],
+    "status": "visual_review_pending",
+    "limitations": "Background and blue outlines or VFX can share colors; removal may damage details, and other colors can remain. Check all frames."
+  }
 }

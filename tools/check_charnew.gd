@@ -1,7 +1,7 @@
 extends SceneTree
 const Library = preload("res://scripts/animation/gif_atlas_library.gd")
 func _initialize():
- var expected = {"buffao":[68,80],"scosrian":[56,85],"dump":[110,80],"hemsiss":[49,80],"scorpit":[40,80],"Domrico":[100,85],"hecfaom":[68,85],"Impector":[62,80],"Actem":[66,80],"Hatomin":[51,80],"Trainxoan":[53,85],"urguro":[47,80]}
+ var expected = {"buffao":[68,80],"scosrian":[56,85],"dump":[110,80],"scorpit":[40,80],"Domrico":[100,85],"hecfaom":[68,85],"Impector":[62,80],"Actem":[66,85],"Hatomin":[51,80],"Trainxoan":[53,85],"urguro":[47,80]}
  for id in expected:
   var item = Library.create_measured_pilot(id)
   if item.is_empty():

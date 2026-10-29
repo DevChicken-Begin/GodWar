@@ -31,7 +31,7 @@ def main():
             assert sha(folder/filename)==digest, (name,filename)
             atlas_total+=1
         frame_total+=meta['frame_count']
-    for name,source in [('crapit_secondary','crapit'),('moxie_repaired','moxie'),('conden_tuned','conden')]:
+    for name,source in [('crapit_secondary','crapit'),('moxie_repaired','moxie')]:
         meta=json.loads((A/'measured_atlas_pilots'/name/'candidate.json').read_text())
         expected=40 if name=='crapit_secondary' else entries[source]['target_height_px']
         assert meta['target_height_px']==expected

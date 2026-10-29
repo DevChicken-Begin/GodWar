@@ -7,6 +7,23 @@ const CATALOG_PATH := "res://Asset/Character/extracted/catalog.json"
 const SPLIT_CATALOG_PATH := "res://Asset/Character/extracted/split-catalog.json"
 const COMPOSITE_CATALOG_PATH := "res://Asset/Character/extracted/composite-catalog.json"
 const ATLAS_ROOT := "res://Asset/Character/extracted"
+const APPROVED_ANIMATIONS_PATH := "res://Asset/Character/characters/approved-animations-20261029.json"
+
+## Load the user-approved default, rather than guessing among older variants.
+static func create_approved_animation(asset_id: String) -> Dictionary:
+    var file := FileAccess.open(APPROVED_ANIMATIONS_PATH, FileAccess.READ)
+    if file == null:
+        push_error("Missing approved animations manifest")
+        return {}
+    var manifest: Variant = JSON.parse_string(file.get_as_text())
+    if not manifest is Dictionary or not manifest.has("assets"):
+        push_error("Invalid approved animations manifest")
+        return {}
+    for entry in manifest.assets:
+        if entry.id == asset_id:
+            return create_measured_pilot(entry.default_profile)
+    push_error("No approved animation for: " + asset_id)
+    return {}
 
 ## Loads a measured atlas pilot with its shared anchor and display scale.
 static func create_measured_pilot(asset_id: String) -> Dictionary:
@@ -35,8 +52,6 @@ static func create_measured_pilot(asset_id: String) -> Dictionary:
         source_id = "crapit"
     elif asset_id == "moxie_repaired":
         source_id = "moxie"
-    elif asset_id == "conden_tuned":
-        source_id = "conden"
     var target: Dictionary = {}
     for candidate in target_catalog.assets:
         if candidate.id == source_id:

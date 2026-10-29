@@ -1331,14 +1331,6 @@
       ]
     },
     {
-      "id": "hemsiss",
-      "status": "visual_review_pending",
-      "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",
-      "variants": [
-        "measured_atlas_pilots"
-      ]
-    },
-    {
       "id": "scorpit",
       "status": "visual_review_pending",
       "issue": "Bản mới tách nền cần kiểm tra từng frame; mốc thân và neo chưa duyệt.",

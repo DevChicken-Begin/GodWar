@@ -2,6 +2,26 @@
   "id": "Actem",
   "source": "Asset/Character/vfx/Actem.gif",
   "source_sha256": "bb6004facff8f10b826ade536210221a178ada6836740945858cc1c135a0177b",
+  "input_candidate": "Asset/Character/archive/revision_oct29/Actem",
+  "input_atlas_sha256": {
+    "Asset/Character/archive/revision_oct29/Actem/atlas_000.png": "9dc39857ed1ee13d8c9590443c3d790371f0150e2efc2ee46b8c2352e37db741",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_001.png": "d1e4325f9154f7dc77f0763d7528643c4a654fa24cc9bd6b28c7c676fabf7eee",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_002.png": "fb9fd4ade431d7fdbc10e0895e079ec510b50461473d6b947c3cb4921ee5dd7f",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_003.png": "63717576756cfc8e89366feb738bf067bcb5d6c3ed9829eb0dad8839ec282ca0",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_004.png": "361ca2d6a327b463dede3eaa16ddf5a5e386de735714ad282e25690293db77c6",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_005.png": "3711311c255d9d771d66810041b16bb8f724f570af766969a78f5a2bd00c0bb1",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_006.png": "9dc39857ed1ee13d8c9590443c3d790371f0150e2efc2ee46b8c2352e37db741",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_007.png": "d1e4325f9154f7dc77f0763d7528643c4a654fa24cc9bd6b28c7c676fabf7eee",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_008.png": "fb9fd4ade431d7fdbc10e0895e079ec510b50461473d6b947c3cb4921ee5dd7f",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_009.png": "63717576756cfc8e89366feb738bf067bcb5d6c3ed9829eb0dad8839ec282ca0",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_010.png": "361ca2d6a327b463dede3eaa16ddf5a5e386de735714ad282e25690293db77c6",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_011.png": "3711311c255d9d771d66810041b16bb8f724f570af766969a78f5a2bd00c0bb1",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_012.png": "6a56b5b54b9d9cf44d04206bf14ad5b904a1c11d3234151403fb8d565de4ccae",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_013.png": "fa75d60a13a772e5ff42a60ba93c875ed3c890bbe8b2ef4d074e2fd035859f42",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_014.png": "d9a5de8716f6834024e43c7a45bd0ab9b59bf998a117c902d64c7b1faf0c3e11",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_015.png": "ea8dc6866d928da4ae64ff555f576cb842c1e3a577c4c9138740e360f1632f94",
+    "Asset/Character/archive/revision_oct29/Actem/atlas_016.png": "8ed85a8e0a8da0c4216dac7513350b3678e0d87b2984f7dde3ec2a309d954da0"
+  },
   "art_source": "existing",
   "frame_count": 66,
   "frames": [
@@ -10,18 +30,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 0,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -29,19 +49,19 @@
       "atlas": 0,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 0,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -50,18 +70,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 1,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -69,19 +89,19 @@
       "atlas": 1,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 1,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -90,18 +110,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 2,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -109,19 +129,19 @@
       "atlas": 2,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 2,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -130,18 +150,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 3,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -149,19 +169,19 @@
       "atlas": 3,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 3,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -170,18 +190,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 4,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -189,19 +209,19 @@
       "atlas": 4,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 4,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -210,18 +230,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 5,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -229,19 +249,19 @@
       "atlas": 5,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 5,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -250,18 +270,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 6,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -269,19 +289,19 @@
       "atlas": 6,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 6,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -290,18 +310,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 7,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -309,19 +329,19 @@
       "atlas": 7,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 7,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -330,18 +350,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 8,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -349,19 +369,19 @@
       "atlas": 8,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 8,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -370,18 +390,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 9,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -389,19 +409,19 @@
       "atlas": 9,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 9,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -410,18 +430,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 10,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -429,19 +449,19 @@
       "atlas": 10,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 10,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -450,18 +470,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 11,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -469,19 +489,19 @@
       "atlas": 11,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 11,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -490,18 +510,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 12,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -509,19 +529,19 @@
       "atlas": 12,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 12,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -530,18 +550,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 13,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -549,19 +569,19 @@
       "atlas": 13,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 13,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -570,18 +590,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 14,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -589,19 +609,19 @@
       "atlas": 14,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 14,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -610,18 +630,18 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 15,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -629,19 +649,19 @@
       "atlas": 15,
       "region": [
         0,
-        720,
-        720,
-        720
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 15,
       "region": [
-        720,
-        720,
-        720,
-        720
+        864,
+        864,
+        864,
+        864
       ],
       "duration_ms": 70
     },
@@ -650,115 +670,35 @@
       "region": [
         0,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     },
     {
       "atlas": 16,
       "region": [
-        720,
+        864,
         0,
-        720,
-        720
+        864,
+        864
       ],
       "duration_ms": 70
     }
   ],
   "frame_size": [
-    720,
-    720
+    864,
+    864
   ],
-  "target_height_px": 80,
+  "target_height_px": 85,
   "reference_frame": 0,
-  "reference_height_px": 372,
-  "reference_alpha_bounds": [
-    246,
-    252,
-    462,
-    624
-  ],
+  "reference_height_px": 446.4,
   "anchor_px": [
-    354.0,
-    624
+    424.8,
+    748.8
   ],
-  "display_scale": 0.21505376344086022,
-  "measurement_kind": "automatic_alpha_bbox_unreviewed",
-  "status": "automatic_candidate_unreviewed",
-  "size_target_approval": "user_updated_round4",
-  "background_rgb_frame_counts": {
-    "4,50,71": 66
-  },
-  "removed_per_frame": [
-    484164,
-    483264,
-    482436,
-    482760,
-    481392,
-    481824,
-    482688,
-    483084,
-    482436,
-    482328,
-    481932,
-    481644,
-    480528,
-    481356,
-    481320,
-    482868,
-    481608,
-    481752,
-    482364,
-    483264,
-    483948,
-    483192,
-    483732,
-    484452,
-    484164,
-    483264,
-    482436,
-    482760,
-    481392,
-    481824,
-    482688,
-    483084,
-    482436,
-    482328,
-    481932,
-    481644,
-    480528,
-    481356,
-    481320,
-    482868,
-    481608,
-    481752,
-    482364,
-    483264,
-    483948,
-    483192,
-    483732,
-    484452,
-    482256,
-    483120,
-    489024,
-    483660,
-    460044,
-    453816,
-    465552,
-    473652,
-    479736,
-    481680,
-    469116,
-    459288,
-    462420,
-    475488,
-    481356,
-    491040,
-    482436,
-    485388
-  ],
-  "detail_scale": 1,
-  "method": "Per-frame modal border color, RGB distance <= 5 removed; preserve timeline and full frame. Hatomin: premultiplied Lanczos 120% and mild unsharp mask.",
-  "limitations": "Unreviewed matte can remove similarly colored detail or retain fringe, lettering and scene; frame-0 alpha bounds can contain effects, not a verified body or anchor. Interpolation cannot recover source detail."
+  "display_scale": 0.19041218637992832,
+  "status": "candidate_unreviewed",
+  "method": "Premultiplied Lanczos 120% and mild unsharp mask, matching Hatomin; display target 85 px.",
+  "limitations": "Mốc alpha frame 0 chưa xác nhận là chiều cao thân; nội suy không tạo thêm chi tiết nguồn."
 }

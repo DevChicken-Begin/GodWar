@@ -2,10 +2,10 @@
   "id": "fireknight",
   "source": "Asset/Character/vfx/fireknight.gif",
   "source_sha256": "aa7a4fd83de465241726c826bd436f0fa146a92b59af8a6c19d733c787e2650a",
-  "input_candidate": "detailed_candidates",
-  "input_sha256": {
-    "Asset/Character/detailed_candidates/fireknight/atlas_000.png": "22aea8607aa10c7d753f5d37a986dbc5202f5f8cd24d2d42c3c3ee87e85c8b69",
-    "Asset/Character/detailed_candidates/fireknight/atlas_001.png": "dee74f5fb212795a658bfcdd030e14dd509b7ee582c1cc61b2ee826b6f27f3ee"
+  "input_candidate": "Asset/Character/fire_deep_candidates/fireknight",
+  "input_atlas_sha256": {
+    "Asset/Character/fire_deep_candidates/fireknight/atlas_000.png": "de1bbc66ca519fe8f83227dd0e65111ee38512c9e66008c689e7fe26380c294b",
+    "Asset/Character/fire_deep_candidates/fireknight/atlas_001.png": "0d4d7928c573be55b15156041c779387659f06d7e153af8597d1cd76cf8755a6"
   },
   "art_source": "existing",
   "frame_count": 91,
@@ -928,20 +928,12 @@
   "target_height_px": 90,
   "reference_frame": 0,
   "reference_height_px": 134,
-  "reference_alpha_bounds": [
-    77,
-    118,
-    242,
-    252
-  ],
   "anchor_px": [
     159.5,
     252
   ],
   "display_scale": 0.6716417910447762,
-  "measurement_kind": "automatic_alpha_bbox_unreviewed",
-  "status": "automatic_candidate_unreviewed",
-  "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
-  "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
-  "size_target_approval": "user_approved_unchanged_round2"
+  "status": "candidate_unreviewed",
+  "method": "Repacked previously reviewed fire_deep candidate into measured preview; retains its particle-removal limitations.",
+  "limitations": "Lọc màu có thể xóa hạt VFX hoặc còn sót đốm; cần duyệt toàn bộ frame và nền."
 }

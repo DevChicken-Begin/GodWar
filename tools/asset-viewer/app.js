@@ -8,6 +8,7 @@ const context = $('canvas').getContext('2d');
 const pathPart = (value) => encodeURIComponent(value);
 let measuredAtlases = new Set();
 let heightTargets = new Map();
+let approvedAnimations = new Map();
 const hasReplacedHeight = (id) => /^user_updated_round\d+$/.test(heightTargets.get(id)?.size_target_approval || '');
 function assetInfo(asset) {
   const target = asset.target_height_px ?? heightTargets.get(asset.id)?.target_height_px;
@@ -59,8 +60,8 @@ function selectAsset(asset) {
   $('segment-message').textContent = '';
   $('variant').replaceChildren(new Option('Atlas nguồn', 'extracted'));
   const atlasId = asset.atlasId || asset.id;
-  const pilotIds = asset.id === 'crapit' ? ['crapit_main', 'crapit_secondary'] : asset.id === 'moxie' ? ['moxie_repaired', 'moxie'] : asset.id === 'conden' ? ['conden_tuned', 'conden'] : [asset.id];
-  for (const id of pilotIds) if (measuredAtlases.has(id)) $('variant').add(new Option(id === 'crapit_main' ? 'Cây chính · 100 px' : id === 'crapit_secondary' ? 'Quả phụ · 40 px' : id === 'conden_tuned' ? 'Tỷ lệ đã chốt · tên bay 60 FPS' : id === 'moxie_repaired' ? 'Tỷ lệ đã chốt · vật thể phục dựng' : heightTargets.get(asset.id)?.status === 'automatic_alpha_candidate_unreviewed' ? 'Tỷ lệ đã chốt · mốc alpha' : 'Atlas chiều cao đã chốt', `measured:${id}`));
+  const pilotIds = asset.id === 'crapit' ? ['crapit_main', 'crapit_secondary'] : asset.id === 'moxie' ? ['moxie_repaired', 'moxie'] : [asset.id];
+  for (const id of pilotIds) if (measuredAtlases.has(id)) $('variant').add(new Option(id === 'crapit_main' ? 'Cây chính · 100 px' : id === 'crapit_secondary' ? 'Quả phụ · 40 px' : id === 'moxie_repaired' ? 'Tỷ lệ đã chốt · vật thể phục dựng' : heightTargets.get(asset.id)?.status === 'automatic_alpha_candidate_unreviewed' ? 'Tỷ lệ đã chốt · mốc alpha' : 'Atlas chiều cao đã chốt', `measured:${id}`));
   if (atlasId === 'dragonot') $('variant').add(new Option('Godot · atlas tham chiếu thử', 'godot_pilot'));
   if (state.candidates.has(atlasId)) $('variant').add(new Option('Tách nền viền · chưa duyệt', 'candidates'));
   if (state.refined.has(atlasId)) $('variant').add(new Option('Tách nền nâng cao · chưa duyệt', 'refined_candidates'));
@@ -156,6 +157,17 @@ function selectAsset(asset) {
   else if (state.batch.has(atlasId)) $('variant').value = 'batch_candidates';
   else if (state.refined.has(atlasId)) $('variant').value = 'refined_candidates';
   else if (state.candidates.has(atlasId)) $('variant').value = 'candidates';
+  const approved = approvedAnimations.get(asset.id);
+  if (approved) {
+    const approvedIds = new Set(approved.profiles.map((profile) => `measured:${profile.id}`));
+    const current = `measured:${approved.default_profile}`;
+    for (const option of $('variant').children) {
+      if (approvedIds.has(option.value)) option.textContent = `Đã chốt · ${option.textContent}`;
+      else option.textContent = `Tham khảo cũ · ${option.textContent}`;
+    }
+    if (measuredAtlases.has(approved.default_profile)) $('variant').value = current;
+    else { $('stage-message').hidden = false; $('stage-message').textContent = `Thiếu atlas đã chốt: ${approved.default_profile}`; return; }
+  }
   const sourceId = asset.source.split('/').pop().replace(/\.gif$/i, '');
   const audit = state.audits.get(sourceId);
   const auditLabels = {transparent_all_frames: 'Nguồn có trong suốt ở mọi frame', mixed_transparency: 'Nguồn có độ trong suốt không đồng nhất', solid_border_candidate: 'Nền viền phẳng; cần duyệt tách nền', complex_or_varying_border: 'Nền phức tạp hoặc thay đổi; cần xử lý riêng'};
@@ -239,6 +251,8 @@ async function render() {
   if (variant === 'fire_speck_candidates' || variant === 'fire_orphan_candidates' || variant === 'fire_deep_candidates') $('note').textContent = 'Bản lọc thử mới chỉ xóa một phần chấm xanh; nhiều đốm vẫn còn và có thể ảnh hưởng hiệu ứng. Hãy so với bản trước.';
   const quality = state.quality.get(asset.source.split('/').pop().replace(/\.gif$/i, ''));
   if (quality) $('note').textContent += ` ${quality.issue}`;
+  const approved = approvedAnimations.get(asset.id);
+  if (approved) $('note').textContent = (approved.profiles.some((profile) => variant === `measured:${profile.id}`) ? 'Hoạt ảnh đã chốt ngày 29/10/2026. ' : 'Bản tham khảo cũ, không phải bản đã chốt. ') + $('note').textContent;
   const highDetail = variant === 'detail_oct29_candidates' || variant === 'revision_candidates' || variant === 'scene_spot_candidates' || ['scene_mask_deep_candidates', 'scene_mask_deeper_candidates'].includes(variant) || variant === 'scene_mask_candidates' || variant === 'batch12_detail_candidates' || (['speed_oct28_candidates', 'speed_60fps_candidates', 'conden_60fps_candidates', 'tune_60fps_candidates'].includes(variant) && asset.frame_files) || variant === 'detail_oct28_candidates' || variant === 'detail_130_candidates' || variant === 'tiger_clean_130' || variant === 'tiger_clean_all_130';
   const detailFolder = variant === 'tiger_clean_all_130' ? 'clean_all_v2_130_frames' : variant === 'tiger_clean_130' ? 'clean_130_frames' : 'detail_130_frames';
   const detailUrl = (index) => variant === 'detail_oct29_candidates' ? `/Asset/Character/detail_oct29_candidates/${pathPart(asset.atlasId || asset.id)}/frame_${String(index).padStart(3, '0')}.png` : variant === 'revision_candidates' ? `/Asset/Character/revision_candidates/${pathPart(asset.atlasId || asset.id)}/frame_${String(index).padStart(3, '0')}.png` : variant === 'scene_spot_candidates' ? `/Asset/Character/scene_spot_candidates/${pathPart(asset.atlasId || asset.id)}/frame_${String(index).padStart(3, '0')}.png` : ['scene_mask_deep_candidates', 'scene_mask_deeper_candidates'].includes(variant) ? `/Asset/Character/${variant}/${pathPart(asset.atlasId || asset.id)}/frame_${String(index).padStart(3, '0')}.png` : variant === 'scene_mask_candidates' ? `/Asset/Character/scene_mask_candidates/${pathPart(asset.atlasId || asset.id)}/frame_${String(index).padStart(3, '0')}.png` : variant === 'batch12_detail_candidates' ? `/Asset/Character/batch12_detail_candidates/${pathPart(asset.atlasId || asset.id)}/frame_${String(index).padStart(3, '0')}.png` : ['speed_oct28_candidates', 'speed_60fps_candidates', 'conden_60fps_candidates', 'tune_60fps_candidates'].includes(variant) ? `/Asset/Character/${asset.frames[index].image_variant}/${pathPart(asset.atlasId || asset.id)}/frame_${String(asset.frames[index].image_index).padStart(3, '0')}.png` : variant === 'detail_oct28_candidates' ? `/Asset/Character/detail_oct28_candidates/${pathPart(asset.atlasId || asset.id)}/frame_${String(index).padStart(3, '0')}.png` : `/Asset/Character/review/${pathPart(asset.atlasId || asset.id)}/${detailFolder}/frame_${String(index).padStart(3, '0')}.png`;
@@ -448,7 +462,9 @@ async function init() {
       fetch('/api/assets'), fetch('/api/candidates'), fetch('/Asset/Character/review/inventory.json'), fetch('/Asset/Character/review/background-audit.json'), fetch('/api/refined-candidates'), fetch('/Asset/Character/extracted/split-catalog.json'), fetch('/api/cleanup-candidates'), fetch('/api/batch-candidates'), fetch('/api/special-candidates'), fetch('/api/temporal-candidates'), fetch('/Asset/Character/review/background-review-status.json'), fetch('/api/shared-scene-candidates'), fetch('/api/detailed-candidates'), fetch('/api/foot-candidates'), fetch('/api/scene-detail-candidates'), fetch('/api/remaining-scene-candidates'), fetch('/api/spot-candidates'), fetch('/api/pixel-candidates'), fetch('/api/pixel-120-candidates'), fetch('/api/native-candidates'), fetch('/api/oct28-fix-candidates'), fetch('/api/pixel-180-candidates'), fetch('/api/scorpit-repair-candidates'), fetch('/api/logo-candidates'), fetch('/api/scene-protected-candidates'), fetch('/api/pixel-220-candidates'), fetch('/api/sharp-candidates'), fetch('/api/scorpit-repair18-candidates'), fetch('/api/fine-candidates'), fetch('/api/detail-130-candidates'), fetch('/api/fire-speck-candidates'), fetch('/api/fire-orphan-candidates'), fetch('/api/fire-deep-candidates'), fetch('/api/motion-v2-candidates'), fetch('/api/repaired-candidates'), fetch('/api/repaired-v2-candidates'), fetch('/api/repaired-v5-candidates'), fetch('/api/detail-oct28-candidates'), fetch('/api/speed-oct28-candidates'), fetch('/api/speed-60fps-candidates'), fetch('/api/conden-60fps-candidates'), fetch('/api/tune-60fps-candidates'), fetch('/api/batch12-native-candidates'), fetch('/api/batch12-detail-candidates'), fetch('/Asset/Character/extracted/composite-catalog.json'), fetch('/api/scene-mask-candidates'), fetch('/api/scene-mask-deep-candidates'), fetch('/api/scene-mask-deeper-candidates'), fetch('/api/scene-spot-candidates'), fetch('/api/revision-candidates')
     ]);
     const detailOct29Response = await fetch('/api/detail-oct29-candidates');
-    const [measuredResponse, heightResponse] = await Promise.all([fetch('/api/measured-atlases'), fetch('/Asset/Character/characters/height-targets.json')]);
+    const [measuredResponse, heightResponse, approvedResponse] = await Promise.all([fetch('/api/measured-atlases'), fetch('/Asset/Character/characters/height-targets.json'), fetch('/Asset/Character/characters/approved-animations-20261029.json')]);
+    if (!approvedResponse.ok) throw new Error('Không tải được danh sách hoạt ảnh đã chốt.');
+    approvedAnimations = new Map((await approvedResponse.json()).assets.map((item) => [item.id, item]));
     if (measuredResponse.ok) measuredAtlases = new Set(await measuredResponse.json());
     if (heightResponse.ok) heightTargets = new Map((await heightResponse.json()).assets.map((item) => [item.id, item]));
     if (!catalogResponse.ok) throw new Error('Không tìm thấy catalog. Chạy công cụ tách GIF trước.');

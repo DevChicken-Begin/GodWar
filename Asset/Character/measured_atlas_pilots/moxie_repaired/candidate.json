@@ -23,7 +23,7 @@
       "region": [
         0,
         0,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -31,9 +31,9 @@
     {
       "atlas": 0,
       "region": [
-        340,
+        660,
         0,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -41,39 +41,9 @@
     {
       "atlas": 0,
       "region": [
-        680,
+        1320,
         0,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1020,
-        0,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1360,
-        0,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1700,
-        0,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -83,7 +53,7 @@
       "region": [
         0,
         250,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -91,9 +61,9 @@
     {
       "atlas": 0,
       "region": [
-        340,
+        660,
         250,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -101,39 +71,9 @@
     {
       "atlas": 0,
       "region": [
-        680,
+        1320,
         250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1020,
-        250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1360,
-        250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1700,
-        250,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -143,7 +83,7 @@
       "region": [
         0,
         500,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -151,9 +91,9 @@
     {
       "atlas": 0,
       "region": [
-        340,
+        660,
         500,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -161,39 +101,9 @@
     {
       "atlas": 0,
       "region": [
-        680,
+        1320,
         500,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1020,
-        500,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1360,
-        500,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1700,
-        500,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -203,7 +113,7 @@
       "region": [
         0,
         750,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -211,9 +121,9 @@
     {
       "atlas": 0,
       "region": [
-        340,
+        660,
         750,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -221,39 +131,9 @@
     {
       "atlas": 0,
       "region": [
-        680,
+        1320,
         750,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1020,
-        750,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1360,
-        750,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1700,
-        750,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -263,7 +143,7 @@
       "region": [
         0,
         1000,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -271,9 +151,9 @@
     {
       "atlas": 0,
       "region": [
-        340,
+        660,
         1000,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -281,39 +161,9 @@
     {
       "atlas": 0,
       "region": [
-        680,
+        1320,
         1000,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1020,
-        1000,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1360,
-        1000,
-        340,
-        250
-      ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1700,
-        1000,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -323,7 +173,7 @@
       "region": [
         0,
         1250,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -331,9 +181,9 @@
     {
       "atlas": 0,
       "region": [
-        340,
+        660,
         1250,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -341,39 +191,9 @@
     {
       "atlas": 0,
       "region": [
-        680,
+        1320,
         1250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1020,
-        1250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1360,
-        1250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1700,
-        1250,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -383,7 +203,7 @@
       "region": [
         0,
         1500,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -391,9 +211,9 @@
     {
       "atlas": 0,
       "region": [
-        340,
+        660,
         1500,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -401,39 +221,9 @@
     {
       "atlas": 0,
       "region": [
-        680,
+        1320,
         1500,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1020,
-        1500,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1360,
-        1500,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1700,
-        1500,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -443,7 +233,7 @@
       "region": [
         0,
         1750,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -451,9 +241,9 @@
     {
       "atlas": 0,
       "region": [
-        340,
+        660,
         1750,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -461,39 +251,9 @@
     {
       "atlas": 0,
       "region": [
-        680,
+        1320,
         1750,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1020,
-        1750,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1360,
-        1750,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 0,
-      "region": [
-        1700,
-        1750,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -503,7 +263,7 @@
       "region": [
         0,
         0,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -511,9 +271,9 @@
     {
       "atlas": 1,
       "region": [
-        340,
+        660,
         0,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -521,99 +281,39 @@
     {
       "atlas": 1,
       "region": [
-        680,
+        1320,
         0,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1020,
-        0,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1360,
-        0,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1700,
-        0,
-        340,
-        250
-      ],
-      "duration_ms": 40
     },
     {
       "atlas": 1,
       "region": [
         0,
         250,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        340,
+        660,
         250,
-        340,
+        660,
         250
       ],
-      "duration_ms": 120
+      "duration_ms": 40
     },
     {
       "atlas": 1,
       "region": [
-        680,
+        1320,
         250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1020,
-        250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1360,
-        250,
-        340,
-        250
-      ],
-      "duration_ms": 120
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1700,
-        250,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -623,7 +323,7 @@
       "region": [
         0,
         500,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -631,349 +331,169 @@
     {
       "atlas": 1,
       "region": [
-        340,
+        660,
         500,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        680,
+        1320,
         500,
-        340,
+        660,
         250
       ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1020,
-        500,
-        340,
-        250
-      ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1360,
-        500,
-        340,
-        250
-      ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1700,
-        500,
-        340,
-        250
-      ],
-      "duration_ms": 80
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
         0,
         750,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        340,
+        660,
         750,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        680,
+        1320,
         750,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1020,
-        750,
-        340,
-        250
-      ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1360,
-        750,
-        340,
-        250
-      ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1700,
-        750,
-        340,
-        250
-      ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
         0,
         1000,
-        340,
+        660,
         250
       ],
-      "duration_ms": 80
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        340,
+        660,
         1000,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        680,
+        1320,
         1000,
-        340,
+        660,
         250
       ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1020,
-        1000,
-        340,
-        250
-      ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1360,
-        1000,
-        340,
-        250
-      ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1700,
-        1000,
-        340,
-        250
-      ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
         0,
         1250,
-        340,
+        660,
         250
       ],
-      "duration_ms": 80
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        340,
+        660,
         1250,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        680,
+        1320,
         1250,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1020,
-        1250,
-        340,
-        250
-      ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1360,
-        1250,
-        340,
-        250
-      ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1700,
-        1250,
-        340,
-        250
-      ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
         0,
         1500,
-        340,
+        660,
         250
       ],
-      "duration_ms": 80
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        340,
+        660,
         1500,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        680,
+        1320,
         1500,
-        340,
+        660,
         250
       ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1020,
-        1500,
-        340,
-        250
-      ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1360,
-        1500,
-        340,
-        250
-      ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1700,
-        1500,
-        340,
-        250
-      ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
         0,
         1750,
-        340,
+        660,
         250
       ],
-      "duration_ms": 80
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        340,
+        660,
         1750,
-        340,
+        660,
         250
       ],
-      "duration_ms": 40
+      "duration_ms": 120
     },
     {
       "atlas": 1,
       "region": [
-        680,
+        1320,
         1750,
-        340,
-        250
-      ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1020,
-        1750,
-        340,
-        250
-      ],
-      "duration_ms": 40
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1360,
-        1750,
-        340,
-        250
-      ],
-      "duration_ms": 80
-    },
-    {
-      "atlas": 1,
-      "region": [
-        1700,
-        1750,
-        340,
+        660,
         250
       ],
       "duration_ms": 120
@@ -983,14 +503,494 @@
       "region": [
         0,
         0,
-        340,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        0,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        0,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        250,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        250,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        250,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        500,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        500,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        500,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        750,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        750,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        750,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1000,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        1000,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        1000,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1250,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        1250,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        1250,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1500,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        1500,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        1500,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1750,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 2,
+      "region": [
+        660,
+        1750,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1320,
+        1750,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        0,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        0,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        250,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        250,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        250,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        500,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        500,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        500,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        750,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        750,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        750,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1000,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        1000,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        1000,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1250,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        1250,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        1250,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1500,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        1500,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        1500,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1750,
+        660,
+        250
+      ],
+      "duration_ms": 40
+    },
+    {
+      "atlas": 3,
+      "region": [
+        660,
+        1750,
+        660,
+        250
+      ],
+      "duration_ms": 80
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1320,
+        1750,
+        660,
+        250
+      ],
+      "duration_ms": 120
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        660,
         250
       ],
       "duration_ms": 120
     }
   ],
   "frame_size": [
-    340,
+    660,
     250
   ],
   "target_height_px": 80,
@@ -1004,5 +1004,161 @@
   "status": "candidate_unreviewed",
   "method": "Lossless unscaled RGBA frame packing; apply one display_scale to the entire frame and shared anchor.",
   "limitations": "Reference alpha bounds can include effects; anchor and body height require visual review. Scene and device playback not verified. Projectile pixels are reconstructed in the input candidate; alpha bounds and anchor remain unreviewed.",
-  "size_target_approval": "user_approved_unchanged_round2"
+  "size_target_approval": "user_approved_unchanged_round2",
+  "cleanup_oct29": {
+    "input": "Asset/Character/archive/cleanup_buffao_moxie_oct29/moxie_repaired",
+    "input_atlas_sha256": {
+      "atlas_000.png": "613945c39dfc2774a1f236252326a49bd4720d5d3a09862fb373c8c90f49a70a",
+      "atlas_001.png": "4ec169adc9db61f4e2d2597c0197d16869c041766d9c7e200f7cd78f13fb33de",
+      "atlas_002.png": "29ddf9622ab3ee7522f8725f7cc0091bcfa6b191648feec21cb8d644ae9f1623"
+    },
+    "sample": "image copy 7.png",
+    "sample_sha256": "1a250a70c68815779d49d96f977c9dc5e296f2cd8a17e0cd9f7c9af5f38f46b0",
+    "colors": [
+      [
+        0,
+        0,
+        0
+      ]
+    ],
+    "method": "Clear opaque exact black pixels in source canvas rows y >= 162; preserve other colors and projectile reconstruction.",
+    "removed_per_frame": [
+      637,
+      624,
+      642,
+      657,
+      673,
+      678,
+      682,
+      678,
+      657,
+      645,
+      668,
+      688,
+      684,
+      693,
+      688,
+      665,
+      534,
+      666,
+      734,
+      611,
+      780,
+      760,
+      705,
+      665,
+      780,
+      760,
+      705,
+      665,
+      620,
+      780,
+      760,
+      705,
+      665,
+      620,
+      663,
+      709,
+      709,
+      787,
+      931,
+      1336,
+      1323,
+      1320,
+      1297,
+      1302,
+      969,
+      970,
+      789,
+      614,
+      590,
+      510,
+      496,
+      645,
+      640,
+      649,
+      609,
+      657,
+      687,
+      708,
+      722,
+      698,
+      622,
+      620,
+      619,
+      639,
+      640,
+      655,
+      656,
+      683,
+      682,
+      710,
+      692,
+      689,
+      735,
+      712,
+      685,
+      717,
+      696,
+      697,
+      654,
+      639,
+      659,
+      657,
+      641,
+      661,
+      669,
+      684,
+      702,
+      722,
+      717,
+      721,
+      703,
+      710,
+      689,
+      683,
+      679,
+      658,
+      642
+    ],
+    "status": "visual_review_pending",
+    "limitations": "Shadow pixels overlapping the feet cannot be separated perfectly; reference height and anchor remain as before."
+  },
+  "beam_reconstruction_oct29": {
+    "input": "Asset/Character/archive/moxie_repaired_before_beam_oct29",
+    "input_atlas_sha256": {
+      "atlas_000.png": "9f04fcaf226a53d46bc298c448878b9faf374a836afd7aca8069d44714df67dc",
+      "atlas_001.png": "a624695877a2d2aa96b0548bf4eff34c59d81489824f652e65cfa9f652450ab7",
+      "atlas_002.png": "9e0d960bffe480429652dfdd81cd949925a725de06211a159b8a8435c0fcfd50"
+    },
+    "frame_indices_zero_based": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "template_frame_index": 38,
+    "template_region": [
+      204,
+      110,
+      33,
+      30
+    ],
+    "tip_x": [
+      340,
+      380,
+      420,
+      460,
+      500,
+      540,
+      580,
+      620
+    ],
+    "method": "Extend each clipped beam with its rightmost source column; attach the frame 39 tip, vertically scaled as the beam narrows; advance the tip 40 pixels per frame.",
+    "limitations": "Trajectory, new beam length and tip after the original canvas are reconstructed, not recovered; playback requires visual review."
+  }
 }

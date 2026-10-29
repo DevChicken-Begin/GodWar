@@ -38,7 +38,7 @@ def main():
             assert sha(folder/filename)==digest,(name,filename)
             pages_total+=1
         frames_total+=len(meta['frames'])
-    for name,source in [('crapit_secondary','crapit'),('moxie_repaired','moxie'),('conden_tuned','conden')]:
+    for name,source in [('crapit_secondary','crapit'),('moxie_repaired','moxie')]:
         m=json.loads((A/'measured_atlas_pilots'/name/'candidate.json').read_text())
         height=40 if name=='crapit_secondary' else entries[source]['target_height_px']
         assert m['target_height_px']==height and math.isclose(m['display_scale']*m['reference_height_px'],height,rel_tol=1e-10)

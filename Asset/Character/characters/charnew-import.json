@@ -35,17 +35,6 @@
       ]
     },
     {
-      "id": "hemsiss",
-      "input": "13 charnew/hemsiss.gif",
-      "sha256": "bb9415849edb6673e9edbe98a30998c616b1794b78394623adca25fb64c9ef29",
-      "frame_count": 49,
-      "target_height_px": 80,
-      "frame_size": [
-        280,
-        280
-      ]
-    },
-    {
       "id": "scorpit",
       "input": "13 charnew/scorpit.gif",
       "sha256": "aef6d4d693c637829ef7668b23844c5fb909edd948a2a9eb98905fde191f9604",

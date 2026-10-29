@@ -116,9 +116,10 @@ test('candidate timelines switch frame counts and restore the original timeline'
     assert.ok(el('variant').children.some((option) => option.value === 'batch12_detail_candidates'));
   }
   select('conden');
-  for (let i = 0; i < 100 && el('frame').max !== '60'; i++) await new Promise((resolve) => setTimeout(resolve, 20));
-  assert.equal(el('variant').value, 'measured:conden_tuned');
-  assert.equal(el('frame').max, '60');
+  for (let i = 0; i < 100 && el('frame').max !== '47'; i++) await new Promise((resolve) => setTimeout(resolve, 20));
+  assert.equal(el('variant').value, 'measured:conden');
+  assert.equal(el('frame').max, '47');
+  assert.ok(!el('variant').children.some((option) => option.value === 'measured:conden_tuned'));
   el('variant').value = 'speed_60fps_candidates';
   await el('variant').events.change();
   assert.equal(el('frame').max, '56');
@@ -155,9 +156,9 @@ test('candidate timelines switch frame counts and restore the original timeline'
   for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 360 * 87 / 211) < 0.01); i++) await new Promise(resolve => setTimeout(resolve, 20));
   assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 360 * 87 / 211) < 0.01, 'Kahn uses the round-three scale');
   for (const [name, height, last] of [
-    ['buffao', 80, 67], ['scosrian', 85, 55], ['dump', 80, 109], ['hemsiss', 80, 48],
+    ['buffao', 80, 67], ['scosrian', 85, 55], ['dump', 80, 109],
     ['scorpit', 80, 39], ['Domrico', 85, 99], ['hecfaom', 85, 67], ['Impector', 80, 61],
-    ['Actem', 80, 65], ['Hatomin', 80, 50], ['Trainxoan', 85, 52], ['urguro', 80, 46],
+    ['Actem', 85, 65], ['Hatomin', 80, 50], ['Trainxoan', 85, 52], ['urguro', 90, 46],
   ]) {
     select(name);
     assert.equal(el('variant').value, `measured:${name}`);
@@ -166,26 +167,35 @@ test('candidate timelines switch frame counts and restore the original timeline'
     assert.equal(el('frame').max, String(last));
     assert.deepEqual(el('variant').children.map(option => option.value), ['extracted', `measured:${name}`]);
   }
-  select('hemsiss');
+  el('search').value = 'hemsiss';
+  el('search').events.input();
+  assert.ok(!el('asset-list').children.some((item) => item.textContent === 'hemsiss'));
+  select('buffao');
   await el('variant').events.change();
-  assert.match(el('asset-info').textContent, /khung ảnh 280 × 280 px/);
+  assert.match(el('asset-info').textContent, /khung ảnh 200 × 200 px/);
   let prevented = false;
   el('stage').events.wheel({ deltaY: -1, preventDefault() { prevented = true; } });
-  for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 280 * 80 / 126 * 1.2) < 0.01); i++) await new Promise(resolve => setTimeout(resolve, 20));
+  for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 200 * 80 / 104 * 1.2) < 0.01); i++) await new Promise(resolve => setTimeout(resolve, 20));
   assert.ok(prevented, 'wheel zoom suppresses page scrolling over the animation');
   assert.equal(el('zoom').value, 'wheel');
   assert.equal(el('wheel-option').textContent, '1.2×');
-  assert.equal(el('canvas').width, 280, 'zoom keeps the full source frame');
-  assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 280 * 80 / 126 * 1.2) < 0.01, 'wheel zooms in');
+  assert.equal(el('canvas').width, 200, 'zoom keeps the full source frame');
+  assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 200 * 80 / 104 * 1.2) < 0.01, 'wheel zooms in');
   el('stage').events.wheel({ deltaY: 1, preventDefault() {} });
-  for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 280 * 80 / 126) < 0.01); i++) await new Promise(resolve => setTimeout(resolve, 20));
-  assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 280 * 80 / 126) < 0.01, 'wheel zooms out');
+  for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 200 * 80 / 104) < 0.01); i++) await new Promise(resolve => setTimeout(resolve, 20));
+  assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 200 * 80 / 104) < 0.01, 'wheel zooms out');
   el('zoom').value = 'fit';
   el('stage').events.wheel({ deltaY: -1, preventDefault() {} });
   for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 480) < 0.2); i++) await new Promise(resolve => setTimeout(resolve, 20));
   assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 480) < 0.2, 'wheel zoom continues from fitted size');
   el('zoom').value = '1';
   select('moxie');
+  assert.equal(el('variant').value, 'measured:moxie_repaired');
+  assert.match(el('variant').children.find((option) => option.value === 'measured:moxie_repaired').textContent, /^Đã chốt/);
+  assert.match(el('variant').children.find((option) => option.value === 'measured:moxie').textContent, /^Tham khảo cũ/);
+  await el('variant').events.change();
+  assert.match(el('asset-info').textContent, /660 × 250/);
+  assert.equal(el('frame').max, '96');
   el('variant').value = 'repaired_candidates';
   await el('variant').events.change();
   assert.equal(el('frame').max, '96');

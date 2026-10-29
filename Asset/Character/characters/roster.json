@@ -2193,21 +2193,6 @@
       "notes": "Nguồn mới; frame và nền cần duyệt; chưa phân loại hoạt ảnh."
     },
     {
-      "source_id": "hemsiss",
-      "provisional_character_name": "hemsiss",
-      "source": "Asset/Character/vfx/hemsiss.gif",
-      "source_sha256": "bb9415849edb6673e9edbe98a30998c616b1794b78394623adca25fb64c9ef29",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Nguồn mới; frame và nền cần duyệt; chưa phân loại hoạt ảnh."
-    },
-    {
       "source_id": "scorpit",
       "provisional_character_name": "scorpit",
       "source": "Asset/Character/vfx/scorpit_charnew.gif",

@@ -480,7 +480,7 @@
     200,
     200
   ],
-  "target_height_px": 80,
+  "target_height_px": 90,
   "reference_frame": 0,
   "reference_height_px": 120,
   "reference_alpha_bounds": [
@@ -493,10 +493,10 @@
     101.0,
     168
   ],
-  "display_scale": 0.6666666666666666,
+  "display_scale": 0.75,
   "measurement_kind": "automatic_alpha_bbox_unreviewed",
   "status": "automatic_candidate_unreviewed",
-  "size_target_approval": "user_updated_round4",
+  "size_target_approval": "user_updated_20261029_urguro_90",
   "background_rgb_frame_counts": {
     "4,50,71": 47
   },

@@ -666,7 +666,7 @@
     400,
     400
   ],
-  "target_height_px": 90,
+  "target_height_px": 100,
   "reference_frame": 0,
   "reference_height_px": 234,
   "reference_alpha_bounds": [
@@ -679,12 +679,12 @@
     205.0,
     351
   ],
-  "display_scale": 0.38461538461538464,
+  "display_scale": 0.42735042735042733,
   "measurement_kind": "visually_inspected_component_unreviewed",
   "status": "automatic_candidate_unreviewed",
   "limitations": "Vùng alpha có thể chứa vũ khí, hiệu ứng hoặc nhiều vật thể; chưa đo thân bằng mắt. Điểm neo ước lượng từ đáy alpha; chưa kiểm duyệt.",
   "method": "Use full frame-0 alpha bounds as provisional reference; preserve all source pixels and one shared scale. Not a verified body measurement.",
-  "size_target_approval": "user_updated_round2",
+  "size_target_approval": "user_updated_20261029_skypit_100",
   "reference_body_bounds": [
     101,
     117,

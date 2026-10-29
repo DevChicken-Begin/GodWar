@@ -37,7 +37,7 @@ Press **`Ctrl + Shift + B`** (or `Cmd + Shift + B` on macOS) to trigger the prim
 
 ### Kiểm thử GIF và frame nhân vật
 
-**Mốc hiện hành:** các hoạt ảnh anh chốt ngày 29/10/2026 được liệt kê tại [danh sách chốt](docs/approved-animations-20261029.md). Viewer đánh dấu bản đã chốt và các bản tham khảo cũ; các ghi chú bên dưới mô tả lịch sử các bản thử.
+**Mốc hiện hành:** các hoạt ảnh anh chốt đến phiên bản 2 ngày 29/10/2026 được liệt kê tại [danh sách chốt](docs/approved-animations-20261029.md). Viewer đánh dấu bản đã chốt và các bản tham khảo cũ; các ghi chú bên dưới mô tả lịch sử các bản thử.
 
 Quy trình sử dụng Agent Sprite Forge cho nhân vật được ghi tại [docs/sprite-forge.md](docs/sprite-forge.md).
 

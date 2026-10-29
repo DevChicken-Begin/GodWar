@@ -167,14 +167,17 @@ async function refreshSize(showFeedback = false) {
 document.getElementById('refresh-size').addEventListener('click', () => refreshSize(true));
 window.addEventListener('focus', () => refreshSize(false));
 try {
-  const [background, response, approvedResponse] = await Promise.all([image('/Asset/Scenes/amore_scale_test/map.png'), fetch('/api/measured-atlases'), fetch('/Asset/Character/characters/approved-animations-20261029.json')]);
+  const [background, response, approvedResponse, provisionalResponse] = await Promise.all([image('/Asset/Scenes/amore_scale_test/map.png'), fetch('/api/measured-atlases'), fetch('/Asset/Character/characters/approved-animations-20261029-v2.json'), fetch('/Asset/Character/characters/provisional-animations-five-20261029.json')]);
   if (!response.ok || !approvedResponse.ok) throw new Error('Không tải được catalog hoạt ảnh đã chốt');
   const available = new Set(await response.json());
   const approved = await approvedResponse.json();
   const names = approved.assets.flatMap((asset) => asset.profiles.map((profile) => profile.id));
+  const provisional = provisionalResponse.ok ? (await provisionalResponse.json()).assets : [];
+  names.push(...provisional.map((asset) => asset.profile));
+  const provisionalNames = new Set(provisional.map((asset) => asset.profile));
   if (names.some((name) => !available.has(name))) throw new Error('Thiếu atlas hoạt ảnh đã chốt');
   const select = document.getElementById('character');
-  select.replaceChildren(...names.sort().map((name) => new Option(name, name)));
+  select.replaceChildren(...names.sort().map((name) => new Option(provisionalNames.has(name) ? `${name} · mới, chưa chốt` : name, name)));
   select.value = names.includes('amore') ? 'amore' : names[0];
   if (!select.value) throw new Error('Chưa có atlas đã đo.');
   map = background;

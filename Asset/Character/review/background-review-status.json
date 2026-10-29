@@ -1393,6 +1393,46 @@
       "variants": [
         "measured_atlas_pilots"
       ]
+    },
+    {
+      "id": "Mythos",
+      "status": "visual_review_pending",
+      "issue": "Tách màu nền và mốc thân ước lượng; cần duyệt viền, VFX, chuyển động và neo.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Tracker",
+      "status": "visual_review_pending",
+      "issue": "Tách màu nền và mốc thân ước lượng; cần duyệt viền, VFX, chuyển động và neo.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Epicti",
+      "status": "visual_review_pending",
+      "issue": "Tách màu nền và mốc thân ước lượng; cần duyệt viền, VFX, chuyển động và neo.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Nemotront",
+      "status": "visual_review_pending",
+      "issue": "Tách màu nền và mốc thân ước lượng; cần duyệt viền, VFX, chuyển động và neo.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Kanhosst",
+      "status": "visual_review_pending",
+      "issue": "Tách màu nền và mốc thân ước lượng; cần duyệt viền, VFX, chuyển động và neo.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
     }
   ]
 }

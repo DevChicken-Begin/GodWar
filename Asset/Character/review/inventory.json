@@ -1908,6 +1908,66 @@
       "status": "unreviewed",
       "observations": [],
       "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Mythos.gif",
+      "sha256": "731285221f235508140547572bd9ec7043501ebc84db2e88920ac490d737ae85",
+      "frames": 120,
+      "review_sheets": [
+        "Asset/Character/review/five_oct29_Mythos/contact-light.jpg",
+        "Asset/Character/review/five_oct29_Mythos/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Tracker.gif",
+      "sha256": "2e16ce577e5f1f7e5667da2be481c05c5640646ad7801e9515e94fb0fc106537",
+      "frames": 120,
+      "review_sheets": [
+        "Asset/Character/review/five_oct29_Tracker/contact-light.jpg",
+        "Asset/Character/review/five_oct29_Tracker/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Epicti.gif",
+      "sha256": "9652494a656e10e9e567523df0ff01fe4008227fe9ba6eda32dfc02a3644ae67",
+      "frames": 120,
+      "review_sheets": [
+        "Asset/Character/review/five_oct29_Epicti/contact-light.jpg",
+        "Asset/Character/review/five_oct29_Epicti/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Nemotront.gif",
+      "sha256": "589299dc89e3b26dd4601e9fa28c5623b9d11e3e53af5912713fd05351934f95",
+      "frames": 120,
+      "review_sheets": [
+        "Asset/Character/review/five_oct29_Nemotront/contact-light.jpg",
+        "Asset/Character/review/five_oct29_Nemotront/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Kanhosst.gif",
+      "sha256": "e94e17bde83b9efa239668846f1369d22d51f59c5417bdb44154eb2ef4ede5a3",
+      "frames": 120,
+      "review_sheets": [
+        "Asset/Character/review/five_oct29_Kanhosst/contact-light.jpg",
+        "Asset/Character/review/five_oct29_Kanhosst/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
     }
   ]
 }

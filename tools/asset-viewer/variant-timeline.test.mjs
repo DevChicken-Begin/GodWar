@@ -167,6 +167,14 @@ test('candidate timelines switch frame counts and restore the original timeline'
     assert.equal(el('frame').max, String(last));
     assert.deepEqual(el('variant').children.map(option => option.value), ['extracted', `measured:${name}`]);
   }
+  for (const [name, height] of [['Mythos', 80], ['Tracker', 85], ['Epicti', 80], ['Nemotront', 80], ['Kanhosst', 90]]) {
+    select(name);
+    assert.equal(el('variant').value, `measured:${name}`);
+    await el('variant').events.change();
+    assert.match(el('variant').children.find((option) => option.value === `measured:${name}`).textContent, /^Đã chốt/);
+    assert.match(el('asset-info').textContent, new RegExp(`cao tham chiếu ${height} px`));
+    assert.equal(el('frame').max, '119');
+  }
   el('search').value = 'hemsiss';
   el('search').events.input();
   assert.ok(!el('asset-list').children.some((item) => item.textContent === 'hemsiss'));

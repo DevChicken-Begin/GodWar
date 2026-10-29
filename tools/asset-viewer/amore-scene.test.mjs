@@ -33,6 +33,10 @@ test('scene starts animation and constrains movement to the platform', async (t)
   assert.ok(choices.includes('moxie_repaired'));
   assert.ok(!choices.includes('moxie'));
   assert.ok(choices.includes('crapit_main') && choices.includes('crapit_secondary'));
+  for (const id of ['Mythos', 'Tracker', 'Epicti', 'Nemotront', 'Kanhosst']) {
+    const option = elements.get('character').children.find((item) => item.value === id);
+    assert.equal(option?.textContent, id);
+  }
   let entered = false, exited = false;
   elements.get('scene-container').requestFullscreen = async () => { entered = true; document.fullscreenElement = elements.get('scene-container'); };
   document.exitFullscreen = async () => { exited = true; document.fullscreenElement = null; };

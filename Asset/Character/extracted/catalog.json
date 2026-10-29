@@ -30997,6 +30997,1223 @@
       "notes": "GIF gốc có thể gộp nhân vật, hiệu ứng và nền; cần kiểm duyệt trước khi phân loại."
     },
     {
+      "id": "Epicti",
+      "source": "Asset/Character/vfx/Epicti.gif",
+      "source_sha256": "9652494a656e10e9e567523df0ff01fe4008227fe9ba6eda32dfc02a3644ae67",
+      "size": [
+        400,
+        400
+      ],
+      "frame_count": 120,
+      "loop": 0,
+      "atlas_count": 5,
+      "frames": [
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        }
+      ],
+      "classification": "unreviewed",
+      "animations": {},
+      "notes": "GIF gốc có thể gộp nhân vật, hiệu ứng và nền; cần kiểm duyệt trước khi phân loại."
+    },
+    {
       "id": "ethan",
       "source": "Asset/Character/vfx/ethan.gif",
       "source_sha256": "2560b34e90a103e3ba3834c658e2cad2a2ce62ef0a2ee1e42c71069b22a1aab8",
@@ -43420,6 +44637,1223 @@
             300
           ],
           "duration_ms": 60
+        }
+      ],
+      "classification": "unreviewed",
+      "animations": {},
+      "notes": "GIF gốc có thể gộp nhân vật, hiệu ứng và nền; cần kiểm duyệt trước khi phân loại."
+    },
+    {
+      "id": "Kanhosst",
+      "source": "Asset/Character/vfx/Kanhosst.gif",
+      "source_sha256": "e94e17bde83b9efa239668846f1369d22d51f59c5417bdb44154eb2ef4ede5a3",
+      "size": [
+        400,
+        400
+      ],
+      "frame_count": 120,
+      "loop": 0,
+      "atlas_count": 5,
+      "frames": [
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
         }
       ],
       "classification": "unreviewed",
@@ -60005,6 +62439,2440 @@
             250
           ],
           "duration_ms": 120
+        }
+      ],
+      "classification": "unreviewed",
+      "animations": {},
+      "notes": "GIF gốc có thể gộp nhân vật, hiệu ứng và nền; cần kiểm duyệt trước khi phân loại."
+    },
+    {
+      "id": "Mythos",
+      "source": "Asset/Character/vfx/Mythos.gif",
+      "source_sha256": "731285221f235508140547572bd9ec7043501ebc84db2e88920ac490d737ae85",
+      "size": [
+        400,
+        400
+      ],
+      "frame_count": 120,
+      "loop": 0,
+      "atlas_count": 5,
+      "frames": [
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        }
+      ],
+      "classification": "unreviewed",
+      "animations": {},
+      "notes": "GIF gốc có thể gộp nhân vật, hiệu ứng và nền; cần kiểm duyệt trước khi phân loại."
+    },
+    {
+      "id": "Nemotront",
+      "source": "Asset/Character/vfx/Nemotront.gif",
+      "source_sha256": "589299dc89e3b26dd4601e9fa28c5623b9d11e3e53af5912713fd05351934f95",
+      "size": [
+        400,
+        400
+      ],
+      "frame_count": 120,
+      "loop": 0,
+      "atlas_count": 5,
+      "frames": [
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
         }
       ],
       "classification": "unreviewed",
@@ -79580,6 +84448,1223 @@
             520
           ],
           "duration_ms": 60
+        }
+      ],
+      "classification": "unreviewed",
+      "animations": {},
+      "notes": "GIF gốc có thể gộp nhân vật, hiệu ứng và nền; cần kiểm duyệt trước khi phân loại."
+    },
+    {
+      "id": "Tracker",
+      "source": "Asset/Character/vfx/Tracker.gif",
+      "source_sha256": "2e16ce577e5f1f7e5667da2be481c05c5640646ad7801e9515e94fb0fc106537",
+      "size": [
+        400,
+        400
+      ],
+      "frame_count": 120,
+      "loop": 0,
+      "atlas_count": 5,
+      "frames": [
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 0,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 1,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 2,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            0,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            400,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            800,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1200,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 3,
+          "region": [
+            1600,
+            1600,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            0,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            400,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            800,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            0,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            400,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            800,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1200,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
+        },
+        {
+          "atlas": 4,
+          "region": [
+            1600,
+            1200,
+            400,
+            400
+          ],
+          "duration_ms": 70
         }
       ],
       "classification": "unreviewed",

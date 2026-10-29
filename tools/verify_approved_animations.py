@@ -5,7 +5,8 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1];A=ROOT/'Asset/Character'
 def read(p):return json.loads(p.read_text())
 def sha(p):return hashlib.sha256(p.read_bytes()).hexdigest()
-manifest=read(A/'characters/approved-animations-20261029.json');excluded=set(read(A/'characters/removed.json')['ids']);visible={x['id'] for x in read(A/'extracted/catalog.json')['assets'] if x['id'] not in excluded}|{x['id'] for f in ['split-catalog.json','composite-catalog.json'] for x in read(A/'extracted'/f)['assets']}; entries=manifest['assets'];assert len(entries)==len(visible) and {x['id'] for x in entries}==visible
+manifest=read(A/'characters/approved-animations-20261029-v2.json');excluded=set(read(A/'characters/removed.json')['ids']);visible={x['id'] for x in read(A/'extracted/catalog.json')['assets'] if x['id'] not in excluded}|{x['id'] for f in ['split-catalog.json','composite-catalog.json'] for x in read(A/'extracted'/f)['assets']}; entries=manifest['assets'];provisional={x['id'] for x in read(A/'characters/provisional-animations-five-20261029.json')['assets']};approved={x['id'] for x in entries};assert len(entries)==len(approved) and not approved & provisional and approved | provisional == visible
+previous=ROOT/manifest['previous_snapshot'];assert sha(previous)==manifest['previous_snapshot_sha256'];current={entry['id']:entry for entry in entries};assert all(current.get(entry['id'])==entry for entry in read(previous)['assets'])
 targets={x['id']:x for x in read(A/'characters/height-targets.json')['assets']};frames=pages=0
 for entry in entries:
  assert entry['default_profile'] in [p['id'] for p in entry['profiles']]

@@ -730,6 +730,23 @@
       "size_target_approval": "user_updated_round4"
     },
     {
+      "id": "Epicti",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/Epicti.gif",
+      "source_sha256": "9652494a656e10e9e567523df0ff01fe4008227fe9ba6eda32dfc02a3644ae67",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        148,
+        140,
+        245,
+        328
+      ],
+      "scale": 0.425531914893617,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Epicti/candidate.json",
+      "size_target_approval": "user_approved_20261029_v2"
+    },
+    {
       "id": "ethan",
       "target_height_px": 85,
       "source": "Asset/Character/vfx/ethan.gif",
@@ -983,6 +1000,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Kahn/candidate.json",
       "size_target_approval": "user_updated_round3"
+    },
+    {
+      "id": "Kanhosst",
+      "target_height_px": 90,
+      "source": "Asset/Character/vfx/Kanhosst.gif",
+      "source_sha256": "e94e17bde83b9efa239668846f1369d22d51f59c5417bdb44154eb2ef4ede5a3",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        115,
+        148,
+        285,
+        336
+      ],
+      "scale": 0.4787234042553192,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Kanhosst/candidate.json",
+      "size_target_approval": "user_approved_20261029_v2"
     },
     {
       "id": "kengkeng",
@@ -1317,6 +1351,23 @@
       "size_target_approval": "user_approved_unchanged_round2"
     },
     {
+      "id": "Mythos",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/Mythos.gif",
+      "source_sha256": "731285221f235508140547572bd9ec7043501ebc84db2e88920ac490d737ae85",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        100,
+        195,
+        320,
+        340
+      ],
+      "scale": 0.5517241379310345,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Mythos/candidate.json",
+      "size_target_approval": "user_approved_20261029_v2"
+    },
+    {
       "id": "namero",
       "target_height_px": 60,
       "source": "Asset/Character/vfx/3 char.gif",
@@ -1327,6 +1378,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/namero/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
+    },
+    {
+      "id": "Nemotront",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/Nemotront.gif",
+      "source_sha256": "589299dc89e3b26dd4601e9fa28c5623b9d11e3e53af5912713fd05351934f95",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        140,
+        188,
+        260,
+        336
+      ],
+      "scale": 0.5405405405405406,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Nemotront/candidate.json",
+      "size_target_approval": "user_approved_20261029_v2"
     },
     {
       "id": "ninjadead",
@@ -1799,6 +1867,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/tigerknight/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
+    },
+    {
+      "id": "Tracker",
+      "target_height_px": 85,
+      "source": "Asset/Character/vfx/Tracker.gif",
+      "source_sha256": "2e16ce577e5f1f7e5667da2be481c05c5640646ad7801e9515e94fb0fc106537",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        140,
+        160,
+        280,
+        336
+      ],
+      "scale": 0.48295454545454547,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Tracker/candidate.json",
+      "size_target_approval": "user_approved_20261029_v2"
     },
     {
       "id": "Trainxoan",

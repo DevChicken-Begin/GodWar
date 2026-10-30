@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-10-30T06:50:29Z",
+  "updated_at_utc": "2026-10-30T06:52:01Z",
   "purpose": "Bộ nhớ bàn giao ngắn gọn cho agent; đối chiếu với mã, tài liệu và git status khi bắt đầu phiên.",
   "product_goal": {
     "source": "Yêu cầu của người dùng ngày 2026-10-30",
@@ -47,7 +47,8 @@
       "Kiểm tra 2354 file QA của clip hiện hành sau dọn; npm test 7/7.",
       "Godot 4.3 headless nạp Kikontai 45 frame 80px, Hecpoirt 54 frame 70px, Maxoi 51 frame 80px.",
       "Đối chiếu ảnh trước/sau và toàn bộ 45/54/51 frame tương ứng về RGB, alpha và thời lượng.",
-      "Đã push commit 274e3e5b39f3764caa3effc19bc5371016faa7b3 lên origin/main; git ls-remote xác nhận cùng hash."
+      "Đã push commit 274e3e5b39f3764caa3effc19bc5371016faa7b3 lên origin/main; git ls-remote xác nhận cùng hash.",
+      "Sau commit và push: workspace khoảng 4.4G, .git 1.7G (pack 1.64 GiB), forge_pilots 619M; Git giữ object/historical data."
     ],
     "remaining": [],
     "limitations": [

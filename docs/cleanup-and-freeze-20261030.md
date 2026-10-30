@@ -23,3 +23,5 @@ Ba GIF gốc, atlas trước sửa và clip mới được giữ. Đối chiếu
 - Giữ các archive và các bản Forge cũ của năm nhân vật trước vì chưa chứng minh có thể xóa mà không mất khả năng đối chiếu/tái tạo; clip Forge của năm nhân vật này vẫn chưa đồng bộ với atlas đã chốt. Không xóa bừa các candidate, nguồn GIF, cache Git hoặc toolchain.
 
 Dung lượng thư mục dự án trước bước dọn khoảng 4,1 GiB; sau bước dọn đo khoảng 3,6 GiB (có thể thay đổi khi Git tạo object). Các thay đổi chưa commit có sẵn, gồm 11 GIF trong `13 charnew/` đã bị xóa trước phiên này, vẫn nằm trong working tree và được giữ theo yêu cầu push toàn bộ.
+
+Sau commit và push, đo lại toàn workspace khoảng 4,4 GiB, trong đó `.git` khoảng 1,7 GiB (`size-pack` 1,64 GiB) và `Asset/Character/forge_pilots` 619 MiB. Phần Git tăng do lưu object của commit và lịch sử; xóa file khỏi working tree không tự xóa chúng khỏi lịch sử Git. Không rewrite lịch sử hoặc dọn Git objects trong đợt này.

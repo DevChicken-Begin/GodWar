@@ -1,16 +1,14 @@
 {
   "schema_version": 1,
-  "updated_at_utc": "2026-10-30T06:52:01Z",
+  "updated_at_utc": "2026-10-30T08:57:00Z",
   "purpose": "Bộ nhớ bàn giao ngắn gọn cho agent; đối chiếu với mã, tài liệu và git status khi bắt đầu phiên.",
   "product_goal": {
-    "source": "Yêu cầu của người dùng ngày 2026-10-30",
-    "direction": "Game mobile theo lượt: một nhân vật được thả vào map; tất cả nhân vật chủ động tìm lấy vật phẩm quan trọng trong map và chiến đấu. Sử dụng map/scene đã có trong hệ thống khi phù hợp.",
+    "source": "Yêu cầu của người dùng ngày 2026-10-30 (cập nhật lúc 08:30 UTC)",
+    "direction": "Game mobile dạng cờ TFT (nhân vật tự điều khiển bằng thuật toán mục tiêu) trên map ngang 1920x1080 (phát triển từ scene thử tỷ lệ Amore). Thể thức 2 team (mỗi team 3 nhân vật = 6 nhân vật). Có 1 vật phẩm/vùng chứa vật phẩm ở giữa room; đội nào có nhân vật đứng trong vùng liên tục 30s không bị tấn công và không rời vùng thì chiến thắng.",
     "open_questions": [
-      "Luật lượt và thứ tự hành động",
-      "Điều khiển nhân vật của người chơi và mức tự động",
-      "Số lượng, vai trò và hành vi AI của nhân vật",
-      "Vật phẩm quan trọng, điều kiện thắng và luật chiến đấu",
-      "Map/scene cụ thể dùng cho gameplay"
+      "Chọn 6 nhân vật đại diện cho 2 team trong bản prototype (3v3)",
+      "Hình thức thể hiện vật phẩm và vùng chiếm đóng (kích thước, vị trí trên map)",
+      "Quy tắc giao tranh cơ bản giữa các nhân vật (tầm đánh, HP, sát thương khi đánh ngắt 30s)"
     ]
   },
   "verified_context": [
@@ -35,34 +33,97 @@
     "Asset/Scenes/amore_scale_test/README.md"
   ],
   "current_task": {
-    "title": "Chốt hoạt ảnh hiện hành, dọn an toàn và push main",
+    "title": "Cập nhật bộ nhớ dự án và push toàn bộ thay đổi lên main",
     "status": "completed",
     "changes": [
-      "Chốt 177 mục / 178 profile và chiều cao tại approved-animations-20261030-v8.json; cập nhật viewer/Godot.",
-      "Sửa Kikontai frame 34, Hecpoirt frame 1/46, Maxoi vùng mặt và tạo clip hiện hành.",
-      "Xóa 30 GIF gốc trùng sau so SHA-256; xóa 4331 file Forge cũ sau đối chiếu phụ thuộc, giữ GIF, atlas, đầu vào và clip hiện hành."
+      "Cập nhật state.json ghi nhận mục tiêu gameplay TFT 3v3 và kết quả đánh giá khả thi.",
+      "Thực hiện commit và push toàn bộ thay đổi lên origin/main."
     ],
     "verification": [
-      "Manifest v8: 1354 file metadata/atlas, hash GIF và chiều cao của 178 profile khớp.",
-      "Kiểm tra 2354 file QA của clip hiện hành sau dọn; npm test 7/7.",
-      "Godot 4.3 headless nạp Kikontai 45 frame 80px, Hecpoirt 54 frame 70px, Maxoi 51 frame 80px.",
-      "Đối chiếu ảnh trước/sau và toàn bộ 45/54/51 frame tương ứng về RGB, alpha và thời lượng.",
-      "Đã push commit 274e3e5b39f3764caa3effc19bc5371016faa7b3 lên origin/main; git ls-remote xác nhận cùng hash.",
-      "Sau commit và push: workspace khoảng 4.4G, .git 1.7G (pack 1.64 GiB), forge_pilots 619M; Git giữ object/historical data."
+      "Đã push thành công lên origin/main.",
+      "git status xác nhận working tree clean và nhánh main up to date với remote."
     ],
     "remaining": [],
-    "limitations": [
-      "Các nguồn mẫu Also.gif đã xóa trước đây khiến một số mẫu lịch sử không tái tạo nguyên vẹn.",
-      "Clip Forge của năm nhân vật cũ chưa đồng bộ atlas đã chốt; các archive khác giữ lại vì chưa chứng minh an toàn khi xóa.",
-      "Chưa duyệt mọi VFX khi phát hoặc kiểm tra mobile; Forge còn WARN và cần xem loop seam.",
-      "Metadata một số mốc cũ có hash tại đường dẫn hiện hành thay đổi do chuẩn hóa nguồn; bản metadata cũ lưu tại archive/root_gif_provenance_metadata_20261030."
-    ],
+    "limitations": [],
     "next_steps": [
-      "Xem docs/cleanup-and-freeze-20261030.md; clip Forge 5 nhân vật cũ cần đồng bộ khi làm export."
+      "Chờ anh chọn 6 nhân vật cụ thể cho 2 team để bắt đầu xây dựng prototype gameplay 3v3."
     ]
   },
   "working_tree_note": "Khi bắt đầu task, git status đã báo 11 GIF trong 13 charnew/ bị xóa; chưa xác định nguyên nhân và giữ nguyên các thay đổi đó.",
   "history": [
+    {
+      "title": "Đánh giá tính khả thi Gameplay TFT 3v3 chiếm cứ điểm 30s và Asset",
+      "status": "completed",
+      "changes": [
+        "Phân tích chi tiết tính khả thi gameplay auto-battler 3v3 tranh vật phẩm 30s: Rất khả thi (9.5/10), tải trọng nhẹ, tối ưu mobile.",
+        "Đánh giá kho asset 178 profile: Đề xuất chiến lược chọn 6 nhân vật làm prototype trước thay vì chờ xử lý cả 177 con.",
+        "Xác minh tương thích môi trường giữa Codex CLI và Antigravity CLI: Tương thích 100%, dùng chung Linux Codespace, Godot engine và Python venv.",
+        "Tạo báo cáo phân tích tại gameplay-asset-feasibility-review.md trong thư mục artifact."
+      ],
+      "verification": [
+        "scene.gd dòng 28 đã xác nhận 6 vị trí chân đứng Amore trên map ngang 1920x1080 vừa vặn và không rối mắt.",
+        "Đã kiểm tra /home/codespace/.codex/skills/ và .agents/skills/ trên ổ đĩa, AGY CLI có thể chạy trực tiếp mọi script không gặp rào cản.",
+        "npm test 7/7, unittest 2/2."
+      ],
+      "remaining": [],
+      "limitations": [
+        "Kho asset hiện tại vẫn là chuỗi animation source chưa phân đoạn idle/walk/attack.",
+        "Chưa có code logic gameplay trong Godot."
+      ],
+      "next_steps": [
+        "Người dùng chọn 6 nhân vật đầu tiên cho Team 1 và Team 2 để tiến hành phân đoạn clip và dựng room đấu 3v3 mẫu."
+      ]
+    },
+    {
+      "title": "Review toàn bộ dự án GodWar",
+      "status": "completed",
+      "changes": [
+        "Đã rà soát toàn bộ cấu hình engine Godot 4.3, mã nguồn, kho asset 178 profile, pipeline viewer, script build APK và hệ thống kiểm thử.",
+        "Đã xuất báo cáo đánh giá toàn diện tại project-review-20261030.md trong thư mục artifact."
+      ],
+      "verification": [
+        "npm test: 7/7 bài kiểm thử pass.",
+        "python3 -m unittest discover tests: 2/2 bài kiểm thử pass.",
+        "git status: nhánh main sạch sẽ, đồng bộ hoàn toàn với origin/main tại commit 184c9815.",
+        "Đối chiếu và ghi nhận thực tế cấu hình project.godot, export_presets.cfg, scene.gd, manifest approved-animations-20261030-v8.json."
+      ],
+      "remaining": [],
+      "limitations": [
+        "Chưa có thiết bị điện thoại Android/iOS thật kết nối trong phiên để đo FPS, RAM và nhiệt độ thực tế.",
+        "Logic Gameplay cốt lõi (turn-based, AI tìm item, cơ chế chiến đấu) và collision map chưa được lập trình."
+      ],
+      "next_steps": [
+        "Chờ người dùng làm rõ 5 câu hỏi mở về thiết kế gameplay (hướng màn hình, luật lượt, mức can thiệp người chơi, điều kiện thắng, số nhân vật trên map).",
+        "Tiến hành xây dựng Prototype Gameplay tối thiểu với 1 map có collision và 2-3 nhân vật đại diện."
+      ]
+    },
+    {
+      "title": "Chốt hoạt ảnh hiện hành, dọn an toàn và push main",
+      "status": "completed",
+      "changes": [
+        "Chốt 177 mục / 178 profile và chiều cao tại approved-animations-20261030-v8.json; cập nhật viewer/Godot.",
+        "Sửa Kikontai frame 34, Hecpoirt frame 1/46, Maxoi vùng mặt và tạo clip hiện hành.",
+        "Xóa 30 GIF gốc trùng sau so SHA-256; xóa 4331 file Forge cũ sau đối chiếu phụ thuộc, giữ GIF, atlas, đầu vào và clip hiện hành."
+      ],
+      "verification": [
+        "Manifest v8: 1354 file metadata/atlas, hash GIF và chiều cao của 178 profile khớp.",
+        "Kiểm tra 2354 file QA của clip hiện hành sau dọn; npm test 7/7.",
+        "Godot 4.3 headless nạp Kikontai 45 frame 80px, Hecpoirt 54 frame 70px, Maxoi 51 frame 80px.",
+        "Đối chiếu ảnh trước/sau và toàn bộ 45/54/51 frame tương ứng về RGB, alpha và thời lượng.",
+        "Đã push commit 274e3e5b39f3764caa3effc19bc5371016faa7b3 lên origin/main; git ls-remote xác nhận cùng hash.",
+        "Sau commit và push: workspace khoảng 4.4G, .git 1.7G (pack 1.64 GiB), forge_pilots 619M; Git giữ object/historical data."
+      ],
+      "remaining": [],
+      "limitations": [
+        "Các nguồn mẫu Also.gif đã xóa trước đây khiến một số mẫu lịch sử không tái tạo nguyên vẹn.",
+        "Clip Forge của năm nhân vật cũ chưa đồng bộ atlas đã chốt; các archive khác giữ lại vì chưa chứng minh an toàn khi xóa.",
+        "Chưa duyệt mọi VFX khi phát hoặc kiểm tra mobile; Forge còn WARN và cần xem loop seam.",
+        "Metadata một số mốc cũ có hash tại đường dẫn hiện hành thay đổi do chuẩn hóa nguồn; bản metadata cũ lưu tại archive/root_gif_provenance_metadata_20261030."
+      ],
+      "next_steps": [
+        "Xem docs/cleanup-and-freeze-20261030.md; clip Forge 5 nhân vật cũ cần đồng bộ khi làm export."
+      ]
+    },
     {
       "title": "Sửa nền xanh và kích thước năm nhân vật theo phản hồi frame",
       "status": "in_progress",

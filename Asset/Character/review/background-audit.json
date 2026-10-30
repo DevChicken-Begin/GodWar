@@ -315,42 +315,6 @@
       "status": "automatic_measurement_unreviewed"
     },
     {
-      "id": "azza",
-      "source": "Asset/Character/vfx/azza.gif",
-      "source_sha256": "8fc3d162149a9713db3753f796733bc1ab613386d43e9a19395d81b36db24127",
-      "frames": 47,
-      "frames_with_transparency": 47,
-      "frames_with_uniform_border": 46,
-      "corner_colors": [
-        [
-          0,
-          0,
-          0,
-          0
-        ]
-      ],
-      "category": "transparent_all_frames",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "bearen",
-      "source": "Asset/Character/vfx/bearen.gif",
-      "source_sha256": "eb85eb953c76b7f2eaa6116758cff60f0441f5a0afe19cc6400c5aca40060929",
-      "frames": 29,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 24,
-      "corner_colors": [
-        [
-          4,
-          50,
-          71,
-          255
-        ]
-      ],
-      "category": "complex_or_varying_border",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
       "id": "bearfire",
       "source": "Asset/Character/vfx/bearfire.gif",
       "source_sha256": "7d0da1f61dfbb56cdef67d3d545db4dbd7364bf27f209debdfee35fd07130687",
@@ -1616,24 +1580,6 @@
           4,
           50,
           71,
-          255
-        ]
-      ],
-      "category": "solid_border_candidate",
-      "status": "automatic_measurement_unreviewed"
-    },
-    {
-      "id": "snowpie",
-      "source": "Asset/Character/vfx/snowpie.gif",
-      "source_sha256": "2bb818caba8429c3eeddf3ea66aa18c8f834567557a52c3e5146108bf03451d2",
-      "frames": 49,
-      "frames_with_transparency": 0,
-      "frames_with_uniform_border": 49,
-      "corner_colors": [
-        [
-          0,
-          48,
-          66,
           255
         ]
       ],

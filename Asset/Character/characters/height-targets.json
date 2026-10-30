@@ -10,15 +10,15 @@
   "assets": [
     {
       "id": "Actem",
-      "target_height_px": 85,
+      "target_height_px": 90,
       "source": "Asset/Character/vfx/Actem.gif",
       "source_sha256": "bb6004facff8f10b826ade536210221a178ada6836740945858cc1c135a0177b",
       "reference_frame": 0,
       "reference_body_bounds": null,
-      "scale": 0.19041218637992832,
+      "scale": 0.20161290322580647,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Actem/candidate.json",
-      "size_target_approval": "user_updated_round4"
+      "size_target_approval": "user_requested_20261030_revision4"
     },
     {
       "id": "agon",
@@ -140,6 +140,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/aonoma/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
+    },
+    {
+      "id": "Aquamen",
+      "target_height_px": 65,
+      "source": "Asset/Character/vfx/Aquamen.gif",
+      "source_sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        190,
+        285,
+        335,
+        455
+      ],
+      "scale": 0.38235294117647056,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Aquamen/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision4"
     },
     {
       "id": "artemis",
@@ -289,35 +306,6 @@
       "size_target_approval": "user_approved_unchanged_round2"
     },
     {
-      "id": "azza",
-      "target_height_px": 75,
-      "source": "Asset/Character/vfx/azza.gif",
-      "source_sha256": "8fc3d162149a9713db3753f796733bc1ab613386d43e9a19395d81b36db24127",
-      "reference_frame": 0,
-      "reference_body_bounds": null,
-      "scale": 0.6578947368421053,
-      "status": "automatic_alpha_candidate_unreviewed",
-      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/azza/candidate.json",
-      "size_target_approval": "user_approved_unchanged_round2"
-    },
-    {
-      "id": "bearen",
-      "target_height_px": 90,
-      "source": "Asset/Character/vfx/bearen.gif",
-      "source_sha256": "eb85eb953c76b7f2eaa6116758cff60f0441f5a0afe19cc6400c5aca40060929",
-      "reference_frame": 0,
-      "reference_body_bounds": [
-        84,
-        135,
-        216,
-        252
-      ],
-      "scale": 0.7692307692307693,
-      "status": "measured_atlas_candidate_unreviewed",
-      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/bearen/candidate.json",
-      "size_target_approval": "user_approved_unchanged_round2"
-    },
-    {
       "id": "bearfire",
       "target_height_px": 90,
       "source": "Asset/Character/vfx/bearfire.gif",
@@ -339,23 +327,6 @@
       "scale": 0.49079754601226994,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/biden/candidate.json",
-      "size_target_approval": "user_approved_unchanged_round2"
-    },
-    {
-      "id": "black",
-      "target_height_px": 65,
-      "source": "Asset/Character/vfx/black.gif",
-      "source_sha256": "817c9ec1e784ca93dbfc72c796cb53f2b352ff79e3ca6cb811e16c9b550f9360",
-      "reference_frame": 0,
-      "reference_body_bounds": [
-        74,
-        105,
-        214,
-        221
-      ],
-      "scale": 0.5603448275862069,
-      "status": "measured_atlas_candidate_unreviewed",
-      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/black/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
     },
     {
@@ -489,6 +460,23 @@
       "size_target_approval": "user_updated_20261029_changlie"
     },
     {
+      "id": "charmia",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/charmia.gif",
+      "source_sha256": "be42e8fb0920dee58dc0e71e3d0f3117f512e5a1b7966f52617f586cfe705e53",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        205,
+        285,
+        315,
+        455
+      ],
+      "scale": 0.47058823529411764,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/charmia/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
+    },
+    {
       "id": "choptian",
       "target_height_px": 90,
       "source": "Asset/Character/vfx/choptian.gif",
@@ -504,6 +492,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/choptian/candidate.json",
       "size_target_approval": "user_updated_round3"
+    },
+    {
+      "id": "combra",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/combra.gif",
+      "source_sha256": "c350ee36210337a1584a073e6cf21b177e1450cf6f8b23bcee6edbed87897d33",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        205,
+        310,
+        325,
+        455
+      ],
+      "scale": 0.5517241379310345,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/combra/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision3"
     },
     {
       "id": "comca",
@@ -564,6 +569,23 @@
       "size_target_approval": "user_updated_round3"
     },
     {
+      "id": "cons",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/cons.gif",
+      "source_sha256": "82a0e54d6a4b3c112cd9e31fd613a5fa9c70463a4aad53c24faf4fca4e2fdffc",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        180,
+        285,
+        350,
+        455
+      ],
+      "scale": 0.47058823529411764,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/cons/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision3"
+    },
+    {
       "id": "corepion",
       "target_height_px": 65,
       "source": "Asset/Character/vfx/corepion.gif",
@@ -579,6 +601,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/corepion/candidate.json",
       "size_target_approval": "user_updated_round3"
+    },
+    {
+      "id": "cornra",
+      "target_height_px": 85,
+      "source": "Asset/Character/vfx/cornra.gif",
+      "source_sha256": "ab267bfc2427675bac10ce0b025276e249fd31d9be99619b7508c6a61ce3109f",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        205,
+        260,
+        310,
+        455
+      ],
+      "scale": 0.4358974358974359,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/cornra/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision3"
     },
     {
       "id": "costmic",
@@ -636,16 +675,33 @@
       "size_target_approval": "user_approved_unchanged_round2"
     },
     {
+      "id": "Diorai",
+      "target_height_px": 70,
+      "source": "Asset/Character/vfx/Diorai.gif",
+      "source_sha256": "99c865743b39dd7d3d731ec5668aba0804e0045f39136da86eec5210eb4c5887",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        195,
+        275,
+        330,
+        450
+      ],
+      "scale": 0.4,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Diorai/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision4"
+    },
+    {
       "id": "Domrico",
-      "target_height_px": 85,
+      "target_height_px": 90,
       "source": "Asset/Character/vfx/Domrico.gif",
       "source_sha256": "cc53375b653a3b8cb3d78cc17e71127e1c7c1b492dabfa5ca44e45407d16e6bd",
       "reference_frame": 0,
       "reference_body_bounds": null,
-      "scale": 0.27960526315789475,
+      "scale": 0.29605263157894735,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Domrico/candidate.json",
-      "size_target_approval": "user_updated_round4"
+      "size_target_approval": "user_requested_20261030_revision4"
     },
     {
       "id": "dong",
@@ -757,6 +813,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/ethan/candidate.json",
       "size_target_approval": "user_updated_20261029_ethan_85"
+    },
+    {
+      "id": "Evenl",
+      "target_height_px": 70,
+      "source": "Asset/Character/vfx/Evenl.gif",
+      "source_sha256": "20601e1c62c522228dd9381384cddab725d4831fd1f5c1d4e6ac8b713d5a3499",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        195,
+        295,
+        330,
+        455
+      ],
+      "scale": 0.4375,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Evenl/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision2"
     },
     {
       "id": "fireknight",
@@ -896,6 +969,23 @@
       "size_target_approval": "user_updated_round4"
     },
     {
+      "id": "hecpoirt",
+      "target_height_px": 70,
+      "source": "Asset/Character/vfx/hecpoirt.gif",
+      "source_sha256": "69e97201495f1bad49b17db082eb97fa418abb5df447a43b6f4513ca958768c8",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        190,
+        290,
+        380,
+        455
+      ],
+      "scale": 0.42424242424242425,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/hecpoirt/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
+    },
+    {
       "id": "hox",
       "target_height_px": 80,
       "source": "Asset/Character/vfx/hox.gif",
@@ -930,6 +1020,57 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Impector/candidate.json",
       "size_target_approval": "user_updated_round4"
+    },
+    {
+      "id": "isis",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/isis.gif",
+      "source_sha256": "c904be32f972ed630e5f8d88ef4f43ec5607ed7eb76f5f3403d51f8cc947b0eb",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        190,
+        270,
+        320,
+        455
+      ],
+      "scale": 0.43243243243243246,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/isis/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
+    },
+    {
+      "id": "ison",
+      "target_height_px": 90,
+      "source": "Asset/Character/vfx/ison.gif",
+      "source_sha256": "ee028e92235318c7a57ec7c103dd9d4c87ec4ad4b5f2ada1b55bad24288b63a8",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        160,
+        270,
+        350,
+        455
+      ],
+      "scale": 0.4864864864864865,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/ison/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
+    },
+    {
+      "id": "isorat",
+      "target_height_px": 75,
+      "source": "Asset/Character/vfx/isorat.gif",
+      "source_sha256": "833892486aa07601816b7b8d5d96dafeb67e6d5ec94c7fee3b36c60109cbd668",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        205,
+        305,
+        345,
+        455
+      ],
+      "scale": 0.5,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/isorat/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
     },
     {
       "id": "iternal",
@@ -991,15 +1132,15 @@
     },
     {
       "id": "Kahn",
-      "target_height_px": 87,
+      "target_height_px": 90,
       "source": "Asset/Character/vfx/Kahn.gif",
       "source_sha256": "4911bbdbaabc843923ac391b521281192fd8c39511e5d629a6bd20badcc8b133",
       "reference_frame": 0,
       "reference_body_bounds": null,
-      "scale": 0.41232227488151657,
+      "scale": 0.4265402843601896,
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Kahn/candidate.json",
-      "size_target_approval": "user_updated_round3"
+      "size_target_approval": "user_requested_20261030_revision4"
     },
     {
       "id": "Kanhosst",
@@ -1034,6 +1175,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/kengkeng/candidate.json",
       "size_target_approval": "user_updated_round3"
+    },
+    {
+      "id": "kikontai",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/kikontai.gif",
+      "source_sha256": "092197c17bd0c0af0a7dd5edac717a20364cf239c4d9699d4847a1b92282acee",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        205,
+        300,
+        330,
+        455
+      ],
+      "scale": 0.5161290322580645,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/kikontai/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
     },
     {
       "id": "knel",
@@ -1125,6 +1283,23 @@
       "size_target_approval": "user_approved_unchanged_round2"
     },
     {
+      "id": "Kungteng",
+      "target_height_px": 85,
+      "source": "Asset/Character/vfx/Kungteng.gif",
+      "source_sha256": "b61d820c3af1ff1078d4ee3c0321b8667cafb499b3dcbe18acd7e697e99eea6f",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        195,
+        275,
+        320,
+        455
+      ],
+      "scale": 0.4722222222222222,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Kungteng/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision4"
+    },
+    {
       "id": "machinen",
       "target_height_px": 80,
       "source": "Asset/Character/vfx/machinen.gif",
@@ -1214,6 +1389,23 @@
       "size_target_approval": "user_approved_unchanged_round2"
     },
     {
+      "id": "maxoi",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/maxoi.gif",
+      "source_sha256": "d9dbf75a72462a4d859b95a1a01b16ce277a2a4aa97b347feb77bfe97e00b34d",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        190,
+        295,
+        340,
+        455
+      ],
+      "scale": 0.5,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/maxoi/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
+    },
+    {
       "id": "midnight",
       "target_height_px": 80,
       "source": "Asset/Character/vfx/midnight.gif",
@@ -1248,18 +1440,6 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/modfin/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
-    },
-    {
-      "id": "momo",
-      "target_height_px": 85,
-      "source": "Asset/Character/vfx/momo.gif",
-      "source_sha256": "2084efc7ecca9e3dba3ccf4c874b69ccc1b0922ea41ea666ba123f57dafb8265",
-      "reference_frame": 0,
-      "reference_body_bounds": null,
-      "scale": 0.20833333333333334,
-      "status": "automatic_alpha_candidate_unreviewed",
-      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/momo/candidate.json",
-      "size_target_approval": "user_updated_round3"
     },
     {
       "id": "monster",
@@ -1308,6 +1488,40 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/monterpie/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
+    },
+    {
+      "id": "Moregorn",
+      "target_height_px": 65,
+      "source": "Asset/Character/vfx/Moregorn.gif",
+      "source_sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        190,
+        295,
+        330,
+        455
+      ],
+      "scale": 0.40625,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Moregorn/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision2"
+    },
+    {
+      "id": "Moresword",
+      "target_height_px": 65,
+      "source": "Asset/Character/vfx/Moresword.gif",
+      "source_sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        190,
+        300,
+        335,
+        460
+      ],
+      "scale": 0.40625,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/Moresword/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision4"
     },
     {
       "id": "mortafi",
@@ -1368,18 +1582,6 @@
       "size_target_approval": "user_approved_20261029_v2"
     },
     {
-      "id": "namero",
-      "target_height_px": 60,
-      "source": "Asset/Character/vfx/3 char.gif",
-      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
-      "reference_frame": 0,
-      "reference_body_bounds": null,
-      "scale": 0.5769230769230769,
-      "status": "automatic_alpha_candidate_unreviewed",
-      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/namero/candidate.json",
-      "size_target_approval": "user_approved_unchanged_round2"
-    },
-    {
       "id": "Nemotront",
       "target_height_px": 80,
       "source": "Asset/Character/vfx/Nemotront.gif",
@@ -1433,6 +1635,40 @@
       "size_target_approval": "user_updated_round2"
     },
     {
+      "id": "omega",
+      "target_height_px": 75,
+      "source": "Asset/Character/vfx/omega.gif",
+      "source_sha256": "fddd4ff403e76d00f3dd6b69bde72928c2ce6045dc881e3b284073c3c7f0093e",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        195,
+        275,
+        320,
+        455
+      ],
+      "scale": 0.4166666666666667,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/omega/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision4"
+    },
+    {
+      "id": "ompan",
+      "target_height_px": 75,
+      "source": "Asset/Character/vfx/ompan.gif",
+      "source_sha256": "61dce80feac58005c3a85e20716e5f89a01be9b610e2d92fbe8309941498277b",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        210,
+        320,
+        310,
+        455
+      ],
+      "scale": 0.5555555555555556,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/ompan/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision4"
+    },
+    {
       "id": "omra",
       "target_height_px": 80,
       "source": "Asset/Character/vfx/omra.gif",
@@ -1443,6 +1679,57 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/omra/candidate.json",
       "size_target_approval": "user_updated_round3"
+    },
+    {
+      "id": "onaon",
+      "target_height_px": 70,
+      "source": "Asset/Character/vfx/onaon.gif",
+      "source_sha256": "257904caaf31c450900e05e4ac1eb86f75bf3857f788c2bd1ae7bd09ff9c8cae",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        175,
+        300,
+        380,
+        455
+      ],
+      "scale": 0.45161290322580644,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/onaon/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
+    },
+    {
+      "id": "oset",
+      "target_height_px": 75,
+      "source": "Asset/Character/vfx/oset.gif",
+      "source_sha256": "a5883068dc678293def225ddc9a5aaee9c79ba80d2a6c0d7b2498897b1873b7f",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        175,
+        280,
+        370,
+        455
+      ],
+      "scale": 0.42857142857142855,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/oset/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision4"
+    },
+    {
+      "id": "osiris",
+      "target_height_px": 85,
+      "source": "Asset/Character/vfx/osiris.gif",
+      "source_sha256": "a28b310ac1b7f96fcc6cff3b97940caf5705467773c875d8c2c316a905ed386d",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        175,
+        260,
+        360,
+        455
+      ],
+      "scale": 0.4358974358974359,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/osiris/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
     },
     {
       "id": "overight",
@@ -1489,6 +1776,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/oxiu/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
+    },
+    {
+      "id": "pandung",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/pandung.gif",
+      "source_sha256": "7b3afc29f2f0b47e03d9d3e291b505c2845541fc572a9c807bc4902c3b68bef2",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        190,
+        270,
+        350,
+        455
+      ],
+      "scale": 0.43243243243243246,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/pandung/candidate.json",
+      "size_target_approval": "user_requested_20261030_revision4"
     },
     {
       "id": "panfire",
@@ -1626,6 +1930,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/reptalian/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
+    },
+    {
+      "id": "samset",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/samset.gif",
+      "source_sha256": "7d3abaab389854beb4f643d7e6d694e722e467f26c08e6879b06181a7f4cbde4",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        190,
+        285,
+        330,
+        455
+      ],
+      "scale": 0.47058823529411764,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/samset/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
     },
     {
       "id": "samurai",
@@ -1782,18 +2103,6 @@
       "size_target_approval": "user_updated_round2"
     },
     {
-      "id": "snowpie",
-      "target_height_px": 60,
-      "source": "Asset/Character/vfx/snowpie.gif",
-      "source_sha256": "2bb818caba8429c3eeddf3ea66aa18c8f834567557a52c3e5146108bf03451d2",
-      "reference_frame": 0,
-      "reference_body_bounds": null,
-      "scale": 0.5769230769230769,
-      "status": "automatic_alpha_candidate_unreviewed",
-      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/snowpie/candidate.json",
-      "size_target_approval": "user_approved_unchanged_round2"
-    },
-    {
       "id": "solist",
       "target_height_px": 60,
       "source": "Asset/Character/vfx/3 char.gif",
@@ -1850,6 +2159,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/tailer/candidate.json",
       "size_target_approval": "user_updated_round2"
+    },
+    {
+      "id": "thorn",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/thorn.gif",
+      "source_sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        175,
+        260,
+        340,
+        455
+      ],
+      "scale": 0.41025641025641024,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/thorn/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
     },
     {
       "id": "tigerknight",
@@ -1920,6 +2246,23 @@
       "status": "automatic_alpha_candidate_unreviewed",
       "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/trongit/candidate.json",
       "size_target_approval": "user_approved_unchanged_round2"
+    },
+    {
+      "id": "uopon",
+      "target_height_px": 80,
+      "source": "Asset/Character/vfx/uopon.gif",
+      "source_sha256": "0400fcbf6a6c0672a1aa1d3964f5131cd1a5009e943f1f04e7d93d825d394a61",
+      "reference_frame": 0,
+      "reference_body_bounds": [
+        195,
+        280,
+        340,
+        455
+      ],
+      "scale": 0.45714285714285713,
+      "status": "visual_body_estimate_unreviewed",
+      "measured_atlas_candidate": "Asset/Character/measured_atlas_pilots/uopon/candidate.json",
+      "size_target_approval": "user_requested_20261030_twenty"
     },
     {
       "id": "urguro",

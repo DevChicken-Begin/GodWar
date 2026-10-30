@@ -1,0 +1,394 @@
+[
+  {
+    "id": "Kungteng",
+    "qa_file": "Asset/Character/forge_pilots/six_remaining_20261030/Kungteng/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.539138,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "charmia",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/charmia/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 1.612447,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "combra",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/combra/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "near_duplicate_holds",
+        "status": "warn",
+        "value": 1,
+        "threshold": 0
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.043681,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "cons",
+    "qa_file": "Asset/Character/forge_pilots/six_remaining_20261030/cons/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.854512,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "cornra",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/cornra/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.953558,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "hecpoirt",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/hecpoirt/frame1-46-clean-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.921659,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "isis",
+    "qa_file": "Asset/Character/forge_pilots/six_remaining_20261030/isis/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.917884,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "ison",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/ison/static-refined-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.441676,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "isorat",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/isorat/static-refined-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.88575,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "kikontai",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/kikontai/frame34-clean-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.206022,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "maxoi",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 1.308468,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "omega",
+    "qa_file": "Asset/Character/forge_pilots/six_remaining_20261030/omega/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.719493,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "ompan",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/ompan/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.56508,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "onaon",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/onaon/static-refined-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.41324,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "oset",
+    "qa_file": "Asset/Character/forge_pilots/six_remaining_20261030/oset/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 1.704313,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "osiris",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/osiris/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.625499,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "pandung",
+    "qa_file": "Asset/Character/forge_pilots/six_remaining_20261030/pandung/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.710884,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "samset",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/samset/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "near_duplicate_holds",
+        "status": "warn",
+        "value": 3,
+        "threshold": 0
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.582254,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "thorn",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/thorn/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 1.119363,
+        "threshold": null
+      }
+    ]
+  },
+  {
+    "id": "uopon",
+    "qa_file": "Asset/Character/forge_pilots/fourteen_20261030/uopon/reported-spots-clips/animation-clips.json",
+    "status": "warn",
+    "checks": [
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "near_duplicate_holds",
+        "status": "warn",
+        "value": 2,
+        "threshold": 0
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.669111,
+        "threshold": null
+      }
+    ]
+  }
+]

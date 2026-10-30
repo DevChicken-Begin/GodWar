@@ -7,7 +7,7 @@ const CATALOG_PATH := "res://Asset/Character/extracted/catalog.json"
 const SPLIT_CATALOG_PATH := "res://Asset/Character/extracted/split-catalog.json"
 const COMPOSITE_CATALOG_PATH := "res://Asset/Character/extracted/composite-catalog.json"
 const ATLAS_ROOT := "res://Asset/Character/extracted"
-const APPROVED_ANIMATIONS_PATH := "res://Asset/Character/characters/approved-animations-20261029-v2.json"
+const APPROVED_ANIMATIONS_PATH := "res://Asset/Character/characters/approved-animations-20261030-v8.json"
 
 ## Load the user-approved default, rather than guessing among older variants.
 static func create_approved_animation(asset_id: String) -> Dictionary:

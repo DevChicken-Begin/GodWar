@@ -1,0 +1,112 @@
+{
+  "art_source": "existing",
+  "status": "analysis_only_unapproved",
+  "method": "Median shared scene from six GIFs and three existing independent GIFs; maximum RGB difference > 16 plus stable upper-logo mask; visual preview only.",
+  "limitations": [
+    "Foreground or effects similar to background may disappear; GIF palette and logo overlap may leave residue.",
+    "No timing, scale or engine output approved."
+  ],
+  "sources": [
+    {
+      "source": "Asset/Character/vfx/Aquamen.gif",
+      "sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7",
+      "size": [
+        520,
+        520
+      ],
+      "frame_count": 65,
+      "durations_ms": [
+        60
+      ],
+      "sample_frames": [
+        0,
+        16,
+        32,
+        48,
+        64
+      ],
+      "preview": "Asset/Character/review/six-import-20261030/Aquamen-preview.png"
+    },
+    {
+      "source": "Asset/Character/vfx/Diorai.gif",
+      "sha256": "99c865743b39dd7d3d731ec5668aba0804e0045f39136da86eec5210eb4c5887",
+      "size": [
+        520,
+        520
+      ],
+      "frame_count": 84,
+      "durations_ms": [
+        60
+      ],
+      "sample_frames": [
+        0,
+        21,
+        42,
+        63,
+        83
+      ],
+      "preview": "Asset/Character/review/six-import-20261030/Diorai-preview.png"
+    },
+    {
+      "source": "Asset/Character/vfx/Evenl.gif",
+      "sha256": "20601e1c62c522228dd9381384cddab725d4831fd1f5c1d4e6ac8b713d5a3499",
+      "size": [
+        520,
+        520
+      ],
+      "frame_count": 89,
+      "durations_ms": [
+        60
+      ],
+      "sample_frames": [
+        0,
+        22,
+        44,
+        66,
+        88
+      ],
+      "preview": "Asset/Character/review/six-import-20261030/Evenl-preview.png"
+    },
+    {
+      "source": "Asset/Character/vfx/Moregorn.gif",
+      "sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+      "size": [
+        520,
+        520
+      ],
+      "frame_count": 51,
+      "durations_ms": [
+        60
+      ],
+      "sample_frames": [
+        0,
+        12,
+        25,
+        38,
+        50
+      ],
+      "preview": "Asset/Character/review/six-import-20261030/Moregorn-preview.png"
+    },
+    {
+      "source": "Asset/Character/vfx/Moresword.gif",
+      "sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7",
+      "size": [
+        520,
+        520
+      ],
+      "frame_count": 89,
+      "durations_ms": [
+        60
+      ],
+      "sample_frames": [
+        0,
+        22,
+        44,
+        66,
+        88
+      ],
+      "preview": "Asset/Character/review/six-import-20261030/Moresword-preview.png"
+    }
+  ],
+  "historical_note": "Bản thử nền cũ từng dùng Also; nguồn Also đã xóa theo yêu cầu, không còn tái tạo nguyên vẹn mô hình cũ."
+}

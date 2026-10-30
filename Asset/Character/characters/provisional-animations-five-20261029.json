@@ -1,5 +1,5 @@
 {
-  "status": "promoted_to_approved_v2",
+  "status": "promoted_to_approved_v5",
   "assets": [],
   "promoted_ids": [
     "Mythos",
@@ -7,5 +7,27 @@
     "Epicti",
     "Nemotront",
     "Kanhosst"
+  ],
+  "promoted_ids_v5": [
+    "charmia",
+    "combra",
+    "cornra",
+    "hecpoirt",
+    "ison",
+    "isorat",
+    "kikontai",
+    "maxoi",
+    "ompan",
+    "onaon",
+    "osiris",
+    "samset",
+    "thorn",
+    "uopon",
+    "Kungteng",
+    "cons",
+    "isis",
+    "omega",
+    "oset",
+    "pandung"
   ]
 }

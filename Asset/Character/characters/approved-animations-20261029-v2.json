@@ -406,38 +406,6 @@
       ]
     },
     {
-      "id": "azza",
-      "default_profile": "azza",
-      "profiles": [
-        {
-          "id": "azza",
-          "candidate": "Asset/Character/measured_atlas_pilots/azza/candidate.json",
-          "candidate_sha256": "31694462a130eaef55eb749c8dd78484f626c10ffcbd859337259908e0a6b3c6",
-          "atlas_sha256": {
-            "Asset/Character/measured_atlas_pilots/azza/atlas_000.png": "541c8ccba63faf08efd38d59e0ecfccfb0922b96f3b30553ed125c5d174254bf"
-          },
-          "frame_count": 47,
-          "target_height_px": 75
-        }
-      ]
-    },
-    {
-      "id": "bearen",
-      "default_profile": "bearen",
-      "profiles": [
-        {
-          "id": "bearen",
-          "candidate": "Asset/Character/measured_atlas_pilots/bearen/candidate.json",
-          "candidate_sha256": "e2be7604d4097d4d5aa542629135a3cc8bdc879454caaabd357490a4a3a5b84d",
-          "atlas_sha256": {
-            "Asset/Character/measured_atlas_pilots/bearen/atlas_000.png": "ea94ffa8abed1baf9ed15c1e725b3df65cc88ab2278efcfe219fc304b2c658cf"
-          },
-          "frame_count": 29,
-          "target_height_px": 90
-        }
-      ]
-    },
-    {
       "id": "bearfire",
       "default_profile": "bearfire",
       "profiles": [
@@ -468,22 +436,6 @@
           },
           "frame_count": 67,
           "target_height_px": 80
-        }
-      ]
-    },
-    {
-      "id": "black",
-      "default_profile": "black",
-      "profiles": [
-        {
-          "id": "black",
-          "candidate": "Asset/Character/measured_atlas_pilots/black/candidate.json",
-          "candidate_sha256": "272566104f1e8d5f7793b7092114c9826573b6e824877b801c17c57690c36d13",
-          "atlas_sha256": {
-            "Asset/Character/measured_atlas_pilots/black/atlas_000.png": "d81cb915eaba4e22ceaf4d8530a2707ec6d87bf8408e8debdb17623040234598"
-          },
-          "frame_count": 27,
-          "target_height_px": 65
         }
       ]
     },
@@ -1903,36 +1855,6 @@
       ]
     },
     {
-      "id": "momo",
-      "default_profile": "momo",
-      "profiles": [
-        {
-          "id": "momo",
-          "candidate": "Asset/Character/measured_atlas_pilots/momo/candidate.json",
-          "candidate_sha256": "6d903aed7f4db83f967814d516214aa385d0874af65a6ab9d320f0655ee36907",
-          "atlas_sha256": {
-            "Asset/Character/measured_atlas_pilots/momo/atlas_000.png": "0e5e030b5849a9cc73d95ce6e36b972af05a28ae1fa5473af9ff0bfc6fb0e898",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_001.png": "ed55ac86963c40494df05747afffb9c6448d199b76bf564c89ea039911020de4",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_002.png": "4fa8013e7f8568b935dd6fc385169b8048d205d143703e639192771f63cd2ae6",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_003.png": "7888f16081dbc28ba77084327ef022e0ed429f7e570d82b2157d143f6d962157",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_004.png": "7d0bcb1b36ce040f690222755c66439cb2506193ea0c00e24e64832aa60b1905",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_005.png": "ede9f65d36522485e64ccad54f257d7f58572e73b3527813482a2b7024b62a60",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_006.png": "220f3462a16aa383df56a095ec7fc1686315f6a9cd689170e5d435e3115919ed",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_007.png": "5cc7c75b1b1165bc323f25d6da1f5c43b76852cdeffe79190b79af453ad81473",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_008.png": "770dee2021610925f885ded33e42d569dc22ba5574aab2ec5b96b63adc0c114e",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_009.png": "727b7ff14697dfaf3454347d798faa0b18d83f04de8a4d1ca01dde468b64c0c8",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_010.png": "5f5826b03dd730e7c6a7ca7b609dd958ac3256c912574b0f7d4d35a64fef46bf",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_011.png": "aca7c2806ac44d572f3676a5bdcc7d33f876ec190a3c3351ae413c52e513b7b3",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_012.png": "c11720c41856cb8d3284474054575d449998afb78de55fe21c9d5bcd0bd2abbf",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_013.png": "6ae6f84ab0204d62cf502a5d1ed2926a9d585fb08d24aefa973ec1975af67fa9",
-            "Asset/Character/measured_atlas_pilots/momo/atlas_014.png": "7b17a840937ed0da1c82eec400501faf52b90cd4142f93d86f47fd8851bd1887"
-          },
-          "frame_count": 58,
-          "target_height_px": 85
-        }
-      ]
-    },
-    {
       "id": "monster",
       "default_profile": "monster",
       "profiles": [
@@ -2083,23 +2005,6 @@
           },
           "frame_count": 120,
           "target_height_px": 80
-        }
-      ]
-    },
-    {
-      "id": "namero",
-      "default_profile": "namero",
-      "profiles": [
-        {
-          "id": "namero",
-          "candidate": "Asset/Character/measured_atlas_pilots/namero/candidate.json",
-          "candidate_sha256": "17ccbcd1b2cf158c82ec2dd7ff1ef6386fbaef0d72120a079d6e3519d6d17054",
-          "atlas_sha256": {
-            "Asset/Character/measured_atlas_pilots/namero/atlas_000.png": "e78e3767811d6263a63cc273adb89f67bdcc28d97cab7daede444601f29c0c52",
-            "Asset/Character/measured_atlas_pilots/namero/atlas_001.png": "f00553758bd4991d68bec757c7da37e54a426842a88c8ffc4a314e8972913372"
-          },
-          "frame_count": 50,
-          "target_height_px": 60
         }
       ]
     },
@@ -2875,22 +2780,6 @@
           },
           "frame_count": 120,
           "target_height_px": 65
-        }
-      ]
-    },
-    {
-      "id": "snowpie",
-      "default_profile": "snowpie",
-      "profiles": [
-        {
-          "id": "snowpie",
-          "candidate": "Asset/Character/measured_atlas_pilots/snowpie/candidate.json",
-          "candidate_sha256": "7ae181a42987ce2804b496e440d381f16ccefb196d3e8c076e6ef897b9e5b00d",
-          "atlas_sha256": {
-            "Asset/Character/measured_atlas_pilots/snowpie/atlas_000.png": "f7855046df8e17cda7a64501551c135d0b35585673328d3276c07145e778cdda"
-          },
-          "frame_count": 49,
-          "target_height_px": 60
         }
       ]
     },

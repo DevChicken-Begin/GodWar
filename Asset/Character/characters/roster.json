@@ -243,36 +243,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "azza",
-      "provisional_character_name": "azza",
-      "source": "Asset/Character/vfx/azza.gif",
-      "source_sha256": "8fc3d162149a9713db3753f796733bc1ab613386d43e9a19395d81b36db24127",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
-      "source_id": "bearen",
-      "provisional_character_name": "bearen",
-      "source": "Asset/Character/vfx/bearen.gif",
-      "source_sha256": "eb85eb953c76b7f2eaa6116758cff60f0441f5a0afe19cc6400c5aca40060929",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "bearfire",
       "provisional_character_name": "bearfire",
       "source": "Asset/Character/vfx/bearfire.gif",
@@ -1278,21 +1248,6 @@
       "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
     },
     {
-      "source_id": "snowpie",
-      "provisional_character_name": "snowpie",
-      "source": "Asset/Character/vfx/snowpie.gif",
-      "source_sha256": "2bb818caba8429c3eeddf3ea66aa18c8f834567557a52c3e5146108bf03451d2",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa xác nhận động tác, skill hoặc ghép với nguồn khác."
-    },
-    {
       "source_id": "swordame",
       "provisional_character_name": "swordame",
       "source": "Asset/Character/vfx/swordame.gif",
@@ -1512,26 +1467,6 @@
       "source_frame_range": [
         0,
         51
-      ],
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "Chưa phân loại hoạt ảnh hoặc skill."
-    },
-    {
-      "source_id": "3 char",
-      "provisional_character_name": "namero",
-      "source": "Asset/Character/vfx/3 char.gif",
-      "source_sha256": "b30d12499dbc6bacadc27e67b0fcd27fbb902b5799c5f2da20eced95f4eac04a",
-      "identity_status": "user_named",
-      "character_id": "namero",
-      "source_frame_range": [
-        52,
-        101
       ],
       "animations": {},
       "skill": {
@@ -1773,21 +1708,6 @@
       "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
     },
     {
-      "source_id": "black",
-      "provisional_character_name": "black",
-      "source": "Asset/Character/vfx/black.gif",
-      "source_sha256": "817c9ec1e784ca93dbfc72c796cb53f2b352ff79e3ca6cb811e16c9b550f9360",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "GIF người dùng cung cấp; chưa phân đoạn hành động hay skill."
-    },
-    {
       "source_id": "pigpor",
       "provisional_character_name": "pigpor",
       "source": "Asset/Character/vfx/pigpor.gif",
@@ -1882,21 +1802,6 @@
       "provisional_character_name": "jaying",
       "source": "Asset/Character/vfx/jaying.gif",
       "source_sha256": "47f04e6f34345d9771fdb843818a16d00458f64d754974514b238d8a79fb951e",
-      "identity_status": "name_from_filename_visual_review_needed",
-      "animations": {},
-      "skill": {
-        "status": "unreviewed",
-        "name": null,
-        "provenance": null
-      },
-      "attack_range": "unreviewed",
-      "notes": "GIF mới; chưa phân loại hành động hoặc skill."
-    },
-    {
-      "source_id": "momo",
-      "provisional_character_name": "momo",
-      "source": "Asset/Character/vfx/momo.gif",
-      "source_sha256": "2084efc7ecca9e3dba3ccf4c874b69ccc1b0922ea41ea666ba123f57dafb8265",
       "identity_status": "name_from_filename_visual_review_needed",
       "animations": {},
       "skill": {
@@ -2386,6 +2291,381 @@
       },
       "attack_range": "unreviewed",
       "notes": "Nguồn mới, hoạt ảnh chưa phân loại; nền và mốc thân cần duyệt."
+    },
+    {
+      "source_id": "Aquamen",
+      "provisional_character_name": "Aquamen",
+      "source": "Asset/Character/vfx/Aquamen.gif",
+      "source_sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "Diorai",
+      "provisional_character_name": "Diorai",
+      "source": "Asset/Character/vfx/Diorai.gif",
+      "source_sha256": "99c865743b39dd7d3d731ec5668aba0804e0045f39136da86eec5210eb4c5887",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "Evenl",
+      "provisional_character_name": "Evenl",
+      "source": "Asset/Character/vfx/Evenl.gif",
+      "source_sha256": "20601e1c62c522228dd9381384cddab725d4831fd1f5c1d4e6ac8b713d5a3499",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "Moregorn",
+      "provisional_character_name": "Moregorn",
+      "source": "Asset/Character/vfx/Moregorn.gif",
+      "source_sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "Moresword",
+      "provisional_character_name": "Moresword",
+      "source": "Asset/Character/vfx/Moresword.gif",
+      "source_sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "charmia",
+      "provisional_character_name": "charmia",
+      "source": "Asset/Character/vfx/charmia.gif",
+      "source_sha256": "be42e8fb0920dee58dc0e71e3d0f3117f512e5a1b7966f52617f586cfe705e53",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "combra",
+      "provisional_character_name": "combra",
+      "source": "Asset/Character/vfx/combra.gif",
+      "source_sha256": "c350ee36210337a1584a073e6cf21b177e1450cf6f8b23bcee6edbed87897d33",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "cornra",
+      "provisional_character_name": "cornra",
+      "source": "Asset/Character/vfx/cornra.gif",
+      "source_sha256": "ab267bfc2427675bac10ce0b025276e249fd31d9be99619b7508c6a61ce3109f",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "hecpoirt",
+      "provisional_character_name": "hecpoirt",
+      "source": "Asset/Character/vfx/hecpoirt.gif",
+      "source_sha256": "69e97201495f1bad49b17db082eb97fa418abb5df447a43b6f4513ca958768c8",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "ison",
+      "provisional_character_name": "ison",
+      "source": "Asset/Character/vfx/ison.gif",
+      "source_sha256": "ee028e92235318c7a57ec7c103dd9d4c87ec4ad4b5f2ada1b55bad24288b63a8",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "isorat",
+      "provisional_character_name": "isorat",
+      "source": "Asset/Character/vfx/isorat.gif",
+      "source_sha256": "833892486aa07601816b7b8d5d96dafeb67e6d5ec94c7fee3b36c60109cbd668",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "kikontai",
+      "provisional_character_name": "kikontai",
+      "source": "Asset/Character/vfx/kikontai.gif",
+      "source_sha256": "092197c17bd0c0af0a7dd5edac717a20364cf239c4d9699d4847a1b92282acee",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "maxoi",
+      "provisional_character_name": "maxoi",
+      "source": "Asset/Character/vfx/maxoi.gif",
+      "source_sha256": "d9dbf75a72462a4d859b95a1a01b16ce277a2a4aa97b347feb77bfe97e00b34d",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "ompan",
+      "provisional_character_name": "ompan",
+      "source": "Asset/Character/vfx/ompan.gif",
+      "source_sha256": "61dce80feac58005c3a85e20716e5f89a01be9b610e2d92fbe8309941498277b",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "onaon",
+      "provisional_character_name": "onaon",
+      "source": "Asset/Character/vfx/onaon.gif",
+      "source_sha256": "257904caaf31c450900e05e4ac1eb86f75bf3857f788c2bd1ae7bd09ff9c8cae",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "osiris",
+      "provisional_character_name": "osiris",
+      "source": "Asset/Character/vfx/osiris.gif",
+      "source_sha256": "a28b310ac1b7f96fcc6cff3b97940caf5705467773c875d8c2c316a905ed386d",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "samset",
+      "provisional_character_name": "samset",
+      "source": "Asset/Character/vfx/samset.gif",
+      "source_sha256": "7d3abaab389854beb4f643d7e6d694e722e467f26c08e6879b06181a7f4cbde4",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "thorn",
+      "provisional_character_name": "thorn",
+      "source": "Asset/Character/vfx/thorn.gif",
+      "source_sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "uopon",
+      "provisional_character_name": "uopon",
+      "source": "Asset/Character/vfx/uopon.gif",
+      "source_sha256": "0400fcbf6a6c0672a1aa1d3964f5131cd1a5009e943f1f04e7d93d825d394a61",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "Kungteng",
+      "provisional_character_name": "Kungteng",
+      "source": "Asset/Character/vfx/Kungteng.gif",
+      "source_sha256": "b61d820c3af1ff1078d4ee3c0321b8667cafb499b3dcbe18acd7e697e99eea6f",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "cons",
+      "provisional_character_name": "cons",
+      "source": "Asset/Character/vfx/cons.gif",
+      "source_sha256": "82a0e54d6a4b3c112cd9e31fd613a5fa9c70463a4aad53c24faf4fca4e2fdffc",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "isis",
+      "provisional_character_name": "isis",
+      "source": "Asset/Character/vfx/isis.gif",
+      "source_sha256": "c904be32f972ed630e5f8d88ef4f43ec5607ed7eb76f5f3403d51f8cc947b0eb",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "omega",
+      "provisional_character_name": "omega",
+      "source": "Asset/Character/vfx/omega.gif",
+      "source_sha256": "fddd4ff403e76d00f3dd6b69bde72928c2ce6045dc881e3b284073c3c7f0093e",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "oset",
+      "provisional_character_name": "oset",
+      "source": "Asset/Character/vfx/oset.gif",
+      "source_sha256": "a5883068dc678293def225ddc9a5aaee9c79ba80d2a6c0d7b2498897b1873b7f",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
+    },
+    {
+      "source_id": "pandung",
+      "provisional_character_name": "pandung",
+      "source": "Asset/Character/vfx/pandung.gif",
+      "source_sha256": "7b3afc29f2f0b47e03d9d3e291b505c2845541fc572a9c807bc4902c3b68bef2",
+      "identity_status": "name_from_filename_visual_review_needed",
+      "animations": {},
+      "skill": {
+        "status": "unreviewed",
+        "name": null,
+        "provenance": null
+      },
+      "attack_range": "unreviewed",
+      "notes": "Chưa duyệt nền, hiệu ứng, thân và neo."
     }
   ]
 }

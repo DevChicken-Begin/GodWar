@@ -1,0 +1,1056 @@
+{
+  "id": "Aquamen",
+  "source": "Asset/Character/vfx/Aquamen.gif",
+  "source_sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7",
+  "art_source": "existing",
+  "frame_count": 65,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    520,
+    520
+  ],
+  "target_height_px": 70,
+  "reference_frame": 0,
+  "reference_height_px": 170,
+  "reference_body_bounds": [
+    190,
+    285,
+    335,
+    455
+  ],
+  "anchor_px": [
+    262.5,
+    455
+  ],
+  "display_scale": 0.4117647058823529,
+  "measurement_kind": "visually_estimated_body_bounds",
+  "status": "candidate_unreviewed",
+  "size_target_approval": "user_requested_20261030_revision2",
+  "method": "Shared median of six GIFs and three older shared-scene sources; RGB maximum difference >16; stable upper logo mask, first-frame difference <=10.",
+  "model_sources": [
+    {
+      "source": "Also.gif",
+      "sha256": "138847cc2db397371d29918695e5823b98ef58db5743387fe3c6b7c9a6322d7a"
+    },
+    {
+      "source": "Aquamen.gif",
+      "sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7"
+    },
+    {
+      "source": "Diorai.gif",
+      "sha256": "99c865743b39dd7d3d731ec5668aba0804e0045f39136da86eec5210eb4c5887"
+    },
+    {
+      "source": "Evenl.gif",
+      "sha256": "20601e1c62c522228dd9381384cddab725d4831fd1f5c1d4e6ac8b713d5a3499"
+    },
+    {
+      "source": "Moregorn.gif",
+      "sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5"
+    },
+    {
+      "source": "Moresword.gif",
+      "sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7"
+    },
+    {
+      "source": "Asset/Character/vfx/animent.gif",
+      "sha256": "9e103898ec9f0aba0e38a97d97d5505e075ca2d2cffadf668b496feeb7b12576"
+    },
+    {
+      "source": "Asset/Character/vfx/overight.gif",
+      "sha256": "95468ca0e3755de220040d894e29d48d827c8c3a278d4d04e8426c9c47e64cbe"
+    },
+    {
+      "source": "Asset/Character/vfx/tigerknight.gif",
+      "sha256": "e5e5f1e28ab0a71deb074d6605071b34ba0110e4ce9c4c6abe85a3edf4206cb5"
+    }
+  ],
+  "opaque_pixels_per_frame": [
+    27405,
+    27640,
+    28626,
+    28180,
+    28760,
+    28680,
+    28665,
+    28246,
+    29175,
+    28126,
+    28195,
+    28070,
+    27417,
+    26811,
+    27700,
+    26679,
+    27386,
+    27264,
+    27374,
+    27606,
+    28567,
+    28181,
+    28765,
+    28724,
+    28685,
+    28298,
+    29210,
+    28167,
+    28245,
+    28122,
+    27458,
+    26839,
+    27766,
+    26745,
+    27433,
+    27350,
+    24927,
+    26189,
+    26651,
+    26998,
+    26705,
+    27756,
+    26983,
+    25952,
+    25881,
+    27179,
+    24976,
+    24254,
+    31506,
+    35070,
+    36857,
+    38664,
+    42928,
+    55166,
+    60689,
+    62076,
+    63091,
+    114112,
+    127010,
+    136194,
+    132601,
+    110828,
+    83718,
+    53972,
+    35146
+  ],
+  "limitations": "Foreground or FX can be removed or background/logo can remain. Body bounds are approximate and unapproved; review all frames and motion.",
+  "cleanup_20261030": {
+    "sample": "pixel_simple.png",
+    "sample_sha256": "9b3f1cd26c6e7967cdb480e277aabb9332f5804dae00fe85933864532a4778bb",
+    "base": "Asset/Character/archive/six_20261030_before_blue_cleanup/Aquamen",
+    "method": "Remove RGBA pixels within max RGB distance 5 of blue sample colors; remove logo-mask pixels matching source frame 0 within max RGB distance 35, logo mask dilated 2px.",
+    "counts_per_frame": [
+      {
+        "blue": 0,
+        "logo": 96
+      },
+      {
+        "blue": 0,
+        "logo": 76
+      },
+      {
+        "blue": 0,
+        "logo": 75
+      },
+      {
+        "blue": 1,
+        "logo": 67
+      },
+      {
+        "blue": 1,
+        "logo": 64
+      },
+      {
+        "blue": 1,
+        "logo": 62
+      },
+      {
+        "blue": 1,
+        "logo": 61
+      },
+      {
+        "blue": 1,
+        "logo": 61
+      },
+      {
+        "blue": 5,
+        "logo": 61
+      },
+      {
+        "blue": 1,
+        "logo": 61
+      },
+      {
+        "blue": 0,
+        "logo": 61
+      },
+      {
+        "blue": 0,
+        "logo": 62
+      },
+      {
+        "blue": 0,
+        "logo": 62
+      },
+      {
+        "blue": 0,
+        "logo": 61
+      },
+      {
+        "blue": 4,
+        "logo": 61
+      },
+      {
+        "blue": 0,
+        "logo": 61
+      },
+      {
+        "blue": 0,
+        "logo": 61
+      },
+      {
+        "blue": 0,
+        "logo": 61
+      },
+      {
+        "blue": 0,
+        "logo": 61
+      },
+      {
+        "blue": 0,
+        "logo": 61
+      },
+      {
+        "blue": 0,
+        "logo": 61
+      },
+      {
+        "blue": 6,
+        "logo": 62
+      },
+      {
+        "blue": 0,
+        "logo": 102
+      },
+      {
+        "blue": 0,
+        "logo": 84
+      },
+      {
+        "blue": 0,
+        "logo": 83
+      },
+      {
+        "blue": 0,
+        "logo": 99
+      },
+      {
+        "blue": 4,
+        "logo": 100
+      },
+      {
+        "blue": 0,
+        "logo": 102
+      },
+      {
+        "blue": 0,
+        "logo": 102
+      },
+      {
+        "blue": 0,
+        "logo": 102
+      },
+      {
+        "blue": 0,
+        "logo": 102
+      },
+      {
+        "blue": 0,
+        "logo": 99
+      },
+      {
+        "blue": 4,
+        "logo": 99
+      },
+      {
+        "blue": 0,
+        "logo": 99
+      },
+      {
+        "blue": 0,
+        "logo": 99
+      },
+      {
+        "blue": 0,
+        "logo": 99
+      },
+      {
+        "blue": 0,
+        "logo": 101
+      },
+      {
+        "blue": 0,
+        "logo": 101
+      },
+      {
+        "blue": 0,
+        "logo": 101
+      },
+      {
+        "blue": 0,
+        "logo": 101
+      },
+      {
+        "blue": 0,
+        "logo": 101
+      },
+      {
+        "blue": 68,
+        "logo": 99
+      },
+      {
+        "blue": 270,
+        "logo": 99
+      },
+      {
+        "blue": 867,
+        "logo": 99
+      },
+      {
+        "blue": 1109,
+        "logo": 101
+      },
+      {
+        "blue": 637,
+        "logo": 85
+      },
+      {
+        "blue": 450,
+        "logo": 84
+      },
+      {
+        "blue": 36,
+        "logo": 95
+      },
+      {
+        "blue": 2032,
+        "logo": 95
+      },
+      {
+        "blue": 1821,
+        "logo": 95
+      },
+      {
+        "blue": 1823,
+        "logo": 95
+      },
+      {
+        "blue": 1837,
+        "logo": 96
+      },
+      {
+        "blue": 1833,
+        "logo": 96
+      },
+      {
+        "blue": 1660,
+        "logo": 97
+      },
+      {
+        "blue": 304,
+        "logo": 97
+      },
+      {
+        "blue": 132,
+        "logo": 96
+      },
+      {
+        "blue": 50,
+        "logo": 96
+      },
+      {
+        "blue": 0,
+        "logo": 101
+      },
+      {
+        "blue": 0,
+        "logo": 96
+      },
+      {
+        "blue": 292,
+        "logo": 210
+      },
+      {
+        "blue": 941,
+        "logo": 251
+      },
+      {
+        "blue": 1485,
+        "logo": 605
+      },
+      {
+        "blue": 1447,
+        "logo": 1158
+      },
+      {
+        "blue": 677,
+        "logo": 1300
+      },
+      {
+        "blue": 94,
+        "logo": 1253
+      }
+    ],
+    "limitations": "Foreground and VFX colors may match sample; logo-overlapping FX may be erased; residue may remain. Unapproved."
+  }
+}

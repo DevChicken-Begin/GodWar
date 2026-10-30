@@ -1,0 +1,854 @@
+{
+  "status": "removed_after_hash_recheck",
+  "protected_files_checked": 2354,
+  "files": [
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/source-manifest.json",
+      "bytes": 3726,
+      "sha256": "5132f83d67b9406d9d4616271c56f5bc247208b4f3cd08a920890145c423fd6b",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/animation-clips.json",
+      "bytes": 74871,
+      "sha256": "cd108cd286698c6c3f459171c2f5995d9f234a4ed56b5ef7ac4de7885ce75b9c",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/contact-sheet.png",
+      "bytes": 470969,
+      "sha256": "450efdd83131a9d7b9b911457c63d4119b54551fb8eca45527eca28d2d33b839",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/clips/clip-00.webp",
+      "bytes": 185824,
+      "sha256": "930baf933ef2f2e5a123e9d119ac55b826522bba4ff81138c597928a37078c1d",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-01.png",
+      "bytes": 120815,
+      "sha256": "02ce3cf4773781a9b407b44116c0fb34593828b193b8e76342a15db7b4ff6792",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-24.png",
+      "bytes": 124804,
+      "sha256": "17852736754fbdf3585881d0a56c5d7195c466fe07286a46a76d737a5c40bccc",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-33.png",
+      "bytes": 119597,
+      "sha256": "cc80fd1d3f058dd6ba95b26e7663a1779a630bac2fb46f86aeca4b51b75f0c8c",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-47.png",
+      "bytes": 125019,
+      "sha256": "bb372281a28d140bbbac1194a808eec1b17ac4079ca4d3305ba73feee5b49034",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-04.png",
+      "bytes": 124939,
+      "sha256": "29e096847d5f9305dc9ee238938b88766d2b5da7cf18e5a960bcad043e571a24",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-11.png",
+      "bytes": 126593,
+      "sha256": "fbf733b2db440c74344834b8a75a610ae850f8d7bbf63931f2fbf0846dda8ac5",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-14.png",
+      "bytes": 126398,
+      "sha256": "cf824d454dc0b0421389cc6ea62e6e94325c4ea1c39a2ac0e6b21045ddd125a9",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-42.png",
+      "bytes": 118551,
+      "sha256": "715e61772c8faa393265b605e432ce85334beff28b88e63f5f69f205ac84c95c",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-10.png",
+      "bytes": 126369,
+      "sha256": "b23e9e98f64a3e91a82be4530717062642c0950db12957f2d1ad96d17079d4f3",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-21.png",
+      "bytes": 123090,
+      "sha256": "716e3699e3947153a6f9bcb1c53ff95bafc874a4e2b4065765b3021823df9105",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-50.png",
+      "bytes": 121119,
+      "sha256": "a9986c42f513982d3941f15c717219a2431a2a61138b9e085c9f61fbb68bab86",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-32.png",
+      "bytes": 118486,
+      "sha256": "019ba6c2df8148b55c03f49b76def6f013f109c46f969cc219e10ee6461f1603",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-39.png",
+      "bytes": 123007,
+      "sha256": "5e8ab5acda06684d7e2f0d1df2affa09fd0f07ee31cd81d3d159d37d1880a0a7",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-13.png",
+      "bytes": 127209,
+      "sha256": "8cdbb97557aea633798b2046bbc31d9552305a4854404fe19aac14febf612ecf",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-22.png",
+      "bytes": 123692,
+      "sha256": "b8376ea145bf498ef118a9107192936142c6eddf5ef44f03e5549fcb14662c8e",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-46.png",
+      "bytes": 123324,
+      "sha256": "a7e7ec2099d1a7c2bf43487ece705b0af128211f4833efeed580021d1bfc5469",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-25.png",
+      "bytes": 125090,
+      "sha256": "64ed34d771ca7242b06dd250c9437ba7b2e3934aad1bc2ea1c6813309dae6ae1",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-18.png",
+      "bytes": 118970,
+      "sha256": "23b8dbea3a8a1510e7ce94e0703d02595ca110d7a8aae15febe985647bd763c6",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-48.png",
+      "bytes": 122683,
+      "sha256": "389a16c40b75137502f313408ce3e8e251d81247021118dccb361f2e6527b9e4",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-43.png",
+      "bytes": 119869,
+      "sha256": "075ececeaefcb5b4d85c56ebe078026f1a1c50352e7f1fb640af7ba19bb1513c",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-49.png",
+      "bytes": 121233,
+      "sha256": "d8682bdf4e276cb6c27c876a6f1827eab0fe19162fc7704b6a033db85e930260",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-31.png",
+      "bytes": 119024,
+      "sha256": "bde858a210daf6fc6a9c4d8a097f044f84ec229d6d3504fe5c3d5b0ead6ac99a",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-12.png",
+      "bytes": 126850,
+      "sha256": "485d548934fc82adc24007426b2699ff28f38f3805347d58a9acde02b8cfca56",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-29.png",
+      "bytes": 123425,
+      "sha256": "e3aa4dacc734842513b8ebc761af426b19dd34946521dc4cf1e68871ab037e94",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-23.png",
+      "bytes": 124372,
+      "sha256": "1699afe719409bdfadacfb49296fa56c16f4826599f8358a869481d4dd16e661",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-38.png",
+      "bytes": 119475,
+      "sha256": "cbb7d25b7c826650de99fffb0c0e3ae9766dd79661d025672d8329211bda4a96",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-28.png",
+      "bytes": 124575,
+      "sha256": "176e6ae7edbcb2893ce552db460edcda0c53ea4dc7c6d9c5dcd28e2391583fc1",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-07.png",
+      "bytes": 124795,
+      "sha256": "09ddeb851de17dbef1a82190f651dfd4996eef2cc92a3ba66f7f6bbaf6cb556b",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-41.png",
+      "bytes": 118181,
+      "sha256": "2c4360f460bc432851ee58b1bba575554d59e5d4ad0a09de813f1d80de0fbfa8",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-06.png",
+      "bytes": 125798,
+      "sha256": "8f115c88a829c91e4d032439493a56a43dbc15e92ac43fef9ddb52ae702f8fab",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-34.png",
+      "bytes": 119786,
+      "sha256": "d13131d04d04fb8c2642b8ad32a525712b42769c87ee1a117ede617f8b25434a",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-19.png",
+      "bytes": 122523,
+      "sha256": "b75176521db5752dc952ae999075393ea3b78064f0deaca9f1aa5bbf22ab0969",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-16.png",
+      "bytes": 125252,
+      "sha256": "3e52687e163ec49069286946a9ff189c819b5b0de772d47d2ccd51051f90388e",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-02.png",
+      "bytes": 121342,
+      "sha256": "38655383f14551d990f99e3a280fe5dac47da64b6a13571fea306398760b3025",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-45.png",
+      "bytes": 120284,
+      "sha256": "3ede21547c533d6ed151e111696df8759f9bf05279949fec7516aacaedbd86da",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-00.png",
+      "bytes": 119267,
+      "sha256": "100d22fa35696a43c57e984eb9390bb0cf23faa6a8d037616a81bb7e12c2c227",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-09.png",
+      "bytes": 125870,
+      "sha256": "0d48151ff0303b06e00fafe33a578dc0476a0c5e8d8984c7d501a98f9d3d8504",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-37.png",
+      "bytes": 117776,
+      "sha256": "b08e43c4a46e9f32037dd2e5089404e47b70abbc7c1e4e16acfc2a03809145c7",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-17.png",
+      "bytes": 124569,
+      "sha256": "0021bfb1b4c3e703950f88ff7bcd4c9d36c8e46a9a28642921eef108a3ee9b53",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-03.png",
+      "bytes": 123292,
+      "sha256": "2b41d14f5e1412c671568d8548a0db58ed294ba1a30382e198d3ef51132a796e",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-08.png",
+      "bytes": 125429,
+      "sha256": "cae4be0b5d6eb6ab76928358b7d3d573a44d869dbc16b1c491e6dd53c7639f29",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-26.png",
+      "bytes": 125496,
+      "sha256": "4f8e9a1ac081ab14f9d6590a4685c2dc736ffe15f6c9c694c28497e8a3d85157",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-36.png",
+      "bytes": 114804,
+      "sha256": "91ea35f7f21fdc54a28dc288bdee458a34879e2439db2794bb3af082a081113e",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-15.png",
+      "bytes": 125585,
+      "sha256": "fc8e569ce8a36b4c1c6fff8410db8bf827e954d5fd32dd5d3330f88a03a96a57",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-35.png",
+      "bytes": 120212,
+      "sha256": "c289fcb346b13d16fa76750182bc159f3171e7f864c55ef31e1801e9776456d2",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-27.png",
+      "bytes": 125426,
+      "sha256": "2b660e5ca50598f988e23c6fe49e70d9ed071e0abdbd9a531c64c00a8885efa5",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-30.png",
+      "bytes": 120987,
+      "sha256": "263527763f91eb8803fd4185258669f0aa634a80bb7e231f3b13b1b4be438d1f",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-44.png",
+      "bytes": 117947,
+      "sha256": "49760bb76081c9597f540a3f9b66ab66cb907cb3a743ebc3b36f242e8f0a2635",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-40.png",
+      "bytes": 120499,
+      "sha256": "1447efcec73dcb9af9d00f93861376a039e322f015fa81db82208810b57f1747",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-20.png",
+      "bytes": 123618,
+      "sha256": "cdd834b897b9f8cc289c53205bbf04514572ef7e52376eacbb671dbe3436a874",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported-spots-clips/frames/frame-05.png",
+      "bytes": 125414,
+      "sha256": "4fdf8a3b371d44226d1b4e15b88b26919a865759e87b3723de437143a7864fd0",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_016.png",
+      "bytes": 125252,
+      "sha256": "3e52687e163ec49069286946a9ff189c819b5b0de772d47d2ccd51051f90388e",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_015.png",
+      "bytes": 125585,
+      "sha256": "fc8e569ce8a36b4c1c6fff8410db8bf827e954d5fd32dd5d3330f88a03a96a57",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_014.png",
+      "bytes": 126398,
+      "sha256": "cf824d454dc0b0421389cc6ea62e6e94325c4ea1c39a2ac0e6b21045ddd125a9",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_043.png",
+      "bytes": 119869,
+      "sha256": "075ececeaefcb5b4d85c56ebe078026f1a1c50352e7f1fb640af7ba19bb1513c",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_012.png",
+      "bytes": 126850,
+      "sha256": "485d548934fc82adc24007426b2699ff28f38f3805347d58a9acde02b8cfca56",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_007.png",
+      "bytes": 124795,
+      "sha256": "09ddeb851de17dbef1a82190f651dfd4996eef2cc92a3ba66f7f6bbaf6cb556b",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_020.png",
+      "bytes": 123618,
+      "sha256": "cdd834b897b9f8cc289c53205bbf04514572ef7e52376eacbb671dbe3436a874",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_008.png",
+      "bytes": 125429,
+      "sha256": "cae4be0b5d6eb6ab76928358b7d3d573a44d869dbc16b1c491e6dd53c7639f29",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_037.png",
+      "bytes": 117776,
+      "sha256": "b08e43c4a46e9f32037dd2e5089404e47b70abbc7c1e4e16acfc2a03809145c7",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_009.png",
+      "bytes": 125870,
+      "sha256": "0d48151ff0303b06e00fafe33a578dc0476a0c5e8d8984c7d501a98f9d3d8504",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_040.png",
+      "bytes": 120499,
+      "sha256": "1447efcec73dcb9af9d00f93861376a039e322f015fa81db82208810b57f1747",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_022.png",
+      "bytes": 123692,
+      "sha256": "b8376ea145bf498ef118a9107192936142c6eddf5ef44f03e5549fcb14662c8e",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_000.png",
+      "bytes": 119267,
+      "sha256": "100d22fa35696a43c57e984eb9390bb0cf23faa6a8d037616a81bb7e12c2c227",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_013.png",
+      "bytes": 127209,
+      "sha256": "8cdbb97557aea633798b2046bbc31d9552305a4854404fe19aac14febf612ecf",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_038.png",
+      "bytes": 119475,
+      "sha256": "cbb7d25b7c826650de99fffb0c0e3ae9766dd79661d025672d8329211bda4a96",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_039.png",
+      "bytes": 123007,
+      "sha256": "5e8ab5acda06684d7e2f0d1df2affa09fd0f07ee31cd81d3d159d37d1880a0a7",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_025.png",
+      "bytes": 125090,
+      "sha256": "64ed34d771ca7242b06dd250c9437ba7b2e3934aad1bc2ea1c6813309dae6ae1",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_042.png",
+      "bytes": 118551,
+      "sha256": "715e61772c8faa393265b605e432ce85334beff28b88e63f5f69f205ac84c95c",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_002.png",
+      "bytes": 121342,
+      "sha256": "38655383f14551d990f99e3a280fe5dac47da64b6a13571fea306398760b3025",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_044.png",
+      "bytes": 117947,
+      "sha256": "49760bb76081c9597f540a3f9b66ab66cb907cb3a743ebc3b36f242e8f0a2635",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_026.png",
+      "bytes": 125496,
+      "sha256": "4f8e9a1ac081ab14f9d6590a4685c2dc736ffe15f6c9c694c28497e8a3d85157",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_034.png",
+      "bytes": 119786,
+      "sha256": "d13131d04d04fb8c2642b8ad32a525712b42769c87ee1a117ede617f8b25434a",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_001.png",
+      "bytes": 120815,
+      "sha256": "02ce3cf4773781a9b407b44116c0fb34593828b193b8e76342a15db7b4ff6792",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_018.png",
+      "bytes": 118970,
+      "sha256": "23b8dbea3a8a1510e7ce94e0703d02595ca110d7a8aae15febe985647bd763c6",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_006.png",
+      "bytes": 125798,
+      "sha256": "8f115c88a829c91e4d032439493a56a43dbc15e92ac43fef9ddb52ae702f8fab",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_048.png",
+      "bytes": 122683,
+      "sha256": "389a16c40b75137502f313408ce3e8e251d81247021118dccb361f2e6527b9e4",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_036.png",
+      "bytes": 114804,
+      "sha256": "91ea35f7f21fdc54a28dc288bdee458a34879e2439db2794bb3af082a081113e",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_010.png",
+      "bytes": 126369,
+      "sha256": "b23e9e98f64a3e91a82be4530717062642c0950db12957f2d1ad96d17079d4f3",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_023.png",
+      "bytes": 124372,
+      "sha256": "1699afe719409bdfadacfb49296fa56c16f4826599f8358a869481d4dd16e661",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_028.png",
+      "bytes": 124575,
+      "sha256": "176e6ae7edbcb2893ce552db460edcda0c53ea4dc7c6d9c5dcd28e2391583fc1",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_003.png",
+      "bytes": 123292,
+      "sha256": "2b41d14f5e1412c671568d8548a0db58ed294ba1a30382e198d3ef51132a796e",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_030.png",
+      "bytes": 120987,
+      "sha256": "263527763f91eb8803fd4185258669f0aa634a80bb7e231f3b13b1b4be438d1f",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_049.png",
+      "bytes": 121233,
+      "sha256": "d8682bdf4e276cb6c27c876a6f1827eab0fe19162fc7704b6a033db85e930260",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_004.png",
+      "bytes": 124939,
+      "sha256": "29e096847d5f9305dc9ee238938b88766d2b5da7cf18e5a960bcad043e571a24",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_019.png",
+      "bytes": 122523,
+      "sha256": "b75176521db5752dc952ae999075393ea3b78064f0deaca9f1aa5bbf22ab0969",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_029.png",
+      "bytes": 123425,
+      "sha256": "e3aa4dacc734842513b8ebc761af426b19dd34946521dc4cf1e68871ab037e94",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_046.png",
+      "bytes": 123324,
+      "sha256": "a7e7ec2099d1a7c2bf43487ece705b0af128211f4833efeed580021d1bfc5469",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_011.png",
+      "bytes": 126593,
+      "sha256": "fbf733b2db440c74344834b8a75a610ae850f8d7bbf63931f2fbf0846dda8ac5",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_027.png",
+      "bytes": 125426,
+      "sha256": "2b660e5ca50598f988e23c6fe49e70d9ed071e0abdbd9a531c64c00a8885efa5",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_050.png",
+      "bytes": 121119,
+      "sha256": "a9986c42f513982d3941f15c717219a2431a2a61138b9e085c9f61fbb68bab86",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_005.png",
+      "bytes": 125414,
+      "sha256": "4fdf8a3b371d44226d1b4e15b88b26919a865759e87b3723de437143a7864fd0",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_017.png",
+      "bytes": 124569,
+      "sha256": "0021bfb1b4c3e703950f88ff7bcd4c9d36c8e46a9a28642921eef108a3ee9b53",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_033.png",
+      "bytes": 119597,
+      "sha256": "cc80fd1d3f058dd6ba95b26e7663a1779a630bac2fb46f86aeca4b51b75f0c8c",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_024.png",
+      "bytes": 124804,
+      "sha256": "17852736754fbdf3585881d0a56c5d7195c466fe07286a46a76d737a5c40bccc",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_031.png",
+      "bytes": 119024,
+      "sha256": "bde858a210daf6fc6a9c4d8a097f044f84ec229d6d3504fe5c3d5b0ead6ac99a",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_045.png",
+      "bytes": 120284,
+      "sha256": "3ede21547c533d6ed151e111696df8759f9bf05279949fec7516aacaedbd86da",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_021.png",
+      "bytes": 123090,
+      "sha256": "716e3699e3947153a6f9bcb1c53ff95bafc874a4e2b4065765b3021823df9105",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_032.png",
+      "bytes": 118486,
+      "sha256": "019ba6c2df8148b55c03f49b76def6f013f109c46f969cc219e10ee6461f1603",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_047.png",
+      "bytes": 125019,
+      "sha256": "bb372281a28d140bbbac1194a808eec1b17ac4079ca4d3305ba73feee5b49034",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_041.png",
+      "bytes": 118181,
+      "sha256": "2c4360f460bc432851ee58b1bba575554d59e5d4ad0a09de813f1d80de0fbfa8",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    },
+    {
+      "path": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/reported_spots_frames/frame_035.png",
+      "bytes": 120212,
+      "sha256": "c289fcb346b13d16fa76750182bc159f3171e7f864c55ef31e1801e9776456d2",
+      "id": "maxoi",
+      "current_clip": "Asset/Character/forge_pilots/fourteen_20261030/maxoi/face-clean-clips/animation-clips.json",
+      "reason": "obsolete Forge iteration; current verified QA inputs/outputs and GIF/initial frames retained"
+    }
+  ]
+}

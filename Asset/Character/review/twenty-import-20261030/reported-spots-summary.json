@@ -1,0 +1,79 @@
+{
+  "results": [
+    {
+      "id": "Kungteng",
+      "pixels_removed": 1866,
+      "frames_changed": 54
+    },
+    {
+      "id": "charmia",
+      "pixels_removed": 1426,
+      "frames_changed": 45
+    },
+    {
+      "id": "combra",
+      "pixels_removed": 1226,
+      "frames_changed": 42
+    },
+    {
+      "id": "cornra",
+      "pixels_removed": 1504,
+      "frames_changed": 47
+    },
+    {
+      "id": "isis",
+      "pixels_removed": 2086,
+      "frames_changed": 62
+    },
+    {
+      "id": "omega",
+      "pixels_removed": 1799,
+      "frames_changed": 54
+    },
+    {
+      "id": "ompan",
+      "pixels_removed": 2738,
+      "frames_changed": 49
+    },
+    {
+      "id": "pandung",
+      "pixels_removed": 1536,
+      "frames_changed": 47
+    },
+    {
+      "id": "samset",
+      "pixels_removed": 2766,
+      "frames_changed": 58
+    },
+    {
+      "id": "thorn",
+      "pixels_removed": 4824,
+      "frames_changed": 66
+    },
+    {
+      "id": "uopon",
+      "pixels_removed": 1938,
+      "frames_changed": 68
+    },
+    {
+      "id": "maxoi",
+      "pixels_removed": 1492,
+      "frames_changed": 49
+    },
+    {
+      "id": "cons",
+      "pixels_removed": 9123,
+      "frames_changed": 97
+    },
+    {
+      "id": "osiris",
+      "pixels_removed": 1117,
+      "frames_changed": 54
+    },
+    {
+      "id": "oset",
+      "pixels_removed": 0,
+      "frames_changed": 0
+    }
+  ]
+}

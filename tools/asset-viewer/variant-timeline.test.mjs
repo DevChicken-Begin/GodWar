@@ -87,16 +87,6 @@ test('candidate timelines switch frame counts and restore the original timeline'
     assert.equal(el('frame').max, last);
     assert.equal(el('variant').children.some((option) => option.value === 'batch12_native_candidates'), name !== 'jaying');
   }
-  select('momo');
-  assert.equal(el('variant').value, 'measured:momo');
-  await el('variant').events.change();
-  assert.match(el('asset-info').textContent, /cao tham chiếu 85 px/);
-  for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 948 * 85 / 408) < 0.01); i++) await new Promise(resolve => setTimeout(resolve, 20));
-  assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 948 * 85 / 408) < 0.01, 'momo uses the round-three scale');
-  assert.deepEqual(el('variant').children.map(option => option.value), ['extracted', 'measured:momo']);
-  el('variant').value = 'detail_oct29_candidates';
-  await el('variant').events.change();
-  assert.match(el('stage-message').textContent, /đã được thay thế/);
   for (const [name, last] of [['shellhost', '40']]) {
     select(name);
     assert.equal(el('variant').value, `measured:${name}`);
@@ -152,13 +142,13 @@ test('candidate timelines switch frame counts and restore the original timeline'
   assert.equal(el('frame').max, '46');
   select('Kahn');
   await el('variant').events.change();
-  assert.match(el('asset-info').textContent, /cao tham chiếu 87 px/);
-  for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 360 * 87 / 211) < 0.01); i++) await new Promise(resolve => setTimeout(resolve, 20));
-  assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 360 * 87 / 211) < 0.01, 'Kahn uses the round-three scale');
+  assert.match(el('asset-info').textContent, /cao tham chiếu 90 px/);
+  for (let i = 0; i < 100 && !(Math.abs(parseFloat(el('canvas').style.width) - 360 * 90 / 211) < 0.01); i++) await new Promise(resolve => setTimeout(resolve, 20));
+  assert.ok(Math.abs(parseFloat(el('canvas').style.width) - 360 * 90 / 211) < 0.01, 'Kahn uses the updated scale');
   for (const [name, height, last] of [
     ['buffao', 80, 67], ['scosrian', 85, 55], ['dump', 80, 109],
-    ['scorpit', 80, 39], ['Domrico', 85, 99], ['hecfaom', 85, 67], ['Impector', 80, 61],
-    ['Actem', 85, 65], ['Hatomin', 80, 50], ['Trainxoan', 85, 52], ['urguro', 90, 46],
+    ['scorpit', 80, 39], ['Domrico', 90, 99], ['hecfaom', 85, 67], ['Impector', 80, 61],
+    ['Actem', 90, 65], ['Hatomin', 80, 50], ['Trainxoan', 85, 52], ['urguro', 90, 46],
   ]) {
     select(name);
     assert.equal(el('variant').value, `measured:${name}`);

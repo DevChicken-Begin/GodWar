@@ -1,0 +1,2780 @@
+{
+  "schema": "generate2dsprite.animation_clips.v2",
+  "source_manifest": {
+    "path": "../reported-spots-manifest.json",
+    "file_sha256": "ceb0ef33445100d2fee04f44b0154ef3f8937725971a2536dcf4e1d78ad90cda",
+    "copy": "source-manifest.json"
+  },
+  "frame_size": [
+    520,
+    520
+  ],
+  "anchor_px": [
+    267.5,
+    455
+  ],
+  "anchor_semantics": "shared canvas/root origin, often a ground reference; not per-frame visible bottom",
+  "sampling": "nearest",
+  "pixel_art": true,
+  "art_source": "existing",
+  "frames": [
+    {
+      "index": 0,
+      "name": "frame_000",
+      "source": {
+        "path": "../reported_spots_frames/frame_000.png",
+        "file_sha256": "3e6006370b7425436624052addcd674498b24c5acf5d68a357fc9eca14a59a95",
+        "bytes": 126040,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "79ae976f74d9eee022673e469dd3aef973bd0b0d2b079d283724e4f7c6514aa6",
+      "transparent_pixel_count": 247460,
+      "visible_pixel_count": 22940,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-00.png"
+    },
+    {
+      "index": 1,
+      "name": "frame_001",
+      "source": {
+        "path": "../reported_spots_frames/frame_001.png",
+        "file_sha256": "5e245b9cd3adda1a7d5519ea94011405b2b4e16c2a57c9c8cbb6fc8de8a903c7",
+        "bytes": 129464,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "fe7309768130df23cbe7cf59bfe45dd2328adbfd6ea4c04790cb130824009506",
+      "transparent_pixel_count": 247434,
+      "visible_pixel_count": 22966,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-01.png"
+    },
+    {
+      "index": 2,
+      "name": "frame_002",
+      "source": {
+        "path": "../reported_spots_frames/frame_002.png",
+        "file_sha256": "c1c900a4fedee752dfa2779dce88300cbbe5a48f0233e44b8ac1892f4f0601d0",
+        "bytes": 135205,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "366355eb424f80cc71f6faea0d9edcce83b3fd1cce88d49bdc36f7752f7a5f00",
+      "transparent_pixel_count": 245574,
+      "visible_pixel_count": 24826,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-02.png"
+    },
+    {
+      "index": 3,
+      "name": "frame_003",
+      "source": {
+        "path": "../reported_spots_frames/frame_003.png",
+        "file_sha256": "0d09193669e24f0d041e542ba0db8a8d53549c31c5329cd061d00ca9760bcc29",
+        "bytes": 137722,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "a3a98313bbef05d4a287fa06ecc1d29819d644462cd64a64390f3a0eab306ec6",
+      "transparent_pixel_count": 245093,
+      "visible_pixel_count": 25307,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-03.png"
+    },
+    {
+      "index": 4,
+      "name": "frame_004",
+      "source": {
+        "path": "../reported_spots_frames/frame_004.png",
+        "file_sha256": "faea1668053b6f1946c47079a53df678fdcddf2a5d2001dd3231223cb694c34a",
+        "bytes": 139935,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "f4e0a19a3baf3b3da2dd0afbba4d862ddcb162edc42938e78f3b429f242a03a6",
+      "transparent_pixel_count": 245669,
+      "visible_pixel_count": 24731,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-04.png"
+    },
+    {
+      "index": 5,
+      "name": "frame_005",
+      "source": {
+        "path": "../reported_spots_frames/frame_005.png",
+        "file_sha256": "4a90d2e950d82bff566eb716966249a47c23c924008548a74685e6b7cc1c323c",
+        "bytes": 140597,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "7d156324a270c832053b0f536cdd296f3f4d4f4e07c94d171c8d97d8e370cc7a",
+      "transparent_pixel_count": 246578,
+      "visible_pixel_count": 23822,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-05.png"
+    },
+    {
+      "index": 6,
+      "name": "frame_006",
+      "source": {
+        "path": "../reported_spots_frames/frame_006.png",
+        "file_sha256": "20accaeedf1105d406f98ccbb75db76bd3bb7ba154b748ed9311ab39ddb98d3b",
+        "bytes": 139849,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "5e3548207446385d62209c1db54a7037b4e15b02585c1c406a8d22dd44bc7c4e",
+      "transparent_pixel_count": 247266,
+      "visible_pixel_count": 23134,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-06.png"
+    },
+    {
+      "index": 7,
+      "name": "frame_007",
+      "source": {
+        "path": "../reported_spots_frames/frame_007.png",
+        "file_sha256": "a97072d79504f1608ffd57eedd7a7bb6683b8bedf718514c5abe5637c0e0b3c9",
+        "bytes": 139567,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "cee3dc15104e4f498fe8ceabb2f39fb1d2b8e09530ae8de645087b430f48635d",
+      "transparent_pixel_count": 246559,
+      "visible_pixel_count": 23841,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-07.png"
+    },
+    {
+      "index": 8,
+      "name": "frame_008",
+      "source": {
+        "path": "../reported_spots_frames/frame_008.png",
+        "file_sha256": "f964d62902455112a0800675e101766e8f1c1e10ba9275900bb5e10d0304964a",
+        "bytes": 141212,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "7dd6b9f34a468a02bddddc1fe80eefe458d65fc9dba9f816703691e031a51a6e",
+      "transparent_pixel_count": 247096,
+      "visible_pixel_count": 23304,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-08.png"
+    },
+    {
+      "index": 9,
+      "name": "frame_009",
+      "source": {
+        "path": "../reported_spots_frames/frame_009.png",
+        "file_sha256": "93cc52877a0d5d67c9f115750ce8b084d0f8b16ecccc286d0be168e299626884",
+        "bytes": 139938,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "62e7bd5ad57eff8528f8cd7ff0c19ef3bfe80aa7243a805eff7b0c6ef3079e0f",
+      "transparent_pixel_count": 247303,
+      "visible_pixel_count": 23097,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-09.png"
+    },
+    {
+      "index": 10,
+      "name": "frame_010",
+      "source": {
+        "path": "../reported_spots_frames/frame_010.png",
+        "file_sha256": "3decd4236a2dfe1980b1a9b1b80cb0f0d4cff9cd3ea933dcf8335ec40a2cd260",
+        "bytes": 138362,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "842a3a01a1c3c3a6d8fb52cb88f844c1766acc70b1500bd91dc9a86611c401e6",
+      "transparent_pixel_count": 246392,
+      "visible_pixel_count": 24008,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-10.png"
+    },
+    {
+      "index": 11,
+      "name": "frame_011",
+      "source": {
+        "path": "../reported_spots_frames/frame_011.png",
+        "file_sha256": "15943f6a6d9b40378b01e1816153eee68052f621e2ab04e0fa389b8e5675b62f",
+        "bytes": 137194,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "5bf98268053df518fbfb450bab05883dd4484010a5a21798ecef1cf05faad112",
+      "transparent_pixel_count": 246448,
+      "visible_pixel_count": 23952,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-11.png"
+    },
+    {
+      "index": 12,
+      "name": "frame_012",
+      "source": {
+        "path": "../reported_spots_frames/frame_012.png",
+        "file_sha256": "e9662e68b4b528ffd0434fca2248c941579ccfea047c0157f724219452e0dad8",
+        "bytes": 136968,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "da554a5fc8222e75de41b9649ac1e7479f453ee74f182931d1a96efec2512221",
+      "transparent_pixel_count": 246443,
+      "visible_pixel_count": 23957,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-12.png"
+    },
+    {
+      "index": 13,
+      "name": "frame_013",
+      "source": {
+        "path": "../reported_spots_frames/frame_013.png",
+        "file_sha256": "3d27a71f200b59bd16cb7914fab8871b2b1dd0ce9ce5fd4f75d1de6ed693d905",
+        "bytes": 138195,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "fab158a601eeef48a5aba2af9541c60931bccbe92cd64da7943e2a591cf51653",
+      "transparent_pixel_count": 247200,
+      "visible_pixel_count": 23200,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-13.png"
+    },
+    {
+      "index": 14,
+      "name": "frame_014",
+      "source": {
+        "path": "../reported_spots_frames/frame_014.png",
+        "file_sha256": "bbac103ff16355efcb4cb5c5ace13a9c8ff9232041973215b232fe8c5bda8a38",
+        "bytes": 137502,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "5c09320b6f78c73475b0149517cf63b0f6e247e050ca9c71825ec6d16344bfed",
+      "transparent_pixel_count": 247130,
+      "visible_pixel_count": 23270,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-14.png"
+    },
+    {
+      "index": 15,
+      "name": "frame_015",
+      "source": {
+        "path": "../reported_spots_frames/frame_015.png",
+        "file_sha256": "d364266995fb32cb8997efb3e2c87d89c14c70d4e786ca1f2421e35a60d001aa",
+        "bytes": 137722,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "28056ff4d9984e9a882932c0e80ed4fb95fbc3110b2fc82af49171ae7d592db0",
+      "transparent_pixel_count": 247384,
+      "visible_pixel_count": 23016,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-15.png"
+    },
+    {
+      "index": 16,
+      "name": "frame_016",
+      "source": {
+        "path": "../reported_spots_frames/frame_016.png",
+        "file_sha256": "2316d84aa092d5604206f3e95df4257c69a49673f353a46d61b6bfdb6c79ea07",
+        "bytes": 138158,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "3693fde9eb85fddf3f7a3f569dd420177f7289c40202a2b1833a43fb91de8533",
+      "transparent_pixel_count": 247545,
+      "visible_pixel_count": 22855,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-16.png"
+    },
+    {
+      "index": 17,
+      "name": "frame_017",
+      "source": {
+        "path": "../reported_spots_frames/frame_017.png",
+        "file_sha256": "e5c60726ef1924b2be78341b9f732834175d73ace09aba97691a17848dfd602a",
+        "bytes": 136704,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "d9fba87b264ed0bbf7dbbe340aec7265aff99b34faf5033ac87ec0ff0e849350",
+      "transparent_pixel_count": 245656,
+      "visible_pixel_count": 24744,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-17.png"
+    },
+    {
+      "index": 18,
+      "name": "frame_018",
+      "source": {
+        "path": "../reported_spots_frames/frame_018.png",
+        "file_sha256": "db7b03671633b98bcca455d20b0b68563aa9afe31d5f56635a0d29fd1902f53e",
+        "bytes": 138392,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "7e57291514d1839617b13684fa0f6ac053676ae2a1ddc349f33a1ecc288c96d2",
+      "transparent_pixel_count": 245245,
+      "visible_pixel_count": 25155,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-18.png"
+    },
+    {
+      "index": 19,
+      "name": "frame_019",
+      "source": {
+        "path": "../reported_spots_frames/frame_019.png",
+        "file_sha256": "fb2baadd7830c41821675bbf6dd0160b7e8d2598e8a6a30033e3cd6324523abc",
+        "bytes": 126183,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "bb9a9e1618cf2a3d2b8f9d112c491d9bf072163a3c9e797388c448500ec973ea",
+      "transparent_pixel_count": 245856,
+      "visible_pixel_count": 24544,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-19.png"
+    },
+    {
+      "index": 20,
+      "name": "frame_020",
+      "source": {
+        "path": "../reported_spots_frames/frame_020.png",
+        "file_sha256": "7ac8c0b951d24822a193b4fd31628ac8f75dc08b7ea730c701b4bcfc59c9ba1e",
+        "bytes": 137526,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "84210b8f7b8bea0250859bbf8a6d45d3fd802c20c1c4bb120a3910b356b48207",
+      "transparent_pixel_count": 246543,
+      "visible_pixel_count": 23857,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-20.png"
+    },
+    {
+      "index": 21,
+      "name": "frame_021",
+      "source": {
+        "path": "../reported_spots_frames/frame_021.png",
+        "file_sha256": "6f8f9933b36b7554af889ba908a39556dff504638238698eb26072d32016372d",
+        "bytes": 138424,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "96fb03f0413e497abc4755912f8f5ebd2e4a5a8cf8a990865bc8924226a501c2",
+      "transparent_pixel_count": 247200,
+      "visible_pixel_count": 23200,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-21.png"
+    },
+    {
+      "index": 22,
+      "name": "frame_022",
+      "source": {
+        "path": "../reported_spots_frames/frame_022.png",
+        "file_sha256": "7cc31cc2637ac29480231791aa142d5732291933e4cd4cd0e4bc0664b17fbe9a",
+        "bytes": 139458,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "36b0ad668c01210e4a3ca70b8321fd2d009fe8942cff178973fd85cae6c9a470",
+      "transparent_pixel_count": 246549,
+      "visible_pixel_count": 23851,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-22.png"
+    },
+    {
+      "index": 23,
+      "name": "frame_023",
+      "source": {
+        "path": "../reported_spots_frames/frame_023.png",
+        "file_sha256": "bde0862f94261ddb4533b6640ffd7b1c054fb9dc872a55e58a9fc3095b3413fd",
+        "bytes": 140847,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "c43a190f1a3d217cff598e0bbb99bbe61afeda43d0f4c1c8da85f42c64302bee",
+      "transparent_pixel_count": 247102,
+      "visible_pixel_count": 23298,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-23.png"
+    },
+    {
+      "index": 24,
+      "name": "frame_024",
+      "source": {
+        "path": "../reported_spots_frames/frame_024.png",
+        "file_sha256": "bfaee6b35edaf26db64aeeb950283eff4b0694c97951d46ffbd9b4473974bd8b",
+        "bytes": 140278,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "6371a679574484ecb0e199b0d390c9c3fab50d9ec55b09c9080f6ec9d673fb13",
+      "transparent_pixel_count": 247293,
+      "visible_pixel_count": 23107,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-24.png"
+    },
+    {
+      "index": 25,
+      "name": "frame_025",
+      "source": {
+        "path": "../reported_spots_frames/frame_025.png",
+        "file_sha256": "058b41054ae72995f5e3d03d4920fd87ee6dd07a871e90c5b9fabf5236132229",
+        "bytes": 136700,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "ac679e11d9572d6a335056490b1a11701767bcf74966fa914f4f2a8a683885a6",
+      "transparent_pixel_count": 246374,
+      "visible_pixel_count": 24026,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-25.png"
+    },
+    {
+      "index": 26,
+      "name": "frame_026",
+      "source": {
+        "path": "../reported_spots_frames/frame_026.png",
+        "file_sha256": "d3e258c1a1603f8365fe46a3b2931e08e387e6b4484e3bd3d134ae5647a54b61",
+        "bytes": 136530,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "46a7327720a8459bcaace5a94303ceccbb7053b89523600972b8263548738ab4",
+      "transparent_pixel_count": 246401,
+      "visible_pixel_count": 23999,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-26.png"
+    },
+    {
+      "index": 27,
+      "name": "frame_027",
+      "source": {
+        "path": "../reported_spots_frames/frame_027.png",
+        "file_sha256": "3a29d7c7e8fa13be682ef9617e4d6f4a6341d8eb6ef14986bc3ca9fcb1bc547a",
+        "bytes": 136364,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "12c9d9f812703df92fdcabe26eb5138a317951066410f4c5ac849481ba7e83fe",
+      "transparent_pixel_count": 246432,
+      "visible_pixel_count": 23968,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-27.png"
+    },
+    {
+      "index": 28,
+      "name": "frame_028",
+      "source": {
+        "path": "../reported_spots_frames/frame_028.png",
+        "file_sha256": "69582c45475529afd2995e06e31016043ac45d78a9dde0286012fb56032aeb06",
+        "bytes": 137010,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "677957a30936efca7ff96c82dcb372d296ed114525576bee8c4f893c5c621c1a",
+      "transparent_pixel_count": 247192,
+      "visible_pixel_count": 23208,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-28.png"
+    },
+    {
+      "index": 29,
+      "name": "frame_029",
+      "source": {
+        "path": "../reported_spots_frames/frame_029.png",
+        "file_sha256": "086516dce84cf49fcac6042b153f09e9796c9d3e3d00ea077dd5fc3a898f570a",
+        "bytes": 137208,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "a20272e21d43e1fbe51f280a00ab89d54a6852680e4471a905fccb308d213673",
+      "transparent_pixel_count": 247103,
+      "visible_pixel_count": 23297,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-29.png"
+    },
+    {
+      "index": 30,
+      "name": "frame_030",
+      "source": {
+        "path": "../reported_spots_frames/frame_030.png",
+        "file_sha256": "ff44fbc6d00a2bb105230fb94d3fb64e885c3d4b066d1f7e8999ae410a60eef5",
+        "bytes": 136522,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "5c364981e8e6a0bbb696b7021746ef0d74adb9a98f8693879f3d47a8e27c590d",
+      "transparent_pixel_count": 246802,
+      "visible_pixel_count": 23598,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-30.png"
+    },
+    {
+      "index": 31,
+      "name": "frame_031",
+      "source": {
+        "path": "../reported_spots_frames/frame_031.png",
+        "file_sha256": "b3fdf195fbaa94e1f683de294507a3e34e6a60cf27afb52a9a260ec5b197702b",
+        "bytes": 134726,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "d1c2c12990837dbcb8315e897b1577f0b7550adaed47775af753af39b2a54d4d",
+      "transparent_pixel_count": 245942,
+      "visible_pixel_count": 24458,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-31.png"
+    },
+    {
+      "index": 32,
+      "name": "frame_032",
+      "source": {
+        "path": "../reported_spots_frames/frame_032.png",
+        "file_sha256": "1dcd008a0110a87d2e6c1b8d26f8caa9ee9dee24e688456e167e60c33c3d8985",
+        "bytes": 137517,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "d15913d33e998badbe9208f59fb6a4201909ec25e4db7784abe003839aa1972f",
+      "transparent_pixel_count": 246152,
+      "visible_pixel_count": 24248,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-32.png"
+    },
+    {
+      "index": 33,
+      "name": "frame_033",
+      "source": {
+        "path": "../reported_spots_frames/frame_033.png",
+        "file_sha256": "604ed53947c6d969a3847510038c915ae7fb92565cf4d6d2b21cb87af6f24e12",
+        "bytes": 138193,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "dad0647b108330eb9ddffecec625a577026497856d35738a60e35fd38929a44c",
+      "transparent_pixel_count": 246461,
+      "visible_pixel_count": 23939,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-33.png"
+    },
+    {
+      "index": 34,
+      "name": "frame_034",
+      "source": {
+        "path": "../reported_spots_frames/frame_034.png",
+        "file_sha256": "9ea5b01e61cbe522371b10a112b19106f0c9f22de93f42d0eff9397ec500d29f",
+        "bytes": 138164,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "6db182f59c61abe158e77b0f0946e9321ff8718b3a5885b3bcd7032af6a7dfe5",
+      "transparent_pixel_count": 244941,
+      "visible_pixel_count": 25459,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-34.png"
+    },
+    {
+      "index": 35,
+      "name": "frame_035",
+      "source": {
+        "path": "../reported_spots_frames/frame_035.png",
+        "file_sha256": "f238553a6e9db53df77eb058bf2bb297f31f0025b4a8650257795f4f185bdd80",
+        "bytes": 138997,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "b0770ecf485975e3cc462df3d46641ab91e335802a7f265a1b05498f2d4aea35",
+      "transparent_pixel_count": 245633,
+      "visible_pixel_count": 24767,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-35.png"
+    },
+    {
+      "index": 36,
+      "name": "frame_036",
+      "source": {
+        "path": "../reported_spots_frames/frame_036.png",
+        "file_sha256": "8c47abcd1be2390b8861a39f58584b27ed67fbd4c10e87a8086d8faef4fa69ff",
+        "bytes": 138424,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "6f39a01217641b470d4a407cd7d403f78510a01384e8a661896d6d2c9622d899",
+      "transparent_pixel_count": 244587,
+      "visible_pixel_count": 25813,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-36.png"
+    },
+    {
+      "index": 37,
+      "name": "frame_037",
+      "source": {
+        "path": "../reported_spots_frames/frame_037.png",
+        "file_sha256": "ad5dd9b0153064cce958dffb8636fc1acee151c2456927daee0358d2d27bc983",
+        "bytes": 139078,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "0872505541df06a98374e7742e1b7b1fad9f43bd759ec29492cbb28463d3fb35",
+      "transparent_pixel_count": 244459,
+      "visible_pixel_count": 25941,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-37.png"
+    },
+    {
+      "index": 38,
+      "name": "frame_038",
+      "source": {
+        "path": "../reported_spots_frames/frame_038.png",
+        "file_sha256": "fbfeafe5681054a2a74b29bdb47c056b56ad1c7c69e90b72317f7ea760a1584e",
+        "bytes": 124954,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "acc13369735820a575596b858d5bfa0b35056c75545677b02bf89fdf4c7738ef",
+      "transparent_pixel_count": 244697,
+      "visible_pixel_count": 25703,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-38.png"
+    },
+    {
+      "index": 39,
+      "name": "frame_039",
+      "source": {
+        "path": "../reported_spots_frames/frame_039.png",
+        "file_sha256": "0f9e948cee84a72223a837cf072b1720083a23b806c867cd801db2f8acdd182e",
+        "bytes": 136962,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "c67e32cb93e867cd20a49bba659e11e3b1aa57bf86800c7ee574890dbc06864e",
+      "transparent_pixel_count": 241705,
+      "visible_pixel_count": 28695,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-39.png"
+    },
+    {
+      "index": 40,
+      "name": "frame_040",
+      "source": {
+        "path": "../reported_spots_frames/frame_040.png",
+        "file_sha256": "9d0a9279f85265eb64dfb0455733c24c247a9bb3242ef541e20ea6bf71a8e205",
+        "bytes": 132541,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "aa9df5282aaf6a8c5082566f1d60e3fee5dfd0dfdc83b024741e1e97e6ca6253",
+      "transparent_pixel_count": 225725,
+      "visible_pixel_count": 44675,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-40.png"
+    },
+    {
+      "index": 41,
+      "name": "frame_041",
+      "source": {
+        "path": "../reported_spots_frames/frame_041.png",
+        "file_sha256": "5efc750763a18ab0d3a9a75a91b3ba0c7f8a8e6abc2d0a93a8809b8792298585",
+        "bytes": 130501,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "be62ae3b6f76abb9f73d2a9c403fba89dbc16d99df5778d5922abe1c0cf54bb5",
+      "transparent_pixel_count": 217800,
+      "visible_pixel_count": 52600,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-41.png"
+    },
+    {
+      "index": 42,
+      "name": "frame_042",
+      "source": {
+        "path": "../reported_spots_frames/frame_042.png",
+        "file_sha256": "467fef66725a9621eab12bdedc692fd65f7456bce738d1cb3fcba4721c89fe5e",
+        "bytes": 124948,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "64c782a0cdd3ed7029bf5f09460fea565bc7cabc9244709d906ad1b868137a9e",
+      "transparent_pixel_count": 176985,
+      "visible_pixel_count": 93415,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-42.png"
+    },
+    {
+      "index": 43,
+      "name": "frame_043",
+      "source": {
+        "path": "../reported_spots_frames/frame_043.png",
+        "file_sha256": "39756efde6c91992673b910a689c46e496c60f65530f75f8dcdd8bb7bbfe9c2b",
+        "bytes": 128730,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "9e3ea395fbb3d85e1aea791f0c3808bf33fffee819586099ab5988ed4042fa61",
+      "transparent_pixel_count": 186731,
+      "visible_pixel_count": 83669,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-43.png"
+    },
+    {
+      "index": 44,
+      "name": "frame_044",
+      "source": {
+        "path": "../reported_spots_frames/frame_044.png",
+        "file_sha256": "2d435938659e8bf581d7e5a2ea289f5ada53fc9e5d1ee291c6ccb604da4492b0",
+        "bytes": 127613,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "4c3a92da96e4dc4cb745a876b28d2c6b52f5b0407be6f3f12332d5c108d9345c",
+      "transparent_pixel_count": 187541,
+      "visible_pixel_count": 82859,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-44.png"
+    },
+    {
+      "index": 45,
+      "name": "frame_045",
+      "source": {
+        "path": "../reported_spots_frames/frame_045.png",
+        "file_sha256": "6716c2276a37f6f39baf32e6584f2ab67b31b4a9102c1de335b06f60c546d870",
+        "bytes": 140805,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "0c3b343df60771c3ea0b5fced2e92617f0295cfacaf9af7adf425ca930ff1672",
+      "transparent_pixel_count": 196861,
+      "visible_pixel_count": 73539,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-45.png"
+    },
+    {
+      "index": 46,
+      "name": "frame_046",
+      "source": {
+        "path": "../reported_spots_frames/frame_046.png",
+        "file_sha256": "d01679efe0183e4a0fa8a48366cbf82c4171fe05f968e00cad965cb0f523b0e2",
+        "bytes": 145113,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "73057c2c8e7ab165dc1a7ecfddc68bbde62c8cab5fab596332e5c47b8c35e425",
+      "transparent_pixel_count": 202817,
+      "visible_pixel_count": 67583,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-46.png"
+    },
+    {
+      "index": 47,
+      "name": "frame_047",
+      "source": {
+        "path": "../reported_spots_frames/frame_047.png",
+        "file_sha256": "6a781d6b9d51a5a049cb6cc487748cc43be588cffab2b8c77d5cc271324804f0",
+        "bytes": 148963,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "03525b114cf6ff7af6f6ffb7a579c568a882c3cb8a6d8cf274910df6ff62be18",
+      "transparent_pixel_count": 209104,
+      "visible_pixel_count": 61296,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-47.png"
+    },
+    {
+      "index": 48,
+      "name": "frame_048",
+      "source": {
+        "path": "../reported_spots_frames/frame_048.png",
+        "file_sha256": "562fb499fd9f2f947174150a852aa5cf2864f659d7f73dd82438e231d1923db3",
+        "bytes": 143652,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "0894aaf95379efcf5e422b433062e811caa5efb05abb4613cf3a074369fc0271",
+      "transparent_pixel_count": 215475,
+      "visible_pixel_count": 54925,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-48.png"
+    },
+    {
+      "index": 49,
+      "name": "frame_049",
+      "source": {
+        "path": "../reported_spots_frames/frame_049.png",
+        "file_sha256": "fba58b6638fdd1f31ef2c2cd116e9b38ffafbcfd7e7ead6a56586f3776757067",
+        "bytes": 135901,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "654684b0dc387056360fdb3a98d05b838bdd61bc5ea2d0f968de70074562317d",
+      "transparent_pixel_count": 228926,
+      "visible_pixel_count": 41474,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-49.png"
+    },
+    {
+      "index": 50,
+      "name": "frame_050",
+      "source": {
+        "path": "../reported_spots_frames/frame_050.png",
+        "file_sha256": "56253a2ec30b109a85b50a0c8053cffd5ae2c8f3afd244e225c4acdec80c2f67",
+        "bytes": 130399,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "579ba8654070ff6a0797e04d970df45b5a1265dcb44d4ef602c215ac7b026fd1",
+      "transparent_pixel_count": 241044,
+      "visible_pixel_count": 29356,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-50.png"
+    },
+    {
+      "index": 51,
+      "name": "frame_051",
+      "source": {
+        "path": "../reported_spots_frames/frame_051.png",
+        "file_sha256": "908e3f5b6200fee521e343ecac18cad8cbada0c9090a4d15329050623277523a",
+        "bytes": 124166,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "65e7f2bd4a4ff42a36f0d5dd7dc95bbaad2743ada2c2d176f4e2153f5514157d",
+      "transparent_pixel_count": 252796,
+      "visible_pixel_count": 17604,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-51.png"
+    },
+    {
+      "index": 52,
+      "name": "frame_052",
+      "source": {
+        "path": "../reported_spots_frames/frame_052.png",
+        "file_sha256": "410d485e525e916fc2857ca053aa180e612755ad97bbda3e8525691b3897e2c1",
+        "bytes": 124005,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "524a3bed279ef5cad610b9a8e9edc9eb57f24e85063eef2322f868b757569b32",
+      "transparent_pixel_count": 252271,
+      "visible_pixel_count": 18129,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-52.png"
+    },
+    {
+      "index": 53,
+      "name": "frame_053",
+      "source": {
+        "path": "../reported_spots_frames/frame_053.png",
+        "file_sha256": "8dcad1168e1934c0c9d5ba9da76f1012094dd85e9744f7751da7d08d53e0e524",
+        "bytes": 127144,
+        "size": [
+          520,
+          520
+        ],
+        "mode": "RGBA"
+      },
+      "rgba_pixel_sha256": "b782a88b51a2d76fd9a3f47fdb8aed27056350fe1955193299b1fe2f093d6f2c",
+      "transparent_pixel_count": 250189,
+      "visible_pixel_count": 20211,
+      "near_duplicates": [],
+      "holds": [],
+      "file": "frames/frame-53.png"
+    }
+  ],
+  "clips": {
+    "reference_unclassified": {
+      "frames": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53
+      ],
+      "duration_ms": [
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60,
+        60
+      ],
+      "loop": true,
+      "total_duration_ms": 3240,
+      "nominal_fps": 16.666666666666668,
+      "average_fps": 16.666666666666668,
+      "loop_policy": "cycle",
+      "timing_source": "duration_ms",
+      "fps_rational": "50/3",
+      "events_ms": [],
+      "tick_grid": {
+        "hz": 60,
+        "max_drift_ms": 6.667,
+        "frame_ticks": [
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3,
+          4,
+          4,
+          3,
+          4,
+          3
+        ],
+        "zero_tick_positions": [],
+        "even": false,
+        "cycle_ticks": 194.4,
+        "cycle_aligned": false,
+        "method": "cumulative integer-ms frame boundaries rounded half-up to the nearest tick"
+      },
+      "holds": [],
+      "seam": {
+        "frames": 54,
+        "seam": 4.586162,
+        "adjacent_median": 5.194815,
+        "adjacent_p95": 15.373755,
+        "adjacent_max": 42.104484,
+        "seam_over_median": 0.882835,
+        "seam_over_p95": 0.298311,
+        "method": "premultiplied RGBA mean absolute difference (0-255); seam = last -> first",
+        "adjacent_mean": 7.332002,
+        "wrap_ratio": 0.625499
+      },
+      "preview": {
+        "file": "clips/clip-00.webp",
+        "decoded_frames": [
+          {
+            "index": 0,
+            "start_ms": 0,
+            "duration_ms": 60,
+            "clip_positions": [
+              0
+            ]
+          },
+          {
+            "index": 1,
+            "start_ms": 60,
+            "duration_ms": 60,
+            "clip_positions": [
+              1
+            ]
+          },
+          {
+            "index": 2,
+            "start_ms": 120,
+            "duration_ms": 60,
+            "clip_positions": [
+              2
+            ]
+          },
+          {
+            "index": 3,
+            "start_ms": 180,
+            "duration_ms": 60,
+            "clip_positions": [
+              3
+            ]
+          },
+          {
+            "index": 4,
+            "start_ms": 240,
+            "duration_ms": 60,
+            "clip_positions": [
+              4
+            ]
+          },
+          {
+            "index": 5,
+            "start_ms": 300,
+            "duration_ms": 60,
+            "clip_positions": [
+              5
+            ]
+          },
+          {
+            "index": 6,
+            "start_ms": 360,
+            "duration_ms": 60,
+            "clip_positions": [
+              6
+            ]
+          },
+          {
+            "index": 7,
+            "start_ms": 420,
+            "duration_ms": 60,
+            "clip_positions": [
+              7
+            ]
+          },
+          {
+            "index": 8,
+            "start_ms": 480,
+            "duration_ms": 60,
+            "clip_positions": [
+              8
+            ]
+          },
+          {
+            "index": 9,
+            "start_ms": 540,
+            "duration_ms": 60,
+            "clip_positions": [
+              9
+            ]
+          },
+          {
+            "index": 10,
+            "start_ms": 600,
+            "duration_ms": 60,
+            "clip_positions": [
+              10
+            ]
+          },
+          {
+            "index": 11,
+            "start_ms": 660,
+            "duration_ms": 60,
+            "clip_positions": [
+              11
+            ]
+          },
+          {
+            "index": 12,
+            "start_ms": 720,
+            "duration_ms": 60,
+            "clip_positions": [
+              12
+            ]
+          },
+          {
+            "index": 13,
+            "start_ms": 780,
+            "duration_ms": 60,
+            "clip_positions": [
+              13
+            ]
+          },
+          {
+            "index": 14,
+            "start_ms": 840,
+            "duration_ms": 60,
+            "clip_positions": [
+              14
+            ]
+          },
+          {
+            "index": 15,
+            "start_ms": 900,
+            "duration_ms": 60,
+            "clip_positions": [
+              15
+            ]
+          },
+          {
+            "index": 16,
+            "start_ms": 960,
+            "duration_ms": 60,
+            "clip_positions": [
+              16
+            ]
+          },
+          {
+            "index": 17,
+            "start_ms": 1020,
+            "duration_ms": 60,
+            "clip_positions": [
+              17
+            ]
+          },
+          {
+            "index": 18,
+            "start_ms": 1080,
+            "duration_ms": 60,
+            "clip_positions": [
+              18
+            ]
+          },
+          {
+            "index": 19,
+            "start_ms": 1140,
+            "duration_ms": 60,
+            "clip_positions": [
+              19
+            ]
+          },
+          {
+            "index": 20,
+            "start_ms": 1200,
+            "duration_ms": 60,
+            "clip_positions": [
+              20
+            ]
+          },
+          {
+            "index": 21,
+            "start_ms": 1260,
+            "duration_ms": 60,
+            "clip_positions": [
+              21
+            ]
+          },
+          {
+            "index": 22,
+            "start_ms": 1320,
+            "duration_ms": 60,
+            "clip_positions": [
+              22
+            ]
+          },
+          {
+            "index": 23,
+            "start_ms": 1380,
+            "duration_ms": 60,
+            "clip_positions": [
+              23
+            ]
+          },
+          {
+            "index": 24,
+            "start_ms": 1440,
+            "duration_ms": 60,
+            "clip_positions": [
+              24
+            ]
+          },
+          {
+            "index": 25,
+            "start_ms": 1500,
+            "duration_ms": 60,
+            "clip_positions": [
+              25
+            ]
+          },
+          {
+            "index": 26,
+            "start_ms": 1560,
+            "duration_ms": 60,
+            "clip_positions": [
+              26
+            ]
+          },
+          {
+            "index": 27,
+            "start_ms": 1620,
+            "duration_ms": 60,
+            "clip_positions": [
+              27
+            ]
+          },
+          {
+            "index": 28,
+            "start_ms": 1680,
+            "duration_ms": 60,
+            "clip_positions": [
+              28
+            ]
+          },
+          {
+            "index": 29,
+            "start_ms": 1740,
+            "duration_ms": 60,
+            "clip_positions": [
+              29
+            ]
+          },
+          {
+            "index": 30,
+            "start_ms": 1800,
+            "duration_ms": 60,
+            "clip_positions": [
+              30
+            ]
+          },
+          {
+            "index": 31,
+            "start_ms": 1860,
+            "duration_ms": 60,
+            "clip_positions": [
+              31
+            ]
+          },
+          {
+            "index": 32,
+            "start_ms": 1920,
+            "duration_ms": 60,
+            "clip_positions": [
+              32
+            ]
+          },
+          {
+            "index": 33,
+            "start_ms": 1980,
+            "duration_ms": 60,
+            "clip_positions": [
+              33
+            ]
+          },
+          {
+            "index": 34,
+            "start_ms": 2040,
+            "duration_ms": 60,
+            "clip_positions": [
+              34
+            ]
+          },
+          {
+            "index": 35,
+            "start_ms": 2100,
+            "duration_ms": 60,
+            "clip_positions": [
+              35
+            ]
+          },
+          {
+            "index": 36,
+            "start_ms": 2160,
+            "duration_ms": 60,
+            "clip_positions": [
+              36
+            ]
+          },
+          {
+            "index": 37,
+            "start_ms": 2220,
+            "duration_ms": 60,
+            "clip_positions": [
+              37
+            ]
+          },
+          {
+            "index": 38,
+            "start_ms": 2280,
+            "duration_ms": 60,
+            "clip_positions": [
+              38
+            ]
+          },
+          {
+            "index": 39,
+            "start_ms": 2340,
+            "duration_ms": 60,
+            "clip_positions": [
+              39
+            ]
+          },
+          {
+            "index": 40,
+            "start_ms": 2400,
+            "duration_ms": 60,
+            "clip_positions": [
+              40
+            ]
+          },
+          {
+            "index": 41,
+            "start_ms": 2460,
+            "duration_ms": 60,
+            "clip_positions": [
+              41
+            ]
+          },
+          {
+            "index": 42,
+            "start_ms": 2520,
+            "duration_ms": 60,
+            "clip_positions": [
+              42
+            ]
+          },
+          {
+            "index": 43,
+            "start_ms": 2580,
+            "duration_ms": 60,
+            "clip_positions": [
+              43
+            ]
+          },
+          {
+            "index": 44,
+            "start_ms": 2640,
+            "duration_ms": 60,
+            "clip_positions": [
+              44
+            ]
+          },
+          {
+            "index": 45,
+            "start_ms": 2700,
+            "duration_ms": 60,
+            "clip_positions": [
+              45
+            ]
+          },
+          {
+            "index": 46,
+            "start_ms": 2760,
+            "duration_ms": 60,
+            "clip_positions": [
+              46
+            ]
+          },
+          {
+            "index": 47,
+            "start_ms": 2820,
+            "duration_ms": 60,
+            "clip_positions": [
+              47
+            ]
+          },
+          {
+            "index": 48,
+            "start_ms": 2880,
+            "duration_ms": 60,
+            "clip_positions": [
+              48
+            ]
+          },
+          {
+            "index": 49,
+            "start_ms": 2940,
+            "duration_ms": 60,
+            "clip_positions": [
+              49
+            ]
+          },
+          {
+            "index": 50,
+            "start_ms": 3000,
+            "duration_ms": 60,
+            "clip_positions": [
+              50
+            ]
+          },
+          {
+            "index": 51,
+            "start_ms": 3060,
+            "duration_ms": 60,
+            "clip_positions": [
+              51
+            ]
+          },
+          {
+            "index": 52,
+            "start_ms": 3120,
+            "duration_ms": 60,
+            "clip_positions": [
+              52
+            ]
+          },
+          {
+            "index": 53,
+            "start_ms": 3180,
+            "duration_ms": 60,
+            "clip_positions": [
+              53
+            ]
+          }
+        ],
+        "decoded_frame_count": 54,
+        "total_duration_ms": 3240,
+        "native_loop_count": 0,
+        "timeline_verified": true,
+        "alpha_and_visible_rgb_exact": true,
+        "hidden_rgb_guaranteed": false,
+        "lossless": true,
+        "file_sha256": "24c117b684f3b0ace8e0918aaffbdb61cdce27a7242e4007071348c730974aee"
+      },
+      "transitions": [
+        {
+          "from_position": 0,
+          "to_position": 1,
+          "premultiplied_rgb_mae": 3.583558,
+          "alpha_mae": 5.139608,
+          "changed_visible_pixels": 19762
+        },
+        {
+          "from_position": 1,
+          "to_position": 2,
+          "premultiplied_rgb_mae": 8.844623,
+          "alpha_mae": 10.829956,
+          "changed_visible_pixels": 29023
+        },
+        {
+          "from_position": 2,
+          "to_position": 3,
+          "premultiplied_rgb_mae": 5.789416,
+          "alpha_mae": 7.113406,
+          "changed_visible_pixels": 24932
+        },
+        {
+          "from_position": 3,
+          "to_position": 4,
+          "premultiplied_rgb_mae": 4.797503,
+          "alpha_mae": 6.414608,
+          "changed_visible_pixels": 25751
+        },
+        {
+          "from_position": 4,
+          "to_position": 5,
+          "premultiplied_rgb_mae": 5.244732,
+          "alpha_mae": 7.258635,
+          "changed_visible_pixels": 26410
+        },
+        {
+          "from_position": 5,
+          "to_position": 6,
+          "premultiplied_rgb_mae": 2.897734,
+          "alpha_mae": 5.069822,
+          "changed_visible_pixels": 15761
+        },
+        {
+          "from_position": 6,
+          "to_position": 7,
+          "premultiplied_rgb_mae": 5.057758,
+          "alpha_mae": 8.590218,
+          "changed_visible_pixels": 24854
+        },
+        {
+          "from_position": 7,
+          "to_position": 8,
+          "premultiplied_rgb_mae": 2.585376,
+          "alpha_mae": 4.433266,
+          "changed_visible_pixels": 15210
+        },
+        {
+          "from_position": 8,
+          "to_position": 9,
+          "premultiplied_rgb_mae": 3.683116,
+          "alpha_mae": 5.289553,
+          "changed_visible_pixels": 21495
+        },
+        {
+          "from_position": 9,
+          "to_position": 10,
+          "premultiplied_rgb_mae": 3.740771,
+          "alpha_mae": 4.412518,
+          "changed_visible_pixels": 24618
+        },
+        {
+          "from_position": 10,
+          "to_position": 11,
+          "premultiplied_rgb_mae": 3.438582,
+          "alpha_mae": 4.984948,
+          "changed_visible_pixels": 23969
+        },
+        {
+          "from_position": 11,
+          "to_position": 12,
+          "premultiplied_rgb_mae": 2.233943,
+          "alpha_mae": 4.248428,
+          "changed_visible_pixels": 14685
+        },
+        {
+          "from_position": 12,
+          "to_position": 13,
+          "premultiplied_rgb_mae": 2.60439,
+          "alpha_mae": 2.914959,
+          "changed_visible_pixels": 21724
+        },
+        {
+          "from_position": 13,
+          "to_position": 14,
+          "premultiplied_rgb_mae": 3.205175,
+          "alpha_mae": 2.987574,
+          "changed_visible_pixels": 23356
+        },
+        {
+          "from_position": 14,
+          "to_position": 15,
+          "premultiplied_rgb_mae": 3.506228,
+          "alpha_mae": 5.101886,
+          "changed_visible_pixels": 21476
+        },
+        {
+          "from_position": 15,
+          "to_position": 16,
+          "premultiplied_rgb_mae": 3.607095,
+          "alpha_mae": 5.170729,
+          "changed_visible_pixels": 21509
+        },
+        {
+          "from_position": 16,
+          "to_position": 17,
+          "premultiplied_rgb_mae": 8.853094,
+          "alpha_mae": 10.861076,
+          "changed_visible_pixels": 29042
+        },
+        {
+          "from_position": 17,
+          "to_position": 18,
+          "premultiplied_rgb_mae": 5.777521,
+          "alpha_mae": 7.11152,
+          "changed_visible_pixels": 24745
+        },
+        {
+          "from_position": 18,
+          "to_position": 19,
+          "premultiplied_rgb_mae": 4.79922,
+          "alpha_mae": 6.381601,
+          "changed_visible_pixels": 25063
+        },
+        {
+          "from_position": 19,
+          "to_position": 20,
+          "premultiplied_rgb_mae": 5.238846,
+          "alpha_mae": 7.264294,
+          "changed_visible_pixels": 26060
+        },
+        {
+          "from_position": 20,
+          "to_position": 21,
+          "premultiplied_rgb_mae": 2.914835,
+          "alpha_mae": 5.053791,
+          "changed_visible_pixels": 17232
+        },
+        {
+          "from_position": 21,
+          "to_position": 22,
+          "premultiplied_rgb_mae": 5.057217,
+          "alpha_mae": 8.548724,
+          "changed_visible_pixels": 25460
+        },
+        {
+          "from_position": 22,
+          "to_position": 23,
+          "premultiplied_rgb_mae": 2.610641,
+          "alpha_mae": 4.47476,
+          "changed_visible_pixels": 15799
+        },
+        {
+          "from_position": 23,
+          "to_position": 24,
+          "premultiplied_rgb_mae": 3.694154,
+          "alpha_mae": 5.308413,
+          "changed_visible_pixels": 21838
+        },
+        {
+          "from_position": 24,
+          "to_position": 25,
+          "premultiplied_rgb_mae": 3.744056,
+          "alpha_mae": 4.403088,
+          "changed_visible_pixels": 24572
+        },
+        {
+          "from_position": 25,
+          "to_position": 26,
+          "premultiplied_rgb_mae": 3.435212,
+          "alpha_mae": 5.006638,
+          "changed_visible_pixels": 23969
+        },
+        {
+          "from_position": 26,
+          "to_position": 27,
+          "premultiplied_rgb_mae": 2.232635,
+          "alpha_mae": 4.240884,
+          "changed_visible_pixels": 14663
+        },
+        {
+          "from_position": 27,
+          "to_position": 28,
+          "premultiplied_rgb_mae": 2.609699,
+          "alpha_mae": 2.932877,
+          "changed_visible_pixels": 21631
+        },
+        {
+          "from_position": 28,
+          "to_position": 29,
+          "premultiplied_rgb_mae": 3.202897,
+          "alpha_mae": 2.963998,
+          "changed_visible_pixels": 23334
+        },
+        {
+          "from_position": 29,
+          "to_position": 30,
+          "premultiplied_rgb_mae": 5.122547,
+          "alpha_mae": 7.616993,
+          "changed_visible_pixels": 25116
+        },
+        {
+          "from_position": 30,
+          "to_position": 31,
+          "premultiplied_rgb_mae": 7.425213,
+          "alpha_mae": 8.336538,
+          "changed_visible_pixels": 27834
+        },
+        {
+          "from_position": 31,
+          "to_position": 32,
+          "premultiplied_rgb_mae": 5.256132,
+          "alpha_mae": 5.422522,
+          "changed_visible_pixels": 25262
+        },
+        {
+          "from_position": 32,
+          "to_position": 33,
+          "premultiplied_rgb_mae": 3.795862,
+          "alpha_mae": 4.012666,
+          "changed_visible_pixels": 24750
+        },
+        {
+          "from_position": 33,
+          "to_position": 34,
+          "premultiplied_rgb_mae": 3.793346,
+          "alpha_mae": 4.011723,
+          "changed_visible_pixels": 25220
+        },
+        {
+          "from_position": 34,
+          "to_position": 35,
+          "premultiplied_rgb_mae": 2.443169,
+          "alpha_mae": 4.588868,
+          "changed_visible_pixels": 13213
+        },
+        {
+          "from_position": 35,
+          "to_position": 36,
+          "premultiplied_rgb_mae": 3.979544,
+          "alpha_mae": 4.311612,
+          "changed_visible_pixels": 26018
+        },
+        {
+          "from_position": 36,
+          "to_position": 37,
+          "premultiplied_rgb_mae": 4.406332,
+          "alpha_mae": 4.966087,
+          "changed_visible_pixels": 26846
+        },
+        {
+          "from_position": 37,
+          "to_position": 38,
+          "premultiplied_rgb_mae": 5.692903,
+          "alpha_mae": 7.889534,
+          "changed_visible_pixels": 27081
+        },
+        {
+          "from_position": 38,
+          "to_position": 39,
+          "premultiplied_rgb_mae": 8.850146,
+          "alpha_mae": 13.163055,
+          "changed_visible_pixels": 32992
+        },
+        {
+          "from_position": 39,
+          "to_position": 40,
+          "premultiplied_rgb_mae": 23.125301,
+          "alpha_mae": 25.064312,
+          "changed_visible_pixels": 49463
+        },
+        {
+          "from_position": 40,
+          "to_position": 41,
+          "premultiplied_rgb_mae": 15.897455,
+          "alpha_mae": 14.205122,
+          "changed_visible_pixels": 46974
+        },
+        {
+          "from_position": 41,
+          "to_position": 42,
+          "premultiplied_rgb_mae": 40.913185,
+          "alpha_mae": 45.678384,
+          "changed_visible_pixels": 82164
+        },
+        {
+          "from_position": 42,
+          "to_position": 43,
+          "premultiplied_rgb_mae": 14.072433,
+          "alpha_mae": 13.87034,
+          "changed_visible_pixels": 62247
+        },
+        {
+          "from_position": 43,
+          "to_position": 44,
+          "premultiplied_rgb_mae": 16.527491,
+          "alpha_mae": 6.52966,
+          "changed_visible_pixels": 75460
+        },
+        {
+          "from_position": 44,
+          "to_position": 45,
+          "premultiplied_rgb_mae": 16.470736,
+          "alpha_mae": 11.814497,
+          "changed_visible_pixels": 71996
+        },
+        {
+          "from_position": 45,
+          "to_position": 46,
+          "premultiplied_rgb_mae": 7.68116,
+          "alpha_mae": 10.309393,
+          "changed_visible_pixels": 39995
+        },
+        {
+          "from_position": 46,
+          "to_position": 47,
+          "premultiplied_rgb_mae": 11.246133,
+          "alpha_mae": 11.679641,
+          "changed_visible_pixels": 57734
+        },
+        {
+          "from_position": 47,
+          "to_position": 48,
+          "premultiplied_rgb_mae": 9.265599,
+          "alpha_mae": 10.038739,
+          "changed_visible_pixels": 48376
+        },
+        {
+          "from_position": 48,
+          "to_position": 49,
+          "premultiplied_rgb_mae": 12.944528,
+          "alpha_mae": 14.950129,
+          "changed_visible_pixels": 39274
+        },
+        {
+          "from_position": 49,
+          "to_position": 50,
+          "premultiplied_rgb_mae": 13.036425,
+          "alpha_mae": 13.879771,
+          "changed_visible_pixels": 38738
+        },
+        {
+          "from_position": 50,
+          "to_position": 51,
+          "premultiplied_rgb_mae": 13.014495,
+          "alpha_mae": 18.287574,
+          "changed_visible_pixels": 32618
+        },
+        {
+          "from_position": 51,
+          "to_position": 52,
+          "premultiplied_rgb_mae": 3.501753,
+          "alpha_mae": 9.305048,
+          "changed_visible_pixels": 21431
+        },
+        {
+          "from_position": 52,
+          "to_position": 53,
+          "premultiplied_rgb_mae": 3.340497,
+          "alpha_mae": 7.56324,
+          "changed_visible_pixels": 21583
+        }
+      ],
+      "last_to_first": {
+        "applies_to_playback": true,
+        "premultiplied_rgb_mae": 4.314606,
+        "alpha_mae": 5.400832,
+        "changed_visible_pixels": 23465
+      }
+    }
+  },
+  "states": {},
+  "diagnostics": {
+    "visible_pixel_duplicate_groups": [],
+    "visual_approval": false,
+    "note": "Pixel differences and duplicates do not establish animation quality or physical root stability.",
+    "near_duplicate_mae": 1.5,
+    "near_duplicate_pairs": [],
+    "tick_hz": 60,
+    "lint": [
+      {
+        "code": "uneven_ticks",
+        "severity": "warning",
+        "message": "Clip reference_unclassified: 60 ms frames show for [3, 4] ticks at 60 Hz; even playback needs multiples of 1000/60 ms (author ticks).",
+        "clip": "reference_unclassified"
+      }
+    ]
+  },
+  "contact_sheet": {
+    "file": "contact-sheet.png",
+    "native_scale": true,
+    "scale": 1,
+    "requested_scale": 1,
+    "annotated_with_shared_root": true,
+    "not_a_runtime_atlas": true,
+    "file_sha256": "d7abafe6d98e17b6e0db31017a7e3be3a2bec8651808daa6ec30ab08d8ec5f98"
+  },
+  "review": null,
+  "processing": {
+    "source_pngs_byte_identical": true,
+    "resized": false,
+    "cropped": false,
+    "per_frame_alignment": false,
+    "chroma_keyed": false
+  },
+  "alpha_validation": "Every input has fully transparent and visible pixels; edge quality still requires visual review.",
+  "qa": {
+    "status": "warn",
+    "method": "Frame PNGs are byte copies (sha256 checked); each WebP preview is decoded and its timing, alpha and visible RGB compared with the source frames; tick grid = cumulative integer-ms boundaries rounded to the nearest tick; holds = repeated indices or premultiplied union-visible MAE <= 1.5; seams = forge_core.seam_report with wrap_ratio = seam / mean adjacent step; telegraph = tell -> hit in 60 Hz ticks.",
+    "notProven": [
+      "animation quality, gait, anatomy or identity",
+      "physical root stability or foot contact (anchor_px is declared, not measured)",
+      "runtime playback on a device (previews are verified files, not a game loop)",
+      "that near-duplicate thresholds suit every art style (heuristic)"
+    ],
+    "checks": [
+      {
+        "id": "png_byte_copy",
+        "status": "pass",
+        "value": 54,
+        "threshold": null
+      },
+      {
+        "id": "webp_timeline",
+        "status": "pass",
+        "value": 1,
+        "threshold": null
+      },
+      {
+        "id": "tick_grid",
+        "status": "warn",
+        "value": 6.667,
+        "threshold": null
+      },
+      {
+        "id": "telegraph",
+        "threshold": 28,
+        "status": "skipped",
+        "value": null
+      },
+      {
+        "id": "near_duplicate_holds",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      },
+      {
+        "id": "loop_seam",
+        "status": "needs-visual-review",
+        "value": 0.625499,
+        "threshold": null
+      },
+      {
+        "id": "manifest_lint",
+        "status": "pass",
+        "value": 0,
+        "threshold": 0
+      }
+    ],
+    "inputs": [
+      {
+        "path": "../reported-spots-manifest.json",
+        "sha256": "ceb0ef33445100d2fee04f44b0154ef3f8937725971a2536dcf4e1d78ad90cda",
+        "bytes": 3927
+      },
+      {
+        "path": "../reported_spots_frames/frame_000.png",
+        "sha256": "3e6006370b7425436624052addcd674498b24c5acf5d68a357fc9eca14a59a95",
+        "bytes": 126040
+      },
+      {
+        "path": "../reported_spots_frames/frame_001.png",
+        "sha256": "5e245b9cd3adda1a7d5519ea94011405b2b4e16c2a57c9c8cbb6fc8de8a903c7",
+        "bytes": 129464
+      },
+      {
+        "path": "../reported_spots_frames/frame_002.png",
+        "sha256": "c1c900a4fedee752dfa2779dce88300cbbe5a48f0233e44b8ac1892f4f0601d0",
+        "bytes": 135205
+      },
+      {
+        "path": "../reported_spots_frames/frame_003.png",
+        "sha256": "0d09193669e24f0d041e542ba0db8a8d53549c31c5329cd061d00ca9760bcc29",
+        "bytes": 137722
+      },
+      {
+        "path": "../reported_spots_frames/frame_004.png",
+        "sha256": "faea1668053b6f1946c47079a53df678fdcddf2a5d2001dd3231223cb694c34a",
+        "bytes": 139935
+      },
+      {
+        "path": "../reported_spots_frames/frame_005.png",
+        "sha256": "4a90d2e950d82bff566eb716966249a47c23c924008548a74685e6b7cc1c323c",
+        "bytes": 140597
+      },
+      {
+        "path": "../reported_spots_frames/frame_006.png",
+        "sha256": "20accaeedf1105d406f98ccbb75db76bd3bb7ba154b748ed9311ab39ddb98d3b",
+        "bytes": 139849
+      },
+      {
+        "path": "../reported_spots_frames/frame_007.png",
+        "sha256": "a97072d79504f1608ffd57eedd7a7bb6683b8bedf718514c5abe5637c0e0b3c9",
+        "bytes": 139567
+      },
+      {
+        "path": "../reported_spots_frames/frame_008.png",
+        "sha256": "f964d62902455112a0800675e101766e8f1c1e10ba9275900bb5e10d0304964a",
+        "bytes": 141212
+      },
+      {
+        "path": "../reported_spots_frames/frame_009.png",
+        "sha256": "93cc52877a0d5d67c9f115750ce8b084d0f8b16ecccc286d0be168e299626884",
+        "bytes": 139938
+      },
+      {
+        "path": "../reported_spots_frames/frame_010.png",
+        "sha256": "3decd4236a2dfe1980b1a9b1b80cb0f0d4cff9cd3ea933dcf8335ec40a2cd260",
+        "bytes": 138362
+      },
+      {
+        "path": "../reported_spots_frames/frame_011.png",
+        "sha256": "15943f6a6d9b40378b01e1816153eee68052f621e2ab04e0fa389b8e5675b62f",
+        "bytes": 137194
+      },
+      {
+        "path": "../reported_spots_frames/frame_012.png",
+        "sha256": "e9662e68b4b528ffd0434fca2248c941579ccfea047c0157f724219452e0dad8",
+        "bytes": 136968
+      },
+      {
+        "path": "../reported_spots_frames/frame_013.png",
+        "sha256": "3d27a71f200b59bd16cb7914fab8871b2b1dd0ce9ce5fd4f75d1de6ed693d905",
+        "bytes": 138195
+      },
+      {
+        "path": "../reported_spots_frames/frame_014.png",
+        "sha256": "bbac103ff16355efcb4cb5c5ace13a9c8ff9232041973215b232fe8c5bda8a38",
+        "bytes": 137502
+      },
+      {
+        "path": "../reported_spots_frames/frame_015.png",
+        "sha256": "d364266995fb32cb8997efb3e2c87d89c14c70d4e786ca1f2421e35a60d001aa",
+        "bytes": 137722
+      },
+      {
+        "path": "../reported_spots_frames/frame_016.png",
+        "sha256": "2316d84aa092d5604206f3e95df4257c69a49673f353a46d61b6bfdb6c79ea07",
+        "bytes": 138158
+      },
+      {
+        "path": "../reported_spots_frames/frame_017.png",
+        "sha256": "e5c60726ef1924b2be78341b9f732834175d73ace09aba97691a17848dfd602a",
+        "bytes": 136704
+      },
+      {
+        "path": "../reported_spots_frames/frame_018.png",
+        "sha256": "db7b03671633b98bcca455d20b0b68563aa9afe31d5f56635a0d29fd1902f53e",
+        "bytes": 138392
+      },
+      {
+        "path": "../reported_spots_frames/frame_019.png",
+        "sha256": "fb2baadd7830c41821675bbf6dd0160b7e8d2598e8a6a30033e3cd6324523abc",
+        "bytes": 126183
+      },
+      {
+        "path": "../reported_spots_frames/frame_020.png",
+        "sha256": "7ac8c0b951d24822a193b4fd31628ac8f75dc08b7ea730c701b4bcfc59c9ba1e",
+        "bytes": 137526
+      },
+      {
+        "path": "../reported_spots_frames/frame_021.png",
+        "sha256": "6f8f9933b36b7554af889ba908a39556dff504638238698eb26072d32016372d",
+        "bytes": 138424
+      },
+      {
+        "path": "../reported_spots_frames/frame_022.png",
+        "sha256": "7cc31cc2637ac29480231791aa142d5732291933e4cd4cd0e4bc0664b17fbe9a",
+        "bytes": 139458
+      },
+      {
+        "path": "../reported_spots_frames/frame_023.png",
+        "sha256": "bde0862f94261ddb4533b6640ffd7b1c054fb9dc872a55e58a9fc3095b3413fd",
+        "bytes": 140847
+      },
+      {
+        "path": "../reported_spots_frames/frame_024.png",
+        "sha256": "bfaee6b35edaf26db64aeeb950283eff4b0694c97951d46ffbd9b4473974bd8b",
+        "bytes": 140278
+      },
+      {
+        "path": "../reported_spots_frames/frame_025.png",
+        "sha256": "058b41054ae72995f5e3d03d4920fd87ee6dd07a871e90c5b9fabf5236132229",
+        "bytes": 136700
+      },
+      {
+        "path": "../reported_spots_frames/frame_026.png",
+        "sha256": "d3e258c1a1603f8365fe46a3b2931e08e387e6b4484e3bd3d134ae5647a54b61",
+        "bytes": 136530
+      },
+      {
+        "path": "../reported_spots_frames/frame_027.png",
+        "sha256": "3a29d7c7e8fa13be682ef9617e4d6f4a6341d8eb6ef14986bc3ca9fcb1bc547a",
+        "bytes": 136364
+      },
+      {
+        "path": "../reported_spots_frames/frame_028.png",
+        "sha256": "69582c45475529afd2995e06e31016043ac45d78a9dde0286012fb56032aeb06",
+        "bytes": 137010
+      },
+      {
+        "path": "../reported_spots_frames/frame_029.png",
+        "sha256": "086516dce84cf49fcac6042b153f09e9796c9d3e3d00ea077dd5fc3a898f570a",
+        "bytes": 137208
+      },
+      {
+        "path": "../reported_spots_frames/frame_030.png",
+        "sha256": "ff44fbc6d00a2bb105230fb94d3fb64e885c3d4b066d1f7e8999ae410a60eef5",
+        "bytes": 136522
+      },
+      {
+        "path": "../reported_spots_frames/frame_031.png",
+        "sha256": "b3fdf195fbaa94e1f683de294507a3e34e6a60cf27afb52a9a260ec5b197702b",
+        "bytes": 134726
+      },
+      {
+        "path": "../reported_spots_frames/frame_032.png",
+        "sha256": "1dcd008a0110a87d2e6c1b8d26f8caa9ee9dee24e688456e167e60c33c3d8985",
+        "bytes": 137517
+      },
+      {
+        "path": "../reported_spots_frames/frame_033.png",
+        "sha256": "604ed53947c6d969a3847510038c915ae7fb92565cf4d6d2b21cb87af6f24e12",
+        "bytes": 138193
+      },
+      {
+        "path": "../reported_spots_frames/frame_034.png",
+        "sha256": "9ea5b01e61cbe522371b10a112b19106f0c9f22de93f42d0eff9397ec500d29f",
+        "bytes": 138164
+      },
+      {
+        "path": "../reported_spots_frames/frame_035.png",
+        "sha256": "f238553a6e9db53df77eb058bf2bb297f31f0025b4a8650257795f4f185bdd80",
+        "bytes": 138997
+      },
+      {
+        "path": "../reported_spots_frames/frame_036.png",
+        "sha256": "8c47abcd1be2390b8861a39f58584b27ed67fbd4c10e87a8086d8faef4fa69ff",
+        "bytes": 138424
+      },
+      {
+        "path": "../reported_spots_frames/frame_037.png",
+        "sha256": "ad5dd9b0153064cce958dffb8636fc1acee151c2456927daee0358d2d27bc983",
+        "bytes": 139078
+      },
+      {
+        "path": "../reported_spots_frames/frame_038.png",
+        "sha256": "fbfeafe5681054a2a74b29bdb47c056b56ad1c7c69e90b72317f7ea760a1584e",
+        "bytes": 124954
+      },
+      {
+        "path": "../reported_spots_frames/frame_039.png",
+        "sha256": "0f9e948cee84a72223a837cf072b1720083a23b806c867cd801db2f8acdd182e",
+        "bytes": 136962
+      },
+      {
+        "path": "../reported_spots_frames/frame_040.png",
+        "sha256": "9d0a9279f85265eb64dfb0455733c24c247a9bb3242ef541e20ea6bf71a8e205",
+        "bytes": 132541
+      },
+      {
+        "path": "../reported_spots_frames/frame_041.png",
+        "sha256": "5efc750763a18ab0d3a9a75a91b3ba0c7f8a8e6abc2d0a93a8809b8792298585",
+        "bytes": 130501
+      },
+      {
+        "path": "../reported_spots_frames/frame_042.png",
+        "sha256": "467fef66725a9621eab12bdedc692fd65f7456bce738d1cb3fcba4721c89fe5e",
+        "bytes": 124948
+      },
+      {
+        "path": "../reported_spots_frames/frame_043.png",
+        "sha256": "39756efde6c91992673b910a689c46e496c60f65530f75f8dcdd8bb7bbfe9c2b",
+        "bytes": 128730
+      },
+      {
+        "path": "../reported_spots_frames/frame_044.png",
+        "sha256": "2d435938659e8bf581d7e5a2ea289f5ada53fc9e5d1ee291c6ccb604da4492b0",
+        "bytes": 127613
+      },
+      {
+        "path": "../reported_spots_frames/frame_045.png",
+        "sha256": "6716c2276a37f6f39baf32e6584f2ab67b31b4a9102c1de335b06f60c546d870",
+        "bytes": 140805
+      },
+      {
+        "path": "../reported_spots_frames/frame_046.png",
+        "sha256": "d01679efe0183e4a0fa8a48366cbf82c4171fe05f968e00cad965cb0f523b0e2",
+        "bytes": 145113
+      },
+      {
+        "path": "../reported_spots_frames/frame_047.png",
+        "sha256": "6a781d6b9d51a5a049cb6cc487748cc43be588cffab2b8c77d5cc271324804f0",
+        "bytes": 148963
+      },
+      {
+        "path": "../reported_spots_frames/frame_048.png",
+        "sha256": "562fb499fd9f2f947174150a852aa5cf2864f659d7f73dd82438e231d1923db3",
+        "bytes": 143652
+      },
+      {
+        "path": "../reported_spots_frames/frame_049.png",
+        "sha256": "fba58b6638fdd1f31ef2c2cd116e9b38ffafbcfd7e7ead6a56586f3776757067",
+        "bytes": 135901
+      },
+      {
+        "path": "../reported_spots_frames/frame_050.png",
+        "sha256": "56253a2ec30b109a85b50a0c8053cffd5ae2c8f3afd244e225c4acdec80c2f67",
+        "bytes": 130399
+      },
+      {
+        "path": "../reported_spots_frames/frame_051.png",
+        "sha256": "908e3f5b6200fee521e343ecac18cad8cbada0c9090a4d15329050623277523a",
+        "bytes": 124166
+      },
+      {
+        "path": "../reported_spots_frames/frame_052.png",
+        "sha256": "410d485e525e916fc2857ca053aa180e612755ad97bbda3e8525691b3897e2c1",
+        "bytes": 124005
+      },
+      {
+        "path": "../reported_spots_frames/frame_053.png",
+        "sha256": "8dcad1168e1934c0c9d5ba9da76f1012094dd85e9744f7751da7d08d53e0e524",
+        "bytes": 127144
+      }
+    ],
+    "outputs": [
+      {
+        "path": "frames/frame-00.png",
+        "sha256": "3e6006370b7425436624052addcd674498b24c5acf5d68a357fc9eca14a59a95",
+        "bytes": 126040
+      },
+      {
+        "path": "frames/frame-01.png",
+        "sha256": "5e245b9cd3adda1a7d5519ea94011405b2b4e16c2a57c9c8cbb6fc8de8a903c7",
+        "bytes": 129464
+      },
+      {
+        "path": "frames/frame-02.png",
+        "sha256": "c1c900a4fedee752dfa2779dce88300cbbe5a48f0233e44b8ac1892f4f0601d0",
+        "bytes": 135205
+      },
+      {
+        "path": "frames/frame-03.png",
+        "sha256": "0d09193669e24f0d041e542ba0db8a8d53549c31c5329cd061d00ca9760bcc29",
+        "bytes": 137722
+      },
+      {
+        "path": "frames/frame-04.png",
+        "sha256": "faea1668053b6f1946c47079a53df678fdcddf2a5d2001dd3231223cb694c34a",
+        "bytes": 139935
+      },
+      {
+        "path": "frames/frame-05.png",
+        "sha256": "4a90d2e950d82bff566eb716966249a47c23c924008548a74685e6b7cc1c323c",
+        "bytes": 140597
+      },
+      {
+        "path": "frames/frame-06.png",
+        "sha256": "20accaeedf1105d406f98ccbb75db76bd3bb7ba154b748ed9311ab39ddb98d3b",
+        "bytes": 139849
+      },
+      {
+        "path": "frames/frame-07.png",
+        "sha256": "a97072d79504f1608ffd57eedd7a7bb6683b8bedf718514c5abe5637c0e0b3c9",
+        "bytes": 139567
+      },
+      {
+        "path": "frames/frame-08.png",
+        "sha256": "f964d62902455112a0800675e101766e8f1c1e10ba9275900bb5e10d0304964a",
+        "bytes": 141212
+      },
+      {
+        "path": "frames/frame-09.png",
+        "sha256": "93cc52877a0d5d67c9f115750ce8b084d0f8b16ecccc286d0be168e299626884",
+        "bytes": 139938
+      },
+      {
+        "path": "frames/frame-10.png",
+        "sha256": "3decd4236a2dfe1980b1a9b1b80cb0f0d4cff9cd3ea933dcf8335ec40a2cd260",
+        "bytes": 138362
+      },
+      {
+        "path": "frames/frame-11.png",
+        "sha256": "15943f6a6d9b40378b01e1816153eee68052f621e2ab04e0fa389b8e5675b62f",
+        "bytes": 137194
+      },
+      {
+        "path": "frames/frame-12.png",
+        "sha256": "e9662e68b4b528ffd0434fca2248c941579ccfea047c0157f724219452e0dad8",
+        "bytes": 136968
+      },
+      {
+        "path": "frames/frame-13.png",
+        "sha256": "3d27a71f200b59bd16cb7914fab8871b2b1dd0ce9ce5fd4f75d1de6ed693d905",
+        "bytes": 138195
+      },
+      {
+        "path": "frames/frame-14.png",
+        "sha256": "bbac103ff16355efcb4cb5c5ace13a9c8ff9232041973215b232fe8c5bda8a38",
+        "bytes": 137502
+      },
+      {
+        "path": "frames/frame-15.png",
+        "sha256": "d364266995fb32cb8997efb3e2c87d89c14c70d4e786ca1f2421e35a60d001aa",
+        "bytes": 137722
+      },
+      {
+        "path": "frames/frame-16.png",
+        "sha256": "2316d84aa092d5604206f3e95df4257c69a49673f353a46d61b6bfdb6c79ea07",
+        "bytes": 138158
+      },
+      {
+        "path": "frames/frame-17.png",
+        "sha256": "e5c60726ef1924b2be78341b9f732834175d73ace09aba97691a17848dfd602a",
+        "bytes": 136704
+      },
+      {
+        "path": "frames/frame-18.png",
+        "sha256": "db7b03671633b98bcca455d20b0b68563aa9afe31d5f56635a0d29fd1902f53e",
+        "bytes": 138392
+      },
+      {
+        "path": "frames/frame-19.png",
+        "sha256": "fb2baadd7830c41821675bbf6dd0160b7e8d2598e8a6a30033e3cd6324523abc",
+        "bytes": 126183
+      },
+      {
+        "path": "frames/frame-20.png",
+        "sha256": "7ac8c0b951d24822a193b4fd31628ac8f75dc08b7ea730c701b4bcfc59c9ba1e",
+        "bytes": 137526
+      },
+      {
+        "path": "frames/frame-21.png",
+        "sha256": "6f8f9933b36b7554af889ba908a39556dff504638238698eb26072d32016372d",
+        "bytes": 138424
+      },
+      {
+        "path": "frames/frame-22.png",
+        "sha256": "7cc31cc2637ac29480231791aa142d5732291933e4cd4cd0e4bc0664b17fbe9a",
+        "bytes": 139458
+      },
+      {
+        "path": "frames/frame-23.png",
+        "sha256": "bde0862f94261ddb4533b6640ffd7b1c054fb9dc872a55e58a9fc3095b3413fd",
+        "bytes": 140847
+      },
+      {
+        "path": "frames/frame-24.png",
+        "sha256": "bfaee6b35edaf26db64aeeb950283eff4b0694c97951d46ffbd9b4473974bd8b",
+        "bytes": 140278
+      },
+      {
+        "path": "frames/frame-25.png",
+        "sha256": "058b41054ae72995f5e3d03d4920fd87ee6dd07a871e90c5b9fabf5236132229",
+        "bytes": 136700
+      },
+      {
+        "path": "frames/frame-26.png",
+        "sha256": "d3e258c1a1603f8365fe46a3b2931e08e387e6b4484e3bd3d134ae5647a54b61",
+        "bytes": 136530
+      },
+      {
+        "path": "frames/frame-27.png",
+        "sha256": "3a29d7c7e8fa13be682ef9617e4d6f4a6341d8eb6ef14986bc3ca9fcb1bc547a",
+        "bytes": 136364
+      },
+      {
+        "path": "frames/frame-28.png",
+        "sha256": "69582c45475529afd2995e06e31016043ac45d78a9dde0286012fb56032aeb06",
+        "bytes": 137010
+      },
+      {
+        "path": "frames/frame-29.png",
+        "sha256": "086516dce84cf49fcac6042b153f09e9796c9d3e3d00ea077dd5fc3a898f570a",
+        "bytes": 137208
+      },
+      {
+        "path": "frames/frame-30.png",
+        "sha256": "ff44fbc6d00a2bb105230fb94d3fb64e885c3d4b066d1f7e8999ae410a60eef5",
+        "bytes": 136522
+      },
+      {
+        "path": "frames/frame-31.png",
+        "sha256": "b3fdf195fbaa94e1f683de294507a3e34e6a60cf27afb52a9a260ec5b197702b",
+        "bytes": 134726
+      },
+      {
+        "path": "frames/frame-32.png",
+        "sha256": "1dcd008a0110a87d2e6c1b8d26f8caa9ee9dee24e688456e167e60c33c3d8985",
+        "bytes": 137517
+      },
+      {
+        "path": "frames/frame-33.png",
+        "sha256": "604ed53947c6d969a3847510038c915ae7fb92565cf4d6d2b21cb87af6f24e12",
+        "bytes": 138193
+      },
+      {
+        "path": "frames/frame-34.png",
+        "sha256": "9ea5b01e61cbe522371b10a112b19106f0c9f22de93f42d0eff9397ec500d29f",
+        "bytes": 138164
+      },
+      {
+        "path": "frames/frame-35.png",
+        "sha256": "f238553a6e9db53df77eb058bf2bb297f31f0025b4a8650257795f4f185bdd80",
+        "bytes": 138997
+      },
+      {
+        "path": "frames/frame-36.png",
+        "sha256": "8c47abcd1be2390b8861a39f58584b27ed67fbd4c10e87a8086d8faef4fa69ff",
+        "bytes": 138424
+      },
+      {
+        "path": "frames/frame-37.png",
+        "sha256": "ad5dd9b0153064cce958dffb8636fc1acee151c2456927daee0358d2d27bc983",
+        "bytes": 139078
+      },
+      {
+        "path": "frames/frame-38.png",
+        "sha256": "fbfeafe5681054a2a74b29bdb47c056b56ad1c7c69e90b72317f7ea760a1584e",
+        "bytes": 124954
+      },
+      {
+        "path": "frames/frame-39.png",
+        "sha256": "0f9e948cee84a72223a837cf072b1720083a23b806c867cd801db2f8acdd182e",
+        "bytes": 136962
+      },
+      {
+        "path": "frames/frame-40.png",
+        "sha256": "9d0a9279f85265eb64dfb0455733c24c247a9bb3242ef541e20ea6bf71a8e205",
+        "bytes": 132541
+      },
+      {
+        "path": "frames/frame-41.png",
+        "sha256": "5efc750763a18ab0d3a9a75a91b3ba0c7f8a8e6abc2d0a93a8809b8792298585",
+        "bytes": 130501
+      },
+      {
+        "path": "frames/frame-42.png",
+        "sha256": "467fef66725a9621eab12bdedc692fd65f7456bce738d1cb3fcba4721c89fe5e",
+        "bytes": 124948
+      },
+      {
+        "path": "frames/frame-43.png",
+        "sha256": "39756efde6c91992673b910a689c46e496c60f65530f75f8dcdd8bb7bbfe9c2b",
+        "bytes": 128730
+      },
+      {
+        "path": "frames/frame-44.png",
+        "sha256": "2d435938659e8bf581d7e5a2ea289f5ada53fc9e5d1ee291c6ccb604da4492b0",
+        "bytes": 127613
+      },
+      {
+        "path": "frames/frame-45.png",
+        "sha256": "6716c2276a37f6f39baf32e6584f2ab67b31b4a9102c1de335b06f60c546d870",
+        "bytes": 140805
+      },
+      {
+        "path": "frames/frame-46.png",
+        "sha256": "d01679efe0183e4a0fa8a48366cbf82c4171fe05f968e00cad965cb0f523b0e2",
+        "bytes": 145113
+      },
+      {
+        "path": "frames/frame-47.png",
+        "sha256": "6a781d6b9d51a5a049cb6cc487748cc43be588cffab2b8c77d5cc271324804f0",
+        "bytes": 148963
+      },
+      {
+        "path": "frames/frame-48.png",
+        "sha256": "562fb499fd9f2f947174150a852aa5cf2864f659d7f73dd82438e231d1923db3",
+        "bytes": 143652
+      },
+      {
+        "path": "frames/frame-49.png",
+        "sha256": "fba58b6638fdd1f31ef2c2cd116e9b38ffafbcfd7e7ead6a56586f3776757067",
+        "bytes": 135901
+      },
+      {
+        "path": "frames/frame-50.png",
+        "sha256": "56253a2ec30b109a85b50a0c8053cffd5ae2c8f3afd244e225c4acdec80c2f67",
+        "bytes": 130399
+      },
+      {
+        "path": "frames/frame-51.png",
+        "sha256": "908e3f5b6200fee521e343ecac18cad8cbada0c9090a4d15329050623277523a",
+        "bytes": 124166
+      },
+      {
+        "path": "frames/frame-52.png",
+        "sha256": "410d485e525e916fc2857ca053aa180e612755ad97bbda3e8525691b3897e2c1",
+        "bytes": 124005
+      },
+      {
+        "path": "frames/frame-53.png",
+        "sha256": "8dcad1168e1934c0c9d5ba9da76f1012094dd85e9744f7751da7d08d53e0e524",
+        "bytes": 127144
+      },
+      {
+        "path": "clips/clip-00.webp",
+        "sha256": "24c117b684f3b0ace8e0918aaffbdb61cdce27a7242e4007071348c730974aee",
+        "bytes": 404434
+      },
+      {
+        "path": "contact-sheet.png",
+        "sha256": "d7abafe6d98e17b6e0db31017a7e3be3a2bec8651808daa6ec30ab08d8ec5f98",
+        "bytes": 1101391
+      }
+    ],
+    "tool": {
+      "name": "build_animation_clips",
+      "version": "0.4.0"
+    }
+  }
+}

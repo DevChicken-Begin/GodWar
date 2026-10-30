@@ -109,12 +109,8 @@ test('scene starts animation and constrains movement to the platform', async (t)
   assert.ok(Math.abs(draws.at(-1)[8] * 154 / 560 - 71) < 0.01, 'refresh uses new metadata without reloading the scene');
   await elements.get('character').events.change({ target: { value: 'Kahn' } });
   tick(10096);
-  assert.match(elements.get('status').textContent, /87 px/);
-  assert.ok(Math.abs(draws.at(-1)[8] * 211 / 360 - 87) < 0.01, 'Kahn uses the round-three scale on the scene');
-  await elements.get('character').events.change({ target: { value: 'momo' } });
-  tick(10112);
-  assert.match(elements.get('status').textContent, /85 px/);
-  assert.ok(Math.abs(draws.at(-1)[8] * 408 / 948 - 85) < 0.01, 'momo uses the round-three scale on the scene');
+  assert.match(elements.get('status').textContent, /90 px/);
+  assert.ok(Math.abs(draws.at(-1)[8] * 211 / 360 - 90) < 0.01, 'Kahn uses the updated scale on the scene');
   for (const [name, height] of [['scorpit', 80], ['Hatomin', 80], ['Trainxoan', 85]]) {
     await elements.get('character').events.change({ target: { value: name } });
     tick(10128);

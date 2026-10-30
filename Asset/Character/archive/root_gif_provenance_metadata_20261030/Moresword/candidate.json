@@ -1,0 +1,1617 @@
+{
+  "id": "Moresword",
+  "source": "Asset/Character/vfx/Moresword.gif",
+  "source_sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7",
+  "art_source": "existing",
+  "frame_count": 89,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 8,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 9,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    520,
+    520
+  ],
+  "target_height_px": 70,
+  "reference_frame": 0,
+  "reference_height_px": 160,
+  "reference_body_bounds": [
+    190,
+    300,
+    335,
+    460
+  ],
+  "anchor_px": [
+    262.5,
+    460
+  ],
+  "display_scale": 0.4375,
+  "measurement_kind": "visually_estimated_body_bounds",
+  "status": "candidate_unreviewed",
+  "size_target_approval": "user_requested_20261030_revision2",
+  "method": "Shared median of six GIFs and three older shared-scene sources; RGB maximum difference >16; stable upper logo mask, first-frame difference <=10.",
+  "model_sources": [
+    {
+      "source": "Also.gif",
+      "sha256": "138847cc2db397371d29918695e5823b98ef58db5743387fe3c6b7c9a6322d7a"
+    },
+    {
+      "source": "Aquamen.gif",
+      "sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7"
+    },
+    {
+      "source": "Diorai.gif",
+      "sha256": "99c865743b39dd7d3d731ec5668aba0804e0045f39136da86eec5210eb4c5887"
+    },
+    {
+      "source": "Evenl.gif",
+      "sha256": "20601e1c62c522228dd9381384cddab725d4831fd1f5c1d4e6ac8b713d5a3499"
+    },
+    {
+      "source": "Moregorn.gif",
+      "sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5"
+    },
+    {
+      "source": "Moresword.gif",
+      "sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7"
+    },
+    {
+      "source": "Asset/Character/vfx/animent.gif",
+      "sha256": "9e103898ec9f0aba0e38a97d97d5505e075ca2d2cffadf668b496feeb7b12576"
+    },
+    {
+      "source": "Asset/Character/vfx/overight.gif",
+      "sha256": "95468ca0e3755de220040d894e29d48d827c8c3a278d4d04e8426c9c47e64cbe"
+    },
+    {
+      "source": "Asset/Character/vfx/tigerknight.gif",
+      "sha256": "e5e5f1e28ab0a71deb074d6605071b34ba0110e4ce9c4c6abe85a3edf4206cb5"
+    }
+  ],
+  "opaque_pixels_per_frame": [
+    29318,
+    29396,
+    29798,
+    29866,
+    30274,
+    30434,
+    29772,
+    29984,
+    30399,
+    31026,
+    30450,
+    29810,
+    29787,
+    29565,
+    29596,
+    29638,
+    29893,
+    29917,
+    30303,
+    30546,
+    29774,
+    29978,
+    30409,
+    31000,
+    30492,
+    29819,
+    29603,
+    29500,
+    29483,
+    28313,
+    25666,
+    24942,
+    38757,
+    27331,
+    24974,
+    24567,
+    37912,
+    31578,
+    25254,
+    24486,
+    24632,
+    31136,
+    38639,
+    57972,
+    83965,
+    57322,
+    38284,
+    28932,
+    23578,
+    25668,
+    28625,
+    29516,
+    29348,
+    27044,
+    26654,
+    28667,
+    35719,
+    27006,
+    26377,
+    26744,
+    26696,
+    26622,
+    27256,
+    28399,
+    27572,
+    28014,
+    27267,
+    26571,
+    26735,
+    26666,
+    27238,
+    28387,
+    27649,
+    28086,
+    27257,
+    26582,
+    26691,
+    26613,
+    26895,
+    43661,
+    41378,
+    41198,
+    37770,
+    34199,
+    30725,
+    28723,
+    29604,
+    29213,
+    29349
+  ],
+  "limitations": "Foreground or FX can be removed or background/logo can remain. Body bounds are approximate and unapproved; review all frames and motion.",
+  "cleanup_20261030": {
+    "sample": "pixel_simple.png",
+    "sample_sha256": "9b3f1cd26c6e7967cdb480e277aabb9332f5804dae00fe85933864532a4778bb",
+    "base": "Asset/Character/archive/six_20261030_before_blue_cleanup/Moresword",
+    "method": "Remove RGBA pixels within max RGB distance 5 of blue sample colors; remove logo-mask pixels matching source frame 0 within max RGB distance 35, logo mask dilated 2px.",
+    "counts_per_frame": [
+      {
+        "blue": 1862,
+        "logo": 145
+      },
+      {
+        "blue": 1799,
+        "logo": 139
+      },
+      {
+        "blue": 1917,
+        "logo": 110
+      },
+      {
+        "blue": 2058,
+        "logo": 116
+      },
+      {
+        "blue": 2221,
+        "logo": 120
+      },
+      {
+        "blue": 2284,
+        "logo": 120
+      },
+      {
+        "blue": 2367,
+        "logo": 120
+      },
+      {
+        "blue": 2524,
+        "logo": 120
+      },
+      {
+        "blue": 2233,
+        "logo": 120
+      },
+      {
+        "blue": 1868,
+        "logo": 120
+      },
+      {
+        "blue": 1586,
+        "logo": 120
+      },
+      {
+        "blue": 1714,
+        "logo": 120
+      },
+      {
+        "blue": 1674,
+        "logo": 120
+      },
+      {
+        "blue": 1663,
+        "logo": 120
+      },
+      {
+        "blue": 1732,
+        "logo": 120
+      },
+      {
+        "blue": 1720,
+        "logo": 120
+      },
+      {
+        "blue": 1844,
+        "logo": 120
+      },
+      {
+        "blue": 1973,
+        "logo": 120
+      },
+      {
+        "blue": 2115,
+        "logo": 120
+      },
+      {
+        "blue": 2234,
+        "logo": 120
+      },
+      {
+        "blue": 2350,
+        "logo": 120
+      },
+      {
+        "blue": 2553,
+        "logo": 120
+      },
+      {
+        "blue": 2224,
+        "logo": 120
+      },
+      {
+        "blue": 1808,
+        "logo": 120
+      },
+      {
+        "blue": 1544,
+        "logo": 120
+      },
+      {
+        "blue": 1707,
+        "logo": 120
+      },
+      {
+        "blue": 1627,
+        "logo": 120
+      },
+      {
+        "blue": 1650,
+        "logo": 120
+      },
+      {
+        "blue": 1651,
+        "logo": 120
+      },
+      {
+        "blue": 2104,
+        "logo": 120
+      },
+      {
+        "blue": 2060,
+        "logo": 125
+      },
+      {
+        "blue": 1966,
+        "logo": 96
+      },
+      {
+        "blue": 3619,
+        "logo": 98
+      },
+      {
+        "blue": 3894,
+        "logo": 86
+      },
+      {
+        "blue": 3715,
+        "logo": 85
+      },
+      {
+        "blue": 3519,
+        "logo": 78
+      },
+      {
+        "blue": 6924,
+        "logo": 85
+      },
+      {
+        "blue": 7821,
+        "logo": 85
+      },
+      {
+        "blue": 8171,
+        "logo": 73
+      },
+      {
+        "blue": 8245,
+        "logo": 65
+      },
+      {
+        "blue": 8455,
+        "logo": 78
+      },
+      {
+        "blue": 4977,
+        "logo": 69
+      },
+      {
+        "blue": 2684,
+        "logo": 54
+      },
+      {
+        "blue": 2469,
+        "logo": 54
+      },
+      {
+        "blue": 2406,
+        "logo": 54
+      },
+      {
+        "blue": 3568,
+        "logo": 54
+      },
+      {
+        "blue": 3901,
+        "logo": 54
+      },
+      {
+        "blue": 3896,
+        "logo": 54
+      },
+      {
+        "blue": 3920,
+        "logo": 54
+      },
+      {
+        "blue": 2033,
+        "logo": 54
+      },
+      {
+        "blue": 1609,
+        "logo": 54
+      },
+      {
+        "blue": 1666,
+        "logo": 54
+      },
+      {
+        "blue": 867,
+        "logo": 54
+      },
+      {
+        "blue": 1312,
+        "logo": 54
+      },
+      {
+        "blue": 1616,
+        "logo": 54
+      },
+      {
+        "blue": 1488,
+        "logo": 54
+      },
+      {
+        "blue": 2113,
+        "logo": 54
+      },
+      {
+        "blue": 1535,
+        "logo": 54
+      },
+      {
+        "blue": 1167,
+        "logo": 54
+      },
+      {
+        "blue": 962,
+        "logo": 54
+      },
+      {
+        "blue": 1299,
+        "logo": 128
+      },
+      {
+        "blue": 1299,
+        "logo": 81
+      },
+      {
+        "blue": 1111,
+        "logo": 87
+      },
+      {
+        "blue": 1053,
+        "logo": 87
+      },
+      {
+        "blue": 1174,
+        "logo": 81
+      },
+      {
+        "blue": 1010,
+        "logo": 81
+      },
+      {
+        "blue": 1087,
+        "logo": 81
+      },
+      {
+        "blue": 1091,
+        "logo": 91
+      },
+      {
+        "blue": 1076,
+        "logo": 83
+      },
+      {
+        "blue": 1212,
+        "logo": 83
+      },
+      {
+        "blue": 1075,
+        "logo": 81
+      },
+      {
+        "blue": 1073,
+        "logo": 93
+      },
+      {
+        "blue": 1123,
+        "logo": 94
+      },
+      {
+        "blue": 999,
+        "logo": 94
+      },
+      {
+        "blue": 1061,
+        "logo": 94
+      },
+      {
+        "blue": 1138,
+        "logo": 94
+      },
+      {
+        "blue": 1016,
+        "logo": 94
+      },
+      {
+        "blue": 1091,
+        "logo": 83
+      },
+      {
+        "blue": 894,
+        "logo": 94
+      },
+      {
+        "blue": 843,
+        "logo": 97
+      },
+      {
+        "blue": 724,
+        "logo": 97
+      },
+      {
+        "blue": 1577,
+        "logo": 87
+      },
+      {
+        "blue": 1837,
+        "logo": 85
+      },
+      {
+        "blue": 1974,
+        "logo": 90
+      },
+      {
+        "blue": 1793,
+        "logo": 90
+      },
+      {
+        "blue": 1896,
+        "logo": 94
+      },
+      {
+        "blue": 2222,
+        "logo": 91
+      },
+      {
+        "blue": 1667,
+        "logo": 86
+      },
+      {
+        "blue": 1369,
+        "logo": 85
+      }
+    ],
+    "limitations": "Foreground and VFX colors may match sample; logo-overlapping FX may be erased; residue may remain. Unapproved."
+  },
+  "cleanup_scene_v2": {
+    "reference_source": "Asset/Character/vfx/Moregorn.gif",
+    "reference_sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+    "reference_frames_zero_based": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "base": "Asset/Character/archive/six_20261030_before_scene_v2/Moresword",
+    "method": "Median RGB of Moregorn frames 37-40; remove pixels within maximum channel difference 16; within logo ROI also remove pixels within 40 of frame 0.",
+    "removed_per_frame": [
+      1018,
+      1059,
+      1057,
+      1258,
+      1336,
+      1417,
+      1469,
+      1242,
+      1123,
+      954,
+      911,
+      951,
+      945,
+      950,
+      1139,
+      1162,
+      1157,
+      1315,
+      1401,
+      1426,
+      1474,
+      1183,
+      1123,
+      996,
+      954,
+      962,
+      951,
+      954,
+      1170,
+      989,
+      970,
+      988,
+      1561,
+      1483,
+      1480,
+      1482,
+      722,
+      1680,
+      1859,
+      1767,
+      1770,
+      1350,
+      931,
+      558,
+      391,
+      1422,
+      1630,
+      1541,
+      1535,
+      1514,
+      1138,
+      1164,
+      1302,
+      1409,
+      1702,
+      1329,
+      788,
+      697,
+      670,
+      698,
+      558,
+      579,
+      571,
+      616,
+      608,
+      653,
+      667,
+      734,
+      654,
+      587,
+      638,
+      641,
+      676,
+      702,
+      672,
+      679,
+      676,
+      685,
+      662,
+      612,
+      1063,
+      1085,
+      1055,
+      1191,
+      1123,
+      1156,
+      1063,
+      918,
+      1106
+    ],
+    "limitations": "Scene colors and logo may overlap subject/VFX; sparse reference frames include effects and are not ground truth. Inspect both frame 39 and 40 and all frames; not approved."
+  },
+  "cleanup_logo_v3": {
+    "source": "median frame 0 of Aquamen, Diorai, Evenl, Moregorn, Moresword",
+    "base": "Asset/Character/archive/six_20261030_before_logo_mask/Moresword",
+    "method": "Within logo ROI, mask pixels where shared reference RGB max >90, dilated 4px; remove all pixels under that footprint.",
+    "removed_per_frame": [
+      0,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      14,
+      15,
+      15,
+      15,
+      15,
+      14,
+      14,
+      14,
+      15,
+      15,
+      15,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      28,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      17,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      20,
+      20,
+      20
+    ],
+    "limitations": "The fixed logo footprint can erase character effects crossing it; inspect all frames, especially Aquamen late frames."
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "method": "Removed only after verifying byte-identical SHA-256 source copy",
+  "files": [
+    {
+      "removed": "Aquamen.gif",
+      "retained": "Asset/Character/vfx/Aquamen.gif",
+      "sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7",
+      "bytes": 1509889
+    },
+    {
+      "removed": "Diorai.gif",
+      "retained": "Asset/Character/vfx/Diorai.gif",
+      "sha256": "99c865743b39dd7d3d731ec5668aba0804e0045f39136da86eec5210eb4c5887",
+      "bytes": 2233030
+    },
+    {
+      "removed": "Epicti.gif",
+      "retained": "Asset/Character/vfx/Epicti.gif",
+      "sha256": "9652494a656e10e9e567523df0ff01fe4008227fe9ba6eda32dfc02a3644ae67",
+      "bytes": 337474
+    },
+    {
+      "removed": "Evenl.gif",
+      "retained": "Asset/Character/vfx/Evenl.gif",
+      "sha256": "20601e1c62c522228dd9381384cddab725d4831fd1f5c1d4e6ac8b713d5a3499",
+      "bytes": 2160809
+    },
+    {
+      "removed": "Kanhosst.gif",
+      "retained": "Asset/Character/vfx/Kanhosst.gif",
+      "sha256": "e94e17bde83b9efa239668846f1369d22d51f59c5417bdb44154eb2ef4ede5a3",
+      "bytes": 463151
+    },
+    {
+      "removed": "Kungteng.gif",
+      "retained": "Asset/Character/vfx/Kungteng.gif",
+      "sha256": "b61d820c3af1ff1078d4ee3c0321b8667cafb499b3dcbe18acd7e697e99eea6f",
+      "bytes": 851906
+    },
+    {
+      "removed": "Moregorn.gif",
+      "retained": "Asset/Character/vfx/Moregorn.gif",
+      "sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+      "bytes": 1103589
+    },
+    {
+      "removed": "Moresword.gif",
+      "retained": "Asset/Character/vfx/Moresword.gif",
+      "sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7",
+      "bytes": 2184627
+    },
+    {
+      "removed": "Mythos.gif",
+      "retained": "Asset/Character/vfx/Mythos.gif",
+      "sha256": "731285221f235508140547572bd9ec7043501ebc84db2e88920ac490d737ae85",
+      "bytes": 629828
+    },
+    {
+      "removed": "Nemotront.gif",
+      "retained": "Asset/Character/vfx/Nemotront.gif",
+      "sha256": "589299dc89e3b26dd4601e9fa28c5623b9d11e3e53af5912713fd05351934f95",
+      "bytes": 220575
+    },
+    {
+      "removed": "Tracker.gif",
+      "retained": "Asset/Character/vfx/Tracker.gif",
+      "sha256": "2e16ce577e5f1f7e5667da2be481c05c5640646ad7801e9515e94fb0fc106537",
+      "bytes": 378764
+    },
+    {
+      "removed": "charmia.gif",
+      "retained": "Asset/Character/vfx/charmia.gif",
+      "sha256": "be42e8fb0920dee58dc0e71e3d0f3117f512e5a1b7966f52617f586cfe705e53",
+      "bytes": 685836
+    },
+    {
+      "removed": "combra.gif",
+      "retained": "Asset/Character/vfx/combra.gif",
+      "sha256": "c350ee36210337a1584a073e6cf21b177e1450cf6f8b23bcee6edbed87897d33",
+      "bytes": 892567
+    },
+    {
+      "removed": "cons.gif",
+      "retained": "Asset/Character/vfx/cons.gif",
+      "sha256": "82a0e54d6a4b3c112cd9e31fd613a5fa9c70463a4aad53c24faf4fca4e2fdffc",
+      "bytes": 3663695
+    },
+    {
+      "removed": "cornra.gif",
+      "retained": "Asset/Character/vfx/cornra.gif",
+      "sha256": "ab267bfc2427675bac10ce0b025276e249fd31d9be99619b7508c6a61ce3109f",
+      "bytes": 888801
+    },
+    {
+      "removed": "hecpoirt.gif",
+      "retained": "Asset/Character/vfx/hecpoirt.gif",
+      "sha256": "69e97201495f1bad49b17db082eb97fa418abb5df447a43b6f4513ca958768c8",
+      "bytes": 1074850
+    },
+    {
+      "removed": "isis.gif",
+      "retained": "Asset/Character/vfx/isis.gif",
+      "sha256": "c904be32f972ed630e5f8d88ef4f43ec5607ed7eb76f5f3403d51f8cc947b0eb",
+      "bytes": 859409
+    },
+    {
+      "removed": "ison.gif",
+      "retained": "Asset/Character/vfx/ison.gif",
+      "sha256": "ee028e92235318c7a57ec7c103dd9d4c87ec4ad4b5f2ada1b55bad24288b63a8",
+      "bytes": 1067673
+    },
+    {
+      "removed": "isorat.gif",
+      "retained": "Asset/Character/vfx/isorat.gif",
+      "sha256": "833892486aa07601816b7b8d5d96dafeb67e6d5ec94c7fee3b36c60109cbd668",
+      "bytes": 784006
+    },
+    {
+      "removed": "kikontai.gif",
+      "retained": "Asset/Character/vfx/kikontai.gif",
+      "sha256": "092197c17bd0c0af0a7dd5edac717a20364cf239c4d9699d4847a1b92282acee",
+      "bytes": 647991
+    },
+    {
+      "removed": "maxoi.gif",
+      "retained": "Asset/Character/vfx/maxoi.gif",
+      "sha256": "d9dbf75a72462a4d859b95a1a01b16ce277a2a4aa97b347feb77bfe97e00b34d",
+      "bytes": 783951
+    },
+    {
+      "removed": "omega.gif",
+      "retained": "Asset/Character/vfx/omega.gif",
+      "sha256": "fddd4ff403e76d00f3dd6b69bde72928c2ce6045dc881e3b284073c3c7f0093e",
+      "bytes": 987308
+    },
+    {
+      "removed": "ompan.gif",
+      "retained": "Asset/Character/vfx/ompan.gif",
+      "sha256": "61dce80feac58005c3a85e20716e5f89a01be9b610e2d92fbe8309941498277b",
+      "bytes": 829471
+    },
+    {
+      "removed": "onaon.gif",
+      "retained": "Asset/Character/vfx/onaon.gif",
+      "sha256": "257904caaf31c450900e05e4ac1eb86f75bf3857f788c2bd1ae7bd09ff9c8cae",
+      "bytes": 1911505
+    },
+    {
+      "removed": "oset.gif",
+      "retained": "Asset/Character/vfx/oset.gif",
+      "sha256": "a5883068dc678293def225ddc9a5aaee9c79ba80d2a6c0d7b2498897b1873b7f",
+      "bytes": 1078755
+    },
+    {
+      "removed": "osiris.gif",
+      "retained": "Asset/Character/vfx/osiris.gif",
+      "sha256": "a28b310ac1b7f96fcc6cff3b97940caf5705467773c875d8c2c316a905ed386d",
+      "bytes": 1362861
+    },
+    {
+      "removed": "pandung.gif",
+      "retained": "Asset/Character/vfx/pandung.gif",
+      "sha256": "7b3afc29f2f0b47e03d9d3e291b505c2845541fc572a9c807bc4902c3b68bef2",
+      "bytes": 1056760
+    },
+    {
+      "removed": "samset.gif",
+      "retained": "Asset/Character/vfx/samset.gif",
+      "sha256": "7d3abaab389854beb4f643d7e6d694e722e467f26c08e6879b06181a7f4cbde4",
+      "bytes": 918711
+    },
+    {
+      "removed": "thorn.gif",
+      "retained": "Asset/Character/vfx/thorn.gif",
+      "sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+      "bytes": 1301512
+    },
+    {
+      "removed": "uopon.gif",
+      "retained": "Asset/Character/vfx/uopon.gif",
+      "sha256": "0400fcbf6a6c0672a1aa1d3964f5131cd1a5009e943f1f04e7d93d825d394a61",
+      "bytes": 955003
+    }
+  ]
+}

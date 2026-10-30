@@ -1,0 +1,667 @@
+{
+  "id": "pandung",
+  "source": "Asset/Character/vfx/pandung.gif",
+  "source_sha256": "7b3afc29f2f0b47e03d9d3e291b505c2845541fc572a9c807bc4902c3b68bef2",
+  "art_source": "existing",
+  "frame_count": 53,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    520,
+    520
+  ],
+  "target_height_px": 85,
+  "reference_frame": 0,
+  "reference_height_px": 185,
+  "reference_body_bounds": [
+    190,
+    270,
+    350,
+    455
+  ],
+  "anchor_px": [
+    270.0,
+    455
+  ],
+  "display_scale": 0.4594594594594595,
+  "measurement_kind": "visually_estimated_body_bounds",
+  "status": "candidate_unreviewed",
+  "size_target_approval": "user_requested_20261030_twenty",
+  "method": "Moregorn reference frames 37-40 median RGB difference >16; sample pixel_simple blue RGB difference >5; common logo footprint dilated 4px.",
+  "model_sources": [
+    {
+      "source": "Asset/Character/vfx/Moregorn.gif",
+      "sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+      "indices": [
+        37,
+        38,
+        39,
+        40
+      ]
+    }
+  ],
+  "opaque_pixels_per_frame": [
+    21884,
+    23148,
+    22806,
+    22994,
+    23081,
+    23767,
+    23535,
+    23276,
+    22334,
+    23610,
+    23421,
+    23343,
+    23810,
+    24099,
+    23564,
+    22990,
+    23810,
+    23216,
+    22684,
+    22973,
+    23061,
+    23819,
+    23523,
+    23227,
+    22294,
+    23589,
+    23417,
+    23351,
+    23797,
+    24091,
+    23545,
+    22980,
+    20638,
+    20122,
+    22705,
+    27515,
+    27842,
+    25710,
+    22367,
+    20110,
+    20203,
+    20862,
+    18665,
+    22087,
+    66350,
+    55831,
+    43523,
+    35468,
+    27227,
+    25123,
+    22249,
+    19380,
+    21060
+  ],
+  "limitations": "Foreground or FX can be removed or background/logo can remain. Body bounds are approximate and unapproved; review all frames and motion.",
+  "logo_reference_sources": [
+    {
+      "path": "Kungteng.gif",
+      "sha256": "b61d820c3af1ff1078d4ee3c0321b8667cafb499b3dcbe18acd7e697e99eea6f",
+      "frame": 0
+    },
+    {
+      "path": "cons.gif",
+      "sha256": "82a0e54d6a4b3c112cd9e31fd613a5fa9c70463a4aad53c24faf4fca4e2fdffc",
+      "frame": 0
+    },
+    {
+      "path": "isis.gif",
+      "sha256": "c904be32f972ed630e5f8d88ef4f43ec5607ed7eb76f5f3403d51f8cc947b0eb",
+      "frame": 0
+    },
+    {
+      "path": "omega.gif",
+      "sha256": "fddd4ff403e76d00f3dd6b69bde72928c2ce6045dc881e3b284073c3c7f0093e",
+      "frame": 0
+    },
+    {
+      "path": "oset.gif",
+      "sha256": "a5883068dc678293def225ddc9a5aaee9c79ba80d2a6c0d7b2498897b1873b7f",
+      "frame": 0
+    },
+    {
+      "path": "pandung.gif",
+      "sha256": "7b3afc29f2f0b47e03d9d3e291b505c2845541fc572a9c807bc4902c3b68bef2",
+      "frame": 0
+    }
+  ],
+  "blue_sample": {
+    "path": "pixel_simple.png",
+    "sha256": "9b3f1cd26c6e7967cdb480e277aabb9332f5804dae00fe85933864532a4778bb"
+  },
+  "forge_current_clip": "clips/animation-clips.json",
+  "forge_folder": "Asset/Character/forge_pilots/six_remaining_20261030/pandung"
+}

@@ -1,0 +1,187 @@
+{
+  "root_to_source": {
+    "kikontai.gif": "Asset/Character/vfx/kikontai.gif",
+    "Nemotront.gif": "Asset/Character/vfx/Nemotront.gif",
+    "ison.gif": "Asset/Character/vfx/ison.gif",
+    "Moregorn.gif": "Asset/Character/vfx/Moregorn.gif",
+    "Kanhosst.gif": "Asset/Character/vfx/Kanhosst.gif",
+    "Moresword.gif": "Asset/Character/vfx/Moresword.gif",
+    "isis.gif": "Asset/Character/vfx/isis.gif",
+    "osiris.gif": "Asset/Character/vfx/osiris.gif",
+    "Aquamen.gif": "Asset/Character/vfx/Aquamen.gif",
+    "charmia.gif": "Asset/Character/vfx/charmia.gif",
+    "Evenl.gif": "Asset/Character/vfx/Evenl.gif",
+    "Epicti.gif": "Asset/Character/vfx/Epicti.gif",
+    "cons.gif": "Asset/Character/vfx/cons.gif",
+    "Kungteng.gif": "Asset/Character/vfx/Kungteng.gif",
+    "hecpoirt.gif": "Asset/Character/vfx/hecpoirt.gif",
+    "thorn.gif": "Asset/Character/vfx/thorn.gif",
+    "Diorai.gif": "Asset/Character/vfx/Diorai.gif",
+    "pandung.gif": "Asset/Character/vfx/pandung.gif",
+    "Mythos.gif": "Asset/Character/vfx/Mythos.gif",
+    "Tracker.gif": "Asset/Character/vfx/Tracker.gif",
+    "ompan.gif": "Asset/Character/vfx/ompan.gif",
+    "onaon.gif": "Asset/Character/vfx/onaon.gif",
+    "uopon.gif": "Asset/Character/vfx/uopon.gif",
+    "maxoi.gif": "Asset/Character/vfx/maxoi.gif",
+    "samset.gif": "Asset/Character/vfx/samset.gif",
+    "oset.gif": "Asset/Character/vfx/oset.gif",
+    "isorat.gif": "Asset/Character/vfx/isorat.gif",
+    "cornra.gif": "Asset/Character/vfx/cornra.gif",
+    "combra.gif": "Asset/Character/vfx/combra.gif",
+    "omega.gif": "Asset/Character/vfx/omega.gif"
+  },
+  "candidate_metadata": [
+    {
+      "id": "thorn",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/thorn/candidate.json",
+      "old_sha256": "07b6676436f4117f7abf586b4f8006fd01eb6381b30310329f2ec068f4cccc1e",
+      "new_sha256": "2186cbc7d73a9931377bbfeaf83c581392129cc02acefb9e0917bd037543f2fc"
+    },
+    {
+      "id": "Evenl",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/Evenl/candidate.json",
+      "old_sha256": "4c733ec84a9048c31799ba6b1247dde626b6ab75567f4160ff87784234a04a00",
+      "new_sha256": "9fa493beda30a64b0fc6e19920c5469b25c504b3c80ef5efa7edcd02ca5972e0"
+    },
+    {
+      "id": "cornra",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/cornra/candidate.json",
+      "old_sha256": "8d483175cf9b5a5d15d45524a2949b4bf8fe0b76ff9bbc85ecc4963cfe0c5f52",
+      "new_sha256": "f32f66a50463d9ae4d0adb24d7c6964bdd6ca59abbfb43e9ac890fa8d0d62157"
+    },
+    {
+      "id": "osiris",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/osiris/candidate.json",
+      "old_sha256": "ca9ea0cbbf3fca733c4bf8b290482e4cbf0778f6d083cfcebb28d64d67e020d6",
+      "new_sha256": "a67cba30efcfb3678911abe11d648f806c2da730e9809edee7c8c31c1fd5cab9"
+    },
+    {
+      "id": "onaon",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/onaon/candidate.json",
+      "old_sha256": "fcd5e8b0820498a7a493d5296e8e98bf4549d7ab5ee7fb929a89d3bd5802ac54",
+      "new_sha256": "ed2f99a4a55a6fdffd9eed636ef89531847c2f8460bae6b833cc98f8be45a7af"
+    },
+    {
+      "id": "Diorai",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/Diorai/candidate.json",
+      "old_sha256": "fbd0fc2838bb32b81dae2d69eec16f1bf9d33c06a4935e7d63790a68d1c6467b",
+      "new_sha256": "99a39504b0e6da4a59b9727340d25df167d47807aa25a6d8154892eb89578fa8"
+    },
+    {
+      "id": "isorat",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/isorat/candidate.json",
+      "old_sha256": "22c485d3b1c51a5d64d301a241bf9dcb22d5a8b4af43fce1739277f7f128720a",
+      "new_sha256": "69fac267ca8aaa2820267230f47b58756521462fb35c500fbea528254675ba6b"
+    },
+    {
+      "id": "Moresword",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/Moresword/candidate.json",
+      "old_sha256": "b7141515e0ba5214cf10adc1b24d53a104fe2c6e7ba6ceb47040af5a507f7c2a",
+      "new_sha256": "c59c9a82e007c97e93cff1dad6bc4dcff26238c2977e5874f1b6dc2598d31b60"
+    },
+    {
+      "id": "samset",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/samset/candidate.json",
+      "old_sha256": "ce58ca43c0c06be04db43ead99dae05de82f37cd316384ad465785bf8b6c7b6c",
+      "new_sha256": "1e2b785fd4a2875b9f78084a07c115f91d0256e2c06adf0ea502d92b076aa865"
+    },
+    {
+      "id": "isis",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/isis/candidate.json",
+      "old_sha256": "3cf1d3d2c1528b7802b4787ebe1fd04b57905232c1fdad9d8fa8a996fecab7f6",
+      "new_sha256": "df040849dce2f1ac500268c6f6f203fadf30cd1fabd4800fca6445b07ae49949"
+    },
+    {
+      "id": "uopon",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/uopon/candidate.json",
+      "old_sha256": "8080da71ebf63178b49bb415899de6ea6d275438335e1fe12d2c2dd6751897ac",
+      "new_sha256": "035f5d8be8ceecbce538e84f3771a5429253d9615b0c8559a0dc08c95f6c5f1e"
+    },
+    {
+      "id": "kikontai",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/kikontai/candidate.json",
+      "old_sha256": "b9db88ee7f62323879443a408f3eb92582d103fd68aff22c655e16b6c5dfb64b",
+      "new_sha256": "1a69cd2fd83f770b2d6feb8b9ec18d3f40547d1815f88d3ca1d738e6a27f1157"
+    },
+    {
+      "id": "cons",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/cons/candidate.json",
+      "old_sha256": "edbbeaf9253629b144656c1f625d0eb40126f179dbfa76438c36f0fd09fd8f41",
+      "new_sha256": "6804f5ff99d381771caff38d9bc655eb7347b5042dab5929704a2752e5ea41bb"
+    },
+    {
+      "id": "maxoi",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/maxoi/candidate.json",
+      "old_sha256": "80f44a2efee4509aa5e2d06880b3f958bb35e047eb47a1efdfe47e6f7d2bfb70",
+      "new_sha256": "0a9e1a0d342cfa380d683166b41abfcf909ce9bf82cb221e58c00d5f3f17535c"
+    },
+    {
+      "id": "Kungteng",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/Kungteng/candidate.json",
+      "old_sha256": "8055e14683e675c03a59863d36c747a9c8e332555a533de59e0f9cc57354651a",
+      "new_sha256": "08ebc3085a120c7fa7cc45671f366057ed7b79ed15f118be7fa1e593aec1b0dd"
+    },
+    {
+      "id": "Aquamen",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/Aquamen/candidate.json",
+      "old_sha256": "d83e6ec95370a03faf012155ce716f09ced7103ca8e9d9c3eddf28db5d1caef4",
+      "new_sha256": "9a2317bbacf6103501f7f4e403b571538642f8a154eefe25f8ce171532699984"
+    },
+    {
+      "id": "charmia",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/charmia/candidate.json",
+      "old_sha256": "6d02b7cb149b226aeac25e67349caa02ed0a8a08d0c1277f92251d4616a9bef4",
+      "new_sha256": "e440dac272131a3e10944329433eab7fe70d10d39802c1d34671c40a19b3952b"
+    },
+    {
+      "id": "Moregorn",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/Moregorn/candidate.json",
+      "old_sha256": "75478000ce86fe2536ab600ea76aabaa8782e0654ebc29ebfd678bcdfd55dbd5",
+      "new_sha256": "45d3a21e067a5c8c848b0a216b66e469a1f80fbc2d4145f9a17f1b75194ffc2c"
+    },
+    {
+      "id": "ompan",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/ompan/candidate.json",
+      "old_sha256": "e2d7160c993c5a68e3b474326a29ce0b3882307947b6b961ecda841af982ca88",
+      "new_sha256": "7e7ac3ce5698751e4ff8767ebdbdc671298f5611e4beed90606ef188f2bb1a5a"
+    },
+    {
+      "id": "omega",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/omega/candidate.json",
+      "old_sha256": "dcdf8c2e7d75fe32fad00380e049325e6ad094dca0fe6ea53ccd60777a5f3c47",
+      "new_sha256": "ed3e3b52449bb4f752515042a2f093ac6256669f6c5d286ccc27baa0a788c2a2"
+    },
+    {
+      "id": "ison",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/ison/candidate.json",
+      "old_sha256": "13504972f3b91ee86bb59e21292649b435cae44f4cb8a6ec50f7612795ed66a4",
+      "new_sha256": "909abb31c0acb9fb2e0df6c27afd6e571bd98fa5aff8743f248e7a6a5a09206e"
+    },
+    {
+      "id": "pandung",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/pandung/candidate.json",
+      "old_sha256": "42c83417650b628ac215e9664af8c7f5e63dd078dab8226fbac1827c5f13cc7c",
+      "new_sha256": "4693c3b6092d546c9c92570e9e1bb3ee4f3b5a727012786256beed6d294b481f"
+    },
+    {
+      "id": "oset",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/oset/candidate.json",
+      "old_sha256": "f50a5f4ec4aa252da77249b600ddb9ea5cc1baef81d00e6b70ca443f4c77738e",
+      "new_sha256": "68b948bb8fe4e670fa50fd68e2639579c2cdb2fceaf8057416737d608d1978e2"
+    },
+    {
+      "id": "combra",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/combra/candidate.json",
+      "old_sha256": "a2bc0568514f6857bf3470296b4dea2395819bb685664ab5e5cd11245a5d7e69",
+      "new_sha256": "4279d51e109a0337177e17aaede36783197a58ff726ffe7b597b1c88a3f73a66"
+    },
+    {
+      "id": "hecpoirt",
+      "old_candidate": "Asset/Character/archive/root_gif_provenance_metadata_20261030/hecpoirt/candidate.json",
+      "old_sha256": "57708d87adc25de6742d2ae9832ac33e34d38503982bae3f3bfded738a4cd75a",
+      "new_sha256": "1aa8f373b9e7eae9fb0f6fe54f12c1846c594945029f090c2a65444ac02b0eb9"
+    }
+  ],
+  "note": "Earlier snapshots retain original candidate hashes; their former candidate metadata is archived here. Current v5 has normalized paths and hashes."
+}

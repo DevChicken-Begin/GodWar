@@ -83,14 +83,14 @@ await test('local viewer serves source data, candidates, and handles missing rou
   assert.ok(fireSpecks.includes('fireknight'));
   assert.equal((await fetch(`${origin}/Asset/Character/fire_speck_candidates/fireknight/atlas_000.png`, { method: 'HEAD' })).status, 200);
   const detail130 = await (await fetch(`${origin}/api/detail-130-candidates`)).json();
-  for (const id of ['artemis', 'nox', 'overight', 'powerdame', 'wuchen', 'ziggist', 'scorpit', 'skyles', 'snowpie', 'tigerknight', 'azza', 'dracian', 'dragonmout', 'mortafi']) assert.ok(detail130.includes(id));
+  for (const id of ['artemis', 'nox', 'overight', 'powerdame', 'wuchen', 'ziggist', 'scorpit', 'skyles', 'tigerknight', 'dracian', 'dragonmout', 'mortafi']) assert.ok(detail130.includes(id));
   assert.equal((await fetch(`${origin}/Asset/Character/fine_candidates/agon/atlas_000.png`, { method: 'HEAD' })).status, 200);
   const native = await (await fetch(`${origin}/api/native-candidates`)).json();
   for (const id of ['reptalian', 'dracian', 'vargost', 'xinchan', 'raptilian']) { assert.ok(visibleIds.has(id)); assert.ok(native.includes(id)); }
   for (const id of ['changlie', 'choptian', 'costmic', 'ractalo', 'kungchang', 'rep']) { assert.ok(visibleIds.has(id)); assert.ok(native.includes(id)); }
-  for (const id of ['biden', 'airpot', 'black', 'pigpor', 'jaik']) { assert.ok(visibleIds.has(id)); assert.ok(native.includes(id)); }
+  for (const id of ['biden', 'airpot', 'pigpor', 'jaik']) { assert.ok(visibleIds.has(id)); assert.ok(native.includes(id)); }
   const detailOct29 = await (await fetch(`${origin}/api/detail-oct29-candidates`)).json();
-  for (const id of ['dragonot', 'momo', 'nox', 'warrioram']) assert.ok(detailOct29.includes(id));
+  for (const id of ['dragonot', 'nox', 'warrioram']) assert.ok(detailOct29.includes(id));
   assert.equal((await fetch(`${origin}/Asset/Character/detail_oct29_candidates/nox/frame_000.png`, { method: 'HEAD' })).status, 200);
   const pilot = await fetch(`${origin}/Asset/Character/forge_pilots/dragonot_reference_v1/godot_export/godot/preview.json`);
   assert.equal(pilot.status, 200);
@@ -108,9 +108,13 @@ await test('local viewer serves source data, candidates, and handles missing rou
   assert.equal((await fetch(`${origin}/Asset/Character/review/background-review-status.json`)).status, 200);
   assert.equal((await fetch(`${origin}/Asset/Character/refined_candidates/3%20char/atlas_000.png`, { method: 'HEAD' })).status, 200);
   const splits = await (await fetch(`${origin}/Asset/Character/characters/3-char-splits.json`)).json();
-  assert.deepEqual(splits.characters.map(item => [item.id, item.first_source_frame, item.last_source_frame]), [['solist', 0, 51], ['namero', 52, 101], ['kukaomni', 102, 155]]);
+  assert.deepEqual(splits.characters.map(item => [item.id, item.first_source_frame, item.last_source_frame]), [['solist', 0, 51], ['kukaomni', 102, 155]]);
   const splitCatalog = await (await fetch(`${origin}/Asset/Character/extracted/split-catalog.json`)).json();
-  assert.deepEqual(splitCatalog.assets.map(item => item.frame_count), [52, 50, 54]);
+  assert.deepEqual(splitCatalog.assets.map(item => item.frame_count), [52, 54]);
+  for (const id of ['azza', 'bearen', 'black', 'momo', 'snowpie', 'namero']) {
+    assert.ok(!visibleIds.has(id));
+    assert.equal((await fetch(`${origin}/Asset/Character/extracted/${id}/atlas_000.png`)).status, 404);
+  }
   assert.equal((await fetch(`${origin}/Asset/Character/extracted/missing.png`)).status, 404);
   assert.equal((await fetch(`${origin}/package.json`)).status, 404);
   assert.equal((await fetch(origin, { method: 'POST' })).status, 405);

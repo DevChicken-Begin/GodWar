@@ -348,45 +348,6 @@
       "characters": []
     },
     {
-      "source": "Asset/Character/vfx/azza.gif",
-      "sha256": "8fc3d162149a9713db3753f796733bc1ab613386d43e9a19395d81b36db24127",
-      "frames": 47,
-      "review_sheets": [
-        "frames_0000_0046.jpg"
-      ],
-      "status": "partially_reviewed",
-      "observations": [
-        {
-          "frames": [
-            0,
-            35
-          ],
-          "observation": "Nhân vật trong tư thế gần giống đứng yên, một số frame nháy sáng.",
-          "evidence": "azza/frames_0000_0046.jpg"
-        },
-        {
-          "frames": [
-            36,
-            46
-          ],
-          "observation": "Nhân vật tạo vật thể và tia màu xanh phía trên; chưa xác nhận chức năng trong game.",
-          "evidence": "azza/frames_0000_0046.jpg"
-        }
-      ],
-      "characters": []
-    },
-    {
-      "source": "Asset/Character/vfx/bearen.gif",
-      "sha256": "eb85eb953c76b7f2eaa6116758cff60f0441f5a0afe19cc6400c5aca40060929",
-      "frames": 29,
-      "review_sheets": [
-        "frames_0000_0028.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
       "source": "Asset/Character/vfx/bearfire.gif",
       "sha256": "7d0da1f61dfbb56cdef67d3d545db4dbd7364bf27f209debdfee35fd07130687",
       "frames": 66,
@@ -1179,17 +1140,6 @@
       "characters": []
     },
     {
-      "source": "Asset/Character/vfx/snowpie.gif",
-      "sha256": "2bb818caba8429c3eeddf3ea66aa18c8f834567557a52c3e5146108bf03451d2",
-      "frames": 49,
-      "review_sheets": [
-        "frames_0000_0048.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
       "source": "Asset/Character/vfx/swordame.gif",
       "sha256": "81e7d655eeab958b0177d4ca2681b1fabb797a320917ca50e98e125222dfe142",
       "frames": 39,
@@ -1524,17 +1474,6 @@
       "characters": []
     },
     {
-      "source": "Asset/Character/vfx/black.gif",
-      "sha256": "817c9ec1e784ca93dbfc72c796cb53f2b352ff79e3ca6cb811e16c9b550f9360",
-      "frames": 27,
-      "review_sheets": [
-        "frames_0000_0026.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
       "source": "Asset/Character/vfx/pigpor.gif",
       "sha256": "b19fd558441321233dde03b82c4767377d7b1fbf4c1a85ac14208dbe777d859c",
       "frames": 44,
@@ -1613,18 +1552,6 @@
       "frames": 21,
       "review_sheets": [
         "frames_0000_0020.jpg"
-      ],
-      "status": "unreviewed",
-      "observations": [],
-      "characters": []
-    },
-    {
-      "source": "Asset/Character/vfx/momo.gif",
-      "sha256": "2084efc7ecca9e3dba3ccf4c874b69ccc1b0922ea41ea666ba123f57dafb8265",
-      "frames": 58,
-      "review_sheets": [
-        "frames_0000_0029.jpg",
-        "frames_0030_0057.jpg"
       ],
       "status": "unreviewed",
       "observations": [],
@@ -1964,6 +1891,306 @@
       "review_sheets": [
         "Asset/Character/review/five_oct29_Kanhosst/contact-light.jpg",
         "Asset/Character/review/five_oct29_Kanhosst/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Aquamen.gif",
+      "sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7",
+      "frames": 65,
+      "review_sheets": [
+        "Asset/Character/review/six-import-20261030/Aquamen/contact-light.jpg",
+        "Asset/Character/review/six-import-20261030/Aquamen/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Diorai.gif",
+      "sha256": "99c865743b39dd7d3d731ec5668aba0804e0045f39136da86eec5210eb4c5887",
+      "frames": 84,
+      "review_sheets": [
+        "Asset/Character/review/six-import-20261030/Diorai/contact-light.jpg",
+        "Asset/Character/review/six-import-20261030/Diorai/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Evenl.gif",
+      "sha256": "20601e1c62c522228dd9381384cddab725d4831fd1f5c1d4e6ac8b713d5a3499",
+      "frames": 89,
+      "review_sheets": [
+        "Asset/Character/review/six-import-20261030/Evenl/contact-light.jpg",
+        "Asset/Character/review/six-import-20261030/Evenl/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Moregorn.gif",
+      "sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+      "frames": 51,
+      "review_sheets": [
+        "Asset/Character/review/six-import-20261030/Moregorn/contact-light.jpg",
+        "Asset/Character/review/six-import-20261030/Moregorn/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Moresword.gif",
+      "sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7",
+      "frames": 89,
+      "review_sheets": [
+        "Asset/Character/review/six-import-20261030/Moresword/contact-light.jpg",
+        "Asset/Character/review/six-import-20261030/Moresword/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/charmia.gif",
+      "sha256": "be42e8fb0920dee58dc0e71e3d0f3117f512e5a1b7966f52617f586cfe705e53",
+      "frames": 45,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/charmia/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/charmia/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/combra.gif",
+      "sha256": "c350ee36210337a1584a073e6cf21b177e1450cf6f8b23bcee6edbed87897d33",
+      "frames": 44,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/combra/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/combra/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/cornra.gif",
+      "sha256": "ab267bfc2427675bac10ce0b025276e249fd31d9be99619b7508c6a61ce3109f",
+      "frames": 48,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/cornra/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/cornra/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/hecpoirt.gif",
+      "sha256": "69e97201495f1bad49b17db082eb97fa418abb5df447a43b6f4513ca958768c8",
+      "frames": 54,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/hecpoirt/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/hecpoirt/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/ison.gif",
+      "sha256": "ee028e92235318c7a57ec7c103dd9d4c87ec4ad4b5f2ada1b55bad24288b63a8",
+      "frames": 69,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/ison/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/ison/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/isorat.gif",
+      "sha256": "833892486aa07601816b7b8d5d96dafeb67e6d5ec94c7fee3b36c60109cbd668",
+      "frames": 51,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/isorat/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/isorat/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/kikontai.gif",
+      "sha256": "092197c17bd0c0af0a7dd5edac717a20364cf239c4d9699d4847a1b92282acee",
+      "frames": 45,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/kikontai/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/kikontai/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/maxoi.gif",
+      "sha256": "d9dbf75a72462a4d859b95a1a01b16ce277a2a4aa97b347feb77bfe97e00b34d",
+      "frames": 51,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/maxoi/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/maxoi/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/ompan.gif",
+      "sha256": "61dce80feac58005c3a85e20716e5f89a01be9b610e2d92fbe8309941498277b",
+      "frames": 49,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/ompan/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/ompan/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/onaon.gif",
+      "sha256": "257904caaf31c450900e05e4ac1eb86f75bf3857f788c2bd1ae7bd09ff9c8cae",
+      "frames": 71,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/onaon/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/onaon/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/osiris.gif",
+      "sha256": "a28b310ac1b7f96fcc6cff3b97940caf5705467773c875d8c2c316a905ed386d",
+      "frames": 54,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/osiris/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/osiris/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/samset.gif",
+      "sha256": "7d3abaab389854beb4f643d7e6d694e722e467f26c08e6879b06181a7f4cbde4",
+      "frames": 58,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/samset/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/samset/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/thorn.gif",
+      "sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+      "frames": 66,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/thorn/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/thorn/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/uopon.gif",
+      "sha256": "0400fcbf6a6c0672a1aa1d3964f5131cd1a5009e943f1f04e7d93d825d394a61",
+      "frames": 69,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/uopon/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/uopon/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/Kungteng.gif",
+      "sha256": "b61d820c3af1ff1078d4ee3c0321b8667cafb499b3dcbe18acd7e697e99eea6f",
+      "frames": 54,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/Kungteng/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/Kungteng/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/cons.gif",
+      "sha256": "82a0e54d6a4b3c112cd9e31fd613a5fa9c70463a4aad53c24faf4fca4e2fdffc",
+      "frames": 97,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/cons/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/cons/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/isis.gif",
+      "sha256": "c904be32f972ed630e5f8d88ef4f43ec5607ed7eb76f5f3403d51f8cc947b0eb",
+      "frames": 63,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/isis/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/isis/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/omega.gif",
+      "sha256": "fddd4ff403e76d00f3dd6b69bde72928c2ce6045dc881e3b284073c3c7f0093e",
+      "frames": 57,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/omega/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/omega/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/oset.gif",
+      "sha256": "a5883068dc678293def225ddc9a5aaee9c79ba80d2a6c0d7b2498897b1873b7f",
+      "frames": 49,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/oset/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/oset/contact-dark.jpg"
+      ],
+      "status": "unreviewed",
+      "observations": [],
+      "characters": []
+    },
+    {
+      "source": "Asset/Character/vfx/pandung.gif",
+      "sha256": "7b3afc29f2f0b47e03d9d3e291b505c2845541fc572a9c807bc4902c3b68bef2",
+      "frames": 53,
+      "review_sheets": [
+        "Asset/Character/review/twenty-import-20261030/pandung/contact-light.jpg",
+        "Asset/Character/review/twenty-import-20261030/pandung/contact-dark.jpg"
       ],
       "status": "unreviewed",
       "observations": [],

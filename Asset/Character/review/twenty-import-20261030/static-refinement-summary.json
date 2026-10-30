@@ -1,0 +1,306 @@
+{
+  "reference_sources": [
+    {
+      "source": "Asset/Character/vfx/Kungteng.gif",
+      "sha256": "b61d820c3af1ff1078d4ee3c0321b8667cafb499b3dcbe18acd7e697e99eea6f",
+      "frames": [
+        0,
+        18,
+        36,
+        53
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/charmia.gif",
+      "sha256": "be42e8fb0920dee58dc0e71e3d0f3117f512e5a1b7966f52617f586cfe705e53",
+      "frames": [
+        0,
+        15,
+        30,
+        44
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/combra.gif",
+      "sha256": "c350ee36210337a1584a073e6cf21b177e1450cf6f8b23bcee6edbed87897d33",
+      "frames": [
+        0,
+        14,
+        29,
+        43
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/cons.gif",
+      "sha256": "82a0e54d6a4b3c112cd9e31fd613a5fa9c70463a4aad53c24faf4fca4e2fdffc",
+      "frames": [
+        0,
+        32,
+        64,
+        96
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/cornra.gif",
+      "sha256": "ab267bfc2427675bac10ce0b025276e249fd31d9be99619b7508c6a61ce3109f",
+      "frames": [
+        0,
+        16,
+        32,
+        47
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/hecpoirt.gif",
+      "sha256": "69e97201495f1bad49b17db082eb97fa418abb5df447a43b6f4513ca958768c8",
+      "frames": [
+        0,
+        18,
+        36,
+        53
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/isis.gif",
+      "sha256": "c904be32f972ed630e5f8d88ef4f43ec5607ed7eb76f5f3403d51f8cc947b0eb",
+      "frames": [
+        0,
+        21,
+        42,
+        62
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/ison.gif",
+      "sha256": "ee028e92235318c7a57ec7c103dd9d4c87ec4ad4b5f2ada1b55bad24288b63a8",
+      "frames": [
+        0,
+        23,
+        46,
+        68
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/isorat.gif",
+      "sha256": "833892486aa07601816b7b8d5d96dafeb67e6d5ec94c7fee3b36c60109cbd668",
+      "frames": [
+        0,
+        17,
+        34,
+        50
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/kikontai.gif",
+      "sha256": "092197c17bd0c0af0a7dd5edac717a20364cf239c4d9699d4847a1b92282acee",
+      "frames": [
+        0,
+        15,
+        30,
+        44
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/maxoi.gif",
+      "sha256": "d9dbf75a72462a4d859b95a1a01b16ce277a2a4aa97b347feb77bfe97e00b34d",
+      "frames": [
+        0,
+        17,
+        34,
+        50
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/omega.gif",
+      "sha256": "fddd4ff403e76d00f3dd6b69bde72928c2ce6045dc881e3b284073c3c7f0093e",
+      "frames": [
+        0,
+        19,
+        38,
+        56
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/ompan.gif",
+      "sha256": "61dce80feac58005c3a85e20716e5f89a01be9b610e2d92fbe8309941498277b",
+      "frames": [
+        0,
+        16,
+        32,
+        48
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/onaon.gif",
+      "sha256": "257904caaf31c450900e05e4ac1eb86f75bf3857f788c2bd1ae7bd09ff9c8cae",
+      "frames": [
+        0,
+        23,
+        47,
+        70
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/oset.gif",
+      "sha256": "a5883068dc678293def225ddc9a5aaee9c79ba80d2a6c0d7b2498897b1873b7f",
+      "frames": [
+        0,
+        16,
+        32,
+        48
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/osiris.gif",
+      "sha256": "a28b310ac1b7f96fcc6cff3b97940caf5705467773c875d8c2c316a905ed386d",
+      "frames": [
+        0,
+        18,
+        36,
+        53
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/pandung.gif",
+      "sha256": "7b3afc29f2f0b47e03d9d3e291b505c2845541fc572a9c807bc4902c3b68bef2",
+      "frames": [
+        0,
+        17,
+        35,
+        52
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/samset.gif",
+      "sha256": "7d3abaab389854beb4f643d7e6d694e722e467f26c08e6879b06181a7f4cbde4",
+      "frames": [
+        0,
+        19,
+        38,
+        57
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/thorn.gif",
+      "sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+      "frames": [
+        0,
+        22,
+        44,
+        65
+      ]
+    },
+    {
+      "source": "Asset/Character/vfx/uopon.gif",
+      "sha256": "0400fcbf6a6c0672a1aa1d3964f5131cd1a5009e943f1f04e7d93d825d394a61",
+      "frames": [
+        0,
+        23,
+        46,
+        68
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "Kungteng",
+      "removed_pixels": 2236,
+      "frames_changed": 54
+    },
+    {
+      "id": "charmia",
+      "removed_pixels": 1598,
+      "frames_changed": 42
+    },
+    {
+      "id": "combra",
+      "removed_pixels": 1370,
+      "frames_changed": 44
+    },
+    {
+      "id": "cons",
+      "removed_pixels": 2801,
+      "frames_changed": 91
+    },
+    {
+      "id": "cornra",
+      "removed_pixels": 2086,
+      "frames_changed": 48
+    },
+    {
+      "id": "hecpoirt",
+      "removed_pixels": 1775,
+      "frames_changed": 52
+    },
+    {
+      "id": "isis",
+      "removed_pixels": 1926,
+      "frames_changed": 51
+    },
+    {
+      "id": "ison",
+      "removed_pixels": 1548,
+      "frames_changed": 54
+    },
+    {
+      "id": "isorat",
+      "removed_pixels": 2325,
+      "frames_changed": 50
+    },
+    {
+      "id": "kikontai",
+      "removed_pixels": 1656,
+      "frames_changed": 45
+    },
+    {
+      "id": "maxoi",
+      "removed_pixels": 2056,
+      "frames_changed": 51
+    },
+    {
+      "id": "omega",
+      "removed_pixels": 2159,
+      "frames_changed": 57
+    },
+    {
+      "id": "ompan",
+      "removed_pixels": 1984,
+      "frames_changed": 49
+    },
+    {
+      "id": "onaon",
+      "removed_pixels": 1861,
+      "frames_changed": 62
+    },
+    {
+      "id": "oset",
+      "removed_pixels": 1414,
+      "frames_changed": 41
+    },
+    {
+      "id": "osiris",
+      "removed_pixels": 1811,
+      "frames_changed": 46
+    },
+    {
+      "id": "pandung",
+      "removed_pixels": 2467,
+      "frames_changed": 52
+    },
+    {
+      "id": "samset",
+      "removed_pixels": 2187,
+      "frames_changed": 57
+    },
+    {
+      "id": "thorn",
+      "removed_pixels": 2238,
+      "frames_changed": 57
+    },
+    {
+      "id": "uopon",
+      "removed_pixels": 2570,
+      "frames_changed": 67
+    }
+  ]
+}

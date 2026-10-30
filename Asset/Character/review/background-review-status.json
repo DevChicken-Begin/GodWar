@@ -168,23 +168,6 @@
       ]
     },
     {
-      "id": "azza",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
-      "variants": [
-        "fine_candidates",
-        "detail_130_candidates"
-      ]
-    },
-    {
-      "id": "bearen",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame.",
-      "variants": [
-        "batch_candidates"
-      ]
-    },
-    {
       "id": "bearfire",
       "status": "visual_review_pending",
       "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
@@ -824,16 +807,6 @@
       ]
     },
     {
-      "id": "snowpie",
-      "status": "visual_review_pending",
-      "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản thử +30% chi tiết theo chiều, giữ canvas; cần duyệt viền và VFX khi phát.",
-      "variants": [
-        "candidates",
-        "batch_candidates",
-        "detail_130_candidates"
-      ]
-    },
-    {
       "id": "swordame",
       "status": "visual_review_pending",
       "issue": "Chưa duyệt trực quan chi tiết tất cả frame. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
@@ -1097,14 +1070,6 @@
       ]
     },
     {
-      "id": "black",
-      "status": "visual_review_pending",
-      "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX.",
-      "variants": [
-        "native_candidates"
-      ]
-    },
-    {
       "id": "pigpor",
       "status": "visual_review_pending",
       "issue": "Bản tách nền nguyên độ phân giải chưa duyệt; có thể mất chi tiết cùng màu nền hoặc còn nền/VFX. Có bản làm mịn cạnh hàng loạt chưa duyệt; so lại viền/VFX và bản nền đầu vào.",
@@ -1159,15 +1124,6 @@
     },
     {
       "id": "jaying",
-      "status": "visual_review_pending",
-      "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
-      "variants": [
-        "batch12_native_candidates",
-        "batch12_detail_candidates"
-      ]
-    },
-    {
-      "id": "momo",
       "status": "visual_review_pending",
       "issue": "Bản tách nền và chữ chưa duyệt: có thể còn nền hoặc mất chi tiết/VFX; nội suy không khôi phục chi tiết gốc.",
       "variants": [
@@ -1430,6 +1386,206 @@
       "id": "Kanhosst",
       "status": "visual_review_pending",
       "issue": "Tách màu nền và mốc thân ước lượng; cần duyệt viền, VFX, chuyển động và neo.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Aquamen",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Diorai",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Evenl",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Moregorn",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Moresword",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "charmia",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "combra",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "cornra",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "hecpoirt",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "ison",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "isorat",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "kikontai",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "maxoi",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "ompan",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "onaon",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "osiris",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "samset",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "thorn",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "uopon",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "Kungteng",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "cons",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "isis",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "omega",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "oset",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
+      "variants": [
+        "measured_atlas_pilots"
+      ]
+    },
+    {
+      "id": "pandung",
+      "status": "visual_review_pending",
+      "issue": "Nền và logo phức tạp; còn khả năng sót nền, xóa nhầm VFX. Thân và neo ước lượng, chưa duyệt.",
       "variants": [
         "measured_atlas_pilots"
       ]

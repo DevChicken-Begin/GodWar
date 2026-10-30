@@ -1,0 +1,206 @@
+{
+  "schema_version": 1,
+  "updated_at_utc": "2026-10-30T06:42:09Z",
+  "purpose": "Bộ nhớ bàn giao ngắn gọn cho agent; đối chiếu với mã, tài liệu và git status khi bắt đầu phiên.",
+  "product_goal": {
+    "source": "Yêu cầu của người dùng ngày 2026-10-30",
+    "direction": "Game mobile theo lượt: một nhân vật được thả vào map; tất cả nhân vật chủ động tìm lấy vật phẩm quan trọng trong map và chiến đấu. Sử dụng map/scene đã có trong hệ thống khi phù hợp.",
+    "open_questions": [
+      "Luật lượt và thứ tự hành động",
+      "Điều khiển nhân vật của người chơi và mức tự động",
+      "Số lượng, vai trò và hành vi AI của nhân vật",
+      "Vật phẩm quan trọng, điều kiện thắng và luật chiến đấu",
+      "Map/scene cụ thể dùng cho gameplay"
+    ]
+  },
+  "verified_context": [
+    {
+      "fact": "Dự án cấu hình Godot 4.3, Mobile và renderer mobile; project.godot chưa chỉ định main scene.",
+      "source": "project.godot"
+    },
+    {
+      "fact": "Có scene thử tỷ lệ Amore trên map; chuyển động ngang giới hạn ở bệ, chưa phải collision hoặc gameplay thật.",
+      "source": "Asset/Scenes/amore_scale_test/README.md"
+    },
+    {
+      "fact": "Có viewer cục bộ để xem GIF và atlas; chi tiết vận hành và trạng thái asset nằm trong README.",
+      "source": "README.md"
+    }
+  ],
+  "tracking_documents": [
+    "docs/asset-character-plan.md",
+    "docs/asset-review-2026-10-28.md",
+    "docs/approved-animations-20261029.md",
+    "docs/animation-asset-todo.md",
+    "Asset/Scenes/amore_scale_test/README.md"
+  ],
+  "current_task": {
+    "title": "Chốt hoạt ảnh hiện hành, dọn an toàn và push main",
+    "status": "in_progress",
+    "changes": [
+      "Chốt 177 mục / 178 profile và chiều cao tại approved-animations-20261030-v8.json; cập nhật viewer/Godot.",
+      "Sửa Kikontai frame 34, Hecpoirt frame 1/46, Maxoi vùng mặt và tạo clip hiện hành.",
+      "Xóa 30 GIF gốc trùng sau so SHA-256; xóa 4331 file Forge cũ sau đối chiếu phụ thuộc, giữ GIF, atlas, đầu vào và clip hiện hành."
+    ],
+    "verification": [
+      "Manifest v8: 1354 file metadata/atlas, hash GIF và chiều cao của 178 profile khớp.",
+      "Kiểm tra 2354 file QA của clip hiện hành sau dọn; npm test 7/7.",
+      "Godot 4.3 headless nạp Kikontai 45 frame 80px, Hecpoirt 54 frame 70px, Maxoi 51 frame 80px.",
+      "Đối chiếu ảnh trước/sau và toàn bộ 45/54/51 frame tương ứng về RGB, alpha và thời lượng."
+    ],
+    "remaining": [
+      "Commit toàn bộ thay đổi và push main theo yêu cầu; xác minh kết quả remote."
+    ],
+    "limitations": [
+      "Các nguồn mẫu Also.gif đã xóa trước đây khiến một số mẫu lịch sử không tái tạo nguyên vẹn.",
+      "Clip Forge của năm nhân vật cũ chưa đồng bộ atlas đã chốt; các archive khác giữ lại vì chưa chứng minh an toàn khi xóa.",
+      "Chưa duyệt mọi VFX khi phát hoặc kiểm tra mobile; Forge còn WARN và cần xem loop seam.",
+      "Metadata một số mốc cũ có hash tại đường dẫn hiện hành thay đổi do chuẩn hóa nguồn; bản metadata cũ lưu tại archive/root_gif_provenance_metadata_20261030."
+    ],
+    "next_steps": [
+      "Hoàn thành commit, push và xác nhận remote; xem docs/cleanup-and-freeze-20261030.md."
+    ]
+  },
+  "working_tree_note": "Khi bắt đầu task, git status đã báo 11 GIF trong 13 charnew/ bị xóa; chưa xác định nguyên nhân và giữ nguyên các thay đổi đó.",
+  "history": [
+    {
+      "title": "Sửa nền xanh và kích thước năm nhân vật theo phản hồi frame",
+      "status": "in_progress",
+      "changes": [
+        "Cập nhật Diorai 75, Evenl 70, Aquamen 70, Moregorn 65, Moresword 70 px.",
+        "Tạo bản sửa bằng mẫu cảnh Moregorn và footprint logo chung; lưu hai mốc atlas trước sửa trong Asset/Character/archive/."
+      ],
+      "verification": [
+        "npm test 7/7 đạt; API metadata đúng năm chiều cao.",
+        "So atlas trước/sau: RGB không đổi, alpha chỉ đổi thành 0; không chứng minh pixel bị xóa là nền.",
+        "Xem Diorai index 53/54 và Moregorn index 39/40 trên nền sáng/tối sau bước mẫu cảnh, xem lại Diorai index 53 sau mask logo."
+      ],
+      "remaining": [
+        "Kiểm tra phóng lớn và phát tất cả frame bản cuối, nhất là hạt xanh ở chân Diorai và VFX trùng footprint logo của Aquamen; chỉnh nếu còn nền hoặc mất chi tiết.",
+        "Cập nhật Forge clip theo atlas mới và kiểm tra Godot/device."
+      ],
+      "limitations": [
+        "Chưa chứng minh sạch hoàn toàn; mask logo có thể xóa VFX chồng lên logo. Diorai frame hiển thị 54 còn pixel xanh rời chưa xác định là hiệu ứng hay nền.",
+        "Các mốc thân là ước lượng chưa duyệt; clip Forge là phiên bản cũ."
+      ],
+      "next_steps": [
+        "Xem docs/six-gifs-20261030.md và so trên viewer bản cuối; xử lý từng vùng có chứng cứ."
+      ],
+      "user_visual_feedback": "Người dùng xác nhận toàn bộ bản viewer sau đợt sửa thứ hai nhìn sạch."
+    },
+    {
+      "title": "Thêm 20 GIF và chốt 5 hoạt ảnh trước",
+      "status": "in_progress",
+      "changes": [
+        "Chốt Aquamen, Diorai, Evenl, Moregorn, Moresword trong approved-animations-20261030-v3.json; viewer và Godot tham chiếu mốc v3.",
+        "Nhập đủ 20 GIF, atlas thử, chiều cao và clip Forge; giữ nguồn gốc, đánh dấu chưa duyệt.",
+        "Phục hồi vùng VFX có nguy cơ bị mask logo cắt ở cons và bảy GIF, tạo clip mới, giữ bản trước sửa."
+      ],
+      "verification": [
+        "npm test 7/7; API trả đủ 20 ID và atlas.",
+        "Đối chiếu 1147 frame với GIF về hash, số frame, thời lượng và RGB pixel còn giữ, gồm samset 60/70 ms.",
+        "Forge QA và các cảnh báo chi tiết tại Asset/Character/review/twenty-import-20261030/forge-qa.json.",
+        "Godot 4.3 headless dự án tạm: 20 atlas hiện hành nạp được, kiểm tra frame, thời lượng, chiều cao theo mốc ước lượng đạt."
+      ],
+      "remaining": [
+        "Đối chiếu trực quan tất cả frame và playback của bản mới, đặc biệt logo/VFX chồng nhau; sửa lỗi còn lại trước khi xác nhận tách chính xác.",
+        "Đồng bộ Forge clip của 5 nhân vật đã chốt với atlas mới; kiểm tra mobile khi có thiết bị."
+      ],
+      "limitations": [
+        "Mốc thân và neo 20 GIF là ước lượng chưa được duyệt; tách nền có thể sót hoặc xóa nhầm VFX.",
+        "Contact sheet của tám GIF có phục hồi VFX là bản trước phục hồi; dùng viewer hiện hành và clip repaired để so.",
+        "Clip Forge của 5 nhân vật cũ vẫn là bản trước sửa; mốc chốt là atlas hiện hành."
+      ],
+      "next_steps": [
+        "Xem docs/twenty-characters-20261030.md; duyệt từng nhân vật và các hiệu ứng chồng logo trong viewer.",
+        "Đồng bộ clip Forge của 5 nhân vật đã chốt với atlas hiện hành và chạy QA."
+      ]
+    },
+    {
+      "title": "Rà chấm nền 20 GIF và cập nhật 14 chiều cao",
+      "status": "in_progress",
+      "changes": [
+        "Cập nhật 14 chiều cao theo yêu cầu; tạo mốc v4 cho 6 nhân vật đã chốt, giữ hash và atlas của v3.",
+        "Rà nền xanh/logo tĩnh trên 20 atlas bằng 80 mẫu nguồn, lưu atlas trước tại Asset/Character/archive/twenty_before_static_residue/ và tạo lại 20 clip Forge."
+      ],
+      "verification": [
+        "npm test 7/7; API và resolveHeightProfile xác nhận 14 chiều cao; hash 6 hồ sơ chốt v4 khớp.",
+        "Đối chiếu 1147 frame: RGB không đổi so bản trước, alpha chỉ chuyển 0, màu pixel còn hiển thị và thời lượng khớp nguồn; 40068 pixel loại trên 1070 frame.",
+        "Xem ảnh thử frame đầu của 20 nhân vật và bảng sáng combra/cons/cornra; chưa xem toàn bộ hoạt ảnh khi phát.",
+        "Forge QA: 19 tick_grid WARN 6.667, threshold null; near_duplicate_holds WARN combra 1, samset 3, uopon 2, threshold 0; chi tiết review/twenty-import-20261030/forge-qa.json."
+      ],
+      "remaining": [
+        "Kiểm tra khi phát toàn bộ hoạt ảnh bản mới trên nền sáng/tối, nhất là VFX có màu trùng nền; chưa thể xác nhận sạch toàn bộ.",
+        "Đồng bộ Forge clip của 5 nhân vật đã chốt trước với atlas và kiểm tra Godot/mobile khi có điều kiện."
+      ],
+      "limitations": [
+        "Không chứng minh mọi pixel đã xóa là nền; có thể mất VFX hoặc còn chấm khác màu.",
+        "Mốc thân là ước lượng; chưa kiểm tra thiết bị hoặc Godot sau lần sửa này.",
+        "Candidate metadata của sáu nhân vật đã chốt giữ nguyên để bảo toàn hash; chiều cao thực tế lấy từ height-targets.json và mốc v4."
+      ],
+      "next_steps": [
+        "Duyệt bản mới trong viewer; theo dõi docs/twenty-characters-20261030.md."
+      ]
+    },
+    {
+      "title": "Xử lý các chấm nền và logo theo phản hồi 15 nhân vật",
+      "status": "in_progress",
+      "changes": [
+        "Sửa chấm ở bốn vùng cảnh và logo theo từng GIF cho 15 nhân vật anh nêu; lưu atlas trước tại Asset/Character/archive/twenty_before_reported_spots/.",
+        "Tạo clip Forge mới và ảnh kiểm tra sáng/tối cho 15 nguồn."
+      ],
+      "verification": [
+        "Đối chiếu 857 frame: hash nguồn, thời lượng, màu còn giữ khớp GIF; RGB trước/sau không đổi và alpha chỉ chuyển 0 ở 35441 pixel.",
+        "Đã xem ảnh trước/sau ompan frame 6/17/22/28, cons 1/49, maxoi 33/39, pandung 42, thorn 40; các điểm ở mẫu giảm.",
+        "Oset: kiểm tra toàn bộ 49 frame, alpha bằng 0 trong vùng logo x=90..434 y=35..149; không xóa thêm pixel.",
+        "npm test 7/7; API viewer có đủ 15.",
+        "Forge QA: 14 tick_grid WARN 6.667 threshold null; near_duplicate_holds WARN combra 1, samset 3, uopon 2, threshold 0; xem review/twenty-import-20261030/forge-qa.json."
+      ],
+      "remaining": [
+        "Duyệt từng nhân vật khi phát; với oset xác định điểm nếu còn ngoài vùng logo đã kiểm.",
+        "Đồng bộ Forge clip của 5 nhân vật đã chốt trước và kiểm tra Godot/mobile khi có điều kiện."
+      ],
+      "limitations": [
+        "VFX cùng màu nền/logo có thể bị xóa nhầm, điểm ngoài vùng hoặc ngưỡng có thể còn; chưa duyệt toàn bộ frame phóng lớn hoặc playback.",
+        "Không kiểm tra Godot/device sau sửa."
+      ],
+      "next_steps": [
+        "Anh kiểm tra bản mới trong viewer; nếu còn chấm, ghi tên, frame và vị trí để đối chiếu.",
+        "Đọc docs/twenty-characters-20261030.md."
+      ]
+    },
+    {
+      "title": "Kiểm tra dung lượng repo",
+      "status": "completed",
+      "changes": [
+        "Ghi nhận dung lượng hiện tại để bàn giao; không xóa dữ liệu."
+      ],
+      "verification": [
+        "du: toàn bộ workspace 4.1G, .git 792M, Asset/Character 2.7G; df: /workspaces còn 8.4G.",
+        "git count-objects -vH: pack 776.21 MiB, loose 11.48 MiB."
+      ],
+      "remaining": [],
+      "limitations": [
+        "Số liệu là dung lượng trên đĩa tại thời điểm đo; bao gồm Git, công cụ và dữ liệu chưa commit."
+      ],
+      "next_steps": [
+        "Tiếp tục công việc kiểm duyệt asset trong history nếu được yêu cầu."
+      ]
+    },
+    {
+      "title": "Ước tính dung lượng thêm 40 nhân vật",
+      "status": "completed",
+      "changes": [
+        "Ước tính theo dung lượng lô 20 GIF gần nhất, không thay đổi asset."
+      ],
+      "verification": [
+        "du: clip Forge 1.000 MB, atlas nguồn 88 MB, atlas hiện hành 82 MB, ba thư mục lưu 172 MB, review 19 MB cho lô gần nhất; ít nhất khoảng 1,36 GB cho 20."
+      ],
+      "remaining": [],
+      "limitations": [
+        "Ước tính phụ thuộc độ dài GIF, kích thước, số bản thử và clip; không phải dung lượng APK hay Git remote."
+      ],
+      "next_steps": []
+    }
+  ]
+}

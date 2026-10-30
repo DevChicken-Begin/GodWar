@@ -1,0 +1,1276 @@
+{
+  "id": "thorn",
+  "source": "Asset/Character/vfx/thorn.gif",
+  "source_sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+  "art_source": "existing",
+  "frame_count": 66,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 6,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 7,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    520,
+    520
+  ],
+  "target_height_px": 80,
+  "reference_frame": 0,
+  "reference_height_px": 195,
+  "reference_body_bounds": [
+    175,
+    260,
+    340,
+    455
+  ],
+  "anchor_px": [
+    257.5,
+    455
+  ],
+  "display_scale": 0.41025641025641024,
+  "measurement_kind": "visually_estimated_body_bounds",
+  "status": "candidate_unreviewed",
+  "size_target_approval": "user_requested_20261030_twenty",
+  "method": "Moregorn reference frames 37-40 median RGB difference >16; sample pixel_simple blue RGB difference >5; common logo footprint dilated 4px.",
+  "model_sources": [
+    {
+      "source": "Asset/Character/vfx/Moregorn.gif",
+      "sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+      "indices": [
+        37,
+        38,
+        39,
+        40
+      ]
+    }
+  ],
+  "opaque_pixels_per_frame": [
+    18248,
+    18295,
+    18419,
+    18855,
+    19453,
+    19592,
+    19514,
+    19426,
+    19297,
+    19121,
+    19135,
+    19118,
+    18962,
+    18741,
+    18779,
+    18645,
+    18537,
+    18404,
+    18276,
+    18329,
+    18422,
+    18845,
+    19445,
+    19603,
+    19529,
+    19437,
+    19305,
+    19133,
+    19162,
+    19133,
+    18976,
+    18769,
+    18802,
+    18631,
+    18523,
+    18389,
+    18448,
+    16941,
+    15111,
+    15904,
+    17308,
+    16601,
+    20499,
+    32249,
+    29121,
+    23888,
+    20467,
+    18590,
+    16860,
+    16117,
+    15596,
+    15254,
+    19743,
+    19144,
+    16739,
+    16440,
+    24698,
+    42567,
+    57537,
+    60069,
+    57693,
+    38641,
+    23554,
+    18535,
+    17348,
+    17598
+  ],
+  "limitations": "Foreground or FX can be removed or background/logo can remain. Body bounds are approximate and unapproved; review all frames and motion.",
+  "logo_reference_sources": [
+    {
+      "path": "Asset/Character/vfx/charmia.gif",
+      "sha256": "be42e8fb0920dee58dc0e71e3d0f3117f512e5a1b7966f52617f586cfe705e53",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/combra.gif",
+      "sha256": "c350ee36210337a1584a073e6cf21b177e1450cf6f8b23bcee6edbed87897d33",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/cornra.gif",
+      "sha256": "ab267bfc2427675bac10ce0b025276e249fd31d9be99619b7508c6a61ce3109f",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/hecpoirt.gif",
+      "sha256": "69e97201495f1bad49b17db082eb97fa418abb5df447a43b6f4513ca958768c8",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/ison.gif",
+      "sha256": "ee028e92235318c7a57ec7c103dd9d4c87ec4ad4b5f2ada1b55bad24288b63a8",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/isorat.gif",
+      "sha256": "833892486aa07601816b7b8d5d96dafeb67e6d5ec94c7fee3b36c60109cbd668",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/kikontai.gif",
+      "sha256": "092197c17bd0c0af0a7dd5edac717a20364cf239c4d9699d4847a1b92282acee",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/maxoi.gif",
+      "sha256": "d9dbf75a72462a4d859b95a1a01b16ce277a2a4aa97b347feb77bfe97e00b34d",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/ompan.gif",
+      "sha256": "61dce80feac58005c3a85e20716e5f89a01be9b610e2d92fbe8309941498277b",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/onaon.gif",
+      "sha256": "257904caaf31c450900e05e4ac1eb86f75bf3857f788c2bd1ae7bd09ff9c8cae",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/osiris.gif",
+      "sha256": "a28b310ac1b7f96fcc6cff3b97940caf5705467773c875d8c2c316a905ed386d",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/samset.gif",
+      "sha256": "7d3abaab389854beb4f643d7e6d694e722e467f26c08e6879b06181a7f4cbde4",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/thorn.gif",
+      "sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+      "frame": 0
+    },
+    {
+      "path": "Asset/Character/vfx/uopon.gif",
+      "sha256": "0400fcbf6a6c0672a1aa1d3964f5131cd1a5009e943f1f04e7d93d825d394a61",
+      "frame": 0
+    }
+  ],
+  "blue_sample": {
+    "path": "pixel_simple.png",
+    "sha256": "9b3f1cd26c6e7967cdb480e277aabb9332f5804dae00fe85933864532a4778bb"
+  },
+  "forge_current_clip": "reported-spots-clips/animation-clips.json",
+  "forge_folder": "Asset/Character/forge_pilots/fourteen_20261030/thorn",
+  "logo_overlap_repair": {
+    "base": "Asset/Character/archive/twenty_before_logo_overlap/thorn",
+    "method": "Restore source pixels in logo footprint if RGB differs from logo reference by >40 and shared scene by >16 and does not match blue sample within 5.",
+    "restored_per_frame": [
+      44,
+      41,
+      40,
+      40,
+      40,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      44,
+      41,
+      41,
+      40,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      56,
+      55,
+      55,
+      55,
+      55,
+      54,
+      54,
+      54,
+      54,
+      54,
+      78,
+      2444,
+      5074,
+      5910,
+      5697,
+      3799,
+      2261,
+      950,
+      325,
+      204
+    ],
+    "limitations": "Similar colors or palette changes can leave holes or restore logo; visual review required."
+  },
+  "static_residue_refinement": {
+    "base": "Asset/Character/archive/twenty_before_static_residue/thorn",
+    "reference": "Asset/Character/review/twenty-import-20261030/static-reference.png",
+    "reference_sha256": "4af49d355cecf6b202366723b85f505f2f880c13303e77db83bd856a81806f43",
+    "sample_sources": [
+      {
+        "source": "Asset/Character/vfx/Kungteng.gif",
+        "sha256": "b61d820c3af1ff1078d4ee3c0321b8667cafb499b3dcbe18acd7e697e99eea6f",
+        "frames": [
+          0,
+          18,
+          36,
+          53
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/charmia.gif",
+        "sha256": "be42e8fb0920dee58dc0e71e3d0f3117f512e5a1b7966f52617f586cfe705e53",
+        "frames": [
+          0,
+          15,
+          30,
+          44
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/combra.gif",
+        "sha256": "c350ee36210337a1584a073e6cf21b177e1450cf6f8b23bcee6edbed87897d33",
+        "frames": [
+          0,
+          14,
+          29,
+          43
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/cons.gif",
+        "sha256": "82a0e54d6a4b3c112cd9e31fd613a5fa9c70463a4aad53c24faf4fca4e2fdffc",
+        "frames": [
+          0,
+          32,
+          64,
+          96
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/cornra.gif",
+        "sha256": "ab267bfc2427675bac10ce0b025276e249fd31d9be99619b7508c6a61ce3109f",
+        "frames": [
+          0,
+          16,
+          32,
+          47
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/hecpoirt.gif",
+        "sha256": "69e97201495f1bad49b17db082eb97fa418abb5df447a43b6f4513ca958768c8",
+        "frames": [
+          0,
+          18,
+          36,
+          53
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/isis.gif",
+        "sha256": "c904be32f972ed630e5f8d88ef4f43ec5607ed7eb76f5f3403d51f8cc947b0eb",
+        "frames": [
+          0,
+          21,
+          42,
+          62
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/ison.gif",
+        "sha256": "ee028e92235318c7a57ec7c103dd9d4c87ec4ad4b5f2ada1b55bad24288b63a8",
+        "frames": [
+          0,
+          23,
+          46,
+          68
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/isorat.gif",
+        "sha256": "833892486aa07601816b7b8d5d96dafeb67e6d5ec94c7fee3b36c60109cbd668",
+        "frames": [
+          0,
+          17,
+          34,
+          50
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/kikontai.gif",
+        "sha256": "092197c17bd0c0af0a7dd5edac717a20364cf239c4d9699d4847a1b92282acee",
+        "frames": [
+          0,
+          15,
+          30,
+          44
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/maxoi.gif",
+        "sha256": "d9dbf75a72462a4d859b95a1a01b16ce277a2a4aa97b347feb77bfe97e00b34d",
+        "frames": [
+          0,
+          17,
+          34,
+          50
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/omega.gif",
+        "sha256": "fddd4ff403e76d00f3dd6b69bde72928c2ce6045dc881e3b284073c3c7f0093e",
+        "frames": [
+          0,
+          19,
+          38,
+          56
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/ompan.gif",
+        "sha256": "61dce80feac58005c3a85e20716e5f89a01be9b610e2d92fbe8309941498277b",
+        "frames": [
+          0,
+          16,
+          32,
+          48
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/onaon.gif",
+        "sha256": "257904caaf31c450900e05e4ac1eb86f75bf3857f788c2bd1ae7bd09ff9c8cae",
+        "frames": [
+          0,
+          23,
+          47,
+          70
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/oset.gif",
+        "sha256": "a5883068dc678293def225ddc9a5aaee9c79ba80d2a6c0d7b2498897b1873b7f",
+        "frames": [
+          0,
+          16,
+          32,
+          48
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/osiris.gif",
+        "sha256": "a28b310ac1b7f96fcc6cff3b97940caf5705467773c875d8c2c316a905ed386d",
+        "frames": [
+          0,
+          18,
+          36,
+          53
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/pandung.gif",
+        "sha256": "7b3afc29f2f0b47e03d9d3e291b505c2845541fc572a9c807bc4902c3b68bef2",
+        "frames": [
+          0,
+          17,
+          35,
+          52
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/samset.gif",
+        "sha256": "7d3abaab389854beb4f643d7e6d694e722e467f26c08e6879b06181a7f4cbde4",
+        "frames": [
+          0,
+          19,
+          38,
+          57
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/thorn.gif",
+        "sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+        "frames": [
+          0,
+          22,
+          44,
+          65
+        ]
+      },
+      {
+        "source": "Asset/Character/vfx/uopon.gif",
+        "sha256": "0400fcbf6a6c0672a1aa1d3964f5131cd1a5009e943f1f04e7d93d825d394a61",
+        "frames": [
+          0,
+          23,
+          46,
+          68
+        ]
+      }
+    ],
+    "method": "Median 80 GIF samples; stable pixel at >=70% within RGB max distance 8; remove visible blue background-matching pixel, or stable logo-region pixel, within RGB max distance 8.",
+    "removed_per_frame": [
+      48,
+      48,
+      48,
+      48,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32,
+      47,
+      47,
+      47,
+      47,
+      47,
+      47,
+      47,
+      47,
+      47,
+      32,
+      46,
+      46,
+      46,
+      46,
+      46,
+      46,
+      46,
+      46,
+      40,
+      40,
+      40,
+      40,
+      40,
+      40,
+      32,
+      32,
+      32,
+      32,
+      32,
+      32,
+      0,
+      0,
+      7,
+      0,
+      43,
+      59,
+      48,
+      32,
+      58,
+      0,
+      0,
+      32,
+      32,
+      32,
+      0,
+      0,
+      0,
+      0,
+      32,
+      32,
+      32,
+      32,
+      32
+    ],
+    "limitations": "Character/VFX can match stable scene colors; logo or blue pixels outside the thresholds may remain. Needs visual review."
+  },
+  "reported_spot_cleanup": {
+    "base": "Asset/Character/archive/twenty_before_reported_spots/thorn",
+    "method": "Fixed four reported scene-speck regions: compare to common scene RGB max <=25 and require dark-blue; logo region: compare current frame to own frame 0 RGB max <=25. Remove matching pixels only.",
+    "source_sha256": "abc2783aa7ce9e0e6a2e116384dee7f5691c01d86d377d95b6b8a2b36e790edb",
+    "scene_reference": "Asset/Character/review/twenty-import-20261030/static-reference.png",
+    "scene_reference_sha256": "4af49d355cecf6b202366723b85f505f2f880c13303e77db83bd856a81806f43",
+    "counts_per_frame": [
+      44,
+      41,
+      40,
+      40,
+      40,
+      39,
+      39,
+      55,
+      71,
+      71,
+      71,
+      55,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      39,
+      56,
+      53,
+      69,
+      84,
+      83,
+      83,
+      67,
+      51,
+      47,
+      47,
+      47,
+      47,
+      47,
+      91,
+      71,
+      71,
+      71,
+      71,
+      59,
+      39,
+      71,
+      71,
+      71,
+      72,
+      91,
+      91,
+      71,
+      71,
+      83,
+      44,
+      57,
+      57,
+      57,
+      62,
+      57,
+      106,
+      209,
+      177,
+      262,
+      241,
+      215,
+      178,
+      121
+    ],
+    "limitations": "Logo and scene colors can match VFX; artifacts outside fixed regions or tolerance may remain. Inspect every frame; candidate unapproved."
+  }
+}

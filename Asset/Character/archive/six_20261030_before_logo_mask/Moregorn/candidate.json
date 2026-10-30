@@ -1,0 +1,912 @@
+{
+  "id": "Moregorn",
+  "source": "Asset/Character/vfx/Moregorn.gif",
+  "source_sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+  "art_source": "existing",
+  "frame_count": 51,
+  "frames": [
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 0,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 1,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 2,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 3,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        0,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        520,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 4,
+      "region": [
+        1040,
+        1040,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        0,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        0,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        520,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    },
+    {
+      "atlas": 5,
+      "region": [
+        1040,
+        520,
+        520,
+        520
+      ],
+      "duration_ms": 60
+    }
+  ],
+  "frame_size": [
+    520,
+    520
+  ],
+  "target_height_px": 65,
+  "reference_frame": 0,
+  "reference_height_px": 160,
+  "reference_body_bounds": [
+    190,
+    295,
+    330,
+    455
+  ],
+  "anchor_px": [
+    260.0,
+    455
+  ],
+  "display_scale": 0.40625,
+  "measurement_kind": "visually_estimated_body_bounds",
+  "status": "candidate_unreviewed",
+  "size_target_approval": "user_requested_20261030_revision2",
+  "method": "Shared median of six GIFs and three older shared-scene sources; RGB maximum difference >16; stable upper logo mask, first-frame difference <=10.",
+  "model_sources": [
+    {
+      "source": "Also.gif",
+      "sha256": "138847cc2db397371d29918695e5823b98ef58db5743387fe3c6b7c9a6322d7a"
+    },
+    {
+      "source": "Aquamen.gif",
+      "sha256": "03e0c2482c36c44b4e4ef55ed9eea4599b2d78ae4b4c62df2077911dc4a7b3c7"
+    },
+    {
+      "source": "Diorai.gif",
+      "sha256": "99c865743b39dd7d3d731ec5668aba0804e0045f39136da86eec5210eb4c5887"
+    },
+    {
+      "source": "Evenl.gif",
+      "sha256": "20601e1c62c522228dd9381384cddab725d4831fd1f5c1d4e6ac8b713d5a3499"
+    },
+    {
+      "source": "Moregorn.gif",
+      "sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5"
+    },
+    {
+      "source": "Moresword.gif",
+      "sha256": "3bf5242d10b8867c4caea74bbc0d44932008fd9a9b8385283b87a89e4fae1bd7"
+    },
+    {
+      "source": "Asset/Character/vfx/animent.gif",
+      "sha256": "9e103898ec9f0aba0e38a97d97d5505e075ca2d2cffadf668b496feeb7b12576"
+    },
+    {
+      "source": "Asset/Character/vfx/overight.gif",
+      "sha256": "95468ca0e3755de220040d894e29d48d827c8c3a278d4d04e8426c9c47e64cbe"
+    },
+    {
+      "source": "Asset/Character/vfx/tigerknight.gif",
+      "sha256": "e5e5f1e28ab0a71deb074d6605071b34ba0110e4ce9c4c6abe85a3edf4206cb5"
+    }
+  ],
+  "opaque_pixels_per_frame": [
+    24689,
+    24793,
+    24879,
+    25175,
+    25100,
+    24795,
+    24681,
+    24644,
+    24651,
+    24749,
+    24741,
+    25103,
+    25124,
+    24996,
+    24703,
+    24683,
+    24187,
+    24091,
+    23559,
+    23067,
+    23457,
+    23522,
+    24055,
+    25571,
+    27326,
+    41558,
+    48688,
+    52273,
+    51688,
+    50985,
+    50337,
+    46954,
+    38745,
+    31508,
+    23071,
+    18602,
+    17400,
+    14761,
+    14183,
+    13097,
+    13084,
+    13814,
+    14011,
+    15501,
+    22624,
+    25382,
+    49122,
+    41191,
+    28213,
+    23536,
+    24372
+  ],
+  "limitations": "Foreground or FX can be removed or background/logo can remain. Body bounds are approximate and unapproved; review all frames and motion.",
+  "cleanup_20261030": {
+    "sample": "pixel_simple.png",
+    "sample_sha256": "9b3f1cd26c6e7967cdb480e277aabb9332f5804dae00fe85933864532a4778bb",
+    "base": "Asset/Character/archive/six_20261030_before_blue_cleanup/Moregorn",
+    "method": "Remove RGBA pixels within max RGB distance 5 of blue sample colors; remove logo-mask pixels matching source frame 0 within max RGB distance 35, logo mask dilated 2px.",
+    "counts_per_frame": [
+      {
+        "blue": 741,
+        "logo": 274
+      },
+      {
+        "blue": 534,
+        "logo": 255
+      },
+      {
+        "blue": 362,
+        "logo": 238
+      },
+      {
+        "blue": 342,
+        "logo": 237
+      },
+      {
+        "blue": 513,
+        "logo": 218
+      },
+      {
+        "blue": 805,
+        "logo": 216
+      },
+      {
+        "blue": 705,
+        "logo": 216
+      },
+      {
+        "blue": 663,
+        "logo": 216
+      },
+      {
+        "blue": 631,
+        "logo": 216
+      },
+      {
+        "blue": 530,
+        "logo": 216
+      },
+      {
+        "blue": 355,
+        "logo": 216
+      },
+      {
+        "blue": 329,
+        "logo": 216
+      },
+      {
+        "blue": 561,
+        "logo": 216
+      },
+      {
+        "blue": 700,
+        "logo": 216
+      },
+      {
+        "blue": 691,
+        "logo": 216
+      },
+      {
+        "blue": 714,
+        "logo": 216
+      },
+      {
+        "blue": 663,
+        "logo": 216
+      },
+      {
+        "blue": 748,
+        "logo": 216
+      },
+      {
+        "blue": 916,
+        "logo": 273
+      },
+      {
+        "blue": 1259,
+        "logo": 258
+      },
+      {
+        "blue": 1124,
+        "logo": 241
+      },
+      {
+        "blue": 1120,
+        "logo": 237
+      },
+      {
+        "blue": 894,
+        "logo": 237
+      },
+      {
+        "blue": 988,
+        "logo": 221
+      },
+      {
+        "blue": 1108,
+        "logo": 217
+      },
+      {
+        "blue": 1507,
+        "logo": 217
+      },
+      {
+        "blue": 2091,
+        "logo": 217
+      },
+      {
+        "blue": 2567,
+        "logo": 217
+      },
+      {
+        "blue": 2562,
+        "logo": 214
+      },
+      {
+        "blue": 3491,
+        "logo": 211
+      },
+      {
+        "blue": 3574,
+        "logo": 212
+      },
+      {
+        "blue": 375,
+        "logo": 236
+      },
+      {
+        "blue": 431,
+        "logo": 239
+      },
+      {
+        "blue": 5336,
+        "logo": 239
+      },
+      {
+        "blue": 5804,
+        "logo": 238
+      },
+      {
+        "blue": 7397,
+        "logo": 228
+      },
+      {
+        "blue": 7877,
+        "logo": 205
+      },
+      {
+        "blue": 8446,
+        "logo": 177
+      },
+      {
+        "blue": 9299,
+        "logo": 170
+      },
+      {
+        "blue": 9689,
+        "logo": 153
+      },
+      {
+        "blue": 9375,
+        "logo": 151
+      },
+      {
+        "blue": 7710,
+        "logo": 148
+      },
+      {
+        "blue": 7807,
+        "logo": 148
+      },
+      {
+        "blue": 7020,
+        "logo": 133
+      },
+      {
+        "blue": 5419,
+        "logo": 133
+      },
+      {
+        "blue": 2516,
+        "logo": 133
+      },
+      {
+        "blue": 0,
+        "logo": 133
+      },
+      {
+        "blue": 107,
+        "logo": 133
+      },
+      {
+        "blue": 1089,
+        "logo": 133
+      },
+      {
+        "blue": 458,
+        "logo": 133
+      },
+      {
+        "blue": 549,
+        "logo": 133
+      }
+    ],
+    "limitations": "Foreground and VFX colors may match sample; logo-overlapping FX may be erased; residue may remain. Unapproved."
+  },
+  "cleanup_scene_v2": {
+    "reference_source": "Asset/Character/vfx/Moregorn.gif",
+    "reference_sha256": "ca05b31bc6c5197cbfe642d3be5d7a4b03253f72708d1fe20fa1dfddb1e084c5",
+    "reference_frames_zero_based": [
+      37,
+      38,
+      39,
+      40
+    ],
+    "base": "Asset/Character/archive/six_20261030_before_scene_v2/Moregorn",
+    "method": "Median RGB of Moregorn frames 37-40; remove pixels within maximum channel difference 16; within logo ROI also remove pixels within 40 of frame 0.",
+    "removed_per_frame": [
+      634,
+      455,
+      470,
+      491,
+      491,
+      452,
+      607,
+      708,
+      675,
+      537,
+      453,
+      477,
+      466,
+      580,
+      614,
+      633,
+      528,
+      610,
+      462,
+      519,
+      513,
+      650,
+      1187,
+      1073,
+      1201,
+      1722,
+      2294,
+      2228,
+      2221,
+      1856,
+      1812,
+      1800,
+      1808,
+      2593,
+      2693,
+      2789,
+      2843,
+      3066,
+      3072,
+      3016,
+      2943,
+      2756,
+      2580,
+      2124,
+      1858,
+      1149,
+      85,
+      223,
+      683,
+      618,
+      659
+    ],
+    "limitations": "Scene colors and logo may overlap subject/VFX; sparse reference frames include effects and are not ground truth. Inspect both frame 39 and 40 and all frames; not approved."
+  }
+}
